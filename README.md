@@ -2,6 +2,8 @@
 
 This repository tracks changes to SG60 CDC Vouchers locations list from the official source: https://prd-tmp.cdn.gowhere.gov.sg/assets/cdcvouchersgowhere/data.gzip?v=2 via [CDCVouchersGoWhere](https://www.gowhere.gov.sg/cdcvouchers).
 
+Alternative UI available here: https://observablehq.com/@cheeaun/sg60-cdc-vouchers
+
 The data is scraped daily at 8am SGT. Changes (additions, removals, and modifications) are tracked and logged here.
 
 <!-- CHANGELOG_ENTRIES -->
