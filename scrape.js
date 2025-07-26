@@ -20,6 +20,10 @@ if (!fs.existsSync(README_PATH)) {
   console.warn('README.md not found.');
 }
 
+const latestDataJSON = fs.readJsonSync(LATEST_DATA_PATH, {
+  throws: false,
+});
+
 async function scrapeData() {
   try {
     // Fetch the data (it's actually JSON despite the .gzip extension)
@@ -29,21 +33,29 @@ async function scrapeData() {
     const data = await response.json();
 
     // Extract the locations array from the response
-    const { locations } = data;
+    const { locations: newLocations } = data;
 
-    // Get today's date in YYYY-MM-DD format for Singapore timezone
-    const sgTime = new Date(
-      new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' }),
-    );
-    const today =
-      sgTime.getFullYear() +
-      '-' +
-      String(sgTime.getMonth() + 1).padStart(2, '0') +
-      '-' +
-      String(sgTime.getDate()).padStart(2, '0');
+    // Get the last updated date from latest.json
+    const { lastUpdated, locations: oldLocations } = latestDataJSON || {};
+
+    if (!lastUpdated) {
+      console.warn('No last updated date found in latest.json.');
+      return;
+    }
+
+    if (lastUpdated === data.lastUpdated) {
+      console.log('Same date as latest data, no changes to process.');
+      return;
+    }
+
+    const isoDate = new Date(data.lastUpdated).toISOString().split('T')[0];
 
     // Process changes
-    await processChanges(locations, today, data.lastUpdated);
+    await processChanges({
+      oldLocations,
+      newLocations,
+      date: isoDate,
+    });
 
     // Update latest data
     fs.writeJsonSync(LATEST_DATA_PATH, data, { spaces: 2 });
@@ -55,23 +67,19 @@ async function scrapeData() {
   }
 }
 
-async function processChanges(newData, date, lastUpdated) {
+async function processChanges({ oldLocations, newLocations, date }) {
   // If no previous data exists, just save the current data
   if (!fs.existsSync(LATEST_DATA_PATH)) {
     console.log('No previous data found. Saving current data as baseline.');
     return;
   }
 
-  // Load previous data
-  const oldData = fs.readJsonSync(LATEST_DATA_PATH);
-  const oldLocations = oldData.locations || [];
-
   // Create maps for easier comparison
   const oldMap = new Map();
   const newMap = new Map();
 
   oldLocations.forEach((item) => oldMap.set(item.id, item));
-  newData.forEach((item) => newMap.set(item.id, item));
+  newLocations.forEach((item) => newMap.set(item.id, item));
 
   // Find added, removed, and changed items
   const added = [];
@@ -103,7 +111,16 @@ async function processChanges(newData, date, lastUpdated) {
 
   // Only update README if there are changes
   if (added.length > 0 || removed.length > 0 || changed.length > 0) {
-    updateReadme(date, added, removed, changed, lastUpdated);
+    const oldCount = oldLocations.length;
+    const newCount = newLocations.length;
+    updateReadme({
+      date,
+      added,
+      removed,
+      changed,
+      oldCount,
+      newCount,
+    });
     console.log(
       `Changes detected: ${added.length} added, ${removed.length} removed, ${changed.length} changed`,
     );
@@ -113,7 +130,7 @@ async function processChanges(newData, date, lastUpdated) {
 }
 
 const COORDS_DECIMAL_PLACES = 5;
-function updateReadme(date, added, removed, changed, lastUpdated) {
+function updateReadme({ date, added, removed, changed, oldCount, newCount }) {
   // Don't do anything if there are no changes
   if (added.length === 0 && removed.length === 0 && changed.length === 0) {
     return;
@@ -123,6 +140,9 @@ function updateReadme(date, added, removed, changed, lastUpdated) {
 
   // Create the changelog entry
   let changelogEntry = `<details open><summary>\n\n## ${date}\n\n</summary>\n\n`;
+  if (oldCount !== newCount) {
+    changelogEntry += `Total locations: ${oldCount.toLocaleString()} → ${newCount.toLocaleString()}\n\n`;
+  }
 
   if (added.length > 0) {
     changelogEntry += `- <details><summary>Added (${added.length})</summary>\n\n`;
