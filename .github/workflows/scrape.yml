@@ -2,8 +2,8 @@ name: Scrape SG60 CDC Vouchers Locations Data
 
 on:
   schedule:
-    # Run at 3am UTC (11am SGT)
-    - cron: '0 3 * * *'
+    # Run at 0AM UTC (8AM SGT)
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
