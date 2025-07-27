@@ -10,6 +10,25 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-07-26
+
+</summary>
+
+Total locations: 24,482 → 24,484
+
+- <details><summary>Added (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | LU GE WANTON NOODLE | 453A Ang Mo Kio Avenue 10, #01-36,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | VIETNAM PHO SG | 721 Clementi West Street 2 Singapore 120721, #01-120,  S120721; | <span title="1.3024252487869,103.76435385686">1.30243, 103.76435</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-07-25
 
 </summary>
