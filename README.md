@@ -5,6 +5,7 @@ This repository tracks changes to SG60 CDC Vouchers locations list from the offi
 Alternative UI's available here:
 - Observable (table and map) https://observablehq.com/@cheeaun/sg60-cdc-vouchers
 - Flat Viewer (CSV) https://flatgithub.com/cheeaun/sg60-cdc-vouchers-locations-changelog?filename=data%2Flatest.csv&sort=lastResetDate%2Cdesc&stickyColumnName=lastResetDate
+- Datasette Lite https://lite.datasette.io/?csv=https://raw.githubusercontent.com/cheeaun/sg60-cdc-vouchers-locations-changelog/refs/heads/main/data/latest.csv#/data/latest
 
 The data is scraped daily at 8am SGT. Changes (additions, removals, and modifications) are tracked and logged here.
 
