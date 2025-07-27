@@ -1,6 +1,6 @@
 {
-  "name": "sg60-cdc-vouchers-changelog",
-  "version": "1.0.0",
+  "name": "sg60-cdc-vouchers-locations-changelog",
+  "version": "0.1.0",
   "description": "Tracks changes to SG60 CDC Vouchers locations list",
   "main": "scrape.js",
   "type": "module",
