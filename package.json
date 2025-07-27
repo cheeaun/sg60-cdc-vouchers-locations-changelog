@@ -5,7 +5,8 @@
   "main": "scrape.js",
   "type": "module",
   "scripts": {
-    "scrape": "node scrape.js"
+    "scrape": "node scrape.js",
+    "latest-csv": "node latest-csv.js"
   },
   "dependencies": {
     "fs-extra": "^11.1.1"

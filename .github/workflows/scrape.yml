@@ -24,6 +24,9 @@ jobs:
       - name: Scrape and process data
         run: node scrape.js
 
+      - name: Generate CSV from latest.json
+        run: npm run latest-csv
+
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Action'
