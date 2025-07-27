@@ -10,7 +10,7 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
-## 2025-07-26
+## 2025-07-27
 
 </summary>
 
@@ -29,7 +29,7 @@ Total locations: 24,482 → 24,484
 
 <details open><summary>
 
-## 2025-07-25
+## 2025-07-26
 
 </summary>
 

@@ -48,7 +48,9 @@ async function scrapeData() {
       return;
     }
 
-    const isoDate = new Date(data.lastUpdated).toISOString().split('T')[0];
+    const date = new Date(data.lastUpdated);
+    date.setUTCHours(date.getUTCHours() + 8); // Convert to SGT
+    const isoDate = date.toISOString().split('T')[0];
 
     // Process changes
     await processChanges({
