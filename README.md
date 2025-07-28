@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-07-28
+
+</summary>
+
+Total locations: 24,484 → 24,485
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ZAFIRAH INDIAN MUSLIM FOOD | 9007 Tampines Street 93,  S528841; | <span title="1.33871119758635,103.941038540662">1.33871, 103.94104</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-07-27
 
 </summary>
