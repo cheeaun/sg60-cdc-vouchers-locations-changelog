@@ -13,6 +13,81 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-07-29
+
+</summary>
+
+Total locations: 24,485 → 24,529
+
+- <details><summary>Added (44)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AFGHANISTAN FAMILY RESTAURANT | 201E Tampines Street 23,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | AH MEI YONG TAU FOO | 628 Ang Mo Kio Avenue 4, #01-88,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | BEAUTY BAR PARLOUR (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-328D,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | BEST PRATA SHOP | 408 Ang Mo Kio Avenue 10,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | CAVEVA (PUNGGOL OASIS TERRACES ) | 681 Punggol Drive Oasis Terraces Singapore 820681, #04-07,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | CHANG XING MALA HOT POT | 823A Tampines Street 81,  S521823; | <span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | CHARM THONG BY NAKARA THAI CUISINE | 146 Sims Avenue Singapore 387468, #01-01A,  S387468; | <span title="1.31423291415868,103.879019392447">1.31423, 103.87902</span> |
+  | CL CHOCOLATE | 348 Jurong East Avenue 1 Yuhua Place Singapore 600348, #01-1253,  S600348; | <span title="1.34456643414115,103.731069572217">1.34457, 103.73107</span> |
+  | DING SIANG ROASTED DELIGHT 925 | 925 Yishun Central 1,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | DUCK KING (136) | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | EMILIE COIFFEUR | 226A Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 561226, #01-623,  S561226; | <span title="1.36749458006861,103.839283930528">1.36749, 103.83928</span> |
+  | ESHA BEAUTY SALON PTE LTD | 34 Whampoa West Bendemeer Ville Singapore 330034, #01-07,  S330034; | <span title="1.32050169556608,103.863341271367">1.32050, 103.86334</span> |
+  | FATT SOON KUEH | 32 New Market Road, #01-1012,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | FOCUS N ME HAIR BEAUTY SALON | 844 Yishun Street 81 Kahtib Central Singapore 760844, #01-166,  S760844; | <span title="1.41544346877112,103.835215124962">1.41544, 103.83522</span> |
+  | HAN N HAN PEANUT PANCAKE (510440) | 440 Pasir Ris Drive 4,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | HO HONG MENG TCM PTE LTD | 801 Tampines Avenue 4 Kids Millennium Enrichment Centre (tampines) Singapore 520801, #01-277,  S520801; | <span title="1.3471923300239,103.938014041267">1.34719, 103.93801</span> |
+  | HUAN CLINIC | 51 Chin Swee Road Dbs Chin Swee Road/51 Singapore 160051, #03-111,  S160051; | <span title="1.2874030079153,103.842029778891">1.28740, 103.84203</span> |
+  | IFFAH HAIR & BEAUTY SALON (TMART) | 11 Tampines Street 32 Playfacto School @ Tampines Singapore 529287, #02-09,  S529287; | <span title="1.35454944260132,103.959900189012">1.35455, 103.95990</span> |
+  | JASKSON STORE | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-362,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | JIA XIANG WEI 306 WOODLANDS | 306 Woodlands Street 31,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | JURONG WEST CLAYPOT CURRY FISH HEAD | 496 Jurong West Street 41, 7,  S640496; | <span title="1.34998960720747,103.723836476095">1.34999, 103.72384</span> |
+  | KAI HAK FASHION | 104 Yishun Ring Road, #01-04,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | KAKATHAI CUISINE & MOOKATA | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | KEDAI ATOK | 105 Yishun Ring Road, #01-174,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | L&M VIETNAM NAIL BEAUTY | 271 Bukit Batok East Avenue 4 Gombak Place Singapore 650271, #01-144,  S650271; | <span title="1.34817263842498,103.758893085449">1.34817, 103.75889</span> |
+  | LEE FAMILY CLINIC  PTE LTD | 762 Jurong West Street 75 Dbs Gek Poh Shopping Centre Singapore 640762, #02-262,  S640762; | <span title="1.34874357136408,103.697732091001">1.34874, 103.69773</span> |
+  | LINN MINI MART | 63 Yung Kuang Road Singapore 610063, #01-75,  S610063; | <span title="1.33205938554958,103.722452881172">1.33206, 103.72245</span> |
+  | MEIJU 56 ENTERPRISE | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-106,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | MILLENNIUM CURRY RICE | 90 Whampoa Drive, #01-82,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | PETS EDEN SPA & SALON | 551 Bedok North Avenue 1 Hdb-bedok Singapore 460551, #01-552,  S460551; | <span title="1.33226851755603,103.927036580009">1.33227, 103.92704</span> |
+  | QIANG JI CHICKEN RICE | 150 Bishan Street 11,  S570150; | <span title="1.34452706951365,103.855213610381">1.34453, 103.85521</span> |
+  | SHAWARMA MAN | 503 West Coast Drive, #01-22,  S120503; | <span title="1.31180308926424,103.759751405542">1.31180, 103.75975</span> |
+  | SHEN XI HK PIG TROTTERS | 335 Smith Street, #02-07,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | SINGGAH SELALU | 3 Yung Sheng Road, #02-109,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | SOON HENG PRAWN NOODLE | 282A Toh Guan Road,  S601282; | <span title="1.3401011472358,103.747107216536">1.34010, 103.74711</span> |
+  | SUMMER ACAI (VISTA POINT) | 548 Woodlands Drive 44 Dbs Vista Point Singapore 730548, #01-01,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | SUMO FRIED HOKKIEN PRAWN MEE | 628 Ang Mo Kio Avenue 4, #01-76,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | THAI JIE CHILLI MEE POK | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | TOTOFISH JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | TRIPLE FRESH HEALTHY FISH MEAT SOUP | 505 Jurong West Street 52, #01-21,  S640505; | <span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+  | UNCLE MIAN FEN GUO 304 WOODLANDS | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | VISION HAIR HOUSE | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-322,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | YEUX BY QUN | 703 Hougang Avenue 2 Hdb-hougang Singapore 530703, #01-189,  S530703; | <span title="1.36553095979945,103.889460635529">1.36553, 103.88946</span> |
+  | YI MEI TCM | 343 Jurong East Street 31 Yuhua Place Singapore 600343, #01-51,  S600343; | <span title="1.34588339112666,103.731083620161">1.34588, 103.73108</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #01-177 DRIED GOODS | 1 Geylang Serai, #01-177,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | ECHO COMPUTER SERVICES | 89 Bedok North Street 4, #01-89A,  S460089; | <span title="1.33233468349262,103.938051284737">1.33233, 103.93805</span> |
+  | FRUITS STALL | 493 Jurong West Street 41, #01-30,  S640493; | <span title="1.34896996021593,103.724938358616">1.34897, 103.72494</span> |
+  | GEYLANG LOR 20 BANANA FRITTERS | 51 Old Airport Road, #01-57,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>PET LOVERS CENTRE PTE LTD</del><br>PET LOVERS CENTRE (TAMP MART) | 11 Tampines Street 32 Playfacto School @ Tampines Singapore 529287, #01-08,  S529287; | <span title="1.35454944260132,103.959900189012">1.35455, 103.95990</span> |
+  | SALAD CRUNCH (OTH) | Tampines Walk, #B1-K13,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | TAN BENG HONG | 347 Jurong East Avenue 1, #B1-02,  S600347; | <span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-07-28
 
 </summary>
