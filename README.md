@@ -70,17 +70,11 @@ Total locations: 24,485 → 24,529
 
   </details>
 
-- <details><summary>Changed (7)</summary>
+- <details><summary>Changed (1)</summary>
 
   | Name | Address | Coordinates |
   |---|---|---|
-  | #01-177 DRIED GOODS | 1 Geylang Serai, #01-177,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
-  | ECHO COMPUTER SERVICES | 89 Bedok North Street 4, #01-89A,  S460089; | <span title="1.33233468349262,103.938051284737">1.33233, 103.93805</span> |
-  | FRUITS STALL | 493 Jurong West Street 41, #01-30,  S640493; | <span title="1.34896996021593,103.724938358616">1.34897, 103.72494</span> |
-  | GEYLANG LOR 20 BANANA FRITTERS | 51 Old Airport Road, #01-57,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
   | <del>PET LOVERS CENTRE PTE LTD</del><br>PET LOVERS CENTRE (TAMP MART) | 11 Tampines Street 32 Playfacto School @ Tampines Singapore 529287, #01-08,  S529287; | <span title="1.35454944260132,103.959900189012">1.35455, 103.95990</span> |
-  | SALAD CRUNCH (OTH) | Tampines Walk, #B1-K13,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
-  | TAN BENG HONG | 347 Jurong East Avenue 1, #B1-02,  S600347; | <span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
 
   </details>
 

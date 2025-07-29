@@ -94,8 +94,16 @@ async function processChanges({ oldLocations, newLocations, date }) {
       added.push(newItem);
     } else {
       const oldItem = oldMap.get(id);
-      // Compare relevant fields to detect changes
-      if (JSON.stringify(oldItem) !== JSON.stringify(newItem)) {
+      // Compare specific fields to detect changes (case-insensitive for text fields)
+      const hasChanged =
+        (oldItem.name || '').toLowerCase() !==
+          (newItem.name || '').toLowerCase() ||
+        (oldItem.address || '').toLowerCase() !==
+          (newItem.address || '').toLowerCase() ||
+        oldItem.LAT !== newItem.LAT ||
+        oldItem.LON !== newItem.LON;
+
+      if (hasChanged) {
         changed.push({
           old: oldItem,
           new: newItem,
