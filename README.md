@@ -13,6 +13,102 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-07-30
+
+</summary>
+
+Total locations: 24,529 → 24,590
+
+- <details><summary>Added (62)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #01-190 FRESH VEGETABLES | 665 Buffalo Road, #01-190,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | #01-50 FISH STALL | 21 Marsiling Lane, #01-50,  S730021; | <span title="1.44383165244262,103.777210383669">1.44383, 103.77721</span> |
+  | 01-04 | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-04,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | 129 BISHAN - NA FRESH & FROZEN | 282 Bishan Street 22, #01-1291,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | 907 MIXED VEGETABLES RICE | 907 Jurong West Street 91,  S640907; | <span title="1.34114017250984,103.685930810656">1.34114, 103.68593</span> |
+  | AE MEDICAL CLINIC | 467B Fernvale Link Fernvale Lea Singapore 792467, #01-529,  S792467; | <span title="1.39807105476614,103.877933381661">1.39807, 103.87793</span> |
+  | BEDOK FISHBALL #01-204/206 | 628 Ang Mo Kio Avenue 4, #01-206,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | BIG PRAWN NOODLES | 66 Kallang Bahru,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | BLACK SWAN LASHES BY REBECCA | 513 Tampines Central 1 Singapore 520513, #01-164,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+  | BRIYANI TOK AYAH | 590 Upper Thomson Road, #01-06,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | BUTTERCAKE N CREAM | 106 Clementi Street 12 Sunset Way Residence Singapore 120106, #01-52,  S120106; | <span title="1.32191467282846,103.769815226286">1.32191, 103.76982</span> |
+  | CLASS 1 BEAUTY SALOON | 259 Jurong East Street 24 Hdb-jurong East Singapore 600259, #01-441,  S600259; | <span title="1.34417454623856,103.739875551045">1.34417, 103.73988</span> |
+  | CLOVER DENTAL SURGERY@AMK 532 | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2485,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | DOVER COFFEE HUB 19A | 19A Dover Crescent, ST2,  S131019; | <span title="1.30735380231593,103.78454843987">1.30735, 103.78455</span> |
+  | DOVER COFFEE SHOP 5 | 5 Dover Crescent, ST1,  S130005; | <span title="1.30406012764311,103.782637200936">1.30406, 103.78264</span> |
+  | DUCK KING (40 MD) | 40 Margaret Drive, #01-05,  S140040; | <span title="1.29645842578646,103.806207569922">1.29646, 103.80621</span> |
+  | DUCK KING ROASTED DELIGHTS | 211 Marsiling Crescent,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+  | DUCK KING ROASTED DELIGHTS ( GM ) | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | FRAGRANT FRIED CHICKEN  & WESTERN FOOD | 211 Marsiling Crescent,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+  | FRESH MEAT. OR CHENG HWA | 254 Jurong East Street 24, #01-131,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | GARY JAPANESE CUISINE | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-55,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | GOURMET WAN TAN NOODLE (510440) | 440 Pasir Ris Drive 4, 4A,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | GRACE BEAUTY PARLOUR | 661 Buffalo Road Zhujiao Centre (tekka Market) Singapore 210661, #01-30,  S210661; | <span title="1.30671098278725,103.85013440636">1.30671, 103.85013</span> |
+  | GREAT CHOICE SEAFOOD MARKET 497 JW | 497 Jurong West Street 41, #01-10,  S640497; | <span title="1.34942302974602,103.724280983137">1.34942, 103.72428</span> |
+  | GUAN ANN CHAN TRADING | 632 Ang Mo Kio Avenue 4 Uob Ang Mo Kio Avenue 4 Singapore 560632, #01-954,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | HAIR REFORM (510446) | 446 Pasir Ris Drive 6 Central 24-hr Clinic (pasir Ris) Singapore 510446, #01-122,  S510446; | <span title="1.37030619298608,103.95772686444">1.37031, 103.95773</span> |
+  | HAN N HAN PEANUT PANCAKE ( TP828) | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | ISAAC@NAZT WESTERN FOOD JE262 | 262 Jurong East Street 24,  S600262; | <span title="1.34412714311524,103.741112405413">1.34413, 103.74111</span> |
+  | JAMES COMPUTRADES | 61 Teban Gardens Road Dbs Teban Gardens Singapore 600061, #02-08,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | JAPANESE & KOREAN CUISINE (678A ADMIRALTY PLACE) | 678A Woodlands Avenue 6,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | JDCYCLEWERKZ | 479 Jurong West Street 41 Jurongville @ Street 41 Singapore 640479, #01-268B,  S640479; | <span title="1.34720275740571,103.724501217493">1.34720, 103.72450</span> |
+  | JING JI FISHBALL NOODLE | 590 Upper Thomson Road, #01-23,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | JINJJA KITCHEN | 1 Kaki Bukit Road 1, #03-47, Enterprise One, Singapore 415934, #01-101,  S415934; | <span title="1.33276527130312,103.902675780641">1.33277, 103.90268</span> |
+  | KELLY LASHES | 77 Telok Blangah Drive Dbs Telok Blangah Drive Singapore 100077, #01-238,  S100077; | <span title="1.27395376732331,103.808817470502">1.27395, 103.80882</span> |
+  | KOMALAS FUSION JE253 | 253 Jurong East Street 24,  S600253; | <span title="1.34318835786153,103.73678575382">1.34319, 103.73679</span> |
+  | M-RICH | 110 Lengkong Tiga,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | MING LI'S EATING HOUSE (ZICHAR) | 114 Sims Avenue Singapore 387438, #01-01,  S387438; | <span title="1.31394311660796,103.877942051499">1.31394, 103.87794</span> |
+  | MR GRUMPY NASI AYAM GORENG 498 JW | 498 Jurong West Street 41,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | NEW YAN HENG | 30 Seng Poh Road, #01-21,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | NG & LIM POULTRY | 259 Bukit Panjang Ring Road, #01-16,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | NURATHAM MUTTON STALL | 209 Hougang Street 21, #01-109,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | PAN'S FISH | 282 Bishan Street 22, #01-129,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | RAMEN HITOYOSHI | 1 Tampines Walk, #01-94/95,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | RIYANA INDIAN MUSLIM - 280 BISHAN | 280 Bishan Street 24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | ROASTED PORK BELLY NASI LEMAK | 105 Hougang Avenue 1, #02-28,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | S K TAY CLINIC & SURGERY | 827 Tampines Street 81 Dbs Tampines West Branch Singapore 520827, #01-140,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | SAN HUP - BP | 259 Bukit Panjang Ring Road,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | SO - FISH | 146 Teck Whye Avenue Singapore 680146, #01-175,  S680146; | <span title="1.3811166785123,103.752527098337">1.38112, 103.75253</span> |
+  | SOON HENG FLORIST | 30 Seng Poh Road, #01-58,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | SRI BHAVANI MINIMART JE338 | 338 Jurong East Avenue 1 Hdb-jurong East Singapore 600338, #01-1644,  S600338; | <span title="1.3502205690563,103.731260625944">1.35022, 103.73126</span> |
+  | TAY THIAM HUAT | 4A Eunos Crescent, #01-81,  S402004; | <span title="1.32033126010096,103.904256478426">1.32033, 103.90426</span> |
+  | TEO ANN KEE TEOCHEW PORRIDGE 491 JW | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | TOMYUM MAMA | 244 Upper Thomson Road, 244P,  S574369; | <span title="1.35342479028281,103.834669148013">1.35342, 103.83467</span> |
+  | TRADITIONAL HAKKA RICE | 6 Tanjong Pagar Plaza, #02-21,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | TRICHY MART | 36 Circuit Road Hdb-macpherson Singapore 370036, #01-428,  S370036; | <span title="1.32902607919001,103.88693079734">1.32903, 103.88693</span> |
+  | VALUDOLLAR  - UPPER THOMSON | 244 Upper Thomson Road, 244B,  S574369; | <span title="1.35342479028281,103.834669148013">1.35342, 103.83467</span> |
+  | WONDER CHICKEN KITCHEN-BP | 2 Bukit Panjang Ring Road, #01-21,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | XIN HONG YUN HAINANESE BONELESS CHICKEN RICE | 447A Jalan Kayu,  S791447; | <span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | YANG & YAP CLINIC & SURGERY | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-571,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | YUMMY SEDAP (NORTHSHORE PLAZA 2) | 418 Northshore Drive Northshore Plaza Ii Singapore 820418, #02-04,  S820418; | <span title="1.41796143093751,103.901321830086">1.41796, 103.90132</span> |
+  | YUN RONG FISHBALL NOODLES | 34 Upper Cross Street,  S050034; | <span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+  | ZANN & DENN | 333 Kreta Ayer Road Hdb-central Area Singapore 080333, #01-19,  S080333; | <span title="1.28074833681274,103.84246340102">1.28075, 103.84246</span> |
+
+  </details>
+
+- <details><summary>Removed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FU ZU WELLNESS | Blk 125 Lorong 1 Toa Payoh, #01-543,  S310125; | <span title="1.33833133395207,103.845737117132">1.33833, 103.84574</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | JIU PIN XIANG | <del>Blk 462 Crawford Lane, #01-29,  S190462;</del><br>44 Owen Road, #01-321,  S210044; | <del title="1.30458618029941,103.860840750826">1.30459, 103.86084</del><br><span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | WEI MEI SI HANDMADE NOODLE | <del>6 Tanjong Pagar Plaza, 02-41,  S081006;</del><br>226H Ang Mo Kio Street 22, #01-04,  S568226; | <del title="1.27661464758769,103.843167023188">1.27661, 103.84317</del><br><span title="1.36717874094695,103.840157741978">1.36718, 103.84016</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-07-29
 
 </summary>
