@@ -13,6 +13,76 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-07-31
+
+</summary>
+
+Total locations: 24,590 → 24,634
+
+- <details><summary>Added (44)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 01-66 | 221A Boon Lay Place, #01-66,  S641221; | <span title="1.34522406568893,103.712800680774">1.34522, 103.71280</span> |
+  | 3S KITCHEN | 235 Jurong East Street 21,  S600235; | <span title="1.33997597903355,103.742159955768">1.33998, 103.74216</span> |
+  | 53 CHICKEN RICE | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | AAHA BRIYANI | 21 Fernvale Road High Park Residences Singapore 797637, #01-02,  S797637; | <span title="1.39638961318515,103.875132778517">1.39639, 103.87513</span> |
+  | AIMAN CHICKEN RICE | 235 Jurong East Street 21,  S600235; | <span title="1.33997597903355,103.742159955768">1.33998, 103.74216</span> |
+  | AL MADINA | 542B Serangoon North Avenue 3,  S552542; | <span title="1.37368393003779,103.871416978631">1.37368, 103.87142</span> |
+  | ALLIANCE CLINIC & PARTNERS | 652 Jalan Tenaga Eunos Damai Ville Singapore 410652, #01-50,  S410652; | <span title="1.33269651933712,103.90774299752">1.33270, 103.90774</span> |
+  | CARV & COOK BUTCHERY | 713A Ang Mo Kio Avenue 6, #01-05,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | CHIN LEE RESTAURANT | 115 Bedok North Road Hdb-bedok Singapore 460115, #01-285,  S460115; | <span title="1.33143368026417,103.936865404278">1.33143, 103.93687</span> |
+  | DAO BULI BEAUTY WORKSHOP PTE LTD - TPY | 20 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310020, #01-738A,  S310020; | <span title="1.3349672085704,103.857205938309">1.33497, 103.85721</span> |
+  | DAPUR KITA | 688 Woodlands Drive 75,  S730688; | <span title="1.4439793538488,103.807496736583">1.44398, 103.80750</span> |
+  | DOUBLE K WESTERN (515A WOODLANDS) | 515A Woodlands Drive 14,  S731515; | <span title="1.43420564787063,103.790081342564">1.43421, 103.79008</span> |
+  | FREDDY SEWING SERVICE | 928 Yishun Central 1 Hdb-yishun Singapore 760928, #01-149A,  S760928; | <span title="1.4272080784162,103.837377109933">1.42721, 103.83738</span> |
+  | FRESH CHICKEN #01-92 | 341 Ang Mo Kio Avenue 1, #01-92,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | FU FONG CLAYPOT DELIGHT 371A WOODLANDS | 371A Woodlands Avenue 1, ST8,  S731371; | <span title="1.43259451232642,103.786649334789">1.43259, 103.78665</span> |
+  | GOLDEN CARRIAGE H.K ROASTED DELIGHTS | 233 Yishun Street 21,  S760233; | <span title="1.43494883445469,103.83815958338">1.43495, 103.83816</span> |
+  | H.M HAIR SALON | 131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-200A,  S730131; | <span title="1.43847983955609,103.778613439344">1.43848, 103.77861</span> |
+  | HAZ LINA POULTRY | 1 Geylang Serai, #01-84,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | HELLO PRAWN NOODLE 211 TPY | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | HENG WANG BAN MIAN FISH SOUP (460531) | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | JINJJA KITCHEN | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #01-101,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | KOH ZA HAO WEI TAIWAN PORRIDGE | 6 Jalan Bukit Merah, #01-126,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | LEGEND SCISSORS CUT CURRY RICE | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | LISA BEAUTY NAIL AND EYELASHES | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-332,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | MARY WONG | 1 Geylang Serai, #02-39,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | MINI HOTPOT | 140 Corporation Drive, ST3,  S610140; | <span title="1.32687382444581,103.723421163741">1.32687, 103.72342</span> |
+  | MY FRIENDS BOUTIQUE | 335 Smith Street, #01-194,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | NA FRESH & FROZEN PTE. LTD. (WHAMPOA) | 92 Whampoa Drive, #01-148,  S320092; | <span title="1.3231760460434,103.853863407885">1.32318, 103.85386</span> |
+  | NKS INDIAN MUSLIM FOOD (SL11) | 11 Soon Lee Road,  S628075; | <span title="1.32947626136434,103.700558142418">1.32948, 103.70056</span> |
+  | NURUL HIDAYAH 888 WOODLANDS | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | POPIAH EMPIRE (YEW TEE) | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | PREMIER DENTAL CARE | 418 Bedok North Avenue 2 Garden Hill Singapore 460418, #01-63B,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | PSALMS FAMILY CLINIC  PTE LTD | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-217,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | RAMEN HITOYOSHI | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #01-94,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | SHANYA SIX SALOON | 964 Jurong West Street 91 Singapore 640964, #01-336,  S640964; | <span title="1.34201095788089,103.692663279838">1.34201, 103.69266</span> |
+  | SIZZERS PROFESSIONAL HAIR SALONS 888 WOODLANDS | 888 Woodlands Drive 50 888 Plaza Singapore 730888, #01-K2,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | SUPER Q ECONOMIC BEE HOON & NASI LEMAK (346A) | 346A Kang Ching Road, ST8,  S611346; | <span title="1.34005353303553,103.720170271791">1.34005, 103.72017</span> |
+  | SWISS ISLAND BEAUTY | 930 Yishun Central 1 Hdb-yishun Singapore 760930, #01-123,  S760930; | <span title="1.42691548147226,103.837351206319">1.42692, 103.83735</span> |
+  | TE SARAWAK NOODLES | 150 Bishan Street 11,  S570150; | <span title="1.34452706951365,103.855213610381">1.34453, 103.85521</span> |
+  | THE GOOD HUSBAND LAUNDROMATS & DRYCLEANERS | 36 Jalan Selaseh Seletar Hills Estate Singapore 808450, #01-02,  S808450; | <span title="1.38520585581187,103.872541427957">1.38521, 103.87254</span> |
+  | TIAN TIAN LAI COOKED FOOD | 453A Ang Mo Kio Avenue 10, #01-13,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | YU SHI SHAO LA | 453A Ang Mo Kio Avenue 10, #01-94,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | YUSMAR ANEKA SELERA | 3 Yung Sheng Road, #02-99,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | YVONNE SALON | 551 Bedok North Avenue 1 Hdb-bedok Singapore 460551, #01-544A,  S460551; | <span title="1.33226851755603,103.927036580009">1.33227, 103.92704</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HO HONG MENG TCM PTE LTD | <del>801 Tampines Avenue 4 Kids Millennium Enrichment Centre (tampines) Singapore 520801, #01-277,  S520801;</del><br>801 Tampines Avenue 4, #01-277,  S520801; | <span title="1.3471923300239,103.938014041267">1.34719, 103.93801</span> |
+  | JINJJA KITCHEN | <del>1 Kaki Bukit Road 1, #03-47, Enterprise One, Singapore 415934, #01-101,  S415934;</del><br>1 Tampines Walk, #01-101,  S528523; | <del title="1.33276527130312,103.902675780641">1.33277, 103.90268</del><br><span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-07-30
 
 </summary>
