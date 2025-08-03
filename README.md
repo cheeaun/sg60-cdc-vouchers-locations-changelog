@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-03
+
+</summary>
+
+Total locations: 24,795 → 24,796
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | THAT PASTA PLACE | 51 Old Airport Road, #01-84,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-02
 
 </summary>
