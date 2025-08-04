@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-04
+
+</summary>
+
+Total locations: 24,796 → 24,797
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HAIR CREATION STUDIO | 804 Hougang Central Hdb-hougang Singapore 530804, #01-120,  S530804; | <span title="1.37115128124187,103.89447367673">1.37115, 103.89447</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-03
 
 </summary>
