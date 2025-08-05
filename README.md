@@ -13,6 +13,64 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-05
+
+</summary>
+
+Total locations: 24,797 → 24,838
+
+- <details><summary>Added (41)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP BAN MIAN | 301 Ubi Avenue 1,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | AH FANG FISH SOUP BAN MIAN | 3014 Ubi Road 1,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+  | BEAUTY I & U | 146 Potong Pasir Avenue 1 Singapore 350146, #01-113,  S350146; | <span title="1.3318007826539,103.867242849282">1.33180, 103.86724</span> |
+  | BORED TACOS | 50 Hougang Avenue 1 Singapore 538885, #01-01,  S538885; | <span title="1.36030539709088,103.888082942788">1.36031, 103.88808</span> |
+  | BOTANI BEAUTY STORY (510442) | 442 Pasir Ris Drive 6 Dbs Pasir Ris East Branch Singapore 510442, #01-40,  S510442; | <span title="1.36893288711175,103.957951722203">1.36893, 103.95795</span> |
+  | BUDGET HOME & RENO SOLUTIONS | 2 Joo Chiat Road Dbs Ntuc Joo Chiat Complex Singapore 420002, #01-1149,  S420002; | <span title="1.31553964446015,103.898764895693">1.31554, 103.89876</span> |
+  | CHARCOAL LALA CLAYPOT | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | CHIP HUAT FRESH PORK | 262 Serangoon Central Drive, #01-119,  S550262; | <span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+  | CLEAR WAVE | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-80,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | EMBELLISH LAB | 447 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560447, #01-1681,  S560447; | <span title="1.36750371103856,103.855897952833">1.36750, 103.85590</span> |
+  | FISHBALL SHOP - 378 CLEMENTI | 378 Clementi Avenue 5,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | FOODGLE DRINK STALL | 21 Tampines Ave 1,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+  | FOODGLE DRINK STALL - 25A | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | FURRIES PET GROOMING | 352 Clementi Avenue 2 Clementi Avenue 2 Shopping Centre Singapore 120352, #01-109B,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | HENG LONG 232 MIXED VEG | 232 Ang Mo Kio Avenue 3,  S560232; | <span title="1.36834606813391,103.837196046409">1.36835, 103.83720</span> |
+  | HENG LONG 347 MIXED VEG | 347 Ang Mo Kio Avenue 3,  S560347; | <span title="1.36733858334098,103.848576334625">1.36734, 103.84858</span> |
+  | HONG LIM CURRY PUFF ( GM ) | 20 Ghim Moh Road, #01-44,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | HONG MING PTE. LTD. (510258) | 258 Pasir Ris Street 21 Dbs Loyang Point Singapore 510258, #01-04,  S510258; | <span title="1.36706634197242,103.964635610477">1.36707, 103.96464</span> |
+  | HUA KEE CANTONESE CHICKEN RICE | 18 Toh Yi Drive Dbs Toh Yi Drive Singapore 590018, #01-99,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | JAYALAXMI MINIMART | 9 Telok Blangah Crescent Singapore 090009, #01-123,  S090009; | <span title="1.2774078592663,103.819408460491">1.27741, 103.81941</span> |
+  | KING PRATA CORNER | 109 Bukit Batok West Avenue 6,  S650109; | <span title="1.34700376747987,103.746170410388">1.34700, 103.74617</span> |
+  | KOREAN JAPANESE | 133 Canberra View, 1,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | LIANG SENG MUSHROOM MINCED MEAT NOODLE | 163 Bukit Merah Central, #02-21,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | LITTLE TOWKAY MIXED VEG RICE | 645 Yishun Street 61,  S760645; | <span title="1.42190178136628,103.838605643566">1.42190, 103.83861</span> |
+  | MAN TAK KEI SEAFOOD | 131 Jalan Bukit Merah,  S160131; | <span title="1.2801894226101,103.828178445611">1.28019, 103.82818</span> |
+  | MUM PRIVATE KITCHEN HOJIAK | 107 Jalan Bukit Merah Tiong Bahru Orchid Singapore 160107, #01-1828,  S160107; | <span title="1.27983690191197,103.824757769108">1.27984, 103.82476</span> |
+  | NEW STYLE CHINESE ZI CHAR SEAFOOD | 123 Yishun Street 11, C,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | PAANN HAIR & NAIL | 513 Yishun Street 51 Saraca Breeze @ Yishun Singapore 760513, #01-04,  S760513; | <span title="1.41600486949205,103.844251717032">1.41600, 103.84425</span> |
+  | PRETTY SENSES 157 | 157 Bukit Batok Street 11 Singapore 650157, #01-206,  S650157; | <span title="1.34836899457739,103.743422087347">1.34837, 103.74342</span> |
+  | SELERA KAMPUNGKU 306A WOODLANDS | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-01,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | SENG HUAT FRIED CARROT CAKE | 254 Jurong East Street 24, #01-48,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | TAN HIAP HIN JOSS STICK & MINIMART | 821 Tampines Street 81 Hdb-tampines Singapore 520821, #01-226,  S520821; | <span title="1.34841976685509,103.934649103154">1.34842, 103.93465</span> |
+  | TIP TOP SIMPLY CURRY | 84 Marine Parade Central, #01-24,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | UNCLE KKM- GANGSA RD | 163A Gangsa Road,  S671163; | <span title="1.37693802145847,103.764352791521">1.37694, 103.76435</span> |
+  | VICTORY CLINIC AND SURGERY | 21 Ghim Moh Road Ghim Moh Estate Post Office Singapore 270021, #01-205,  S270021; | <span title="1.31010302594118,103.788545950724">1.31010, 103.78855</span> |
+  | XIANG FENG ROASTED DELIGHTS | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | YAP TCM CLINIC | 11A Boon Tiong Road Dbs Boon Tiong ROAD/11A Singapore 161011, #02-09,  S161011; | <span title="1.28636578112537,103.828789865607">1.28637, 103.82879</span> |
+  | YEN'S LIGHT SNACK | 71 Tuas Avenue 1,  S639511; | <span title="1.32955414747743,103.652239190789">1.32955, 103.65224</span> |
+  | YONG JI KLANG BAK KUT TEH@682 HG | 682 Hougang Avenue 4, 6A,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | ZHEN ZHENG  HANDMADE PAU@682 HG | 682 Hougang Avenue 4,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | ZHEN ZHENG HANDMADE PAU - TPY | 18 Lorong 7 Toa Payoh, ST01,  S310018; | <span title="1.33575723665506,103.856789628423">1.33576, 103.85679</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-04
 
 </summary>
