@@ -13,6 +13,25 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-06
+
+</summary>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAO | <del>291 Yishun Street 22,  S760291;</del><br>3 Yung Sheng Road, #03-151,  S618499; | <del title="1.43576080400467,103.8367238745">1.43576, 103.83672</del><br><span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | <del>HUANG KEE SEAFISH SOUP (936 EAST COAST RD)</del><br>HUANG LEE CUISINE | <del>936 East Coast Road,  S459129;</del><br>51 Old Airport Road, #01-56,  S390051; | <del title="1.3122852676271,103.925353651914">1.31229, 103.92535</del><br><span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | NEPTUNE MINI MART (460539) | <del>539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-611,  S460539;</del><br>539 Bedok North St3, #01-625,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | <del>FRESH PORK STALL #01-22 (BLK 622)</del><br>PORKY KING | 622 Choa Chu Kang Street 62, 22,  S680622; | <span title="1.39827719583769,103.74718245127">1.39828, 103.74718</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-05
 
 </summary>
