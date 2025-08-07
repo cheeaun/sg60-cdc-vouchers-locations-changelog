@@ -13,6 +13,27 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-07
+
+</summary>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FEI ZHUANG YUAN</del><br>AH FIVE HAINANESE CHICKEN RICE | 1 Punggol Drive, #02-18,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | GANG JIAO MINCED MEAT NOODLE | <del>529 Hougang Avenue 6,  S530529;</del><br>703 Hougang Ave 2, #01-201,  S530703; | <del title="1.37546896487502,103.890729546346">1.37547, 103.89073</del><br><span title="1.36553095979945,103.889460635529">1.36553, 103.88946</span> |
+  | JOO SENG GREEN PRODUCTS PTE LTD | <del>2 Upper Aljunied Lane, #01-05,  S360002;</del><br>2 Upper Aljunied Lane, #01-23,  S360002; | <span title="1.33398953306499,103.878963482772">1.33399, 103.87896</span> |
+  | SAM FISHERY SUPPLY | <del>20 Ghim Moh Road, #01-163,  S270020;</del><br>20 Ghim Moh Road, #01-137/138/139,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | SWEET HOMELY FURNITURE CENTRE PTE. LTD. | <del>Yishun Central 1, #01-215,  S760925;</del><br>931 Yishun Central 1, #01-105,  S760931; | <del title="1.42750549654333,103.837125284539">1.42751, 103.83713</del><br><span title="1.4266096333815,103.837336412761">1.42661, 103.83734</span> |
+  | <del>V SUPERMART (510477)</del><br>V SUPERMART (600252) | <del>477 Pasir Ris Drive 6 Hdb Public Shelters Singapore 510477, #B1-0520,  S510477;</del><br>252 Jurong East St 24, #01-111,  S600252; | <del title="1.37447595603468,103.958441823841">1.37448, 103.95844</del><br><span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-06
 
 </summary>
