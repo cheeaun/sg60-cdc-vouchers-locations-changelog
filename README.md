@@ -13,6 +13,80 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-09
+
+</summary>
+
+Total locations: 24,959 → 25,008
+
+- <details><summary>Added (49)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 36 PETS | 114 Jurong East Street 13 Island Veterinary Clinic Singapore 600114, #01-402,  S600114; | <span title="1.33923166301632,103.734632045186">1.33923, 103.73463</span> |
+  | AI LEE TAILOR | 2 Seah Im Road Seah Im Food Centre Singapore 099114, #01-07,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | AMOY ST LOR MEE (AMOY) | National Development Building, Annex B, Telok Ayer Street, #01-08,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | BASED DURIANS | 31 Commonwealth Crescent, #01-32,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | BHAGAT EMPORIUM | 665 Buffalo Road, #02-149,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | BOO N FURR | 154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-430,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | CURTAIN ARTISTRY | 848 Sims Avenue Singapore 400848, #01-720,  S400848; | <span title="1.31720886017637,103.901431784747">1.31721, 103.90143</span> |
+  | D' IMA COLLEZIONE | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #03-1039,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | DAN ZHI JIA SCRAMBLED EGG RICE | National Development Building, Annex B, Telok Ayer Street, #01-36,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | DORIS'S DEVILISHLY DELICIOUS CURRY | National Development Building, Annex B, Telok Ayer Street, #02-92,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | DUCK KING (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | EILEEN WANG | 453A Ang Mo Kio Avenue 10, #01-140,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | ENG CHENG TEXTILES | 34 Upper Cross Street Hdb-central Area Singapore 050034, #03-166,  S050034; | <span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+  | ENG CHENG TEXTILES 32 | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #02-1150,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | FU YU | 275D Compassvale Link, S15,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+  | G-RACE HEALTH & FOOD | 108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1317A,  S530108; | <span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+  | GLASS ROASTERS | 60 Seng Poh Lane Singapore 160060, #01-1,  S160060; | <span title="1.28441315829599,103.833100235201">1.28441, 103.83310</span> |
+  | HG 681 CHARCOAL ROASTED (AMK133) | 133 Ang Mo Kio Avenue 3,  S560133; | <span title="1.37113968605234,103.842644163241">1.37114, 103.84264</span> |
+  | HOCK KEE PRAWN NOODLES | 280 Bishan Street 24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | HOCK SENG COOKED FOOD | 726 Clementi West Street 2, #01-169,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | IPOH TUCK KEE (KELANTAN) | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | JL AUDIO & VIDEO ENTERTAINMENT PTE LTD | 495 Jurong West Street 41 Hdb-jurong West Singapore 640495, #01-100,  S640495; | <span title="1.34969073793762,103.724362342467">1.34969, 103.72436</span> |
+  | KINDRED FAMILY CLINIC (MACPHERSON) | 76 Circuit Road Macpherson Blossom Singapore 370076, #02-07,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+  | KING OF CHENDOL | 79A Circuit Road, #01-97,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | LELE FISH | 722 Clementi West Street 2,  S120722; | <span title="1.30297959881951,103.76371403028">1.30298, 103.76371</span> |
+  | LIANJIE HOME ESSENTIAL | 183 Toa Payoh Central Toa Payoh Central Singapore 310183, #01-254,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | LULI ROASTS | 127 Toa Payoh Lorong 1, #01-68,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | MAANDA THAI CUISINE | 160 Sin Ming Drive,  S575722; | <span title="1.35948615440309,103.838707843577">1.35949, 103.83871</span> |
+  | MARIA RESTAURANT PTE.LTD. | 78 Circuit Road,  S370078; | <span title="1.32788057175878,103.88522031341">1.32788, 103.88522</span> |
+  | MISTER GRUMPY NASI AYAM - HOLLAND DRIVE | 43 Holland Drive,  S270043; | <span title="1.30743411126247,103.792897574712">1.30743, 103.79290</span> |
+  | MY VEGETARIAN-378 CLEMENTI | 378 Clementi Avenue 5,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | NICE FISH (31 KELANTAN) | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | NIU BOSS RICE BOWL | 267 Compassvale Link,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | OCEANA COOKIES | 8 Selegie Road Selegie House Singapore 180008, #01-09,  S180008; | <span title="1.30320667141798,103.850493368737">1.30321, 103.85049</span> |
+  | PUJA STORE | 665 Buffalo Road, #02-148,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | QIAN WEI FOOD CAFE -TPY 21 | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | RAMLAH KITCHEN | 93 Toa Payoh Lorong 4, #01-43,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | RI JI PORRIDGE | 269 Queen Street, ST7,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | RONG JI CHICKEN RICE | 271 Onan Road, #02-13,  S424768; | <span title="1.30941788760759,103.901825408227">1.30942, 103.90183</span> |
+  | SARJAN DELIGHTS JE262 | 262 Jurong East Street 24,  S600262; | <span title="1.34412714311524,103.741112405413">1.34413, 103.74111</span> |
+  | SEA SALTY LIVE SEAFOOD | 19 Jasmine Road Adelphi Park Estate Singapore 576586, #01-19,  S576586; | <span title="1.35505626845554,103.830128075106">1.35506, 103.83013</span> |
+  | TAI LOKE HAINAN CHICKEN RICE | 269 Queen Street,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | TAIPEI ZHAN | 118 Rivervale Drive Dbs Ntuc Rivervale Plaza Singapore 540118, #01-K23,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | TASTE PANCAKE JE254 | 254 Jurong East Street 24, #01-38,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | THE MEMORY FRAME | 713A Ang Mo Kio Avenue 6, #01-11,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | TIONG BAHRU HEADSPA | 55 Tiong Bahru Road Tiong Bahru Estate Singapore 160055, #01-53,  S160055; | <span title="1.28441396459751,103.83413547764">1.28441, 103.83414</span> |
+  | TT HAIR SALON & MANICURE | 92 Lorong 4 Toa Payoh Toa Payoh Palm Spring Singapore 310092, #01-276,  S310092; | <span title="1.33807081646129,103.849457178811">1.33807, 103.84946</span> |
+  | V UNISEX SALON | 408 Ang Mo Kio Avenue 10 Teck Ghee Square Singapore 560408, #01-771,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | WANG ROASTED DELIGHTS (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SHAHNAAZ BEAUTY SALON | <del>474 Tampines Street 43 Hdb-tampines Singapore 520474, #01-104,  S520474;</del><br>474 Tampines Street 43 Hdb-tampines Singapore 520474, #01-104B,  S520474; | <span title="1.35987299160234,103.952787602577">1.35987, 103.95279</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-08
 
 </summary>
