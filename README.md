@@ -13,6 +13,25 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-11
+
+</summary>
+
+Total locations: 25,008 → 25,010
+
+- <details><summary>Added (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 321 MINCED MEAT NOODLE | 727 East Coast Road,  S459073; | <span title="1.31232661714919,103.922986093901">1.31233, 103.92299</span> |
+  | TASTY WOK | 1A Eunos Crescent,  S401001; | <span title="1.32129030482793,103.902727807563">1.32129, 103.90273</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-09
 
 </summary>
