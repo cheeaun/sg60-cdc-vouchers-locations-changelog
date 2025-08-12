@@ -13,6 +13,83 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-12
+
+</summary>
+
+Total locations: 25,010 → 25,055
+
+- <details><summary>Added (45)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 151 MIXED RICE ( SERANGOON NORTH ) | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | 618 SEAFOOD RESTAURANT | 618 Yishun Ring Road,  S760618; | <span title="1.4187353006021,103.835703280669">1.41874, 103.83570</span> |
+  | A TANGERINE WOK | 21 Tampines Ave 1,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+  | AISYA INDIAN MUSLIM FOOD | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | AUTHENTIC NASI PADANG | 18 Gul Street 3,  S629270; | <span title="1.31729942351242,103.666590050916">1.31730, 103.66659</span> |
+  | BEDOK NANA  CURRY | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | BEST DEAL SHOP 2 | 449 Clementi Avenue 3 Dbs Clementi Central Branch Singapore 120449, #01-221,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | BOWLFUL DRIED SCALLOP PORRIDGE | 88 Tanglin Halt Road,  S141088; | <span title="1.30178506364186,103.798226442608">1.30179, 103.79823</span> |
+  | BU BU GAO SHENG - SIMS DRIVE | 45 Sims Drive, ST1,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | COFFEE QUEEN SEAH IM | 2 Seah Im Rd, 01-55,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | CURRYCRAFT | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | DING SHENG KAMPONG CHICKEN RICE | 10 Telok Blangah Crescent,  S090010; | <span title="1.27773153190559,103.819769431353">1.27773, 103.81977</span> |
+  | DRIED FOOD. TIAN ZHIGAN | 347 Jurong East Avenue 1, #01-77,  S600347; | <span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
+  | EVERTOP HAINANESE BONELESS CHICKEN | 1 Geylang Serai, 1,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | FADE ZONE | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-02A,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | FRUITS AND DRINKS | 19 Toh Yi Drive Toh Yi Gardens Singapore 590019, #01-129A,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+  | GH GOH DENTAL SURGERY | 161 Bukit Merah Central Hdb-bukit Merah Singapore 150161, #01-3731,  S150161; | <span title="1.28391229397444,103.816006111441">1.28391, 103.81601</span> |
+  | HERBAL ROASTED DUCK | 19 Toh Yi Drive Toh Yi Gardens Singapore 590019, #01-129,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+  | HONG LIM CURRY PUFF | 51 Tampines Avenue 4, #01-44,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | IMAGE SALON | 204 Bedok North Street 1 Bedok Town Centre Singapore 460204, #01-409,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | INTEMEDICAL YISHUN | 419 Yishun Avenue 11 Hdb-yishun Singapore 760419, #01-381,  S760419; | <span title="1.42378855512742,103.847302873542">1.42379, 103.84730</span> |
+  | JDS GLOBAL (BEDOK) PTE. LTD. | 218 Bedok North Street 1,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | KIDS CLINIC @ TOA PAYOH | 177 Toa Payoh Central Toa Payoh Central Singapore 310177, #01-161,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | KOKA NOODLE | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | LALALAND LALA & CHICKEN HOTPOT | 603 Ang Mo Kio Avenue 5,  S560603; | <span title="1.38020079047279,103.83575571651">1.38020, 103.83576</span> |
+  | MALA HOTPOT | 21 Tampines Ave 1,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+  | MALA HOTPOT 632 | 632 Bukit Batok Central,  S650632; | <span title="1.34929895794167,103.750830565891">1.34930, 103.75083</span> |
+  | MIXED VEGETABLE RICE @ 118 HG | 118 Hougang Avenue 1,  S530118; | <span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | MR GRUMPY NASI AYAM GORENG | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | NEW WORLD MENG KEE PRAWN NOODLE 302 WOODLANDS | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+  | NORTHLAND FAMILY CLINIC & SURGERY | 640 Yishun Street 61 Hdb-yishun Singapore 760640, #01-198,  S760640; | <span title="1.42106180523936,103.838806521089">1.42106, 103.83881</span> |
+  | PAMPERLOFT HEAD SPA PTE. LTD. | 204 Bedok North Street 1 Bedok Town Centre Singapore 460204, #02-415,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | PUTIAN FUSION | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | SELERA BONDA CRISPY CHICKEN RICE | 86 Market Street, #02-11,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | SELF LOVE CLUB | 3 Everton Park Everton Park Singapore 080003, #01-67,  S080003; | <span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | SELINNA SUN BEAUTY IMAGE | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-161,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+  | SHAN DONG DONG JI LA MIAN XIAO LONG BAO | 3 Yung Sheng Road, #03-176,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | SINGAPORE TEOCHEW BAK KUT TEH | 49 Sims Place, #01-39,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | SUPER FAT NASI LEMAK | 808 French Road,  S200808; | <span title="1.30883002147893,103.861354748625">1.30883, 103.86135</span> |
+  | TASTY WOK 892C WOODLANDS | 892C Woodlands Drive 50,  S732892; | <span title="1.43678473589244,103.789409620559">1.43678, 103.78941</span> |
+  | WANGS ROASTED DELIGHTS 302 WOODLANDS | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+  | WESTERN BITES | 618 Yishun Ring Road,  S760618; | <span title="1.4187353006021,103.835703280669">1.41874, 103.83570</span> |
+  | YGG YONG TAU FOO | 19 Toh Yi Drive Toh Yi Gardens Singapore 590019, #01-129,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+  | YONG SHENG | 3 Yung Sheng Road, #03-160,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | YU KEE HOUSE OF BRAISED DUCK | 453A Ang Mo Kio Avenue 10, #01-28,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHOPS & SEAR | <del>81 Marine Parade Central,  S440081;</del><br>81 Marine Parade Central, #01-654,  S440081; | <span title="1.30264128647966,103.907073248351">1.30264, 103.90707</span> |
+  | <del>COLALA</del><br>COLALA - HOLLAND CLOSE | 31 Holland Close,  S270031; | <span title="1.30697526832762,103.797080329252">1.30698, 103.79708</span> |
+  | <del>KAI JOO DEPARTMENTAL & OPTICAL</del><br>KAI JOO WATCHES AND DEPARTMENTAL | Tanjong Pagar Plaza, #01-12,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | <del>LI HATT WANTON NOODLES</del><br>LI FATT WANTON NOODLES | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | <del>MUM PRIVATE KITCHEN HOJIAK</del><br>MUM'S PRIVATE KITCHEN HOJIAK | 107 Jalan Bukit Merah Tiong Bahru Orchid Singapore 160107, #01-1828,  S160107; | <span title="1.27983690191197,103.824757769108">1.27984, 103.82476</span> |
+  | SUPERPETS @ ANG MO KIO | <del>720 Ang Mo Kio Avenue 6 Hdb-ang Mo Kio Singapore 560720, #01-4102,  S560720;</del><br>713A Ang Mo Kio Ave 6, #01-08,  S561713; | <del title="1.37180102410534,103.84699031799">1.37180, 103.84699</del><br><span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | <del>BAGUS RIA INDIAN MUSLIM FOOD AMK603</del><br>TASTY FOOD INDIAN MUSLIM FOOD | 603 Ang Mo Kio Avenue 5,  S560603; | <span title="1.38020079047279,103.83575571651">1.38020, 103.83576</span> |
+  | Y. Y. HARDWARE | <del>622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-03,  S521622;</del><br>150 Towner Road, #01-05,  S320150; | <del title="1.3610618534932,103.940017022156">1.36106, 103.94002</del><br><span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-11
 
 </summary>
