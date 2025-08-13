@@ -13,6 +13,92 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-13
+
+</summary>
+
+Total locations: 25,055 → 25,113
+
+- <details><summary>Added (58)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 118 DELICIOUS AND FRESH YONG TAU FOO | 30 Seng Poh Road, #01-118,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | ABANG BARBER | 291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-363,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | ACE DENTAL CENTRE (AMK 338) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1669,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | AH HUA FRESH VEGETABLES | 527 Ang Mo Kio Avenue 10, #01-08,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | AH LEONG FRUIT STALL | 30 Seng Poh Road, #01-203,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | AH SHENG ROJAK | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | ALBEST TCM CLINIC BL | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-218,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | BEAUTICHICC | 377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #01-06,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | BIG BIG WORLD | 335 Smith Street, #02-226,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | BILAL COFFEE SHOP | 39 Teban Gardens Road,  S600039; | <span title="1.32136881127061,103.742845114726">1.32137, 103.74285</span> |
+  | BINGXUE TEA & ICE CREAM CLEMENTI CENTRAL | 449 Clementi Avenue 3 Dbs Clementi Central Branch Singapore 120449, #01-261,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | C3 SMART REPAIR (JW506) | 506 Jurong West Street 52 Hong Kah Point Singapore 640506, #01-188,  S640506; | <span title="1.34911301335269,103.718764842328">1.34911, 103.71876</span> |
+  | CHAO XING YU YUAN ROU CUO MIAN | 105 Yishun Ring Road, #01-132,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | CRAZY WESTERN NOODLE HOUSE | 1015 Geylang East Avenue 3,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | DELISNACKS | 20 Ghim Moh Road, #01-23,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | DUCK KING | 282A Toh Guan Road,  S601282; | <span title="1.3401011472358,103.747107216536">1.34010, 103.74711</span> |
+  | DUTCH COLONY COFFEE CO. (FRANKEL AVE) | 113 Frankel Avenue Frankel Estate Singapore 458230, #01-00,  S458230; | <span title="1.31430661265221,103.919544993461">1.31431, 103.91954</span> |
+  | FAM ROASTED (283 BTK) | 283 Bukit Batok East Avenue 3,  S650283; | <span title="1.34694365753899,103.757539380939">1.34694, 103.75754</span> |
+  | FITRA CHICKEN RICE | 681 Punggol Drive, ST06,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | FROZEN GOODS | 505 Jurong West Street 52, #01-137,  S640505; | <span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+  | HAN ZI PET SHOP | 746 Bedok Reservoir Road Reservoir Village Singapore 470746, #01-3003,  S470746; | <span title="1.33728644805587,103.92121574376">1.33729, 103.92122</span> |
+  | HENG KEE DELIGHTS SG PTE. LTD. | 1015 Geylang East Avenue 3,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | HENG KEE DUCK RICE 283 BBE | 283 Bukit Batok East Avenue 3, ST4,  S650283; | <span title="1.34694365753899,103.757539380939">1.34694, 103.75754</span> |
+  | HLING | 530 Lorong 6 Toa Payoh Hdb Hub Singapore 310530, #01-08,  S310530; | <span title="1.33216810552095,103.847086433041">1.33217, 103.84709</span> |
+  | INDO BAKMI | National Development Building, Annex B, Telok Ayer Street, #01-19,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | JIA TIAN EATING HOUSE | 38 Beo Crescent,  S160038; | <span title="1.28855393184563,103.827290023383">1.28855, 103.82729</span> |
+  | JIAN FA CHICKEN STALL 01-39 | 74 Toa Payoh Lorong 4, #01-39,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | KIM HUA GUAN TPY127 | 127 Toa Payoh Lorong 1, #02-40,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | KIMLY - DRINKS STALL | 204 Serangoon Central, 2,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | KING OF CHENDOL 273 BBE | 273 Bukit Batok East Avenue 4,  S650273; | <span title="1.34842264529984,103.757579232268">1.34842, 103.75758</span> |
+  | LEE CHOON TAILORING DESIGN & ALTERATION | 29 Bendemeer Road, #01-114,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | MANNA FISH | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | MASALAA BAR | 723 East Coast Road Singapore 459071, #01-00,  S459071; | <span title="1.31232974610275,103.922851717048">1.31233, 103.92285</span> |
+  | MEI LING CLINIC | 158 Mei Ling Street Dbs Mei Ling Street Singapore 140158, #01-80,  S140158; | <span title="1.29274038365689,103.802806668414">1.29274, 103.80281</span> |
+  | MEOW AESTHETIC | 482 Tampines Street 43 Hdb-tampines Singapore 520482, #01-232B,  S520482; | <span title="1.36163049178175,103.953000933898">1.36163, 103.95300</span> |
+  | MING HAIRPORT (TPY 183) | 183 Toa Payoh Central Toa Payoh Central Singapore 310183, #01-282,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | NG TOH CHENG TRADING | 128 Ang Mo Kio Avenue 3 Hdb-ang Mo Kio Singapore 560128, #01-1847,  S560128; | <span title="1.37083202800001,103.843546990613">1.37083, 103.84355</span> |
+  | NKS INDIAN MUSLIM FOOD | 1015 Geylang East Avenue 3, 109,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | OCEANZ FOOT REFLEXOLOGY | 281 Bukit Batok East Avenue 3 Gombak Place Singapore 650281, #01-293,  S650281; | <span title="1.34749920722746,103.757617372041">1.34750, 103.75762</span> |
+  | PORRIDGE & MIXED VEG RICE @ 174C HOUGANG | 174C Hougang Ave 1,  S533174; | <span title="1.34912217494098,103.889093320959">1.34912, 103.88909</span> |
+  | RIYANA INDIAN MUSLIM TPY 206 | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | RK EATING HOUSE | 431A Northshore Drive, 05,  S821431; | <span title="1.41736446025745,103.911188203693">1.41736, 103.91119</span> |
+  | ROSE FASHIONS | 665 Buffalo Road, #02-119,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | SHOW 1 UNISEX HAIR SALON | 729 Yishun Street 71 Ace Achievers Our Learning Hub Pte Ltd Singapore 760729, #01-109,  S760729; | <span title="1.42585285618241,103.831598307804">1.42585, 103.83160</span> |
+  | SIN HENG KEE PORRIDGE | 4 Woodlands Street 12, #01-10,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | SJ BOUTIQUE | 665 Buffalo Road, #02-122,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | SOON SOON FRESH PORK | 104 Yishun Ring Road, #01-54,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | STYLO MYLO BARBER SHOP | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-246,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | SUN CHINESE MEDICAL & ACUPUNCTURE CLINIC | 58 Lengkok Bahru Singapore 150058, #01-519,  S150058; | <span title="1.2885023014416,103.814086952274">1.28850, 103.81409</span> |
+  | SUNNY FRESH SEAFOOD | 1 Geylang Serai, #01-61,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | SUPREME AROWANA PTE. LTD. | 21 Chai Chee Road Ping-an Gardens Singapore 461021, #01-438,  S461021; | <span title="1.32577850604228,103.922424710131">1.32578, 103.92242</span> |
+  | THAI WANG KITCHEN | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | THE ROYALS BISTRO NUS | 1 Create Way Ocbc Nus University Town - Cheers Singapore 138602, #01-03,  S138602; | <span title="1.30399654877953,103.774032940413">1.30400, 103.77403</span> |
+  | THE THRIFT STORE | 505 Beach Road, #02-122,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | WANGS ROASTED DELIGHT | 325 Ubi Avenue 1,  S400325; | <span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+  | WIT ENTERPRISES PTE LTD | 642 Rowell Road Hdb-rowell Court Singapore 200642, #02-119,  S200642; | <span title="1.30778051437061,103.856495249944">1.30778, 103.85650</span> |
+  | ZAITON SATAY 07 | 2 Adam Road, #01-07,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | ZONETRAD MARKETING AND ENTERPRISE | 209B Clementi Avenue 6 Clementi Northarc Singapore 122209, #01-08,  S122209; | <span title="1.32307183298737,103.763858722838">1.32307, 103.76386</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>VILLAGE LAKSA & YONG TAU FOO</del><br>BEO CRESCENT LOR MEE | 538 Bedok North Street 3, #01-107,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | BU BU GAO SHENG - SIMS DRIVE | <del>45 Sims Drive, ST1,  S380045;</del><br>45 Sims Drive, 01-150,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | MOBILE MASTER PTE LTD | <del>Bukit Merah Central, #01-3675,  S150165;</del><br>163 Bukit Merah Central, #02-3599E,  S150163; | <del title="1.2829569880635,103.816934790553">1.28296, 103.81693</del><br><span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | ZHEN ZHENG HANDMADE PAU - SIMS DRIVE | <del>45 Sims Drive, ST3,  S380045;</del><br>45 Sims Drive, 01-150,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-12
 
 </summary>
