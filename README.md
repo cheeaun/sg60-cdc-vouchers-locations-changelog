@@ -13,6 +13,76 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-15
+
+</summary>
+
+Total locations: 25,175 → 25,217
+
+- <details><summary>Added (42)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 261 PUNGGOL ROASTED MEAT | 261 Punggol Way,  S820261; | <span title="1.40541353588128,103.896823897352">1.40541, 103.89682</span> |
+  | A FURRY AFFAIR | 87 Frankel Avenue Frankel Estate Singapore 458215, #01-00,  S458215; | <span title="1.31508236011828,103.919195091196">1.31508, 103.91920</span> |
+  | AN ACAI AFFAIR (BEDOK) PTE. LTD. | 136 Bedok North Avenue 3 Singapore 460136, #01-160,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | ANG TECK MOH DEPARTMENT STORE@TEKKA | 665 Buffalo Road, #02-138,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | ANN KOK TRADING | 141 Teck Whye Lane Dbs Teck Whye Lane 1 Singapore 680141, #01-269,  S680141; | <span title="1.38041161319004,103.75257991701">1.38041, 103.75258</span> |
+  | BEAUTY CORNER BY CHANTELLE | 82 Whampoa Drive Whampoa Spring Singapore 320082, #01-955,  S320082; | <span title="1.32387379240679,103.856482753763">1.32387, 103.85648</span> |
+  | BROTHERHOOD BARBERSHOP WELLNESS & SUPPLY | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-118,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | BY NAIL & LASHER | 132 Jurong Gateway Road Jurong Gateway Singapore 600132, #01-285,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | CJ KITCHEN PTE LTD | 36 Sin Ming Drive,  S575710; | <span title="1.35884114756586,103.836938065119">1.35884, 103.83694</span> |
+  | D BARBERSHOP (460510) | 510 Bedok North Street 3 Caring Hut Singapore 460510, #01-05,  S460510; | <span title="1.3324467322696,103.930476688129">1.33245, 103.93048</span> |
+  | DANLAO - 450 CLEMENTI | 450 Clementi Avenue 3,  S120450; | <span title="1.31353886128,103.765476305204">1.31354, 103.76548</span> |
+  | DOUBLELIN | 38 Teban Gardens Road Dbs Teban Gardens Road Singapore 600038, #01-321B,  S600038; | <span title="1.32107344137421,103.743006816858">1.32107, 103.74301</span> |
+  | DR+ MEDICAL & PAINCARE BL | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-240,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | FANG JI HOUSE OF NOODLE & SOUP | 79A Circuit Road, #01-69,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | GIZMOWEBZ - 353 CLEMENTI | 353 Clementi Avenue 2, #01-44,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | GRANDMOTHER'S SECRET KITCHEN | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | GUAN KEE | 115 Bukit Merah View, #01-27,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | HONG XIN ECONOMIC RICE | 167 Woodlands Street 11,  S730167; | <span title="1.43359370586711,103.775884057946">1.43359, 103.77588</span> |
+  | JIN LIAN STORE | 665 Buffalo Road, #02-13,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | KEAT HONG FAMILY MEDICINE CLINIC | 2 Choa Chu Kang Loop Keat Hong Community Club Singapore 689687, #03-02,  S689687; | <span title="1.38409587235577,103.744949359275">1.38410, 103.74495</span> |
+  | KOLA FOOD LLP | 36 Sin Ming Drive, ST12,  S575710; | <span title="1.35884114756586,103.836938065119">1.35884, 103.83694</span> |
+  | KRISH MINIMART | 122 Bedok North Street 2 Hdb-bedok Singapore 460122, #01-114,  S460122; | <span title="1.32861719819893,103.937787149387">1.32862, 103.93779</span> |
+  | LIN YU MEI KOLO MEE - PG | 658 Punggol East, ST2,  S820658; | <span title="1.39991156763461,103.919353979151">1.39991, 103.91935</span> |
+  | MIN AIK VEGETABLES @ YEW TEE | 622 Choa Chu Kang Street 62, 002,  S680622; | <span title="1.39827719583769,103.74718245127">1.39828, 103.74718</span> |
+  | MUMBAI MASALAA | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | MUMBAI MASALAA | 164 Tampines Street 12,  S521164; | <span title="1.3496215142655,103.946000691097">1.34962, 103.94600</span> |
+  | MUME HONG KONG ROAST DELIGHT | 658 Punggol East, ST6,  S820658; | <span title="1.39991156763461,103.919353979151">1.39991, 103.91935</span> |
+  | NEWTON 50 | 500 Clemenceau Avenue North, #01-50,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | OTOKO TEN TEN | 808 French Road,  S200808; | <span title="1.30883002147893,103.861354748625">1.30883, 103.86135</span> |
+  | RASA CINTA NUSANTARA | 214 Jurong East Street 21,  S600214; | <span title="1.33928625957387,103.738985189412">1.33929, 103.73899</span> |
+  | RU YI YUEN VEGETARIAN 273 BBE | 273 Bukit Batok East Avenue 4, ST7,  S650273; | <span title="1.34842264529984,103.757579232268">1.34842, 103.75758</span> |
+  | RYCE PTE. LTD. | 36 Sin Ming Drive,  S575710; | <span title="1.35884114756586,103.836938065119">1.35884, 103.83694</span> |
+  | SHANG'S HAIR STYLIST & BEAUTY SALON | 226C Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 563226, #01-663,  S563226; | <span title="1.36714737685637,103.839256279218">1.36715, 103.83926</span> |
+  | STEVEN FRIED RICE 491 JW | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | SUGARCANE JUICE & BEVERAGES | 32 New Market Road, #01-1070,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | TEOCHEW PORRIDGE RICE (787) | 787B Choa Chu Kang Drive,  S681787; | <span title="1.395361844967,103.748139410115">1.39536, 103.74814</span> |
+  | THE SUMMER ACAI - CHOA CHU KANG | 475 Choa Chu Kang Avenue 3 Dbs Sunshine Place Singapore 680475, #01-28,  S680475; | <span title="1.37805614752086,103.738931794069">1.37806, 103.73893</span> |
+  | WEN XIU JI WANTON NOODLES | National Development Building, Annex B, Telok Ayer Street, #01-31,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | WENG MAO SUNDRIES | 335 Smith Street, #01-51,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | XING LONG FISH SOUP (JW501) | 501 Jurong West Street 51, 01,  S640501; | <span title="1.35038413736599,103.719025555996">1.35038, 103.71903</span> |
+  | YANG | 79 Circuit Road, #01-52,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | ZAINS HALAL FRESH & FROZEN MUTTON | 409 Ang Mo Kio Avenue 10, #01-88,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HENG KEE (147 POTONG PASIR)</del><br>147 POTONG PASIR | 147 Potong Pasir Avenue 1, #01-89,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+  | AH MEI YONG TAU FU | <del>38A Margaret Drive, #01-23,  S142038;</del><br>38A Margaret Drive, #02-35,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | QIAN WEI MIXED RICE | <del>53 Sims Place,  S380053;</del><br>539 Bedok North Street 3, #01-593,  S460539; | <del title="1.31782374680828,103.88007758537">1.31782, 103.88008</del><br><span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | <del>QUEENS BEAUTY SG</del><br>QUEENS BEAUTY SG (HAIG ROAD) | 12 Haig Road, #01-327,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-14
 
 </summary>
