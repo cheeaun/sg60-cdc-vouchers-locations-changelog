@@ -13,6 +13,76 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-16
+
+</summary>
+
+Total locations: 25,217 → 25,262
+
+- <details><summary>Added (45)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 573 POPIAH (1 NORTH COAST) | Jtc 1 North Coast Avenue, K,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | 90 FRESH MINI MART | 21 Sengkang West Avenue,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | ALBERT STREET PRAWN NOODLE | 51 Old Airport Road, #01-10,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | AMIGO BARBER YISHUN | 418 Yishun Avenue 11 Singapore 760418, #01-403,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | ASIA PACIFIC DENTAL CENTRE ( CLEMENTI ) | 105 Clementi Street 12 Mount Pleasant Animal Medical Centre Singapore 120105, #01-04C,  S120105; | <span title="1.32271179028812,103.76988810369">1.32271, 103.76989</span> |
+  | ASIA PACIFIC DENTAL CENTRE (TAMPINES) | 872C Tampines Street 86 Singapore 523872, #01-02,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | BANGKOK D.K THAI FOOD | 125 Lorong 1 Toa Payoh, ST5,  S310125; | <span title="1.33833133395207,103.845737117132">1.33833, 103.84574</span> |
+  | BETTER BAKER | 201B Tampines Street 21 Singapore 522201, #01-1075,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | BING MIAN | 303 Anchorvale Link, 01-01,  S540303; | <span title="1.38738194536525,103.890606112137">1.38738, 103.89061</span> |
+  | BREADLINK (622A TAMPINES) | 622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-02,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | CATHAY CHICKEN RICE | 168 Bedok South Avenue 3,  S460168; | <span title="1.32003554111515,103.944570078049">1.32004, 103.94457</span> |
+  | CLAYPOT KING ( 253 CCK) | 253 Choa Chu Kang Avenue 1, ST10,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | CYCLE ZONE | 84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-35,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | DRINKS 109 | 109 Bukit Batok West Avenue 6,  S650109; | <span title="1.34700376747987,103.746170410388">1.34700, 103.74617</span> |
+  | EATERO 679 | 679 Jurong West Central 1,  S640679; | <span title="1.34459467879461,103.70608942772">1.34459, 103.70609</span> |
+  | EDDY'S 1 | 531A Upper Cross Street, #02-13,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | FADE ZONE | 138 Teck Whye Lane Singapore 680138, #01-337,  S680138; | <span title="1.38024085034488,103.752435768455">1.38024, 103.75244</span> |
+  | FADE ZONE 157 | 157 Bukit Batok Street 11 Singapore 650157, #01-200,  S650157; | <span title="1.34836899457739,103.743422087347">1.34837, 103.74342</span> |
+  | FATHIMA MALAY FOOD | 28 Penjuru Close,  S608619; | <span title="1.31358348986869,103.731406057882">1.31358, 103.73141</span> |
+  | FENG FENG HAINANESE BONELESS CHICKEN RICE | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | FENG SHENG NICE FOOD | Jtc 1 North Coast Avenue, 3,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | FISH SOUP BAN MIAN | 530 Ang Mo Kio Avenue 10,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | FRESH FISH & SEAFOOD | 681 Hougang Avenue 8, #01-887,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | FRESH PORK | 681 Hougang Avenue 8, #01-867,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | HAPPY CUP | 203 Toa Payoh North Toa Payoh North Post Office Singapore 310203, #01-1109B,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | HE XIN HERBAL SOUP | Jtc 1 North Coast Avenue, MR3,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | HEYYA BRAISED DUCK NTU 16 | 50 Nanyang Walk Nanyang Technological University (blk 16A) (hall Of Residence 16) Singapore 639929, #01-02,  S639929; | <span title="1.35019111576677,103.68110625844">1.35019, 103.68111</span> |
+  | LOFT4PAWS | 118 Aljunied Avenue 2 Hdb Geylang Branch Singapore 380118, #01-132B,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | LOVELY NAILS AND BEAUTY | 156 Bukit Batok Street 11 Singapore 650156, #01-13,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | MR GRUMPY NASI AYAM GORENG (302 WOODLAND) | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+  | NALLUS INDIAN CUISINE | Jtc 1 North Coast Avenue, MR2,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | NG DENTAL SURGERY (AMK 226C) | 226C Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 563226, #01-649,  S563226; | <span title="1.36714737685637,103.839256279218">1.36715, 103.83926</span> |
+  | NKS GOURMET 679 | 679 Jurong West Central 1,  S640679; | <span title="1.34459467879461,103.70608942772">1.34459, 103.70609</span> |
+  | OG MART | 107 Lorong 1 Toa Payoh Dbs Toa Payoh North Branch Singapore 310107, #01-258,  S310107; | <span title="1.34121948900326,103.847288831588">1.34122, 103.84729</span> |
+  | ONE KUEH AT A TIME | 713A Ang Mo Kio Avenue 6, #01-02,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | QUEENS BEAUTY SG (BUKIT BATOK) | 374 Bukit Batok Street 31 Dbs Bukit Batok Street 31 Singapore 650374, #01-186,  S650374; | <span title="1.35798291106742,103.750736425731">1.35798, 103.75074</span> |
+  | SEMBAWANG DENTAL SURGERY (406 SEMBAWANG DR) | 406 Sembawang Drive Hdb-sembawang Singapore 750406, #01-824,  S750406; | <span title="1.45292980520031,103.816977584813">1.45293, 103.81698</span> |
+  | SG BARBER SHOP - 144 TECK WHYE LANE | 144 Teck Whye Lane Hdb-choa Chu Kang Singapore 680144, #01-209,  S680144; | <span title="1.38082768721762,103.752476579633">1.38083, 103.75248</span> |
+  | SHYANG KEE FISHBALL NOODLE- GANGSA RD | 103 Gangsa Road,  S670103; | <span title="1.37867070821171,103.768538440957">1.37867, 103.76854</span> |
+  | SJ MEAT SUPPLY PTE LTD | Tampines Street 32,  S529285; | <span title="1.35436493799094,103.960042188281">1.35436, 103.96004</span> |
+  | UARU | 159 Bukit Batok Street 11 Singapore 650159, #01-190B,  S650159; | <span title="1.34857537953675,103.742708636413">1.34858, 103.74271</span> |
+  | VEETU SAPPADHU | 182 Woodlands Street 13,  S730182; | <span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | YES! JAPANESE AND KOREAN CUISINE | Jtc 1 North Coast Avenue, MR1,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | ZHENG SIN KEE FAMOUS CHICKEN RICE (02-33) | 159 Mei Chin Road, #02-33,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | ZUYUE BODY WELLNESS & FOOT SPA(YISHUN) | 417 Yishun Avenue 11 Singapore 760417, #01-337,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SONG KEE NASI LEMAK | <del>275D Compassvale Link, 13,  S544275;</del><br>275D Compassvale Link, #01-01 (ST 13),  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-15
 
 </summary>
