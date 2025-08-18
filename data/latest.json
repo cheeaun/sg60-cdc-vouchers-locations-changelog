@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17 Aug 2025",
+  "lastUpdated": "18 Aug 2025",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -199522,6 +199522,46 @@
       "lastResetDate": "2021-11-26"
     },
     {
+      "id": "merchant_50e54e73-c900-4f9e-9fab-ecca0a93075e",
+      "entityId": "merchant_50e54e73-c900-4f9e-9fab-ecca0a93075e",
+      "name": "HOHALA 100 MUSLIM FOOD",
+      "address": "248 Simei Street 3,  S520248;",
+      "postalCode": "520248",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3435937626961,
+      "LON": 103.953541142825,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-08-17"
+    },
+    {
+      "id": "merchant_5eb7503d-c42b-4630-a669-b12da9d5baa9",
+      "entityId": "merchant_5eb7503d-c42b-4630-a669-b12da9d5baa9",
+      "name": "HOHALA 100 PRATA STALL",
+      "address": "248 Simei Street 3,  S520248;",
+      "postalCode": "520248",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3435937626961,
+      "LON": 103.953541142825,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-08-17"
+    },
+    {
       "id": "merchant_ee25c70c-31b9-42e3-86b3-4c647c58bbc3",
       "entityId": "merchant_ee25c70c-31b9-42e3-86b3-4c647c58bbc3",
       "name": "HOHO SEAFOOD",
@@ -243200,6 +243240,26 @@
         }
       },
       "lastResetDate": "2023-11-01"
+    },
+    {
+      "id": "merchant_162a0733-6f8d-449c-a1e7-a243ffb932fe",
+      "entityId": "merchant_162a0733-6f8d-449c-a1e7-a243ffb932fe",
+      "name": "KANGLE WELLNESS (EUNOS CRESCENT)",
+      "address": "8 Eunos Crescent Singapore 400008, #01-2679,  S400008;",
+      "postalCode": "400008",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32112829611519,
+      "LON": 103.904686640479,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-08-17"
     },
     {
       "id": "merchant_7f4b487f-f546-430a-8434-4b6cdc1fdd48",

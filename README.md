@@ -13,6 +13,26 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-18
+
+</summary>
+
+Total locations: 25,262 → 25,265
+
+- <details><summary>Added (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HOHALA 100 MUSLIM FOOD | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | HOHALA 100 PRATA STALL | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | KANGLE WELLNESS (EUNOS CRESCENT) | 8 Eunos Crescent Singapore 400008, #01-2679,  S400008; | <span title="1.32112829611519,103.904686640479">1.32113, 103.90469</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-16
 
 </summary>
