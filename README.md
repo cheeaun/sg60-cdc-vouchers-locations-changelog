@@ -13,6 +13,72 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-19
+
+</summary>
+
+Total locations: 25,265 → 25,300
+
+- <details><summary>Added (35)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 201 YONG TAU FOO | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+  | 828 TAMPINES CHONG PANG HUAT | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | ADAM CHICKEN RICE 08 | 2 Adam Road, #01-08,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | ASIA PACIFIC DENTAL JE225 | 225 Jurong East Street 21 Hdb-jurong East Singapore 600225, #01-797,  S600225; | <span title="1.34178121001946,103.737251510685">1.34178, 103.73725</span> |
+  | AYAM PENYET NO.1 | 1 Bedok Road, #01-11,  S469572; | <span title="1.32034716834128,103.955480570427">1.32035, 103.95548</span> |
+  | BAN SENG FOH | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #01-1055,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | BOON'S CHICKEN RICE | 49 Sims Place, #01-24,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | CASSANDRA FASHION | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #03-1071,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | CUBA RASA KUIH STALL | 2 Jalan Bukit Merah,  S150002; | <span title="1.2866292132996,103.80686187976">1.28663, 103.80686</span> |
+  | DIRAN'S CUISINE | 1 Bedok Road, #01-01,  S469572; | <span title="1.32034716834128,103.955480570427">1.32035, 103.95548</span> |
+  | E- CYCLE TRADING | 529 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560529, #01-2351,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+  | EDEN DENTAL SURGERY | 442 Pasir Ris Drive 6 Dbs Pasir Ris East Branch Singapore 510442, #01-46,  S510442; | <span title="1.36893288711175,103.957951722203">1.36893, 103.95795</span> |
+  | FRESHLY STEAMED FOOD | 739 Bedok Reservoir Road,  S470739; | <span title="1.33788663735454,103.922648407766">1.33789, 103.92265</span> |
+  | FUJIAN SHAXIAN SNACK | 722 Ang Mo Kio Avenue 8,  S560722; | <span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | GEORGIE DE SALON (292 YISHUN) | 292 Yishun Street 22 Hdb-yishun Singapore 760292, #01-273,  S760292; | <span title="1.43672478418958,103.836966390282">1.43672, 103.83697</span> |
+  | GLOW SKIN SOLUTIONS PTE. LTD. | 173 Woodlands Street 13 Hdb-woodlands Singapore 730173, #01-K01,  S730173; | <span title="1.43296723097781,103.777807451472">1.43297, 103.77781</span> |
+  | GORENG PISANG KING | 1 Bedok Road, #01-12,  S469572; | <span title="1.32034716834128,103.955480570427">1.32035, 103.95548</span> |
+  | HE JIA MIXED RICE 463 SBW | 463 Sembawang Drive,  S750463; | <span title="1.45555388401849,103.81464932384">1.45555, 103.81465</span> |
+  | I-HEALTH MEDICAL (BENDEMEER) | 30 Bendemeer Road Bendemeer Ville Singapore 330030, #01-883,  S330030; | <span title="1.319303367127,103.86404981515">1.31930, 103.86405</span> |
+  | KEBAB KONAFA | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #B1-K24,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | KING GROUPER FISH SOUP (TPY 500) | 500 Lorong 6 Toa Payoh,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | KOREAN FOOD 108 | 108 Depot Road,  S100108; | <span title="1.28096680702384,103.810298189643">1.28097, 103.81030</span> |
+  | KWAY CHAP & PIG STOMACH CHICKEN SOUP (HAO JIN WEI) | 665 Buffalo Road, #01-320,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | LIFE MEDICAL HEALTHCARE TCM | 126B Tengah Drive Plantation Village Singapore 692126, #01-325,  S692126; | <span title="1.35895878155421,103.735644938947">1.35896, 103.73564</span> |
+  | MONSTER PET VET - EVERTON PARK | 6 Everton Park Everton Park Singapore 080006, #01-16,  S080006; | <span title="1.27667251302141,103.838682238027">1.27667, 103.83868</span> |
+  | MY GOFRE | 742 Bedok Reservoir Road Kidskingdom @ Bedok Reservoir Llp Singapore 470742, #01-3091,  S470742; | <span title="1.33808524960901,103.922090734567">1.33809, 103.92209</span> |
+  | OEI FAMILY CLINIC | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-316,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | PANG ZAI LOK LOK & DESSERTS | 22 Sin Ming Road Hdb-sin Ming Ind Est Singapore 570022, #01-252,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | RIYANA INDIAN MUSLIM FOOD PP146 | 146 Potong Pasir Avenue 1,  S350146; | <span title="1.3318007826539,103.867242849282">1.33180, 103.86724</span> |
+  | ROOM 194 | 194 Kim Keat Avenue Kim Keat View Singapore 310194, #01-392B,  S310194; | <span title="1.33093933675526,103.858181909317">1.33094, 103.85818</span> |
+  | TAI YUAN FOOT MASSAGE (SERANGOON NORTH 147) | 147 Serangoon North Avenue 1 Aljunied-hougang Town Council (serangoon North Office) Singapore 550147, #01-429,  S550147; | <span title="1.36851857390771,103.872804036824">1.36852, 103.87280</span> |
+  | THANJAI SALON | 742 Bedok Reservoir Road Kidskingdom @ Bedok Reservoir Llp Singapore 470742, #01-3097,  S470742; | <span title="1.33808524960901,103.922090734567">1.33809, 103.92209</span> |
+  | THE SUMMER ACAI - TENGAH | 127 Plantation Crescent Plantation Village Singapore 690127, #B1-15,  S690127; | <span title="1.35759319436135,103.734174851203">1.35759, 103.73417</span> |
+  | WLS DURIAN VILLAGE PL | 685 Hougang Street 61 Hougang Spring Singapore 530685, #01-162,  S530685; | <span title="1.37499002963882,103.88598223129">1.37499, 103.88598</span> |
+  | YONG KANG TCM CLINIC @ LIMBANG SHOPPING CENTRE | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #02-05,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AH MEI YONG TAU FU</del><br>AH MEI BAK CHOR MEE | 38A Margaret Drive, #02-35,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | <del>HAPPY HEAD HAIR AND BEAUTY SALON</del><br>HAPPY HAIR BEAUTY SALON | <del>78B Telok Blangah Street 32, #01-24,  S102078;</del><br>61 Telok Blangah Drive, #01-101B,  S100061; | <del title="1.27362998744635,103.808254903711">1.27363, 103.80825</del><br><span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | KEAT HONG FURNITURE TRADING | <del>Choa Chu Kang Avenue 1, #B1-03,  S680253;</del><br>221 Boon Lay Place, #o1-236,  S640221; | <del title="1.37743962648904,103.744383226772">1.37744, 103.74438</del><br><span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | <del>MILLENNIUM CURRY RICE</del><br>MILLENNIUM COOKED FOOD | 90 Whampoa Drive, #01-82,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | <del>ZHEN WANTON NOODLES</del><br>PONTIAN WANTON NOODLES | 724 Ang Mo Kio Avenue 6, #01-16,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | THANKS GOD ITS FRUITS | <del>118 Depot Lane, #01-02,  S109754;</del><br>8 Jurong Town Hall Road, #02-01,  S609434; | <del title="1.28151898075596,103.812833019908">1.28152, 103.81283</del><br><span title="1.33114235850558,103.742036114336">1.33114, 103.74204</span> |
+  | <del>777 HK TRADITIONAL ROASTED DELIGHT</del><br>TRADITIONAL HAINANESE CHICKEN RICE | <del>675 Yishun Avenue 4,  S760675;</del><br>675 Yishun Avenue 4, #01-01,  S760675; | <span title="1.42006293748965,103.843561434577">1.42006, 103.84356</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-18
 
 </summary>
