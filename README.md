@@ -13,6 +13,70 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-20
+
+</summary>
+
+Total locations: 25,300 → 25,334
+
+- <details><summary>Added (34)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | -18 DEGREES FROZEN FOOD | 79 Redhill Lane, #01-46,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | 280 INDIAN MUSLIM FOOD | 280 Tampines Street 22,  S520280; | <span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+  | 8 MEDI-AESTHETICS (AMK 727) | 727 Ang Mo Kio Avenue 6 Ang Mo Kio Central Post Office Singapore 560727, #01-4252,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+  | BLACKGOAT | 4A Jalan Batu, #01-05,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | CHING SEAFOOD 848 | 848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | COFFEE KING SEAH IM | 2 Seah Im Rd, 51,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | DAI ER BEAUTY & HAIR SALON | 51 Havelock Road Havelock View Singapore 161051, #01-01C,  S161051; | <span title="1.2899461903129,103.827679724834">1.28995, 103.82768</span> |
+  | DAPUR ALISHAH NASI PADANG | 531A Upper Cross Street, #01-57,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | DAPUR SERI @ YEW TEE | 673B Choa Chu Kang Crescent,  S682673; | <span title="1.40097318180287,103.747961271519">1.40097, 103.74796</span> |
+  | DAY NIGHT HERBAL SOUP -BBWHC | 469 Bukit Batok West Avenue 9, #01-02,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | DSUITE SALON | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-187,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+  | ECONOMIC BEE HOON - SIMS PLACE | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | FENG YOU JI MIXED RICE@OWEN | 46 Owen Road, 267,  S210046; | <span title="1.31514019805556,103.850798372212">1.31514, 103.85080</span> |
+  | GUAN ENG STORE | 217 Bedok North Street 1 Bedok Town Centre Singapore 460217, #01-61,  S460217; | <span title="1.32683721721427,103.933920712718">1.32684, 103.93392</span> |
+  | HAJI K.ABDUL REHUMAN MUSLIM FOOD (AV) | 120 Bukit Merah Lane 1, #01-76,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | HOCK SENG NOODLE STALL | 163 Bukit Merah Central, #02-47,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | HONGWEI KITCHEN | 280 Tampines Street 22,  S520280; | <span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+  | JING XIN TCM BEAUTY (2JBM) | 2 Jalan Bukit Merah Brickworks Estate Singapore 150002, #01-5160,  S150002; | <span title="1.2866292132996,103.80686187976">1.28663, 103.80686</span> |
+  | KOH BROTHER PIG'S ORGAN SOUP | 30 Seng Poh Road, #02-29,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | LONG CHENG MIXED RICE PORRIDGE | 280 Tampines Street 22,  S520280; | <span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+  | MR. ROLAND LIM | 89 Marine Parade Central Singapore 440089, #06-750,  S440089; | <span title="1.30129037884726,103.906458593236">1.30129, 103.90646</span> |
+  | NEW LIFE DENTAL | 218 Bedok North Street 1 Bedok Central Post Office Singapore 460218, #01-29,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | ORANGE DEPARTMENT STORE | 82 Marine Parade Central Marine Parade Promenade Singapore 440082, #01-606,  S440082; | <span title="1.30248110033246,103.906791337078">1.30248, 103.90679</span> |
+  | PIZZAIOLA | 15-8 Jalan Riang Serangoon Park Singapore 358987, #01-03,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | POPULAR FOOD | 218 Sumang Walk,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+  | PU TI SU | 1 Punggol Drive, #02-30,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | RIAAK MART @ YISHUN | 732 Yishun Avenue 5 Nee Soon Central Vista Singapore 760732, #01-382,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | SEN XIN FISHBALL NOODLE | 166 Woodlands Street 13,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | SIMPLY FRUIT JUICE | 531A Upper Cross Street, #02-12,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | SOLDIER CHICKEN 306A WOODLANDS | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-01,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | TOTOFISH (184 TPY) | 184 Toa Payoh Central, 03,  S310184; | <span title="1.33259000918315,103.849677717253">1.33259, 103.84968</span> |
+  | ULTIMED CLINIC(AMK AVE 6) | 727 Ang Mo Kio Avenue 6 Ang Mo Kio Central Post Office Singapore 560727, #01-4250,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+  | WXQ BUSINESS DEVELOPMENT PTE. LTD. | 3014 Ubi Road 1, 308,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+  | YOUNG PASSION | 761 Yishun Street 72 Hdb-yishun Singapore 760761, #01-360,  S760761; | <span title="1.42539842469037,103.833259035976">1.42540, 103.83326</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FERNANDO'S NEW YORK SLICES</del><br>FERNANDO'S PIZZA | 38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #01-09,  S141038; | <span title="1.29773598434542,103.804319690649">1.29774, 103.80432</span> |
+  | <del>GIMEE FACE</del><br>GIMEE FACE 46 | 46 Holland Drive, ST5,  S270046; | <span title="1.30878949399241,103.792695569227">1.30879, 103.79270</span> |
+  | HONG LE (117 PENDING) | <del>117 Pending Road,  S670117;</del><br>117 Pending Road, #01-226,  S670117; | <span title="1.37730128071547,103.767979335905">1.37730, 103.76798</span> |
+  | JIAN YI JIAN TEOCHEW PORRIDGE 630A WOODLANDS | <del>630A Woodlands Ring Road,  S731630;</del><br>630A Woodlands Ring Road, #01-01,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | LITE MOBILE | <del>25 Bendemeer Road Bendemeer Shopping Mall Singapore 330025, #01-599,  S330025;</del><br>25 Bendemeer Road Bendemeer Shopping Mall Singapore 330025, #01-575,  S330025; | <span title="1.31868262266763,103.862702893919">1.31868, 103.86270</span> |
+  | <del>TIAN TIAN CLAYPOT RICE (524A JELAPANG)</del><br>ZI CHAR@524 JELAPANG | 524A Jelapang Road, 3,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-19
 
 </summary>
