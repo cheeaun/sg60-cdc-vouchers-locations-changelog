@@ -13,6 +13,71 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-21
+
+</summary>
+
+Total locations: 25,334 → 25,373
+
+- <details><summary>Added (39)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 284 MIXED VEGETABLES RICE | 284 Bishan Street 22,  S570284; | <span title="1.35886666462905,103.844150538229">1.35887, 103.84415</span> |
+  | 323 DRINK STALL | 323 Bukit Batok Street 33,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | 323 MIXED VEG RICE | 323 Bukit Batok Street 33,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | 848 PANCAKE (HENG HENG PANCAKE) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | ALICORNER | 30 Seng Poh Road, #02-17,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | AOYS THAI | 1 Kadayanallur Street, #01-23,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | BAGUETTE HUONG VIET (MAXWELL) | 1 Kadayanallur Street, #01-42,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | CAKEINSPIRATION | 253 Joo Chiat Road Singapore 427507, #01-00,  S427507; | <span title="1.31070225821005,103.901605889838">1.31070, 103.90161</span> |
+  | CHEONG FAMILY CLINIC PTE LTD | 45 Owen Road Hdb-kallang/whampoa Singapore 210045, #01-293,  S210045; | <span title="1.31559567579803,103.850825476141">1.31560, 103.85083</span> |
+  | CURATIVE MEDICARE | 231 Bain Street Bras Basah Complex Singapore 180231, #02-05,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | CURIOUS TAILS | 2 Balestier Road Balestier Hill Shopping Centre Singapore 320002, #01-701,  S320002; | <span title="1.32589620218837,103.842935480003">1.32590, 103.84294</span> |
+  | DC FRESH VEGETABLE #15 | 678A Woodlands Avenue 6, 15-15,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | DO QOO (CANBERRA PLAZA) | 133 Canberra View Canberra Plaza Singapore 750133, #01-16,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | HENG HENG FRUIT JUICE | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3657,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | HOCK ANN FRESH CHICKEN | 30 Seng Poh Road, #01-112,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | JHR WELLNESS AND SPA | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #02-120,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | JIN XIN MART | 505 Beach Road, #02-218,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | JOO CHIAT BANH MI CAPHE | 263 Joo Chiat Road Singapore 427517, #01-00,  S427517; | <span title="1.31056282774117,103.901855926334">1.31056, 103.90186</span> |
+  | KIINDO GRILL | 140 Corporation Drive, ST7,  S610140; | <span title="1.32687382444581,103.723421163741">1.32687, 103.72342</span> |
+  | LIDIA THAM | 16 Bedok South Road, #01-71,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | MANO RAVI INDIAN BARBER SHOP | 399 Yung Sheng Road Dbs Ntuc Taman Jurong Shopping Centre Singapore 610399, #01-54,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | MIXED VEG RICE -803 KEAT HONG | 803 Keat Hong Close,  S680803; | <span title="1.37415533445512,103.742759621749">1.37416, 103.74276</span> |
+  | NENEK RECIPE BAHAR | 9 Jurong West Ave 5,  S649487; | <span title="1.34908075400694,103.702881301202">1.34908, 103.70288</span> |
+  | NOOR ALI | 503 West Coast Drive, #01-75,  S120503; | <span title="1.31180308926424,103.759751405542">1.31180, 103.75975</span> |
+  | RED DRAGON ROASTED MEAT (AMK) | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | SAN LOW RESTAURANT PTE. LTD. | 23 Kallang Ave,  S339414; | <span title="1.31149300151441,103.865970973896">1.31149, 103.86597</span> |
+  | SC FRESH & FROZEN | 10 Sengkang Square, 66,  S544829; | <span title="1.39152651487694,103.89365715873">1.39153, 103.89366</span> |
+  | SIAM SQUARE MOOKATA | 22A Havelock Road, #01-14,  S161022; | <span title="1.28797051657173,103.829623413554">1.28797, 103.82962</span> |
+  | SONG YANG FISHBALL NOODLES (9JW) | 9 Jurong West Ave 5,  S649487; | <span title="1.34908075400694,103.702881301202">1.34908, 103.70288</span> |
+  | SONG YANG HOMEMADE YONG TAU FOO (9JW) | 9 Jurong West Ave 5,  S649487; | <span title="1.34908075400694,103.702881301202">1.34908, 103.70288</span> |
+  | SPARTAN RIDES SG | 44 Holland Drive, #01-11,  S270044; | <span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+  | STAR RISING MINIMART | 251 Bishan Street 22 Hdb Public Shelters Singapore 570251, #B1-408,  S570251; | <span title="1.36191020704912,103.844170608274">1.36191, 103.84417</span> |
+  | SUPER CLAYPOT RICE | 628 Ang Mo Kio Avenue 4, #01-91,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | THATSMYBREW | 2A Jalan Seh Chuan, #01-067,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | VIETNAMESE BBQ | 721 Clementi West Street 2,  S120721; | <span title="1.3024252487869,103.76435385686">1.30243, 103.76435</span> |
+  | XIANG WEI FRIED KWAY TEOW MEE | 3 Yung Sheng Road, #02-79,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | YU KEE HOUSE OF BRAISED DUCK | 1 Beach Road, ST4,  S190001; | <span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | ZEN HAIR AND BEAUTY SALON | 194 Kim Keat Avenue Kim Keat View Singapore 310194, #01-422,  S310194; | <span title="1.33093933675526,103.858181909317">1.33094, 103.85818</span> |
+  | ZYAN DELIGHTS | 412 Bedok North Avenue 2,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HUEI GE | <del>118 Depot Lane, #01-02,  S109754;</del><br>123 Bedok North Street 2, #01-168,  S460123; | <del title="1.28151898075596,103.812833019908">1.28152, 103.81283</del><br><span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | <del>HUANG CHAO TEOCHEW NOODLE HOUSE 888</del><br>SEDAP NOODLE | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-20
 
 </summary>
