@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-22
+
+</summary>
+
+Total locations: 25,373 → 25,400
+
+- <details><summary>Added (27)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH PING BAN MIAN AND FISH SOUP | 3 Changi South Avenue 4,  S486116; | <span title="1.33484192150595,103.970631732011">1.33484, 103.97063</span> |
+  | ALEXANDRA FAMILY CLINIC & SURGERY | 57 Dawson Road Dawson Place Singapore 142057, #02-02,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | AYAM POWER BY CHEF SYED | Kedai Kopi At 925 Yishun Central,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | BESTLINK MOBILE PTE. LTD. (WHAMPOA) | 87 Whampoa Drive Singapore 320087, #01-871,  S320087; | <span title="1.32328917067445,103.855735557842">1.32329, 103.85574</span> |
+  | BOON KEE NOODLE HOUSE | 1 Ang Mo Kio Industrial Park 2A,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | CARING CHIROPRACTIC CENTRE | 128 Lorong 1 Toa Payoh Ocbc Toa Payoh Lorong 1 Singapore 310128, #01-835,  S310128; | <span title="1.33781295353996,103.844331928876">1.33781, 103.84433</span> |
+  | DING KEE SUPER SOUP | 1 Ang Mo Kio Industrial Park 2A,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | FRAGRANCE WOK KITCHEN (120 PP) | 120 Potong Pasir Avenue 1,  S350120; | <span title="1.33545353246777,103.863387980398">1.33545, 103.86339</span> |
+  | GOLD BETTA AQUATICS 325 WOODLANDS | 325 Woodlands Street 32 Hdb-woodlands Singapore 730325, #01-135,  S730325; | <span title="1.43078891155605,103.779517722142">1.43079, 103.77952</span> |
+  | GP SPA | 201B Tampines Street 21 Singapore 522201, #01-1071,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | HAVINA NOODLE | 55 Lengkok Bahru, ST7,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | HENG KEE BAK KUT TEH JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | HOUSE OF BRAISED DUCK | 2 Adam Road, #01-26,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | JA INDIAN MUSLIM FOOD (BEACH RD) | 1 Beach Road,  S190001; | <span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | MADAM KHOO RICE HOUSE | 1 Ang Mo Kio Industrial Park 2A,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | PANJANGIKAN | 104 Yishun Ring Road, #01-76,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | SCORPENE SALON | 4 Sago Lane Hdb-central Area Singapore 050004, #02-105,  S050004; | <span title="1.28180062242257,103.842908159495">1.28180, 103.84291</span> |
+  | SHRIMP HOUSE | 3021 Ubi Avenue 2,  S408897; | <span title="1.32849922613687,103.894807215014">1.32850, 103.89481</span> |
+  | SHUN HENG SEAFOOD FISH SOUP | 1 Ang Mo Kio Industrial Park 2A, ST 5,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | SMASH MAMAK | 1 Ang Mo Kio Industrial Park 2A,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | SOON SOON LAI FRESH PORK | 104 Yishun Ring Road, #01-46,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | SWEE LEE WESTERN FOOD | 90 Whampoa Drive, #01-12,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | TIAN TIAN BEAUTY | 503 Tampines Central 1 Tampines Heart Singapore 520503, #01-281,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | TRADITIONAL PRAWN NOODLE | 32 New Market Road, #01-132,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | UNCLE TEO ONE STOP SHOP | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-56,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | YUMMY SEDAP INDIAN MUSLIM FOOD | 122 Ang Mo Kio Avenue 3,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+  | ZIZAI | 79A Circuit Road, #01-89,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BILLY & BROTHERS HOUSE OF NOODLES | <del>64 Loyang Way,  S508754;</del><br>866A Tampines St 83, #02-03,  S521866; | <del title="1.38387929997423,103.97396763261">1.38388, 103.97397</del><br><span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>CALLISTA STUDIO PTE LTD (826 TAMPINES)</del><br>CALLISTA STUDIO @ SPA PTE. LTD. (826 TAMPINES) | 826 Tampines Street 81, #01-82,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | HUP HENG GOURMET FOOD | <del>5 Changi Village Road, #01-2021,  S500005;</del><br>280 Tampines Street 22, #01-240,  S520280; | <del title="1.38885339963623,103.986845986484">1.38885, 103.98685</del><br><span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-21
 
 </summary>
