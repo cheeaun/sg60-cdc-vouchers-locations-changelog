@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-23
+
+</summary>
+
+Total locations: 25,400 → 25,412
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BASIL KING (40 MD) | 40 Margaret Drive, #01-05,  S140040; | <span title="1.29645842578646,103.806207569922">1.29646, 103.80621</span> |
+  | BETH | 134 Casuarina Road,  S579522; | <span title="1.37705034622068,103.828090556604">1.37705, 103.82809</span> |
+  | BUKIT PANJANG DENTAL SURGERY | 103 Gangsa Road Hdb-bukit Panjang Singapore 670103, #01-37,  S670103; | <span title="1.37867070821171,103.768538440957">1.37867, 103.76854</span> |
+  | DO QOO (KAMPUNG ADMIRALTY) | 676 Woodlands Drive 71 Dbs Kampung Admiralty Branch Singapore 730676, #01-13A,  S730676; | <span title="1.43991699638813,103.800779709518">1.43992, 103.80078</span> |
+  | HUAT #01-10 | 726 Clementi West Street 2, #01-10,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | JUICE FARM CAFE | 476 Tampines Street 44 Hdb-tampines Singapore 520476, #01-195,  S520476; | <span title="1.36092283930264,103.953359364582">1.36092, 103.95336</span> |
+  | KEBAB | 21 Tampines Ave 1,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+  | LVL CENTRE | 684 Race Course Road Hdb-kallang/whampoa Singapore 210684, #01-306,  S210684; | <span title="1.31430707569496,103.856659538355">1.31431, 103.85666</span> |
+  | MANIS MANIS DESSERTS | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K4,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | MJ 2000@OWEN | 46 Owen Road Hdb-kallang/whampoa Singapore 210046, #01-287,  S210046; | <span title="1.31514019805556,103.850798372212">1.31514, 103.85080</span> |
+  | MOBILE ENHANCEMENT (LIMBANG) | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-008,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | ZHEN XIANG WEI 419 | 419 Tampines Street 41,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KALIN-SPA (201B TAMPINES)</del><br>138 SPA BEAUTY SALON | 201B Tampines Street 21 Singapore 522201, #01-1073,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | <del>LIM FRUITS HUB</del><br>FRUIT NINJA | <del>827 Tampines Street 81, #01-130,  S520827;</del><br>827 Tampines Street 81, #01-132,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | <del>LAK FRUIT JUICE</del><br>TIAN CHENG VEGETABLE AND FRUIT JUICE | 209 Hougang Street 21, #01-22,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-22
 
 </summary>
