@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-24
+
+</summary>
+
+Total locations: 25,412 → 25,413
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | KBK FISH STALL | 58 New Upper Changi Road, #01-05,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-23
 
 </summary>

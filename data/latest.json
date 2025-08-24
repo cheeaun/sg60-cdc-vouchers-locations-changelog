@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 Aug 2025",
+  "lastUpdated": "24 Aug 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -245860,6 +245860,26 @@
         }
       },
       "lastResetDate": "2025-05-30"
+    },
+    {
+      "id": "merchant_6d99f4fb-a8b4-4376-b008-c0896356d539",
+      "entityId": "merchant_6d99f4fb-a8b4-4376-b008-c0896356d539",
+      "name": "KBK FISH STALL",
+      "address": "58 New Upper Changi Road, #01-05,  S461058;",
+      "postalCode": "461058",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32420087334002,
+      "LON": 103.941125277547,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-08-23"
     },
     {
       "id": "merchant_13c9e407-6088-4725-bcc4-94883fe1f965",
