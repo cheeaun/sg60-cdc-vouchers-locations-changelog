@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-26
+
+</summary>
+
+Total locations: 25,413 → 25,436
+
+- <details><summary>Added (23)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 28 SUPERMARKET | 57A New Upper Changi Road Singapore 462057, #01-1392,  S462057; | <span title="1.32371678676907,103.94128871491">1.32372, 103.94129</span> |
+  | 3 DENTAL PRACTICE (SERANGOON) | 262 Serangoon Central Drive Hdb-serangoon Estate Singapore 550262, #01-111,  S550262; | <span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+  | 786 BANANA LEAF (306A WOODLANDS) | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-01,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | AH SIANG ROAST DUCK | 203 Hougang Street 21,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | AH YEES SOON KUEH | 124 Tembeling Road Singapore 423623, #01-124,  S423623; | <span title="1.31107550036869,103.902285956185">1.31108, 103.90229</span> |
+  | ALDA DENTAL SURGERY BEDOK | 158 Bedok South Avenue 3 Mount Pleasant Animal Medical Centre (bedok) Singapore 460158, #01-589,  S460158; | <span title="1.31867038706863,103.945105611031">1.31867, 103.94511</span> |
+  | BASIL KING T494 | 494 Tampines Street 45,  S523494; | <span title="1.36287260065239,103.955717524059">1.36287, 103.95572</span> |
+  | BASIL KING T954 | 954D Tampines Street 96,  S524954; | <span title="1.34172359071434,103.936566716765">1.34172, 103.93657</span> |
+  | BIN LOR MEE | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | BUKIT HO SWEE 1961 | 664 Yishun Avenue 4,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | COMBO | 664 Yishun Avenue 4,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | CURRY MAGIC | 15-8 Jalan Riang Serangoon Park Singapore 358987, #01-1,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | DHANAM SMALL KITCHEN | 557 Jurong West Street 42,  S640557; | <span title="1.35399275101832,103.718567124767">1.35399, 103.71857</span> |
+  | HOE NAM RIVER SOUTH PRAWN NOODLES | 418 Northshore Drive Northshore Plaza Ii Singapore 820418, #02-03,  S820418; | <span title="1.41796143093751,103.901321830086">1.41796, 103.90132</span> |
+  | KOO KEE YONG TOW FOO 632 | 632 Bukit Batok Central,  S650632; | <span title="1.34929895794167,103.750830565891">1.34930, 103.75083</span> |
+  | LENA L AOYAMA TOKYO SALON (510258) | 258 Pasir Ris Street 21 Dbs Loyang Point Singapore 510258, #02-12,  S510258; | <span title="1.36706634197242,103.964635610477">1.36707, 103.96464</span> |
+  | NEREOS | 931 Yishun Central 1 Hdb-yishun Singapore 760931, #01-107,  S760931; | <span title="1.4266096333815,103.837336412761">1.42661, 103.83734</span> |
+  | NEW SKIN BEAUTY | 208 New Upper Changi Road Bedok Town Centre Singapore 460208, #01-665,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | ORIGINAL SIMON ROAD HOKKIEN MEE | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | RI RI SHENG MALA POT | 137 Tampines Street 11, #01-28,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | TASTE OF CHONG QING | 212 Hougang Street 21,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | WAX & GO | 900 South Woodlands Drive Cpf Woodlands Service Centre Singapore 730900, #02-02,  S730900; | <span title="1.43507790358971,103.786619613465">1.43508, 103.78662</span> |
+  | YI SHEN AN CHINESE PHYSICIAN & ACUPUNCTURE CLINIC | 322 Hougang Avenue 5 Dbs Hougang Avenue 5-322 Singapore 530322, #01-74,  S530322; | <span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>PIZZAIOLA</del><br>LA PIZZAIOLA | 15-8 Jalan Riang Serangoon Park Singapore 358987, #01-03,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-24
 
 </summary>
