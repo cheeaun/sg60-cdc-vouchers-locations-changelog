@@ -13,6 +13,77 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-27
+
+</summary>
+
+Total locations: 25,436 → 25,475
+
+- <details><summary>Added (39)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASIA PACIFIC DENTAL CENTRE BUKIT BATOK PTE LTD | 292 Bukit Batok East Avenue 6 Skypeak @ Bukit Batok Singapore 650292, #01-08,  S650292; | <span title="1.34447136304156,103.755394615486">1.34447, 103.75539</span> |
+  | BASIL KING | 496 Jurong West Street 41,  S640496; | <span title="1.34998960720747,103.723836476095">1.34999, 103.72384</span> |
+  | BASIL KING (212 BD) | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | BASIL KING (AMK 347) | 347 Ang Mo Kio Avenue 3,  S560347; | <span title="1.36733858334098,103.848576334625">1.36734, 103.84858</span> |
+  | BASIL KING (YISHUN) | 461 Yishun Ave 6, 1,  S760461; | <span title="1.42841338853064,103.84997365333">1.42841, 103.84997</span> |
+  | CHILLI PADI NONYA RESTAURANT | 11 Joo Chiat Place Singapore 427744, #01-03,  S427744; | <span title="1.31342355797981,103.900077016789">1.31342, 103.90008</span> |
+  | CHUAN LEE COFFEE TRADING | 1 Geylang Serai, #01-16,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | CHUAN WEI FANG | 32 New Market Road, #01-1050,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | CRAB AT BAY | 540 Macpherson Road Singapore 368223, #01-00,  S368223; | <span title="1.33239044429176,103.884679443634">1.33239, 103.88468</span> |
+  | CREO.CUSTOMS | 436 Joo Chiat Road Singapore 427649, #01-436,  S427649; | <span title="1.3066561136361,103.904196930559">1.30666, 103.90420</span> |
+  | DONG JI CURRY CHICKEN | 202C Woodleigh Link, #01-10,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | DRINK STALL | 1 Nanyang Walk Singapore 637616, #B1-07,  S637616; | <span title="1.34855519746164,103.678124612295">1.34856, 103.67812</span> |
+  | FAR EE UNISEX HAIR BEAUTY SALOON | 30 Bendemeer Road Bendemeer Ville Singapore 330030, #01-893,  S330030; | <span title="1.319303367127,103.86404981515">1.31930, 103.86405</span> |
+  | FRESH CHICKEN 100 | 84 Marine Parade Central, #01-100,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | G1 TCM SPA | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-90,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | HAJI KARIM INDIAN CUISINE | 639 Punggol Drive, 9,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | HOCK CHUAN HUAT | 84 Marine Parade Central, #01-99,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | HOUSE OF SPINACH | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-02,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | HUMBLE ORIGINS | 475 Joo Chiat Road Singapore 427682, #01-00,  S427682; | <span title="1.3064028515409,103.90478844855">1.30640, 103.90479</span> |
+  | JIANG XIANG WEI VEG RICE | 80 Marine Parade Central,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | JUICE FARM | 121 Bedok Reservoir Road Eunos Vista Singapore 470121, #01-206,  S470121; | <span title="1.33130517787872,103.909992224709">1.33131, 103.90999</span> |
+  | KATONG JAGO - UPPER BOON KENG | 17 Upper Boon Keng Road, #01-55,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | KGH JOO CHIAT POPIAHPTE. LTD. | 95 Joo Chiat Road Singapore 427389, #01-01,  S427389; | <span title="1.31403248269489,103.899303894825">1.31403, 103.89930</span> |
+  | KHONKAEN THAI FOOD | 448 Clementi Avenue 3, #01-34,  S120448; | <span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | KIM SIAH ELECTRIC CO. | 635 Veerasamy Road Rowell Court Singapore 200635, #01-162,  S200635; | <span title="1.30658850181781,103.855218716278">1.30659, 103.85522</span> |
+  | LAP-PHO THO DA | 169 Joo Chiat Road Singapore 427729, #01-169,  S427729; | <span title="1.31257321881143,103.900344095016">1.31257, 103.90034</span> |
+  | MEI NAIL BEAUTY SALON | 215 Ang Mo Kio Avenue 1 Ang Mo Kio 22 Singapore 560215, #01-891,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | NASI PADANG | 271 Bukit Batok East Avenue 4,  S650271; | <span title="1.34817263842498,103.758893085449">1.34817, 103.75889</span> |
+  | NG GEOK HIOK | 84 Marine Parade Central, #01-102,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | RAINING PAWS PET DAY CARE | 25 Ghim Moh Link Dbs Ghim Moh Road Singapore 270025, #01-03B,  S270025; | <span title="1.3081474688469,103.786255228477">1.30815, 103.78626</span> |
+  | ROASTED DELIGHT | 1 Nanyang Walk Singapore 637616, #B1-04,  S637616; | <span title="1.34855519746164,103.678124612295">1.34856, 103.67812</span> |
+  | SAKIZ TRADING PTE LTD | 671 Edgefield Plains Waterway Banks Singapore 820671, #02-04,  S820671; | <span title="1.40566048045603,103.911991277154">1.40566, 103.91199</span> |
+  | SG STORE - UPPER BOON KENG | 5 Upper Boon Keng Road Agape Little Uni (kallang) Pte. Ltd. Singapore 380005, #01-17,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | SHIOK HOKKIEN MEE (AMK 215) | 215 Ang Mo Kio Avenue 1,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | SHOW HAIR STUDIO (TP827) | 827 Tampines Street 81 Dbs Tampines West Branch Singapore 520827, #01-130,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | TASTY WOK | 1A Eunos Crescent, 2461,  S401001; | <span title="1.32129030482793,103.902727807563">1.32129, 103.90273</span> |
+  | THE BARKERY SINGAPORE PTE LTD | 326 Joo Chiat Road Onan Court Singapore 427583, #01-00,  S427583; | <span title="1.30918641466077,103.902336199824">1.30919, 103.90234</span> |
+  | THE BLEP CLUB | 78 Indus Road Animal Medical Centre (vet@rv) Singapore 161078, #01-481,  S161078; | <span title="1.29129374515873,103.827476436671">1.29129, 103.82748</span> |
+  | XIN HE YUN CAFE #01-34 | 79 Telok Blangah Drive, #01-34,  S100079; | <span title="1.27335597437747,103.807618048888">1.27336, 103.80762</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>478 HOJIAK NASI LEMAK</del><br>504 HOJIAK NASI LEMAK | <del>478 Tampines Street 44,  S520478;</del><br>504 Jurong West St 51, #01-207,  S640504; | <del title="1.3611863066398,103.953084873919">1.36119, 103.95308</del><br><span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | <del>AH MING ECONOMICAL BEE HOON</del><br>AH MING ECON BEE HOON VEGETABLE RICE | 6 Jalan Bukit Merah, #01-13,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | <del>KING GROUPER FISH SOUP</del><br>GHIM MOH FISH SOUP | <del>19 Ghim Moh Road,  S270019;</del><br>20 Ghim Moh Road, #01-06,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | LINDA AND ANN BEAUTY SALOON | <del>Lorong 4 Toa Payoh, #01-308,  S310085;</del><br>Lorong 4 Toa Payoh, #01-300,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | MAN KEE EXPRESS | <del>443 Clementi Avenue 3, 2,  S120443;</del><br>443 Clementi Avenue 3, #01-55,  S120443; | <span title="1.31421051581741,103.764010395621">1.31421, 103.76401</span> |
+  | MIXED RICE | <del>443 Clementi Avenue 3, 1,  S120443;</del><br>443 Clementi Avenue 3, #01-55,  S120443; | <span title="1.31421051581741,103.764010395621">1.31421, 103.76401</span> |
+  | <del>JI HUI LAI NASI KERABU</del><br>SHIOK LAH! BBQ SEAFOOD & FRIED CHICKEN | 202C Woodleigh Link, #01-07,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | TRADITIONAL PRAWN NOODLE | <del>32 New Market Road, #01-132,  S050032;</del><br>34 New Market Road, #01-132,  S050034; | <del title="1.28485860802646,103.842578771054">1.28486, 103.84258</del><br><span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-26
 
 </summary>
