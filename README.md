@@ -13,6 +13,63 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-28
+
+</summary>
+
+Total locations: 25,475 → 25,499
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 201D PORRIDGE & MIXED VEG RICE (TAMPINES) | 201D Tampines Street 21,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | BASIL KING -352 CLEMENTI | 352 Clementi Avenue 2,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | BASIL KING (261 WATERLOO) | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | BASIL KING SK215 | 215C Compassvale Drive, 1,  S543215; | <span title="1.38977026274295,103.892787161183">1.38977, 103.89279</span> |
+  | DA JI DA LI SEAFOOD | 58 New Upper Changi Road, #01-15,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | EL BRASA (318) | 318 Jurong East Street 31,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | FAIRLADY PRAYERS TRADING | 504 Tampines Central 1, #01-323,  S520504; | <span title="1.35639771487849,103.945701729904">1.35640, 103.94570</span> |
+  | GMART - 141 JALAN BUKIT MERAH | 141 Jalan Bukit Merah Hdb-bukit Merah Singapore 160141, #01-1160,  S160141; | <span title="1.27714559744846,103.828738908605">1.27715, 103.82874</span> |
+  | GUI GEOK LAI | 58 New Upper Changi Road, #01-69,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | HAPPY RED MART | 465 Crawford Lane Singapore 190465, #01-08,  S190465; | <span title="1.30512319499862,103.86274639248">1.30512, 103.86275</span> |
+  | HONG LIM CURRY PUFF @ GOLDEN MILE | 505 Beach Road, #01-70,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | HOT HOT AYAM PENYET | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | JI XIANG JI HAINANESE CHICKEN RICE | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | JIA DUO FU (AMK 721) | 721 Ang Mo Kio Avenue 8,  S560721; | <span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | KIM CHOO KUEH CHANG #60 | 60 Joo Chiat Place Singapore 427784, #01-00,  S427784; | <span title="1.31339989158926,103.901757011713">1.31340, 103.90176</span> |
+  | MARSILING CHOPHAUS | 21 Marsiling Lane, #01-13,  S730021; | <span title="1.44383165244262,103.777210383669">1.44383, 103.77721</span> |
+  | MASALA MINGLE | 924 East Coast Road Singapore 459115, #01-00,  S459115; | <span title="1.31236818358076,103.924926989209">1.31237, 103.92493</span> |
+  | PAW MRKT | 268 Joo Chiat Road Singapore 427522, #01-268,  S427522; | <span title="1.31092047016816,103.901019977363">1.31092, 103.90102</span> |
+  | REDWOODS FOODS | 20 Eastwood Road Eastwood Centre Singapore 486442, #01-06,  S486442; | <span title="1.32154249881548,103.955535617961">1.32154, 103.95554</span> |
+  | RETROCRATES PTE LTD | 450 Joo Chiat Road Singapore 427663, #02-450,  S427663; | <span title="1.30640931432163,103.904416175996">1.30641, 103.90442</span> |
+  | STR JAPAN (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-20,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | TIONG BAHRU PAU (TPY 190) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-550,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | TRIPLE 5 FACIAL & HAIR CARE | 407 Ang Mo Kio Avenue 10 Ocbc Ang Mo Kio Ave 10 - Cheers Singapore 560407, #01-755,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | WESTERN BARBEQUE | 208B New Upper Changi Road, #01-62,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEE'S BRAND BIRDS NEST & HEALTH PRODUCTS GEK POH | <del>Jurong West Street 75, #01-282,  S640762;</del><br>Yung Sheng Road, #01-08,  S610399; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | BEN BAKER (YISHUN) | <del>925 Yishun Central 1 Singapore 760925, #01-245,  S760925;</del><br>105 Canberra Street, #01-06,  S750105; | <del title="1.42750549654333,103.837125284539">1.42751, 103.83713</del><br><span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | G & G HAIR &  BEAUTY SALOON | <del>Jurong West Street 75, #01-292,  S640762;</del><br>Jurong West Street 71, #01-108,  S640703; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34163032255525,103.695832219555">1.34163, 103.69583</span> |
+  | <del>130 HOKKIEN FRIED PRAWN MEE</del><br>HAO YUN LAI FRIED HOKKIEN PRAWN MEE | <del>National Development Building, Annex B, Telok Ayer Street, #02-130,  S069111;</del><br>139 Tampines St 11, #01-08,  S521139; | <del title="1.2793398636571,103.846652482254">1.27934, 103.84665</del><br><span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | JEEMA MINIMART | <del>732 Yishun Avenue 5 Nee Soon Central Vista Singapore 760732, #01-382,  S760732;</del><br>Blk 943 Jurong West St 91, #01-K1,  S640943; | <del title="1.42903445415475,103.830336353437">1.42903, 103.83034</del><br><span title="1.343694927282,103.689789273674">1.34369, 103.68979</span> |
+  | <del>138 SPA BEAUTY SALON</del><br>KALIN-SOLE-OASIS-SPA | 201B Tampines Street 21 Singapore 522201, #01-1073,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | LIU CHUAN XIANG ZHUANG | <del>Jurong West Street 75, #01-01,  S640763;</del><br>Bukit Batok East Ave 6, #01-05,  S650292; | <del title="1.34874387926183,103.698298710842">1.34874, 103.69830</del><br><span title="1.34447136304156,103.755394615486">1.34447, 103.75539</span> |
+  | PARADISE DIGITAL LAB & TRADING | <del>Jurong West Street 75, #01-318,  S640762;</del><br>Jurong East Ave 1, #01-K1,  S600339; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34953251705686,103.731532178493">1.34953, 103.73153</span> |
+  | <del>BA JIE PIG TROTTER RICE (239)</del><br>STEVEN FRIED RICE | <del>239 Yishun Ring Road,  S760239;</del><br>504A Serangoon North Avenue 4, #01-01,  S555850; | <del title="1.43359453113734,103.839686662816">1.43359, 103.83969</del><br><span title="1.37399768680103,103.875704727628">1.37400, 103.87570</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-27
 
 </summary>
