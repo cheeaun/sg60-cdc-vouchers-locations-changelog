@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-29
+
+</summary>
+
+Total locations: 25,499 → 25,519
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AQUA ALLEY | Tampines Street 32,  S529285; | <span title="1.35436493799094,103.960042188281">1.35436, 103.96004</span> |
+  | BOON CAFE | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #02-11,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | COSLAB HOUGANG BEAUTY | 684 Hougang Avenue 8 Hdb-hougang Singapore 530684, #01-993,  S530684; | <span title="1.3739584050047,103.886898456705">1.37396, 103.88690</span> |
+  | COZYNEST HOME | 29A Chai Chee Avenue Ansar Garden Singapore 461029, #01-74,  S461029; | <span title="1.32488632174354,103.924132068906">1.32489, 103.92413</span> |
+  | CURRY NOODLE AND PRAWN NOODLE | 131 Jalan Bukit Merah,  S160131; | <span title="1.2801894226101,103.828178445611">1.28019, 103.82818</span> |
+  | ENGS CHAR SIEW WANTAN MEE PTE LTD | 360 Joo Chiat Road Singapore 427605, #01-360,  S427605; | <span title="1.30828981578565,103.902977721717">1.30829, 103.90298</span> |
+  | GOOD DAY EXPRESS | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #02-01,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | GUANYIN VEGETARIAN | 36 Chai Chee Avenue,  S461036; | <span title="1.32534102499628,103.92543538387">1.32534, 103.92544</span> |
+  | KATONG DURIAN FRUITS TRADING | 227 East Coast Road Singapore 428924, #01-227,  S428924; | <span title="1.30770160402623,103.907230388618">1.30770, 103.90723</span> |
+  | KIM CHOO KUEH CHANG PTE LTD #109 | 109 East Coast Road Singapore 428800, #01-00,  S428800; | <span title="1.30582822587075,103.904417913344">1.30583, 103.90442</span> |
+  | KUEH | 17 Upper Boon Keng Road, #01-22,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | LHZ BEAUTY & HAIRSALON PTE.LTD. | 119 Aljunied Avenue 2 Dbs Aljunied Avenue 2 /119 Singapore 380119, #01-18A,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | MELY HAIRDRESSING | 234 Lorong 8 Toa Payoh Toa Payoh Eight Singapore 310234, #01-272,  S310234; | <span title="1.33860148626926,103.857914069837">1.33860, 103.85791</span> |
+  | MUNMUN TRADITIONAL LOR MEE | 70 Zion Road, #01-30,  S247792; | <span title="1.29231113322494,103.830973312857">1.29231, 103.83097</span> |
+  | NAN XIANG CHICKEN RICE | 271 Tanjong Katong Road,  S437054; | <span title="1.3071509877624,103.895693797327">1.30715, 103.89569</span> |
+  | OLD AMOY CHENDOL (CHINATOWN COMPLEX) | 335 Smith Street, #02-08,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | ROHA TIDBITS ENTERPRISE -FAJAR RD | 445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-05,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+  | RUMAH KIM CHOO PTE LTD | 111 East Coast Road Singapore 428801, #01-00,  S428801; | <span title="1.30584898967439,103.904453626826">1.30585, 103.90445</span> |
+  | SHIOK HOKKIEN MEE | 279 Sengkang East Avenue,  S540279; | <span title="1.38621835522425,103.89299549602">1.38622, 103.89300</span> |
+  | WENG KIANG KEE PORRIDGE | 335 Smith Street, #02-82,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CLOVELLY | <del>15-8 Jalan Riang Serangoon Park Singapore 358987, #01-2,  S358987;</del><br>15-2 Jalan Riang Serangoon Park Singapore 358987,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | CURRY MAGIC | <del>15-8 Jalan Riang Serangoon Park Singapore 358987, #01-1,  S358987;</del><br>15-1 Jalan Riang Serangoon Park Singapore 358987,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | DISHTHEFISH | <del>15-8 Jalan Riang Serangoon Park Singapore 358987, #01-00,  S358987;</del><br>15-8 Jalan Riang Serangoon Park Singapore 358987,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | LA PIZZAIOLA | <del>15-8 Jalan Riang Serangoon Park Singapore 358987, #01-03,  S358987;</del><br>15-3 Jalan Riang Serangoon Park Singapore 358987,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+  | YUIITSU YAKINIKU | <del>15-8 Jalan Riang Serangoon Park Singapore 358987, #01-01,  S358987;</del><br>15 Jalan Riang Serangoon Park Singapore 358987,  S358987; | <span title="1.347475867453,103.867435560012">1.34748, 103.86744</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-28
 
 </summary>
