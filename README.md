@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-30
+
+</summary>
+
+Total locations: 25,519 → 25,543
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 2K MINI MARKET | 408 Ang Mo Kio Avenue 10 Teck Ghee Square Singapore 560408, #01-787,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | AL MADINA BRIYANI HOUSE | 86 Market Street, #02-13,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | ANUSIA ALI 570A WOODLANDS | 570A Woodlands Avenue 1,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | BUBBLE TEA, BREAD & CAKES (548) | 548 Woodlands Drive 44 Dbs Vista Point Singapore 730548, #01-26,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | CLARVIVA SKIN (SERANGOON NORTH) | 153 Serangoon North Avenue 1 Dbs Serangoon North Avenue 1 Singapore 550153, #01-484A,  S550153; | <span title="1.36995099685808,103.872312298412">1.36995, 103.87231</span> |
+  | DEVOUR FINE MEATS & SEAFOOD | 95 Joo Chiat Road Singapore 427389, #01-02,  S427389; | <span title="1.31403248269489,103.899303894825">1.31403, 103.89930</span> |
+  | FEATHERS AND FUR | 259 Jurong East Street 24 Hdb-jurong East Singapore 600259, #01-437B,  S600259; | <span title="1.34417454623856,103.739875551045">1.34417, 103.73988</span> |
+  | FIRST COFFEE SHOP DRINKS STALL | 107 Ang Mo Kio Avenue 4, ST2,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | GREEM UNISEX HAIR SALON | 410 Ang Mo Kio Avenue 10 Singapore 560410, #01-827,  S560410; | <span title="1.36271541988052,103.854644986527">1.36272, 103.85464</span> |
+  | I-SMILE DENTAL CLINIC | 78A Telok Blangah Street 32 Dbs Ntuc Telok Blangah Street 32 Singapore 101078, #01-12,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | JING MEI SEAFOOD KITCHEN | 271 Tanjong Katong Road, 2,  S437054; | <span title="1.3071509877624,103.895693797327">1.30715, 103.89569</span> |
+  | LUNETTES OPTICAL | 119 Aljunied Avenue 2 Dbs Aljunied Avenue 2 /119 Singapore 380119, #01-78,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | MAK YOM'S KITCHEN JE252 | 252 Jurong East Street 24,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | MAMI NASI LEMAK | 93 Toa Payoh Lorong 4, #01-55,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | NEW CITY RIDER | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-119,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | ORIENTAL BEAUTE JE253 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-255,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | PLANT IDEA (AMK 712A) | 712A Ang Mo Kio Avenue 6 Dbs Ang Mo Kio Central Branch Singapore 561712, #01-4064,  S561712; | <span title="1.37087284313191,103.846806941877">1.37087, 103.84681</span> |
+  | PREMIER LIGHTING CENTRE | 37 Circuit Road Brighton Connection Student Care Centre Singapore 370037, #01-389,  S370037; | <span title="1.32817782909926,103.88647835429">1.32818, 103.88648</span> |
+  | SEN BY PRODIGAL CO | 8 Jalan Kukoh Chin Swee View Singapore 162008, #01-37,  S162008; | <span title="1.2873776268224,103.839407060595">1.28738, 103.83941</span> |
+  | SYED ALI FATHIMA INDIAN MUSLIM FOOD (333C YISHUN) | 333C Yishun Street 31,  S763333; | <span title="1.43188998756065,103.845790190244">1.43189, 103.84579</span> |
+  | TONG FONG FATT (691) | 691 Woodlands Drive 73,  S730691; | <span title="1.44062992421831,103.806198056529">1.44063, 103.80620</span> |
+  | WEI SHENG FISH BALL NOODLE | 271 Tanjong Katong Road,  S437054; | <span title="1.3071509877624,103.895693797327">1.30715, 103.89569</span> |
+  | XING ZAI LAI STEAMBOAT FISH (SENGKANG) | 10 Sengkang Square, 01-59,  S544829; | <span title="1.39152651487694,103.89365715873">1.39153, 103.89366</span> |
+  | ZHENWEI XIAO CHU 126 TPY | 126 Lorong 1 Toa Payoh,  S310126; | <span title="1.33781465652998,103.84513085219">1.33781, 103.84513</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KGH JOO CHIAT POPIAHPTE. LTD.</del><br>KGH JOO CHIAT POPIAH PTE. LTD. | 95 Joo Chiat Road Singapore 427389, #01-01,  S427389; | <span title="1.31403248269489,103.899303894825">1.31403, 103.89930</span> |
+  | SHAHITH AR RAHEEQ | <del>170A Sengkang East Drive, 03,  S541170;</del><br>170A Sengkang East Drive, #01-09 (ST 6),  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-29
 
 </summary>
