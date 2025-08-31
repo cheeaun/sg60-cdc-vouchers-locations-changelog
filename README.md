@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-08-31
+
+</summary>
+
+Total locations: 25,543 → 25,544
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SRI PANDI AYYA TRADING PTE LTD | 96 Geylang Bahru Hdb-kallang/whampoa Singapore 330096, #01-3148,  S330096; | <span title="1.32338061098186,103.870461630612">1.32338, 103.87046</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-30
 
 </summary>

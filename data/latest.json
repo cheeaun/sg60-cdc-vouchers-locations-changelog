@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Aug 2025",
+  "lastUpdated": "31 Aug 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -411700,6 +411700,26 @@
         }
       },
       "lastResetDate": "2025-03-13"
+    },
+    {
+      "id": "merchant_d96aef78-3920-47a5-8b07-42b413dcf096",
+      "entityId": "merchant_d96aef78-3920-47a5-8b07-42b413dcf096",
+      "name": "SRI PANDI AYYA TRADING PTE LTD",
+      "address": "96 Geylang Bahru Hdb-kallang/whampoa Singapore 330096, #01-3148,  S330096;",
+      "postalCode": "330096",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32338061098186,
+      "LON": 103.870461630612,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-08-30"
     },
     {
       "id": "merchant_c8eb2444-d9de-4867-ad42-8bda64542a95",
