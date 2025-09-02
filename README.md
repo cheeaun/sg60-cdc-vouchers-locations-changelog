@@ -13,6 +13,68 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-02
+
+</summary>
+
+Total locations: 25,544 → 25,576
+
+- <details><summary>Added (32)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 57 NASI LOVEMAK (HILLVIEW) | 91 Hillview Link, K10,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | 99NJ BY EIGHT (7JBM) | 7 Jalan Bukit Merah Hdb-bukit Merah Singapore 150007, #01-4430,  S150007; | <span title="1.28730052130543,103.807988268738">1.28730, 103.80799</span> |
+  | AL AIN INDIAN MUSLIM FOOD - 181 AMK | 181 Ang Mo Kio Avenue 5, ST2,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | ARTEASE SG | 1 Punggol Drive, 02-45,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | AUTHENTIC SAIGON CUISINE | 308 Clementi Avenue 4, ST4,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | BIJILI BHAI INDIAN MUSLIM FOOD | 622A Tampines Avenue 12,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | BLEP CLUB | 742 Bedok Reservoir Road Kidskingdom @ Bedok Reservoir Llp Singapore 470742, #01-3121,  S470742; | <span title="1.33808524960901,103.922090734567">1.33809, 103.92209</span> |
+  | DE CULTURE SALON 633 | 633 Bukit Batok Central Singapore 650633, #01-128,  S650633; | <span title="1.34915709980563,103.751134497377">1.34916, 103.75113</span> |
+  | DIAN DIAN XIANG-883 | 883 Woodlands Street 82, ST5,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | DURIAN NINJA | 827 Tampines Street 81 Dbs Tampines West Branch Singapore 520827, #01-132,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | EAT SONG SONG HANDMADE FISHBALL NOODLE | 43 Cambridge Road,  S210043; | <span title="1.31536302699791,103.849434501824">1.31536, 103.84943</span> |
+  | FIRST EATING HOUSE PTE LTD | 66 Kallang Bahru,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | FONG YUAN KEE HAINANESE BONELESS CHICKEN RICE (HILLVIEW) | 91 Hillview Link, K11,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | HIGH CLASS DIVA | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2479,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | HONG XING HANDMADE FISHBALL MEATBALL NOODLE | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | LY HAIR STUDIO (291 YISHUN) | 291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-357B,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | M.D. BICYCLE SHOP | 201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1113,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | MACHETE BARBERSHOP LP | 150 Bishan Street 11 Bishan Green Singapore 570150, #01-137,  S570150; | <span title="1.34452706951365,103.855213610381">1.34453, 103.85521</span> |
+  | MUBI WESTERN (2JBM) | 2 Jalan Bukit Merah,  S150002; | <span title="1.2866292132996,103.80686187976">1.28663, 103.80686</span> |
+  | NYONYA  CHENDOL | 51 Old Airport Road, #01-115,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | PRIS SALON | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-120,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | QUAN LE BRAISED DELIGHTS (333C YISHUN) | 333C Yishun Street 31,  S763333; | <span title="1.43188998756065,103.845790190244">1.43189, 103.84579</span> |
+  | QUAN LE MIXED VEG RICE (333C YISHUN) | 333C Yishun Street 31,  S763333; | <span title="1.43188998756065,103.845790190244">1.43189, 103.84579</span> |
+  | SHUANG LONG HAI XIAN | 810 Hougang Central, #01-226.2,  S530810; | <span title="1.37160444105564,103.893647271883">1.37160, 103.89365</span> |
+  | SOD | 809 French Road Kitchener Complex Singapore 200809, #02-57,  S200809; | <span title="1.30832700516352,103.862005870884">1.30833, 103.86201</span> |
+  | SOUPER STEAM (HILLVIEW) | 91 Hillview Link, K19,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | SUGARUSH | 93 Toa Payoh Lorong 4, #01-47,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | TIAN TIAN CHI MIAN (460539) | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | TOKYO HAIRDRESSING SALOON | 21 Old Airport Road Singapore 390021, #01-109,  S390021; | <span title="1.30758613944429,103.884413042642">1.30759, 103.88441</span> |
+  | XIN LIN SEAFOOD | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | YONG HUI SEAFOOD | 20 Marsiling Lane, #01-39,  S730020; | <span title="1.44339444325541,103.776967080069">1.44339, 103.77697</span> |
+  | YU YOU ROASTED DELIGHT- 101 YISHUN | 101 Yishun Avenue 5, G2,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMY CRESSWELL'S NOODLES | <del>293 Yishun Street 22,  S760293;</del><br>291 Yishun Street 22, #01-369,  S760291; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | BUGIS FISH HEAD STEAMBOAT PTE LTD | <del>63 Kallang Bahru, #01-443,  S330063;</del><br>31 Kelantan Lane, #01-12,  S200031; | <del title="1.32100020851204,103.868321383856">1.32100, 103.86832</del><br><span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | <del>HUANG LEE CUISINE</del><br>HUANG KEE CUISINE | 51 Old Airport Road, #01-56,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>YUE XIANG CARROT CAKE</del><br>LAI HENG TEOCHEW MINCED MEAT NOODLE | 341 Ang Mo Kio Avenue 1, #01-12,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | SKINNY CHEF | <del>63 Kallang Bahru,  S330063;</del><br>211 Toa Payoh Lorong 8, #01-01,  S310211; | <del title="1.32100020851204,103.868321383856">1.32100, 103.86832</del><br><span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | TENDERBEST | <del>170A Sengkang East Drive, 06,  S541170;</del><br>703 Hougang Ave 2, #01-201,  S530703; | <del title="1.3864108050086,103.908822177398">1.38641, 103.90882</del><br><span title="1.36553095979945,103.889460635529">1.36553, 103.88946</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-08-31
 
 </summary>
