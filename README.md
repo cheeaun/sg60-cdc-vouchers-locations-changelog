@@ -13,6 +13,85 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-03
+
+</summary>
+
+Total locations: 25,576 → 25,616
+
+- <details><summary>Added (40)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 36 CURRY RICE | 29 Bendemeer Road, #01-36,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | BASIL KING | 671 Edgefield Plains,  S820671; | <span title="1.40566048045603,103.911991277154">1.40566, 103.91199</span> |
+  | BLISSFUL MAY | 681 Punggol Drive, R02,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | CHICKEN RICE | 51 Tampines Avenue 4, #01-52,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | CX MOBILE | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1657B,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | DE CULTURE SALON | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-116,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | DESSERT | 51 Tampines Avenue 4, #01-47,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | FREEZYHOME | 630 Bedok Reservoir Road, #01-57,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | FRUITS FARMER 883 VEGETABLE #05 #10 | 883 Woodlands Street 82, 10,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | JELAPANG CHICKEN RICE | 524A Jelapang Road,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | JIN KIMCHI | 524A Jelapang Road, 4,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | LIANGZAI ECONOMIC BEEHOON | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | LONG XING FISH SOUP | 409 Ang Mo Kio Avenue 10, #01-04,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | MAKI SAN | 681 Punggol Drive Oasis Terraces Singapore 820681, #01-08,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | MINUM MINUM | 51 Tampines Avenue 4, #01-53,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | NEPTUNE HEALTHCARE MEDICAL & SURGERY | 328 Tampines Street 32 Hdb Public Shelters Singapore 520328, #01-362,  S520328; | <span title="1.35316617534528,103.958287519034">1.35317, 103.95829</span> |
+  | NRI BEAUTY | 2 Lorong Lew Lian Dbs Lorong Lew Lian Singapore 531002, #01-36,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | ONE TASTE PTE. LTD. | 4 Changi Village Road Hdb-changi Village Rov Singapore 500004, #01-2078,  S500004; | <span title="1.38909635615366,103.98746284567">1.38910, 103.98746</span> |
+  | PHOOL | 1 Bedok Road, #01-25,  S469572; | <span title="1.32034716834128,103.955480570427">1.32035, 103.95548</span> |
+  | POPPY THAI FOOD MART | 306 Ubi Avenue 1 Singapore 400306, #01-189,  S400306; | <span title="1.32987219692115,103.901929745036">1.32987, 103.90193</span> |
+  | QUEENS BEAUTY (201D TAMPINES) | 201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1143A,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | QUEENS BEAUTY (506 TAMPINES) | 506 Tampines Central 1 Singapore 520506, #01-361,  S520506; | <span title="1.35595238706011,103.945937400867">1.35595, 103.94594</span> |
+  | RATNAH BINTI HUSSEIN | 2 Changi Village Road, #01-24,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | RED LANTERN 365 SEMBAWANG | 365 Sembawang Crescent,  S750365; | <span title="1.44436832551494,103.816263881257">1.44437, 103.81626</span> |
+  | SEAFOOD | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | SHANG CHA | 305 Ubi Avenue 1 Singapore 400305, #01-169,  S400305; | <span title="1.32942111201491,103.902317496614">1.32942, 103.90232</span> |
+  | SIAM BTS | 186 Toa Payoh Central,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | SMART CAT HAIR AI+ | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-61A,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | ST GIFTS @142TW | 142 Teck Whye Lane Hdb-choa Chu Kang Singapore 680142, #01-275,  S680142; | <span title="1.38079049641025,103.75195441174">1.38079, 103.75195</span> |
+  | SUNRISE CHICKEN RICE (AMK 151) | 151 Ang Mo Kio Avenue 5,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+  | TAJZ FOODZ | 630 Bedok Reservoir Road, #01-71,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | TL-PET ALLIANCE | 304 Ubi Avenue 1 Singapore 400304, #01-125,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | TOTOFISH CHANNEL (NEW UPPER CHANGI) | 59 New Upper Changi Road, CL,,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | UFS FOOD INDUSTRIES PTE LTD | 21 Lower Kent Ridge Road National University Of Singapore Singapore 119077, #02-00,  S119077; | <span title="1.29546718144446,103.779773949926">1.29547, 103.77977</span> |
+  | WANGS ROASTED DELIGHTS | 2 Lorong Lew Lian,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | WORLD OF VEGAN | 630 Bedok Reservoir Road, #01-56,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | XING LONG HAINANESE CHICKEN RICE | 148 Silat Avenue,  S160148; | <span title="1.27688315064164,103.830883904963">1.27688, 103.83088</span> |
+  | YAT GAAN TONG SHUI | 57 New Upper Changi Road Dbs New Upper Changi Road Singapore 461057, #01-1360,  S461057; | <span title="1.32424554153984,103.941568704132">1.32425, 103.94157</span> |
+  | YIK TONG MIXED VEG RICE | 37 Chai Chee Avenue,  S461037; | <span title="1.32544200357037,103.926207634232">1.32544, 103.92621</span> |
+  | YONG TAU FOO | 524A Jelapang Road,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+
+  </details>
+
+- <details><summary>Changed (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 3DGE HAIR STUDIO | <del>725 Ang Mo Kio Avenue 6 Hdb-ang Mo Kio Singapore 560725, #01-4140,  S560725;</del><br>722 Ang Mo Kio Ave 6, #01-2829,  S560722; | <del title="1.37279081671095,103.846911241497">1.37279, 103.84691</del><br><span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | BAO FA CHA CHAAN TENG | <del>119 Upper Paya Lebar Road Singapore 534835, #01--,  S534835;</del><br>119 Upper Paya Lebar Road Singapore 534835, #01-119,  S534835; | <span title="1.33826168569003,103.886535391365">1.33826, 103.88654</span> |
+  | DAO XIANG CLAYPOT | <del>762 Jurong West Street 75,  S640762;</del><br>638A Jurong West Street 61, #01-22,  S641638; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | GEK POH HOUSEWARE | <del>Jurong West Street 75, #01-284,  S640762;</del><br>Jurong West Street 81, #01-303,  S640852; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34744620469093,103.692827944039">1.34745, 103.69283</span> |
+  | ISLAUNDRY | <del>762 Jurong West Street 75 Dbs Gek Poh Shopping Centre Singapore 640762, #01-260A,  S640762;</del><br>Jurong West Street 61, #02-07,  S640638; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34167331883255,103.697244542805">1.34167, 103.69724</span> |
+  | LIAN HUAT ROASTED DELIGHT | <del>293 Yishun Street 22,  S760293;</del><br>153 Serangoon North Avenue 1 #01-512, #01-512,  S550153; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.36995099685808,103.872312298412">1.36995, 103.87231</span> |
+  | LUXE PETS | <del>Jurong West Street 75, #01-336,  S640762;</del><br>Jurong West Avenue 1, #01-K1,  S640486; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34872558119207,103.726332616154">1.34873, 103.72633</span> |
+  | MICO BEAUTY SALON | <del>Jurong West Street 75, #02-254C,  S640762;</del><br>Jurong West Street 93, #01-205,  S640965; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34134181836569,103.692491245922">1.34134, 103.69249</span> |
+  | QQ OPTOMETRIST PTE LTD | <del>Jurong West Street 75, #01-286,  S640762;</del><br>Boon Lay Place, #01-160,  S640221; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | R'S REGAL UNISEX BEAUTY SALOON | <del>Jurong West Street 75, #01-272,  S640762;</del><br>Jurong West Street 71, #B1-37,  S640713; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34365711251197,103.696064237883">1.34366, 103.69606</span> |
+  | RIVER VALLEY MEDICAL CENTRE PTE. LTD. | <del>181 Ang Mo Kio Avenue 5 Kebun Baru Link 2 Singapore 560181, #01-2938,  S560181;</del><br>181 Ang Mo Kio Avenue 5, #01-2930A,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | SHIN CHOW | <del>Jurong West Street 75, #01-286,  S640762;</del><br>Jurong West Street 41, #01-16,  S640497; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34942302974602,103.724280983137">1.34942, 103.72428</span> |
+  | SUMMER TIDBITS HOUSE | <del>Jurong West Street 75, #01-266,  S640762;</del><br>Jurong West Street 61, #01-03/05,  S640638; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34167331883255,103.697244542805">1.34167, 103.69724</span> |
+  | WASHBAR | <del>Jurong West Street 75, #01-260A,  S640762;</del><br>Jurong West Street 61, #02-07,  S640638; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34167331883255,103.697244542805">1.34167, 103.69724</span> |
+  | YATIE'S KITCHEN | <del>Jurong West Street 75, #01-08,  S640763;</del><br>Bukit Batok Street 33, #01-114,  S650323; | <del title="1.34874387926183,103.698298710842">1.34874, 103.69830</del><br><span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-02
 
 </summary>
