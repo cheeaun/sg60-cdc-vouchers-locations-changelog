@@ -13,6 +13,73 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-05
+
+</summary>
+
+Total locations: 25,166 → 25,203
+
+- <details><summary>Added (37)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 89.7 SUPPER CLUB | 5 Changi Village Road Singapore 500005, #01-2035,  S500005; | <span title="1.38885339963623,103.986845986484">1.38885, 103.98685</span> |
+  | ABANG DOL | 33A Tampines Ave 1,  S529769; | <span title="1.34668096797526,103.930266639617">1.34668, 103.93027</span> |
+  | AH DI ROASTED DELIGHTS-BP | 258 Bukit Panjang Ring Road Bukit Panjang Neighbourhood Centre Singapore 670258, #01-64A,  S670258; | <span title="1.37789653537861,103.773153808687">1.37790, 103.77315</span> |
+  | ALIBABAR THE HAWKER BAR | 125 East Coast Road, 05,  S428810; | <span title="1.30605572715893,103.904751293639">1.30606, 103.90475</span> |
+  | ANGIE HAIRDRESSING & TREATMENT SALON - TPY 20 | 20 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310020, #01-736B,  S310020; | <span title="1.3349672085704,103.857205938309">1.33497, 103.85721</span> |
+  | ASIA BARBER SHOP | 16 Upper Boon Keng Road Boon Keng Ville Singapore 380016, #01-1089,  S380016; | <span title="1.31543175817283,103.871651573593">1.31543, 103.87165</span> |
+  | BREAD CODE ( TP829) | 829 Tampines Street 81 Hdb-tampines Singapore 520829, #01-288,  S520829; | <span title="1.34922419580696,103.934912515373">1.34922, 103.93491</span> |
+  | CAHAYA TIMUR EATING HOUSE | 5 Changi Village Road Singapore 500005, #01-2063,  S500005; | <span title="1.38885339963623,103.986845986484">1.38885, 103.98685</span> |
+  | CURRY KIMCHI | 125 East Coast Road,  S428810; | <span title="1.30605572715893,103.904751293639">1.30606, 103.90475</span> |
+  | D2 BEAUTY | 116 Bukit Merah View Hdb-bukit Merah Singapore 151116, #01-221,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | DIP FRIED CHICKEN | 120 Bukit Merah Lane 1, #01-01,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | EAT BAR (846 YISHUN) | 846 Yishun Ring Road, 5,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | FRASER MEDICAL CENTRE | 78A Telok Blangah Street 32 Dbs Ntuc Telok Blangah Street 32 Singapore 101078, #01-07,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | FUXIN FRUIT (511 CANBERRA ROAD) | 511 Canberra Road, 17,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | GOOD DAY CAFE | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #02-08,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | LOVELY NAIL & BEAUTY | 156 Bukit Batok Street 11 Singapore 650156, #01-13,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | MALA HOT POT-463 SBW | 463 Sembawang Drive,  S750463; | <span title="1.45555388401849,103.81464932384">1.45555, 103.81465</span> |
+  | MASAKAN KAMPUNG SHIOK SEDAP | 28 Dover Crescent,  S130028; | <span title="1.30446092675742,103.781779696748">1.30446, 103.78178</span> |
+  | MING JI FISH SOUP (638 VEERASAMY) | 638 Veerasamy Road,  S200638; | <span title="1.30723342621978,103.85534583569">1.30723, 103.85535</span> |
+  | NAWAB'S RESTAURANT@ YISHUN 343 | 343 Yishun Avenue 11, ST1,  S760343; | <span title="1.42916540049288,103.843888875915">1.42917, 103.84389</span> |
+  | NB MART (510440) | 440 Pasir Ris Drive 4 Dbs Pasir Ris Drive 4 Singapore 510440, #01-17A,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | PEPERONI PIZZERIA | 87 Jalan Satu, #01-02,  S390087; | <span title="1.30920453703351,103.886918300106">1.30920, 103.88692</span> |
+  | PETE'S MEDITERRANEAN PTE. LTD. | 125 East Coast Road,  S428810; | <span title="1.30605572715893,103.904751293639">1.30606, 103.90475</span> |
+  | RAINBOW FISH | 713A Ang Mo Kio Avenue 6, #01-10,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | RY GOODS CORNER | 209 Hougang Street 21, #01-150,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | TANGLIN HALT FISH SOUP BAN MIAN (YEW TEE) | 673B Choa Chu Kang Crescent,  S682673; | <span title="1.40097318180287,103.747961271519">1.40097, 103.74796</span> |
+  | TAY CLINIC | 117 Bedok Reservoir Road Eunos Vista Singapore 470117, #01-62,  S470117; | <span title="1.3314132488271,103.908688936549">1.33141, 103.90869</span> |
+  | THE NEW HAINAN | 76 Circuit Road,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+  | TONG FONG FATT HAINANESE BONELESS CHICKEN RICE (FERNVALE) | 21 Sengkang West Avenue, 03-25,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | TRICHY KR | 929 Tampines Street 91,  S520929; | <span title="1.34639172413315,103.93961398508">1.34639, 103.93961</span> |
+  | VEGANBURG | 44 Jalan Eunos Kembangan Estate Singapore 419502, #01-00,  S419502; | <span title="1.32097941187296,103.905512552867">1.32098, 103.90551</span> |
+  | WOK N WING THAI & LOCAL FOOD | 982 Buangkok Crescent,  S530982; | <span title="1.3808503546459,103.879309094304">1.38085, 103.87931</span> |
+  | YAN REN FLORIST & TRADING | 419 Tampines Street 41 Sun Plaza Gardens Singapore 520419, #01-98,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | YEW YI HUP KEE EATING HOUSE | 23 Kallang Ave,  S339414; | <span title="1.31149300151441,103.865970973896">1.31149, 103.86597</span> |
+  | YONG HUAT HOKKIEN MEE | 125 East Coast Road, 04,  S428810; | <span title="1.30605572715893,103.904751293639">1.30606, 103.90475</span> |
+  | YOU YI TRADITIONAL COFFEE | 86 Market Street, #02-25,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | YU KEE HOUSE OF BRAISED DUCK (470527) | 527 Bedok North Street 3 Hdb-bedok Singapore 460527, #01-514,  S460527; | <span title="1.33391149180203,103.928158574193">1.33391, 103.92816</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 227 NASI LEMAK. BEE HOON. CURRY CHICKEN | <del>681 Hougang Avenue 8, ST7,  S530681;</del><br>1010 Tai Seng Avenue, ST13,  S534417; | <del title="1.37297840284804,103.88567915953">1.37298, 103.88568</del><br><span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | <del>IZ HAIR STUDIO (510625)</del><br>DOUBLEYOU HAIR SALON (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #01-K5,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | <del>ONG SEAFOOD FISH HEAD STEAMBOAD</del><br>HAINANESE CURRY RICE | 820 Tampines Street 81, #01-506,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | <del>ALIF NASI PADANG</del><br>OJO LALI ALIF | <del>335 Smith Street, #02-221,  S050335;</del><br>117 Aljunied Avenue 2, #01-41,  S380117; | <del title="1.2822749605271,103.843238518071">1.28227, 103.84324</del><br><span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | <del>QIONGBIXIAOPADAN</del><br>QB KING PRAWN FRITTER | 24 Sin Ming Road Sin Ming Ville Singapore 570024, #01-49A1,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | <del>RATNAH BINTI HUSSEIN</del><br>TRADITIONAL (CHANGI FAMOUS NASI LEMAK) | 2 Changi Village Road, #01-24,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-04
 
 </summary>
