@@ -13,6 +13,67 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-06
+
+</summary>
+
+Total locations: 25,203 → 25,237
+
+- <details><summary>Added (34)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL ASRIN (304 WOODLANDS) | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | AL MADINA (780) | 780 Woodlands Crescent, ST-11,  S730780; | <span title="1.44834155029683,103.801057143543">1.44834, 103.80106</span> |
+  | ALLAUDDIN'S BRIYANI (3 CHANGI VILLAGE) | 3 Changi Village Road, #01-85,  S500003; | <span title="1.38965834308064,103.988091826679">1.38966, 103.98809</span> |
+  | ALTEJ 323 BUKIT BATOK | 323 Bukit Batok Street 33, 01,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | AM PLANTAE | 127 Plantation Crescent Plantation Village Singapore 690127, #02-20,  S690127; | <span title="1.35759319436135,103.734174851203">1.35759, 103.73417</span> |
+  | AYAM PENYET | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | BAN MIAN & FISH SOUP | 1 Punggol Coast Road, 9,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | BIKE N RIDE | 61 Teban Gardens Road Dbs Teban Gardens Singapore 600061, #01-19,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | CUTTING HOUSE | 283 Bishan Street 22 Singapore 570283, #01-195,  S570283; | <span title="1.3589190712993,103.844748631736">1.35892, 103.84475</span> |
+  | DRINKS | 1 Punggol Coast Road, 13,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | DUO MEI (780) | 780 Woodlands Crescent, ST-07,  S730780; | <span title="1.44834155029683,103.801057143543">1.44834, 103.80106</span> |
+  | E HOME MINMART | 666 Tampines Street 64, #01-06,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | EYELASH AESTHETIC - 464B CLEMENTI | 464B Clementi Avenue 1 Clementi Peaks Singapore 122464, #01-14,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+  | HALAL MINI WOK | 1 Punggol Coast Road, 11,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | HALAL WESTERN | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | HAO TIAN FOOD DELIGHTS | 500 Clemenceau Avenue North, #01-15,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | HAPPY MINI MART PTE LTD | 4 Changi Village Road Hdb-changi Village Rov Singapore 500004, #01-2080,  S500004; | <span title="1.38909635615366,103.98746284567">1.38910, 103.98746</span> |
+  | HENG FRUIT STALL | 137 Tampines Street 11, #01-79,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | HESHUN ROASTED DELIGHTS | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | HONG SHI CHICKEN RICE (513527) | 527C Pasir Ris Street 51, 08,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | KOKOMEE | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | MALA HOTPOT | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | MD FAMILY CLINIC (YISHUN 160) | 160 Yishun Street 11 Apples & Pencils Student Care Singapore 760160, #01-212,  S760160; | <span title="1.4324145460049,103.833344538739">1.43241, 103.83334</span> |
+  | MING LEE PAU DIAN 306A WOODLANDS | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-05,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | NASI PADANG | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | PLANT IDEA LLP | 71 Seng Poh Road Tiong Bahru Estate Singapore 160071, #01-33,  S160071; | <span title="1.28424655193409,103.83250362707">1.28425, 103.83250</span> |
+  | RICE GARDEN (VISTA POINT) | 548 Woodlands Drive 44,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | RU YI XUAN WELLNESS | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4512,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+  | SALAD | 1 Punggol Coast Road, 13B,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | SELETAR SHENG MIAN MEE HOON KWAY | 49 Sims Place, #01-60,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | TAIWAN CUISINE | 1 Punggol Coast Road, 10,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | THE MIGHTY MAIDS | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-479,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | TIONG BAHRU PAU | 30 Seng Poh Road, #02-18,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | TONG JI MIAN SHI | 1 Punggol Coast Road, 12,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DING FENG FISHBALL MINCED MEAT NOODLE 846</del><br>DING FENG FISHBALL MINCED MEAT NOODLE | <del>846 Yishun Ring Road, #01-3637,  S760846;</del><br>80 Marine Parade Central, #01-770,  S440080; | <del title="1.41678634718118,103.834641579241">1.41679, 103.83464</del><br><span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | <del>99 NGOH HIANG PRAWN FRITTERS</del><br>PRAWN NOODLES | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | <del>YU KEE HOUSE OF BRAISED DUCK (470527)</del><br>YU KEE HOUSE OF BRAISED DUCK (460527) | 527 Bedok North Street 3 Hdb-bedok Singapore 460527, #01-514,  S460527; | <span title="1.33391149180203,103.928158574193">1.33391, 103.92816</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-05
 
 </summary>
