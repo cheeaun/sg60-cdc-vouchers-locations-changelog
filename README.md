@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-08
+
+</summary>
+
+Total locations: 25,237 → 25,238
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 168 HOMEMADE WANTON NOODLE @174C HOUGANG | 174C Hougang Ave 1,  S533174; | <span title="1.34912217494098,103.889093320959">1.34912, 103.88909</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-06
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07 Sep 2025",
+  "lastUpdated": "08 Sep 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -9500,6 +9500,26 @@
         }
       },
       "lastResetDate": "2023-07-12"
+    },
+    {
+      "id": "merchant_4c475997-1b31-4560-a4f4-eea07bfb5735",
+      "entityId": "merchant_4c475997-1b31-4560-a4f4-eea07bfb5735",
+      "name": "168 HOMEMADE WANTON NOODLE @174C HOUGANG",
+      "address": "174C Hougang Ave 1,  S533174;",
+      "postalCode": "533174",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34912217494098,
+      "LON": 103.889093320959,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-07"
     },
     {
       "id": "merchant_8cf3fc46-a2ef-4cc7-ac3e-560e4adcc165",
@@ -193959,7 +193979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-11-01"
+      "lastResetDate": "2025-09-07"
     },
     {
       "id": "merchant_ec98da21-b551-403e-af36-d4f1b967a480",
