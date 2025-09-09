@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-09
+
+</summary>
+
+Total locations: 25,238 → 25,256
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH KOON FRESH PORK | 3 Yung Sheng Road, #01-52,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | AH SAM DURIAN | 26A Chai Chee Road Singapore 461026, #01-403,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | ALTAS TELECOM | 806 Hougang Central Hdb-hougang Singapore 530806, #01-156,  S530806; | <span title="1.37107840264494,103.894100080287">1.37108, 103.89410</span> |
+  | BEAUTY NUTRITIOUS SOUP (828 TAMPINES) | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | BOTAK PORRIDGE | 217 Bedok North Street 1,  S460217; | <span title="1.32683721721427,103.933920712718">1.32684, 103.93392</span> |
+  | BUBBLICIOUS BITES PTE LTD | 68 Geylang Bahru Geylang Bahru Ville Singapore 330068, #01-3233B,  S330068; | <span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | DING TAI HONG RAMEN XIAO CHI | 411 Balestier Road, 9,  S329930; | <span title="1.32551185334397,103.849036533963">1.32551, 103.84904</span> |
+  | DRINKS STALL | 132 Bukit Batok West Avenue 6 Hdb-bukit Batok Singapore 650132, #01-306,  S650132; | <span title="1.3506524380389,103.745625196086">1.35065, 103.74563</span> |
+  | EGF ISLAMIC FOOD | 511 Hougang Avenue 10,  S530511; | <span title="1.37207420608508,103.888728981515">1.37207, 103.88873</span> |
+  | FISH SOUP STORY @ FISH TALK | 26 Teck Whye Lane,  S680026; | <span title="1.37762112372223,103.755740001262">1.37762, 103.75574</span> |
+  | FRIENDS DENTAL SURGEONS | 201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1121,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | INR SUPERMARKET PTE. LTD. | 306 Ubi Avenue 1 Singapore 400306, #01-205,  S400306; | <span title="1.32987219692115,103.901929745036">1.32987, 103.90193</span> |
+  | LONG KANG TCM MEDICAL | 531 Bukit Batok Street 51 Hdb-bukit Batok Singapore 650531, #01-132,  S650531; | <span title="1.3562892394455,103.750409715757">1.35629, 103.75041</span> |
+  | MIXED VEG RICE | 132 Bukit Batok West Avenue 6 Hdb-bukit Batok Singapore 650132, #01-306,  S650132; | <span title="1.3506524380389,103.745625196086">1.35065, 103.74563</span> |
+  | PRAWN NOODLE | 132 Bukit Batok West Avenue 6 Hdb-bukit Batok Singapore 650132, #01-306,  S650132; | <span title="1.3506524380389,103.745625196086">1.35065, 103.74563</span> |
+  | SHIN CHOON HIN HOME FURNISHINGS | 413 Sembawang Road Platina Gardens Singapore 758389, #01-413,  S758389; | <span title="1.42758117807953,103.82636735742">1.42758, 103.82637</span> |
+  | SIZZLE & SERVE | 470B Yishun Street 42,  S762470; | <span title="1.42584619116894,103.852260998106">1.42585, 103.85226</span> |
+  | TRUEFRESH MINIMART | 8 Canberra Drive Eight Courtyards Singapore 768141, #01-10,  S768141; | <span title="1.43843379610326,103.830692080977">1.43843, 103.83069</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | XIAO CHU XIAO ZHUO | <del>25 Ghim Moh Link, 01-01,  S270025;</del><br>325 Ubi Avenue 1, 01-707,  S400325; | <del title="1.3081474688469,103.786255228477">1.30815, 103.78626</del><br><span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-08
 
 </summary>
