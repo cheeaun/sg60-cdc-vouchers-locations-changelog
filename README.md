@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-10
+
+</summary>
+
+Total locations: 25,256 → 25,279
+
+- <details><summary>Added (23)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 18 KOPI BREWERIES | 18B Circuit Road,  S372018; | <span title="1.32918105126141,103.888248441219">1.32918, 103.88825</span> |
+  | 18 MIXED VEGETABLE | 18B Circuit Road,  S372018; | <span title="1.32918105126141,103.888248441219">1.32918, 103.88825</span> |
+  | ANG KOK LAM (#01-96) | 85 Bedok North Street 4, #01-96,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | EK CLAYPOT SEAFOOD | 1 Eng Kong Terrace Eng Kong Park Singapore 598973, #01-01,  S598973; | <span title="1.33645990991898,103.768906484256">1.33646, 103.76891</span> |
+  | EK LOR MEE | 1 Eng Kong Terrace Eng Kong Park Singapore 598973, #01-01,  S598973; | <span title="1.33645990991898,103.768906484256">1.33646, 103.76891</span> |
+  | ERNIE'S COFFEE | 49 Stirling Road Singapore 141049, #01-487,  S141049; | <span title="1.29750644501066,103.802257197297">1.29751, 103.80226</span> |
+  | FIFTYFREED BEAUTY BAR (EKT) | 17 Eng Kong Terrace Eng Kong Park Singapore 598989, #01-17,  S598989; | <span title="1.33637757091659,103.768331257157">1.33638, 103.76833</span> |
+  | G BEAUTE | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-98,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | GC SEAFOOD | 1 Geylang Serai, #01-72,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | GRYPHON MEDICAL PTE LTD | 59 New Upper Changi Road Dbs New Upper Changi Road Singapore 461059, #01-1268,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | JIN JIN COOKED FOOD | 254 Jurong East Street 24, #01-35,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | KELLY BEAUTY & HAIR SALON | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-48,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | MAMIKA YISHUN | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | MIXED VEG RICE | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | MOON RIVER CAKE SHOP | 624 Choa Chu Kang Street 62 Ocbc Yew Tee Sqaure Singapore 680624, #01-232,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | MR1 WESTERN FOOD | 289C Compassvale Crescent,  S543289; | <span title="1.39755434235979,103.896797881679">1.39755, 103.89680</span> |
+  | NAMLY VETERINARY SURGERY | 74 Namly Place Namly Animal Clinic Singapore 267223, #01-74,  S267223; | <span title="1.32427158941857,103.796777807119">1.32427, 103.79678</span> |
+  | PHARMEX HEALTHCARE | 20 Toh Yi Drive Bukit Timah Community Club Singapore 596569, #01-01,  S596569; | <span title="1.34044437484729,103.771709459352">1.34044, 103.77171</span> |
+  | RASID | 151 Bedok Reservoir Road,  S470151; | <span title="1.33557619454702,103.911545779692">1.33558, 103.91155</span> |
+  | ROTIKEK | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-860,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | TRI LAB | 1 Changi Village Road Hdb-changi Village Rov Singapore 500001, #01-2012,  S500001; | <span title="1.38854656229022,103.987804503483">1.38855, 103.98780</span> |
+  | WAHYU CORNER | 887 Bukit Timah Road Singapore 279896, #01-887,  S279896; | <span title="1.3327647956674,103.790911243958">1.33276, 103.79091</span> |
+  | WESTFIELD DENTAL SURGERY PTE LTD | 276 Joo Chiat Road Singapore 427530, #01-276,  S427530; | <span title="1.31071585985124,103.901160530478">1.31072, 103.90116</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DELIFISHCIOUS FISH SOUP | <del>16 Bedok South Road, #01-13,  S460016;</del><br>87 Bedok North Street 4, #01-191,  S460087; | <del title="1.32055221938711,103.935539171613">1.32055, 103.93554</del><br><span title="1.33250261426447,103.938587125421">1.33250, 103.93859</span> |
+  | <del>KAM LONG AH ZAI CURRY FISH HEAD</del><br>JB STYLE SHI DA MING CAI | <del>239 Yishun Ring Road,  S760239;</del><br>632 Yishun Street 61, #01-14,  S760632; | <del title="1.43359453113734,103.839686662816">1.43359, 103.83969</del><br><span title="1.41856736783462,103.839186937262">1.41857, 103.83919</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-09
 
 </summary>
