@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-11
+
+</summary>
+
+Total locations: 25,279 → 25,303
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 432 KOWLOON | 432A Bukit Batok West Avenue 8, #01-003,  S651432; | <span title="1.36039110471783,103.74300432438">1.36039, 103.74300</span> |
+  | A TASTE OF KOREA (HILLVIEW) | 91 Hillview Link, K14,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | BAI LI XIANG BEEHOON - 442 CLEMENTI | 442 Clementi Avenue 3,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | BAN MIAN | 332 Ang Mo Kio Avenue 1,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | BEAUTY NUTRITIOUS SOUP | 261 Serangoon Central Drive, 15,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | FAVOUR WESTERN | 153A Serangoon North Avenue 1,  S551153; | <span title="1.36965187438477,103.871952820503">1.36965, 103.87195</span> |
+  | FISH STALL | 262 Serangoon Central Drive, #01-119,  S550262; | <span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+  | FLIPPIN' GOOD PANCAKES | 282 Bedok Road Bedok Shopping Complex Singapore 469438, #01-00,  S469438; | <span title="1.33188959185827,103.948332182832">1.33189, 103.94833</span> |
+  | KEN RELAX HAIR SALON (460539) | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-611,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | KIMLY MVR WEST | 376 Bukit Batok Street 31,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | KLANG BAK KUT TEH (147PP) | 147 Potong Pasir Avenue 1,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+  | LEK AROY THAI | 9 Jurong West Ave 5,  S649487; | <span title="1.34908075400694,103.702881301202">1.34908, 103.70288</span> |
+  | MY SWEETHEARTS (BUANGKOK SQUARE) | 991 Buangkok Link Buangkok Square Singapore 530991, #02-20,  S530991; | <span title="1.38433426615655,103.881623070164">1.38433, 103.88162</span> |
+  | NAMI KOREAN GRILL HOUSE | 18 Greenwood Avenue Hillcrest Park Singapore 289212, #01-18,  S289212; | <span title="1.33144743019719,103.806840779103">1.33145, 103.80684</span> |
+  | PAPA TIAM | 308C Punggol Walk Waterway Terraces I Singapore 823308, #01-306,  S823308; | <span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | PASTRYCO | 432A Bukit Batok West Avenue 8 West Scape @ Bukit Batok Singapore 651432, #01-02,  S651432; | <span title="1.36039110471783,103.74300432438">1.36039, 103.74300</span> |
+  | R ITALIAN KITCHEN & SMOKEHOUSE | 12 Greenwood Avenue Hillcrest Park Singapore 289204, #01-12,  S289204; | <span title="1.33125181496525,103.807022479677">1.33125, 103.80702</span> |
+  | SEASONAL BREW PTE. LTD. | 26A Chai Chee Road Singapore 461026, #01-387,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | SULTAN CURRY SG - TANJONG PAGAR | 7 Tanjong Pagar Plaza Hdb-central Area Singapore 081007, #02-101,  S081007; | <span title="1.27712012183459,103.843117743777">1.27712, 103.84312</span> |
+  | TEETH @ TIONG BAHRU DENTAL CLINIC | 11A Boon Tiong Road Dbs Boon Tiong ROAD/11A Singapore 161011, #01-12,  S161011; | <span title="1.28636578112537,103.828789865607">1.28637, 103.82879</span> |
+  | TIAN TIAN WANG HAINANESE CHICKEN RICE (AV) | 120 Bukit Merah Lane 1, #01-43,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | TRADITIONAL MIXED RICE PORRIDGE | 602B Tampines Avenue 9,  S522602; | <span title="1.36138884982369,103.937648040157">1.36139, 103.93765</span> |
+  | VALUE DOLLAR | 308C Punggol Walk Waterway Terraces I Singapore 823308, #01-352,  S823308; | <span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | WAFFLE | 1 Punggol Coast Road, ST13B,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-10
 
 </summary>
