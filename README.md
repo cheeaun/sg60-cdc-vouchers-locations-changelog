@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-12
+
+</summary>
+
+Total locations: 25,303 → 25,321
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABANG DOL | 35 Students Walk Nanyang Technological University (canteen 2) Singapore 639548, #01-01,  S639548; | <span title="1.34842266576961,103.685434201207">1.34842, 103.68543</span> |
+  | AH WEI FISH AND PETS | 272 Tampines Street 22 Ascenda Educare Centre Before & After School Care Singapore 520272, #01-24,  S520272; | <span title="1.34915940818726,103.950281490906">1.34916, 103.95028</span> |
+  | AR RAHEEMS CAFE | 261 Serangoon Central Drive,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | BEAULIEU HOUSE (SEMBAWANG SEAFOOD PARADISE) | 117 Beaulieu Road Beaulieu House Singapore 759837, #01-117,  S759837; | <span title="1.46337679563995,103.836877257033">1.46338, 103.83688</span> |
+  | BEAUTY NUTRITIOUS SOUP SIMEI | 248 Simei Street 3, 136,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | HAPIHA MEDITERRANEAN TAVERNA | 5 Ridgewood Close Ridgewood Condominium Singapore 276696, #01-G1,  S276696; | <span title="1.3166189803866,103.77894725541">1.31662, 103.77895</span> |
+  | HONG LIM CURRY PUFF (AV) | 120 Bukit Merah Lane 1, #01-53,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | MAN TANG XIANG INCENSE | 105 Hougang Avenue 1, #01-111,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | MK SUPERMARKET - 194 KIM KEAT | 194 Kim Keat Avenue Kim Keat View Singapore 310194, #01-410,  S310194; | <span title="1.33093933675526,103.858181909317">1.33094, 103.85818</span> |
+  | MUHAMMAD DANISH PRATA PARADISE | 21 Sengkang West Avenue, 03-19,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | NSPDR | 50 Nanyang Avenue Cornell-nanyang Institute Of Hospitality Management (blk S3) (ntu) Singapore 639798, #01-23,  S639798; | <span title="1.34421841586272,103.680152218583">1.34422, 103.68015</span> |
+  | RIDERSHOP | 932 Yishun Central 1 Hdb-yishun Singapore 760932, #01-91,  S760932; | <span title="1.42636217632588,103.837150418219">1.42636, 103.83715</span> |
+  | SANTIAGO SALON | 443 Pasir Ris Drive 6 Singapore 510443, #01-22,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | SIMEI CLINIC & SURGERY PTE LTD | 248 Simei Street 3 Singapore 520248, #01-132,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | THE BETTER SPINE | 261 Waterloo Street Saint Vincent Home Singapore 180261, #02-03,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | TOTOFISH (111 WOODLAND) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | WEI LEI MIXED VEG RICE | 239 Boon Lay Drive Boon Lay Glade Singapore 640239, #01-01,  S640239; | <span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | Y2K | 524A Jelapang Road Amazing Star Montessori House (greenridge) Singapore 671524, #02-08,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-11
 
 </summary>
