@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-13
+
+</summary>
+
+Total locations: 25,321 → 25,340
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANG SEAFOOD | 1 Geylang Serai, #01-71,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | BUKIT HO SWEE 1961 | 664 Yishun Avenue 4,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | DELICIOUS FROZEN FOOD | 69 Geylang Bahru, #01-79,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | H.K. FACIAL CENTRE | 410 Ang Mo Kio Avenue 10 Singapore 560410, #01-855,  S560410; | <span title="1.36271541988052,103.854644986527">1.36272, 103.85464</span> |
+  | HAPPY KAMPONG SEAFOOD | 81 Jalan Malu-malu Kindol Gardens Singapore 769689, #01-00,  S769689; | <span title="1.44381831625272,103.825776599411">1.44382, 103.82578</span> |
+  | HE XIN HERBAL SOUP (136) | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | HENG LONG -328 CLEMENTI | 328 Clementi Avenue 2,  S120328; | <span title="1.31399161476536,103.767089003977">1.31399, 103.76709</span> |
+  | HOCK KEE PRAWN NOODLES (608 AMK) | 608 Ang Mo Kio Avenue 5,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | HOUSE OF BALINESE TRADITIONAL MASSAGE | 7 Thong Soon Avenue Springleaf Garden Singapore 787434, #01-7,  S787434; | <span title="1.39727619089993,103.818756588709">1.39728, 103.81876</span> |
+  | INTEGRATIVE CHIROPRACTIC | 3 Queen's Road Farrer Gardens Singapore 260003, #02-155B,  S260003; | <span title="1.31833337221312,103.808097181789">1.31833, 103.80810</span> |
+  | LIFELINE MEDICAL GROUP - SENGKANG PTE. LTD. | 118 Rivervale Drive Dbs Ntuc Rivervale Plaza Singapore 540118, #02-18,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | MS AIYU | 409 Ang Mo Kio Avenue 10, #01-16,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | SELEMAK PAGI (126 CANBERRA STREET) | 126 Canberra Street,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | SHISHEN CLAYPOT RICE JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | SPRINGLEAF MEDICAL | 908 Upper Thomson Road Singapore 787111, #01-908D,  S787111; | <span title="1.39839872235907,103.818358038123">1.39840, 103.81836</span> |
+  | THE SEMMA BISTRO | 60 Springside Walk The Brooks I Singapore 786020, #01-19,  S786020; | <span title="1.40480911505593,103.819465500143">1.40481, 103.81947</span> |
+  | THREE BY GARAMIKA (SPRINGLEAF) | 1218 Upper Thomson Road Singapore 787136, #01-2,  S787136; | <span title="1.40110374568599,103.81757902474">1.40110, 103.81758</span> |
+  | YISHUN LIFE SEAFOOD | 1 Jalan Legundi Sembawang Garden Arcade Singapore 759263, #01-01,  S759263; | <span title="1.44138235091789,103.823872867498">1.44138, 103.82387</span> |
+  | YU YUAN VEGETARIAN (460538) | 538 Bedok North Street 3, #01-108,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-12
 
 </summary>
