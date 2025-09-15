@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 Sep 2025",
+  "lastUpdated": "15 Sep 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -350925,7 +350925,7 @@
       "id": "merchant_4b252df0-bb3d-411c-9c43-b7f23b4e6b46",
       "entityId": "merchant_4b252df0-bb3d-411c-9c43-b7f23b4e6b46",
       "name": "PREMIER LIGHTING CENTRE",
-      "address": "37 Circuit Road Brighton Connection Student Care Centre Singapore 370037, #01-389,  S370037;",
+      "address": "37 Circuit Road, #01-389,  S370037;",
       "postalCode": "370037",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32817782909926,
@@ -350939,7 +350939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-29"
+      "lastResetDate": "2025-09-14"
     },
     {
       "id": "merchant_b38d3abf-eb5b-4411-9c26-70486e42ffad",

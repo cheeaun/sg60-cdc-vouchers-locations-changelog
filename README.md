@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-15
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | PREMIER LIGHTING CENTRE | <del>37 Circuit Road Brighton Connection Student Care Centre Singapore 370037, #01-389,  S370037;</del><br>37 Circuit Road, #01-389,  S370037; | <span title="1.32817782909926,103.88647835429">1.32818, 103.88648</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-13
 
 </summary>
