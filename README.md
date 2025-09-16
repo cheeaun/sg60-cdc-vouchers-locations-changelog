@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-16
+
+</summary>
+
+Total locations: 25,340 → 25,365
+
+- <details><summary>Added (25)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 308 SEAFOOD | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | AI LYN ENTERPRISE | 6 Beach Road Beach Road Gardens Singapore 190006, #01-4861,  S190006; | <span title="1.30399231690916,103.864419251804">1.30399, 103.86442</span> |
+  | AL AAFIYA CRISPY PRATA | 435A Hougang Avenue 8, ST6,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | BIBIMBAR | 212 Bidadari Park Drive Woodleigh Hillside Singapore 360212, #03-11,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | CHUAN CHENG HONG KONG ROASTED | 435A Hougang Avenue 8,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | FANGHONG HAIRCARE | 422 Ang Mo Kio Avenue 3 Chong Boon View Singapore 560422, #01-2538,  S560422; | <span title="1.36799988809778,103.851873942231">1.36800, 103.85187</span> |
+  | FUSION (STALL 8) | 27 Woodlands Avenue 9 Republic Polytechnic Singapore 737909, #01-08,  S737909; | <span title="1.44496816514049,103.785362406892">1.44497, 103.78536</span> |
+  | GRILL HOUSE@HG932 | 932 Hougang Avenue 9,  S530932; | <span title="1.37517548118185,103.881990913099">1.37518, 103.88199</span> |
+  | IBEAUTY WELLNESS (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-22B,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | IPOH TASTE (460539) | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | JOOF HOLISTIC PET | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1649,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | KSKIN FACIAL GREENRIDGE SC | 524A Jelapang Road Amazing Star Montessori House (greenridge) Singapore 671524, #02-10A,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | KSKIN FACIAL LIMBANG | 534 Choa Chu Kang Street 51 Limbang Shopping Centre Singapore 680534, #01-05,  S680534; | <span title="1.3922424057206,103.743190997915">1.39224, 103.74319</span> |
+  | PERFECT STUDIO | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1675A,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | PHYSIO FRIEND | 954C Tampines Street 96 Tampines Greengem Singapore 523954, #01-01,  S523954; | <span title="1.34218392786105,103.93682618882">1.34218, 103.93683</span> |
+  | POTS & PRAWNS | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | SONGYANG FISH TALE (147 PP) | 147 Potong Pasir Avenue 1,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+  | SRI MAHARANI STORE | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-224,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | TECK EE MIXED VEG RICE | 59 Marine Terrace,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | TIONG BAHRU LOR MEE | 51 Old Airport Road, #01-124,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | TURKISH KEBAB CORNER (WDLS MART) | 768 Woodlands Avenue 6, ST05,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | WAN JIA BAN MIAN (KOUFU STALL 3) | 9 Woodlands Avenue 9 Dbs Republic Polytechnic Singapore 738964, #01-03,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | XIN HAI ROASTED DELIGHTS HAVELOCK | 51 Havelock Road,  S161051; | <span title="1.2899461903129,103.827679724834">1.28995, 103.82768</span> |
+  | YAN XIANG FISH SOUP | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | ZHENGXIANFANG | Woodlands Street 12,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>YUAN ZHI YAO CAI JI</del><br>183 HAINANESE CHICKEN RICE KEPONG BARU | 270 Queen Street, #01-83,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | HE SHUN | <del>462 Crawford Lane,  S190462;</del><br>982 Buangkok Crescent, #02-01,  S530982; | <del title="1.30458618029941,103.860840750826">1.30459, 103.86084</del><br><span title="1.3808503546459,103.879309094304">1.38085, 103.87931</span> |
+  | LING JI HANDMADE YONG TAU FOO | <del>63 Kallang Bahru,  S330063;</del><br>57 Geylang Bahru, #01-3521,  S330057; | <del title="1.32100020851204,103.868321383856">1.32100, 103.86832</del><br><span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | SIM LIM SQUARE MINCED PORK NOODLE | <del>63 Kallang Bahru, #01-443,  S330063;</del><br>68 Geylang Bahru, #01-3201,  S330068; | <del title="1.32100020851204,103.868321383856">1.32100, 103.86832</del><br><span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | UNCLE PETER HOKKIEN MEE (LENGKOK BAHRU) | <del>55 Lengkok Bahru,  S151055;</del><br>127 Bukit Merah Lane 1, #01-230,  S150127; | <del title="1.28744981772847,103.81344506122">1.28745, 103.81345</del><br><span title="1.28532858968794,103.803396774073">1.28533, 103.80340</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-15
 
 </summary>
