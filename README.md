@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-17
+
+</summary>
+
+Total locations: 25,365 → 25,381
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #11 HENG KEE 548 | 548 Woodlands Drive 44, 11,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | ASIA GHANI JAMU SELERA CHICKEN RICE 570A CHAMPIONS COURT | 570A Woodlands Avenue 1,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | F5 HAIR | 464B Clementi Avenue 1 Clementi Peaks Singapore 122464, #01-15,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+  | FRESH EGGS (01-171) | 1 Geylang Serai, #01-171,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | GENTLEMAN BARBER SHOP - FAJAR RD | 445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #02-524A,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+  | GRANDPA'S KITCHEN MALA XIANG GUO | 51 Yishun Avenue 11, #01-36,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | HENG KEE FRESH & FROZEN FOOD PTE LTD (294 YISHUN) | 294 Yishun Street 22, #01-319,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+  | HENG KEE WET MARKET - FAJAR RD | 446 Fajar Road, 5,  S670446; | <span title="1.38400582466296,103.771029603101">1.38401, 103.77103</span> |
+  | JU BAO XUAN | 51 Tampines Avenue 4, #01-49,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | KOFFEE TIME 568C CHAMPIONS WAY | 568C Champions Way, 2,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | PADANG EXPRESS INDO DELIGHT | 51 Yishun Avenue 11, #01-03,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | PEPPERCORN CLAYPOT DELIGHTS (848 YISHUN) | 848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | S GRILL HOUSE | 18 Toh Yi Drive,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | SEAFOOD PARADISE SG PTE LTD | 85 Bedok North Street 4, #01-174,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | SEAFOOD PARADISE SG PTE LTD | 85 Bedok North Street 4, #01-174,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | WOW CHICKEN RICE JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DING JI KLANG BAK KUT TEH</del><br>LAO HUO TANG (435A HG) | <del>982 Buangkok Crescent,  S530982;</del><br>435A Hougang Ave 8, 01-01,  S531435; | <del title="1.3808503546459,103.879309094304">1.38085, 103.87931</del><br><span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | <del>LEGACY SEAFOOD</del><br>SUNSET MOOKATA | 106 Clementi Street 12 Sunset Way Residence Singapore 120106, #01-054,  S120106; | <span title="1.32191467282846,103.769815226286">1.32191, 103.76982</span> |
+  | WANG JIAO SEAFOOD RESTAURANT | <del>293 Yishun Street 22,  S760293;</del><br>239 Yishun Ring Road, #01-1150,  S760239; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-16
 
 </summary>
