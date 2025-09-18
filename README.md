@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-18
+
+</summary>
+
+Total locations: 25,381 → 25,400
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 107 DURIAN BROTHER PTE LTD | 88 Circuit Road Hdb-geylang Singapore 370088, #01-967,  S370088; | <span title="1.32354065999154,103.885851746701">1.32354, 103.88585</span> |
+  | AZIZ INDIAN MUSLIM FOOD | 167 Woodlands Street 11,  S730167; | <span title="1.43359370586711,103.775884057946">1.43359, 103.77588</span> |
+  | DING DONG FOOD | 1220 East Coast Parkway, #01-25,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | DURIAN CONNECTION | 20 Ghim Moh Road, #01-122,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | ELITE DE' SALON & BEAUTY | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-356,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | GUO CHANG MALA | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | HAVE A PUFF | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | JIA CHENG NOODLE HOUSE (151 AMK) | 151 Ang Mo Kio Avenue 5, 6,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+  | LAVISH BEAUTY & HAIR SALON | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-370,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | LHC FRUITS@HG682 | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-338,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | MIXED VEGETABLES RICE | 283 Bukit Batok East Avenue 3,  S650283; | <span title="1.34694365753899,103.757539380939">1.34694, 103.75754</span> |
+  | OTOPOT MART | 31 Marsiling Drive Marsiling Sapphire Singapore 730031, #01-325,  S730031; | <span title="1.44298595480646,103.772342694658">1.44299, 103.77234</span> |
+  | PHYSIO AND SOLE CLINIC (KOVAN) | 247 Hougang Avenue 3 Brainy Bunch International Montessori Singapore 530247, #01-444A,  S530247; | <span title="1.35916575005657,103.891524293017">1.35917, 103.89152</span> |
+  | PHYSIO AND SOLE CLINIC (YISHUN) PTE LTD | 807 Yishun Ring Road Khatib Gardens Singapore 760807, #01-4199,  S760807; | <span title="1.41649875808134,103.831578419935">1.41650, 103.83158</span> |
+  | PRESTO DRYCLEANERS | 1 Lorong Mambong, #01-03,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | RONG YAO CHEN | 24 Sin Ming Road,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | SRI NADI TRADERS PTE.LTD. | 44 Owen Road Hdb-kallang/whampoa Singapore 210044, #01-317,  S210044; | <span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | TEO CHEW FOOD STALL | 163 Bukit Merah Central, #02-34,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | THE NOOK ( SERANGOON NORTH ) | 152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-354,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BAO BAO 108 HAINANESE CHICKEN RICE</del><br>BAOBAO 108 GEYLANG SEAFOOD | <del>335 Smith Street, #02-176,  S050335;</del><br>68 Geylang Bahru, #01-3201,  S330068; | <del title="1.2822749605271,103.843238518071">1.28227, 103.84324</del><br><span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | <del>LAO HUO TANG (435A HG)</del><br>DING JI KLANG BAK KUT TEH | 435A Hougang Ave 8, 01-01,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | SUI XIN WU JAPANESE FOOD | <del>421 Ang Mo Kio Avenue 10,  S560421;</del><br>435A Hougang Ave 8, #01-01,  S531435; | <del title="1.36538422642267,103.852966961527">1.36538, 103.85297</del><br><span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | <del>53 CHICKEN RICE</del><br>VICTORIA HAINANESE CHICKEN RICE | <del>53 Sims Place,  S380053;</del><br>53 Sims Place, #01-150,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | <del>CHUAN WEI CAI GUAN</del><br>YONG KEE SICHUAN FISH SOUP | <del>116 Aljunied Avenue 2, #01-65,  S380116;</del><br>45 Sims Drive, #01-150,  S380045; | <del title="1.32124570546254,103.886700619832">1.32125, 103.88670</del><br><span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-17
 
 </summary>
