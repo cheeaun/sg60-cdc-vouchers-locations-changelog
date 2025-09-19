@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-19
+
+</summary>
+
+Total locations: 25,400 → 25,424
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 8282 HAINANESE CHICKEN RICE | 56 New Upper Changi Road,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | 99 MARKET ( GHIM MOH ) | 19 Ghim Moh Road Hdb-ghim Moh Singapore 270019, #01-249C,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | ANAK RAHMAH MALAY CUISINE | 89 Circuit Road, #01-97,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | BAIXING MIAN ZHUANG | 32 New Market Road, #01-1048,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | BEANO (AMK 713A) | 713A Ang Mo Kio Avenue 6, #01-03,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | BROTHERS CHIN FRESH AND FRUITS SHOP (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3653,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | CARE FAMILY CLINIC PTE. LTD. | 663 Buffalo Road Zhujiao Centre (tekka Market) Singapore 210663, #01-12,  S210663; | <span title="1.30568031708633,103.850857724971">1.30568, 103.85086</span> |
+  | CHOY KEE TEXTILE | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #02-1152,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | COCO PAWS PRIVATE LIMITED | 338 Jurong East Avenue 1 Hdb-jurong East Singapore 600338, #01-1638,  S600338; | <span title="1.3502205690563,103.731260625944">1.35022, 103.73126</span> |
+  | DELI DELIGHT | 204 Serangoon Central,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | DOUNILE | 453A Ang Mo Kio Avenue 10, #01-71,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | GEORGIE DE SALON (AMK 712A) | 712A Ang Mo Kio Avenue 6 Dbs Ang Mo Kio Central Branch Singapore 561712, #02-4058,  S561712; | <span title="1.37087284313191,103.846806941877">1.37087, 103.84681</span> |
+  | HENG HENG HERBAL SOUP (SEAH IM) | 2 Seah Im Rd, 19,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | KEDAI FROZEN (HALAL) | 631 Ang Mo Kio Avenue 4 Yio Chu Kang View Singapore 560631, #01-922,  S560631; | <span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+  | KUN KEE ROASTED | 308 Clementi Avenue 4,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | MALA HOTPOT 527 (513527) | 527C Pasir Ris Street 51, 003,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | MOBILE 96 | 503 Tampines Central 1 Tampines Heart Singapore 520503, #01-297,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | MZZD FISHBALL NOODLE (510623) | 623 Elias Road, 8,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | POPULAR CHANDINI'S FASHION | 665 Buffalo Road, #02-114,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | SHENG KEE BIG PRAWN NOODLE | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | SOON HENG COFFEE STALL | 89 Circuit Road, #01-108,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | SWEETHEART FRUIT SHOP | 215 Ang Mo Kio Avenue 1,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | TURKISH KEBAB & GRILL | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | YUMMY PANCAKE (AMK 631) | 631 Ang Mo Kio Avenue 4,  S560631; | <span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | TEOCHEW MIXED VEG RICE | <del>539 Bedok North Street 3, #01-593,  S460539;</del><br>19 Ghim Moh Road, #01-229,  S270019; | <del title="1.33131386579703,103.925307290709">1.33131, 103.92531</del><br><span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-18
 
 </summary>
