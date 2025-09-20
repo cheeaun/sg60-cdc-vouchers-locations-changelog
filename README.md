@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-20
+
+</summary>
+
+Total locations: 25,424 → 25,436
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 360 CELSIUS GRILLED FISH (TPY | 480 Lorong 6 Toa Payoh, ST15,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | A. CUT ABOVE SALON | 34 Jalan Bukit Ho Swee The Beo Crescent Singapore 160034, #01-850,  S160034; | <span title="1.28807687600985,103.82708127923">1.28808, 103.82708</span> |
+  | CARING MEDICAL CLINIC WOODLANDS | 568B Champions Way, #01-14,  S732568; | <span title="1.42760529299147,103.789680732518">1.42761, 103.78968</span> |
+  | DING FENG FISHBALL NOODLE | 239 Boon Lay Drive Boon Lay Glade Singapore 640239, #01-02,  S640239; | <span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | HOT & COOL CAFE | 1 Bedok Road, #01-21,  S469572; | <span title="1.32034716834128,103.955480570427">1.32035, 103.95548</span> |
+  | HUA JIE DUMPLING (MARGARET DRIVE) | 38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #01-02,  S141038; | <span title="1.29773598434542,103.804319690649">1.29774, 103.80432</span> |
+  | KELLY'S BEAUTY & HAIR SALON | 36 Beo Crescent Cs Montessori Kindergarten @ Tiong Bahru Singapore 160036, #01-29,  S160036; | <span title="1.28835977080873,103.827056911096">1.28836, 103.82706</span> |
+  | MKH ROTI PRATA | 17 Upper Boon Keng Road, #01-27,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | MUTIARA LAUT SEAFOOD | 308C Punggol Walk,  S823308; | <span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | STREET OF BANGKOK JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | TIONG SHIAN GROUP PTE. LTD. | 82 Whampoa Drive,  S320082; | <span title="1.32387379240679,103.856482753763">1.32387, 103.85648</span> |
+  | WHAMPOA DRINKS STALL | 87 Whampoa Drive,  S320087; | <span title="1.32328917067445,103.855735557842">1.32329, 103.85574</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TEOCHEW MIXED VEG RICE</del><br>CHANG HONG TEOCHEW PORRIDGE | 19 Ghim Moh Road, #01-229,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-19
 
 </summary>

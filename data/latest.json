@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Sep 2025",
+  "lastUpdated": "20 Sep 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -14762,6 +14762,26 @@
       "lastResetDate": "2023-12-06"
     },
     {
+      "id": "merchant_c130b114-2daf-426a-aadd-364271ef802b",
+      "entityId": "merchant_c130b114-2daf-426a-aadd-364271ef802b",
+      "name": "360 CELSIUS GRILLED FISH (TPY",
+      "address": "480 Lorong 6 Toa Payoh, ST15,  S310480;",
+      "postalCode": "310480",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33202548854255,
+      "LON": 103.848335264381,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_6c3740ba-50da-42be-9980-f4684149d3c0",
       "entityId": "merchant_6c3740ba-50da-42be-9980-f4684149d3c0",
       "name": "360 CLINIC",
@@ -26080,6 +26100,26 @@
         }
       },
       "lastResetDate": "2021-12-22"
+    },
+    {
+      "id": "merchant_12d41d8a-13e5-4e15-983d-bd8ff8c5b414",
+      "entityId": "merchant_12d41d8a-13e5-4e15-983d-bd8ff8c5b414",
+      "name": "A. CUT ABOVE SALON",
+      "address": "34 Jalan Bukit Ho Swee The Beo Crescent Singapore 160034, #01-850,  S160034;",
+      "postalCode": "160034",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28807687600985,
+      "LON": 103.82708127923,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_95c58705-d74e-4419-84f2-41a5f3e9f90f",
@@ -42599,7 +42639,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-30"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_88564faa-70c3-4070-9165-e532af15ceee",
@@ -82122,6 +82162,26 @@
       "lastResetDate": "2024-12-16"
     },
     {
+      "id": "merchant_4a6f5cc2-dfb7-49ba-b845-2384395137bf",
+      "entityId": "merchant_4a6f5cc2-dfb7-49ba-b845-2384395137bf",
+      "name": "CARING MEDICAL CLINIC WOODLANDS",
+      "address": "568B Champions Way, #01-14,  S732568;",
+      "postalCode": "732568",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42760529299147,
+      "LON": 103.789680732518,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_75329884-82ed-48d7-b007-b6988fe059f6",
       "entityId": "merchant_75329884-82ed-48d7-b007-b6988fe059f6",
       "name": "CARING SKILLFUL MASSAGE",
@@ -86000,6 +86060,26 @@
         }
       },
       "lastResetDate": "2022-01-28"
+    },
+    {
+      "id": "merchant_b2294ccd-50d1-4cbc-a4c6-93e40bb9f715",
+      "entityId": "merchant_b2294ccd-50d1-4cbc-a4c6-93e40bb9f715",
+      "name": "CHANG HONG TEOCHEW PORRIDGE",
+      "address": "19 Ghim Moh Road, #01-229,  S270019;",
+      "postalCode": "270019",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31143852315951,
+      "LON": 103.788298892377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_d1a026e0-3062-4435-ac97-a4e49d3eb8ab",
@@ -118680,6 +118760,26 @@
         }
       },
       "lastResetDate": "2025-09-05"
+    },
+    {
+      "id": "merchant_0eee7723-ecf4-4126-aa92-9c9752f1bba2",
+      "entityId": "merchant_0eee7723-ecf4-4126-aa92-9c9752f1bba2",
+      "name": "DING FENG FISHBALL NOODLE",
+      "address": "239 Boon Lay Drive Boon Lay Glade Singapore 640239, #01-02,  S640239;",
+      "postalCode": "640239",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34152624240492,
+      "LON": 103.710957140208,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_077d0284-8dee-4766-be13-3de6bfb8da23",
@@ -207902,6 +208002,26 @@
       "lastResetDate": "2021-11-01"
     },
     {
+      "id": "merchant_3c7b5932-638c-46b5-b7dc-b89225fce325",
+      "entityId": "merchant_3c7b5932-638c-46b5-b7dc-b89225fce325",
+      "name": "HOT & COOL CAFE",
+      "address": "1 Bedok Road, #01-21,  S469572;",
+      "postalCode": "469572",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32034716834128,
+      "LON": 103.955480570427,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_bb340912-ec8f-496a-914b-eb3d96387f1d",
       "entityId": "merchant_bb340912-ec8f-496a-914b-eb3d96387f1d",
       "name": "HOT & GRILL GASTRONOMY",
@@ -209740,6 +209860,26 @@
         }
       },
       "lastResetDate": "2024-06-21"
+    },
+    {
+      "id": "merchant_d8a43515-2541-4436-85dc-ae4bad7de3a0",
+      "entityId": "merchant_d8a43515-2541-4436-85dc-ae4bad7de3a0",
+      "name": "HUA JIE DUMPLING (MARGARET DRIVE)",
+      "address": "38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #01-02,  S141038;",
+      "postalCode": "141038",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29773598434542,
+      "LON": 103.804319690649,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_1b0da6de-78d4-4187-953a-ad12d7fc36a3",
@@ -226079,7 +226219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-06-16"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_9bf145c0-362b-4fe2-956b-77019d39b05c",
@@ -247122,6 +247262,26 @@
       "lastResetDate": "2025-07-22"
     },
     {
+      "id": "merchant_ffa82f8b-2462-4bbb-b615-d31b71602d48",
+      "entityId": "merchant_ffa82f8b-2462-4bbb-b615-d31b71602d48",
+      "name": "KELLY'S BEAUTY & HAIR SALON",
+      "address": "36 Beo Crescent Cs Montessori Kindergarten @ Tiong Bahru Singapore 160036, #01-29,  S160036;",
+      "postalCode": "160036",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28835977080873,
+      "LON": 103.827056911096,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_0041ab66-f03a-4429-9822-d56c4b72d233",
       "entityId": "merchant_0041ab66-f03a-4429-9822-d56c4b72d233",
       "name": "KELLY'S BEAUTY SERVICES",
@@ -250499,7 +250659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-29"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_3a0582c3-1497-4567-9b51-eecd657f7fa6",
@@ -284319,7 +284479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-18"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_b7ed9dce-fe9a-41de-970e-2d7399dac8b1",
@@ -306722,6 +306882,26 @@
       "lastResetDate": "2025-01-13"
     },
     {
+      "id": "merchant_212d2d69-2aa3-402c-8665-7add38f9e478",
+      "entityId": "merchant_212d2d69-2aa3-402c-8665-7add38f9e478",
+      "name": "MKH ROTI PRATA",
+      "address": "17 Upper Boon Keng Road, #01-27,  S380017;",
+      "postalCode": "380017",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31502841514731,
+      "LON": 103.87162041674,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_b9b4227a-799e-4f36-8f85-7a98453cca04",
       "entityId": "merchant_b9b4227a-799e-4f36-8f85-7a98453cca04",
       "name": "MKHT",
@@ -314180,6 +314360,26 @@
         }
       },
       "lastResetDate": "2025-03-03"
+    },
+    {
+      "id": "merchant_e43d2e7c-39bd-472a-960c-d31ed0742067",
+      "entityId": "merchant_e43d2e7c-39bd-472a-960c-d31ed0742067",
+      "name": "MUTIARA LAUT SEAFOOD",
+      "address": "308C Punggol Walk,  S823308;",
+      "postalCode": "823308",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40800694944027,
+      "LON": 103.899074357998,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_245ea252-7cdf-43ce-a5fd-8606fa51f8aa",
@@ -347639,7 +347839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-05-03"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_4b08dd77-0454-46ca-8be1-c335fad7b33e",
@@ -413202,6 +413402,26 @@
       "lastResetDate": "2024-01-07"
     },
     {
+      "id": "merchant_7d71706c-c3e6-404c-81fe-3ca5922e9257",
+      "entityId": "merchant_7d71706c-c3e6-404c-81fe-3ca5922e9257",
+      "name": "STREET OF BANGKOK JE134",
+      "address": "134 Jurong Gateway Road,  S600134;",
+      "postalCode": "600134",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33399413849743,
+      "LON": 103.738819152518,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_28217e0d-9bec-48b8-a547-2f0db417c09f",
       "entityId": "merchant_28217e0d-9bec-48b8-a547-2f0db417c09f",
       "name": "STREETWISE",
@@ -431162,26 +431382,6 @@
       "lastResetDate": "2021-11-11"
     },
     {
-      "id": "merchant_b2294ccd-50d1-4cbc-a4c6-93e40bb9f715",
-      "entityId": "merchant_b2294ccd-50d1-4cbc-a4c6-93e40bb9f715",
-      "name": "TEOCHEW MIXED VEG RICE",
-      "address": "19 Ghim Moh Road, #01-229,  S270019;",
-      "postalCode": "270019",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.31143852315951,
-      "LON": 103.788298892377,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-09-18"
-    },
-    {
       "id": "merchant_cc1b6fd6-03d3-48c6-8c2d-596ade317062",
       "entityId": "merchant_cc1b6fd6-03d3-48c6-8c2d-596ade317062",
       "name": "TEOCHEW NOODLE HOUSE",
@@ -444800,6 +445000,26 @@
         }
       },
       "lastResetDate": "2025-09-03"
+    },
+    {
+      "id": "merchant_4fdbc6e7-a3d0-414e-bef1-b5ab62539588",
+      "entityId": "merchant_4fdbc6e7-a3d0-414e-bef1-b5ab62539588",
+      "name": "TIONG SHIAN GROUP PTE. LTD.",
+      "address": "82 Whampoa Drive,  S320082;",
+      "postalCode": "320082",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32387379240679,
+      "LON": 103.856482753763,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_33c8f9a4-b8eb-4a15-aa49-1811fff0c272",
@@ -473002,6 +473222,26 @@
       "lastResetDate": "2023-12-07"
     },
     {
+      "id": "merchant_55b32b3e-213c-468a-a5df-d3d0075da53c",
+      "entityId": "merchant_55b32b3e-213c-468a-a5df-d3d0075da53c",
+      "name": "WHAMPOA DRINKS STALL",
+      "address": "87 Whampoa Drive,  S320087;",
+      "postalCode": "320087",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32328917067445,
+      "LON": 103.855735557842,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-19"
+    },
+    {
       "id": "merchant_feeedc92-dae5-40bf-9aac-4a6fc0635cf7",
       "entityId": "merchant_feeedc92-dae5-40bf-9aac-4a6fc0635cf7",
       "name": "WHAMPOA FAMOUS KE KOU MIAN & WU XIANG",
@@ -477359,7 +477599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-08-08"
+      "lastResetDate": "2025-09-19"
     },
     {
       "id": "merchant_af13a403-f135-4a23-b3cf-715c189db12d",
