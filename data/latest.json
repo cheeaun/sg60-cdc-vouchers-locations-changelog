@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Sep 2025",
+  "lastUpdated": "23 Sep 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -50420,6 +50420,26 @@
         }
       },
       "lastResetDate": "2023-10-11"
+    },
+    {
+      "id": "merchant_d4ad445e-eb02-4d78-9c1d-10b6dc55cb80",
+      "entityId": "merchant_d4ad445e-eb02-4d78-9c1d-10b6dc55cb80",
+      "name": "APMA FOODS",
+      "address": "107 Lorong 1 Toa Payoh Dbs Toa Payoh North Branch Singapore 310107, #01-264,  S310107;",
+      "postalCode": "310107",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34121948900326,
+      "LON": 103.847288831588,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_e0105798-bc75-4bf8-9c1a-a8ec26249267",
@@ -187122,6 +187142,26 @@
       "lastResetDate": "2022-05-26"
     },
     {
+      "id": "merchant_2aa2e445-991a-4a96-97c6-3ae7f9f05809",
+      "entityId": "merchant_2aa2e445-991a-4a96-97c6-3ae7f9f05809",
+      "name": "HAPPINESS SUNBO CHICKEN RICE (CANBERRA PLAZA)",
+      "address": "133 Canberra View, 07,  S750133;",
+      "postalCode": "750133",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44349544527985,
+      "LON": 103.830345369213,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
+    },
+    {
       "id": "merchant_85b02e0b-7491-4807-a6c6-54a39c59578e",
       "entityId": "merchant_85b02e0b-7491-4807-a6c6-54a39c59578e",
       "name": "HAPPY 5566",
@@ -203982,6 +204022,26 @@
       "lastResetDate": "2023-07-13"
     },
     {
+      "id": "merchant_5fa430a3-7874-4586-a9d5-af051012b3e2",
+      "entityId": "merchant_5fa430a3-7874-4586-a9d5-af051012b3e2",
+      "name": "HONG JING YUAN MALA HOTPOT",
+      "address": "1 Tanjong Pagar Plaza,  S082001;",
+      "postalCode": "082001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2755961982077,
+      "LON": 103.842393171342,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
+    },
+    {
       "id": "merchant_ba2c1b2b-daa7-4f85-98b0-1bc65eeeb187",
       "entityId": "merchant_ba2c1b2b-daa7-4f85-98b0-1bc65eeeb187",
       "name": "HONG KAH SNACK BAR",
@@ -217780,6 +217840,26 @@
         }
       },
       "lastResetDate": "2021-12-27"
+    },
+    {
+      "id": "merchant_b09df9f9-80d6-4d6a-8022-8bbf166d7afc",
+      "entityId": "merchant_b09df9f9-80d6-4d6a-8022-8bbf166d7afc",
+      "name": "INDIAN BARBER",
+      "address": "472 Tampines Street 44 Hdb-tampines Singapore 520472, #01-53D,  S520472;",
+      "postalCode": "520472",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35987583112286,
+      "LON": 103.953459904777,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_cab48fb5-d00a-4d95-bf39-dae37fdb3c64",
@@ -255580,6 +255660,26 @@
         }
       },
       "lastResetDate": "2022-07-21"
+    },
+    {
+      "id": "merchant_095479b2-1f1e-4562-8f96-40b0b7bd48cd",
+      "entityId": "merchant_095479b2-1f1e-4562-8f96-40b0b7bd48cd",
+      "name": "KING KONG BURGER",
+      "address": "625B Tampines Street 61 Tampines Greenverge Singapore 522625, #01-02,  S522625;",
+      "postalCode": "522625",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36248280964256,
+      "LON": 103.940680964014,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_46d095c2-aa59-4292-9422-22cba8fd4be5",
@@ -330265,7 +330365,7 @@
       "id": "merchant_03cbeef8-d690-4093-997e-e8c5feddf41f",
       "entityId": "merchant_03cbeef8-d690-4093-997e-e8c5feddf41f",
       "name": "NURUL HIDAYAH",
-      "address": "211 Marsiling Crescent,  S730211;",
+      "address": "211 Marsiling Crescent, #01-211,  S730211;",
       "postalCode": "730211",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.44597940091533,
@@ -330279,7 +330379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-01"
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_caa27332-7cbb-4cff-aeb0-c21c427a6290",
@@ -372820,6 +372920,26 @@
         }
       },
       "lastResetDate": "2025-05-20"
+    },
+    {
+      "id": "merchant_a558699c-be94-4442-8135-3d73cb4b9ac3",
+      "entityId": "merchant_a558699c-be94-4442-8135-3d73cb4b9ac3",
+      "name": "SABAH SANDAKAN UFO TART",
+      "address": "531A Upper Cross Street, #02-38,  S051531;",
+      "postalCode": "051531",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28529907736773,
+      "LON": 103.845823802043,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_c178cba7-765d-4d2a-ac3e-f45fcc695e03",
@@ -434642,6 +434762,26 @@
       "lastResetDate": "2021-11-10"
     },
     {
+      "id": "merchant_589883ed-0824-4ac0-b6a3-8279c7a54169",
+      "entityId": "merchant_589883ed-0824-4ac0-b6a3-8279c7a54169",
+      "name": "THE COCANE STALL",
+      "address": "1220 East Coast Parkway, #01-53,  S468960;",
+      "postalCode": "468960",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30690573552745,
+      "LON": 103.935137935777,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
+    },
+    {
       "id": "merchant_1bc71059-f7d6-42f6-8f94-8f9b054c9182",
       "entityId": "merchant_1bc71059-f7d6-42f6-8f94-8f9b054c9182",
       "name": "THE COFFEE EDITION",
@@ -454822,6 +454962,26 @@
       "lastResetDate": "2022-01-05"
     },
     {
+      "id": "merchant_6810da16-bae4-41af-b640-e11c429ea865",
+      "entityId": "merchant_6810da16-bae4-41af-b640-e11c429ea865",
+      "name": "ULLMAX SINGAPORE",
+      "address": "139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-86,  S521139;",
+      "postalCode": "521139",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34607675043696,
+      "LON": 103.944284625086,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
+    },
+    {
       "id": "merchant_cff9a161-df30-46d1-81f7-cfa6f2ac2d4c",
       "entityId": "merchant_cff9a161-df30-46d1-81f7-cfa6f2ac2d4c",
       "name": "ULLMAX SINGAPORE",
@@ -468964,7 +469124,7 @@
     {
       "id": "merchant_9184f126-ea12-4d75-883c-dcb96096d8a5",
       "entityId": "merchant_9184f126-ea12-4d75-883c-dcb96096d8a5",
-      "name": "WATAA BAKERY",
+      "name": "WATAA BAKERY (19 MARSILING LANE)",
       "address": "Marsiling Lane, #01-299A,  S730019;",
       "postalCode": "730019",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -468979,12 +469139,12 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-10-15"
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_49933037-d498-4939-8669-40a0f260d42d",
       "entityId": "merchant_49933037-d498-4939-8669-40a0f260d42d",
-      "name": "WATAA HOLDINGS PTE LTD",
+      "name": "WATAA BAKERY (303 WOODLANDS STREET 31)",
       "address": "Woodlands Street 31, #01-199B,  S730303;",
       "postalCode": "730303",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -468999,7 +469159,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-03-25"
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_97cfdf1b-f9d6-4ac5-bdad-22a4cbeb8e9f",
@@ -474240,6 +474400,26 @@
         }
       },
       "lastResetDate": "2023-07-27"
+    },
+    {
+      "id": "merchant_c4d7c24c-72ed-4530-8298-8f27940d2b3c",
+      "entityId": "merchant_c4d7c24c-72ed-4530-8298-8f27940d2b3c",
+      "name": "WINNER TRADERS PTE LTD",
+      "address": "71 Seng Poh Road Tiong Bahru Estate Singapore 160071, #01-39,  S160071;",
+      "postalCode": "160071",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28424655193409,
+      "LON": 103.83250362707,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_74cc4d5f-a1ef-4f2f-88cf-d75a7d66d621",
@@ -497840,6 +498020,26 @@
         }
       },
       "lastResetDate": "2025-08-19"
+    },
+    {
+      "id": "merchant_865e9661-1766-47bc-b0e5-d8383f3ec714",
+      "entityId": "merchant_865e9661-1766-47bc-b0e5-d8383f3ec714",
+      "name": "YOUNG STYLE BEAUTY SALON",
+      "address": "372 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650372, #01-366,  S650372;",
+      "postalCode": "650372",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35866916706906,
+      "LON": 103.751213742148,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-22"
     },
     {
       "id": "merchant_8f62936d-7344-4631-8836-7e0248288b3a",

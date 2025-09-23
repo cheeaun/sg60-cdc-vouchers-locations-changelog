@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-23
+
+</summary>
+
+Total locations: 25,436 → 25,446
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | APMA FOODS | 107 Lorong 1 Toa Payoh Dbs Toa Payoh North Branch Singapore 310107, #01-264,  S310107; | <span title="1.34121948900326,103.847288831588">1.34122, 103.84729</span> |
+  | HAPPINESS SUNBO CHICKEN RICE (CANBERRA PLAZA) | 133 Canberra View, 07,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | HONG JING YUAN MALA HOTPOT | 1 Tanjong Pagar Plaza,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | INDIAN BARBER | 472 Tampines Street 44 Hdb-tampines Singapore 520472, #01-53D,  S520472; | <span title="1.35987583112286,103.953459904777">1.35988, 103.95346</span> |
+  | KING KONG BURGER | 625B Tampines Street 61 Tampines Greenverge Singapore 522625, #01-02,  S522625; | <span title="1.36248280964256,103.940680964014">1.36248, 103.94068</span> |
+  | SABAH SANDAKAN UFO TART | 531A Upper Cross Street, #02-38,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | THE COCANE STALL | 1220 East Coast Parkway, #01-53,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | ULLMAX SINGAPORE | 139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-86,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | WINNER TRADERS PTE LTD | 71 Seng Poh Road Tiong Bahru Estate Singapore 160071, #01-39,  S160071; | <span title="1.28424655193409,103.83250362707">1.28425, 103.83250</span> |
+  | YOUNG STYLE BEAUTY SALON | 372 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650372, #01-366,  S650372; | <span title="1.35866916706906,103.751213742148">1.35867, 103.75121</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | NURUL HIDAYAH | <del>211 Marsiling Crescent,  S730211;</del><br>211 Marsiling Crescent, #01-211,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+  | <del>WATAA BAKERY</del><br>WATAA BAKERY (19 MARSILING LANE) | Marsiling Lane, #01-299A,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | <del>WATAA HOLDINGS PTE LTD</del><br>WATAA BAKERY (303 WOODLANDS STREET 31) | Woodlands Street 31, #01-199B,  S730303; | <span title="1.43079961583478,103.774011078412">1.43080, 103.77401</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-20
 
 </summary>
