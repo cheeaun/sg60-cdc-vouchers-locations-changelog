@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-24
+
+</summary>
+
+Total locations: 25,446 → 25,463
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH YU FISH SOUP | 9012 Tampines Street 93, 7,  S528845; | <span title="1.34087590102933,103.943710846592">1.34088, 103.94371</span> |
+  | ALIVE SEAFOOD | 30 Seng Poh Road, #01-149,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | CASA DENTAL (BOON KENG) | 101 Towner Road Dbs Towner Road Branch Singapore 322101, #01-214,  S322101; | <span title="1.31942539040726,103.86108746288">1.31943, 103.86109</span> |
+  | DING FENG MIXED VEG RICE | 56 New Upper Changi Road,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | FRESH CHICKEN STALL - GANGSA RD | 109 Gangsa Road Hdb-bukit Panjang Singapore 670109, #01-153C,  S670109; | <span title="1.37736736489734,103.767748758874">1.37737, 103.76775</span> |
+  | FRUIT STALL | 30 Seng Poh Road, #01-200,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | HAO XIANG MIXED VEG RICE (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | JIN SHI ROASTED DELIGHTS( 151 SERANGOON NORTH ) | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | K2 GREEN VEGETARIAN | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | LUVABAYAT SG | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #03-1049,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | ROASTED PORK STALL - GANGSA RD | 109 Gangsa Road Hdb-bukit Panjang Singapore 670109, #01-153A,  S670109; | <span title="1.37736736489734,103.767748758874">1.37737, 103.76775</span> |
+  | TEA DOJO | 713A Ang Mo Kio Avenue 6, #01-14,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | TOH GUAN FAMILY CLINIC PTE. LTD. | 267A Toh Guan Road Multi Storey Car Park Singapore 601267, #01-02,  S601267; | <span title="1.34155988964929,103.744937235987">1.34156, 103.74494</span> |
+  | WHAMPOA AQUARIUM | 92 Whampoa Drive, #01-132,  S320092; | <span title="1.3231760460434,103.853863407885">1.32318, 103.85386</span> |
+  | XIANG CHI MIAN | 108 Punggol Field,  S820108; | <span title="1.39652618520823,103.908850766858">1.39653, 103.90885</span> |
+  | XIAOLONG MINIMART PTE. LTD. | 59 Marine Terrace Marine Terrace Haven Singapore 440059, #01-79,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | YONG TAU FOO - GANGSA RD | 109 Gangsa Road Hdb-bukit Panjang Singapore 670109, #01-153D,  S670109; | <span title="1.37736736489734,103.767748758874">1.37737, 103.76775</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | @THAI STATION 42 | <del>186 Toa Payoh Central, #01-402,  S310186;</del><br>19 Marsiling Lane, #01-283,  S730019; | <del title="1.3326539531256,103.85021164455">1.33265, 103.85021</del><br><span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | <del>DELI DELIGHT</del><br>DELI DELIGHT (204 SERANGOON) | 204 Serangoon Central,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | INDIAN BARBER | <del>472 Tampines Street 44 Hdb-tampines Singapore 520472, #01-53D,  S520472;</del><br>472 Tampines Street 44 Hdb-tampines Singapore 520472, #01-53E,  S520472; | <span title="1.35987583112286,103.953459904777">1.35988, 103.95346</span> |
+  | KIM HENG (HK) ROASTED DELIGHTS | <del>203 Toa Payoh North,  S310203;</del><br>332 Ang Mo Kio Ave 1, #01-1879,  S560332; | <del title="1.34205287411841,103.84939599719">1.34205, 103.84940</del><br><span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | LINDA BEAUTY | <del>85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-364,  S310085;</del><br>5 Eunos Crescent, #01-2603,  S400005; | <del title="1.33628536216028,103.848428644103">1.33629, 103.84843</del><br><span title="1.32119096792976,103.903554516253">1.32119, 103.90355</span> |
+  | <del>SAN REN FISH BALL MINCED PORK NOODLE</del><br>SAN REN AUTHENTIC HAINANESE CHICKEN RICE | 500 Clemenceau Avenue North, #01-45,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | <del>WHAMPOA FOOD DELIGHT LLP</del><br>SATAY. SATAY BEE HOON | <del>803 King George's Avenue,  S200803;</del><br>26A Chai Chee Road, #01-405,  S461026; | <del title="1.30811749102335,103.861188606169">1.30812, 103.86119</del><br><span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | <del>UNCLE PETER HOKKIEN MEE (LENGKOK BAHRU)</del><br>UNCLE PETER HOKKIEN MEE (127BML) | 127 Bukit Merah Lane 1, #01-230,  S150127; | <span title="1.28532858968794,103.803396774073">1.28533, 103.80340</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-23
 
 </summary>
