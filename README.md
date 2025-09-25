@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-25
+
+</summary>
+
+Total locations: 25,463 → 25,476
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 448 TEOCHEW FISH PORRIDGE | 448 Clementi Avenue 3, #01-15,  S120448; | <span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | 9007 KOPITIAM PTE LTD | 9007 Tampines Street 93,  S528841; | <span title="1.33871119758635,103.941038540662">1.33871, 103.94104</span> |
+  | BIG PRAWN NOODLE | 80 Circuit Road, #02-04,  S370080; | <span title="1.32783414615937,103.887102669236">1.32783, 103.88710</span> |
+  | E PIN HONG MALA HOT POT (AMK 711) | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | FIVE TEN WESTERN GRILL (AMK 151) | 151 Ang Mo Kio Avenue 5,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+  | FRESH EGGS | 1 Lorong Mambong, #01-50,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | KIDS STAR TRADING | 284 Bukit Batok East Avenue 3 Singapore 650284, #01-255,  S650284; | <span title="1.34669905221409,103.757276700998">1.34670, 103.75728</span> |
+  | LAO BAN - CLEMENTI | 441A Clementi Avenue 3 Clementi Towers Singapore 121441, #01-08,  S121441; | <span title="1.31463913092205,103.764797687774">1.31464, 103.76480</span> |
+  | LAO WANG BAN MIAN | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | R&R BEAUTY STUDIO (AMK 416) | 416 Ang Mo Kio Avenue 10 Teck Ghee Heartlands Singapore 560416, #01-985,  S560416; | <span title="1.3645417089084,103.855103690549">1.36454, 103.85510</span> |
+  | SENSATIONAL TOUCH | 823 Tampines Street 81 Singapore 520823, #01-174,  S520823; | <span title="1.3487449454775,103.934024716838">1.34874, 103.93402</span> |
+  | SOUND BEAUTY CENTRE | 802 Tampines Avenue 4 Tampines Polyview Singapore 520802, #01-17,  S520802; | <span title="1.34608442398209,103.938034023132">1.34608, 103.93803</span> |
+  | WORLD TEA HOUSE - 442 CLEMENTI | 442 Clementi Avenue 3 Hdb-clementi Singapore 120442, #01-107C,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KUNGFU MALA HOT POT - 9008 TAMPINES</del><br>KUNGFU MALA HOT POT - 9012 TAMPINES | <del>9008 Tampines Street 93, #01-09,  S528843;</del><br>9012 Tampines Street 93, #01-157,  S528845; | <del title="1.34171015240353,103.942585643036">1.34171, 103.94259</del><br><span title="1.34087590102933,103.943710846592">1.34088, 103.94371</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-24
 
 </summary>

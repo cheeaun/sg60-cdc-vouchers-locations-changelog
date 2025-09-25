@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Sep 2025",
+  "lastUpdated": "25 Sep 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -16102,6 +16102,26 @@
       "lastResetDate": "2025-07-18"
     },
     {
+      "id": "merchant_5ae7a99f-2d68-4bc3-806c-71c6034a5066",
+      "entityId": "merchant_5ae7a99f-2d68-4bc3-806c-71c6034a5066",
+      "name": "448 TEOCHEW FISH PORRIDGE",
+      "address": "448 Clementi Avenue 3, #01-15,  S120448;",
+      "postalCode": "120448",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31331969319644,
+      "LON": 103.764517192874,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_1f3fad56-44f0-45d3-89a7-139394b0796e",
       "entityId": "merchant_1f3fad56-44f0-45d3-89a7-139394b0796e",
       "name": "451 FOODGLE HUB DRINK STALL",
@@ -22839,7 +22859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-07"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_b1ed8d9d-109e-42b3-971e-8a8599f7e756",
@@ -23600,6 +23620,26 @@
         }
       },
       "lastResetDate": "2021-11-19"
+    },
+    {
+      "id": "merchant_941a883a-be5a-4c2f-92fa-e11adb6f4e56",
+      "entityId": "merchant_941a883a-be5a-4c2f-92fa-e11adb6f4e56",
+      "name": "9007 KOPITIAM PTE LTD",
+      "address": "9007 Tampines Street 93,  S528841;",
+      "postalCode": "528841",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33871119758635,
+      "LON": 103.941038540662,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_3e5b851c-1585-4419-a6d2-b8ba06be176b",
@@ -44959,7 +44999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-07-05"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_f2d54abe-06a8-4d11-8589-4e65117fd1db",
@@ -70460,6 +70500,26 @@
         }
       },
       "lastResetDate": "2024-07-09"
+    },
+    {
+      "id": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
+      "entityId": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
+      "name": "BIG PRAWN NOODLE",
+      "address": "80 Circuit Road, #02-04,  S370080;",
+      "postalCode": "370080",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32783414615937,
+      "LON": 103.887102669236,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_a62f579b-e7ec-41cb-aa06-7eeb64ce95ab",
@@ -104619,7 +104679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-17"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_b3ee929c-bdb7-4aec-a8bf-5d2d819839bf",
@@ -129602,6 +129662,26 @@
       "lastResetDate": "2021-11-18"
     },
     {
+      "id": "merchant_409b964f-abb7-414c-8e00-951ea41a03b0",
+      "entityId": "merchant_409b964f-abb7-414c-8e00-951ea41a03b0",
+      "name": "E PIN HONG MALA HOT POT (AMK 711)",
+      "address": "711 Ang Mo Kio Avenue 8,  S560711;",
+      "postalCode": "560711",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37155030598577,
+      "LON": 103.848079014416,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_918df556-70e0-48c6-8f39-6b4daa9d5af1",
       "entityId": "merchant_918df556-70e0-48c6-8f39-6b4daa9d5af1",
       "name": "E Q FURNISHING PTE LTD",
@@ -150542,6 +150622,26 @@
       "lastResetDate": "2025-04-25"
     },
     {
+      "id": "merchant_e591c7ca-9d0d-4b77-9a7d-b32d18257f45",
+      "entityId": "merchant_e591c7ca-9d0d-4b77-9a7d-b32d18257f45",
+      "name": "FIVE TEN WESTERN GRILL (AMK 151)",
+      "address": "151 Ang Mo Kio Avenue 5,  S560151;",
+      "postalCode": "560151",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37671105271454,
+      "LON": 103.841168190659,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_5da08f1e-41b8-4cb0-b1d1-c5f690ffeefd",
       "entityId": "merchant_5da08f1e-41b8-4cb0-b1d1-c5f690ffeefd",
       "name": "FIVE TEN WESTERN GRILL 91",
@@ -156180,6 +156280,26 @@
         }
       },
       "lastResetDate": "2025-03-26"
+    },
+    {
+      "id": "merchant_06e5b15f-2470-4537-9ab1-85f24c9f672d",
+      "entityId": "merchant_06e5b15f-2470-4537-9ab1-85f24c9f672d",
+      "name": "FRESH EGGS",
+      "address": "1 Lorong Mambong, #01-50,  S277700;",
+      "postalCode": "277700",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31107297402127,
+      "LON": 103.794876419662,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_9a29335e-f970-48bb-b6e7-3b4fafa40a1e",
@@ -199099,7 +199219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-21"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_92f43968-e71c-431b-96b0-0b34c9ec2cf8",
@@ -203399,7 +203519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-21"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_541680ce-9fed-4e9f-a086-3da466560bac",
@@ -231539,7 +231659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-21"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_316b12cf-8b1e-4941-987c-f4ed2e403305",
@@ -231559,7 +231679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-03"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_2572f0b5-704a-4454-aa46-3b6861474489",
@@ -234639,7 +234759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-17"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_881d9f28-b3d4-4b43-9ad1-d66a043c17bb",
@@ -250162,6 +250282,26 @@
       "lastResetDate": "2021-12-02"
     },
     {
+      "id": "merchant_63728579-72f0-48a3-9ba6-9920541f935d",
+      "entityId": "merchant_63728579-72f0-48a3-9ba6-9920541f935d",
+      "name": "KIDS STAR TRADING",
+      "address": "284 Bukit Batok East Avenue 3 Singapore 650284, #01-255,  S650284;",
+      "postalCode": "650284",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34669905221409,
+      "LON": 103.757276700998,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_3f79fcd3-8e1d-4a65-b66c-f9adebe7f398",
       "entityId": "merchant_3f79fcd3-8e1d-4a65-b66c-f9adebe7f398",
       "name": "KIEN HOE HENG TRADING PTE LTD",
@@ -263344,12 +263484,12 @@
     {
       "id": "merchant_7e81cfd3-a116-4fa3-af7e-7ea1ad0442a5",
       "entityId": "merchant_7e81cfd3-a116-4fa3-af7e-7ea1ad0442a5",
-      "name": "KUNGFU MALA HOT POT - 9008 TAMPINES",
-      "address": "9008 Tampines Street 93, #01-09,  S528843;",
-      "postalCode": "528843",
+      "name": "KUNGFU MALA HOT POT - 9012 TAMPINES",
+      "address": "9012 Tampines Street 93, #01-157,  S528845;",
+      "postalCode": "528845",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34171015240353,
-      "LON": 103.942585643036,
+      "LAT": 1.34087590102933,
+      "LON": 103.943710846592,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -263359,7 +263499,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-10-14"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_c9747c94-eb3e-4ca5-81cf-8ad9d244852d",
@@ -267222,6 +267362,26 @@
       "lastResetDate": "2025-05-14"
     },
     {
+      "id": "merchant_068affde-0e45-489c-820d-071b113180cd",
+      "entityId": "merchant_068affde-0e45-489c-820d-071b113180cd",
+      "name": "LAO BAN - CLEMENTI",
+      "address": "441A Clementi Avenue 3 Clementi Towers Singapore 121441, #01-08,  S121441;",
+      "postalCode": "121441",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31463913092205,
+      "LON": 103.764797687774,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_4e5ee195-4d49-4b23-b722-1b0e58c07b37",
       "entityId": "merchant_4e5ee195-4d49-4b23-b722-1b0e58c07b37",
       "name": "LAO BAN CURRY FISH HEAD",
@@ -267920,6 +268080,26 @@
         }
       },
       "lastResetDate": "2021-11-17"
+    },
+    {
+      "id": "merchant_f0c60ed7-f801-4aa7-a3bc-39daf4a6e497",
+      "entityId": "merchant_f0c60ed7-f801-4aa7-a3bc-39daf4a6e497",
+      "name": "LAO WANG BAN MIAN",
+      "address": "421 Ang Mo Kio Avenue 10,  S560421;",
+      "postalCode": "560421",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36538422642267,
+      "LON": 103.852966961527,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_bbbe0809-bcc3-49e5-a312-12273297560a",
@@ -332099,7 +332279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-18"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_a91cb477-b4a3-4bcc-a2b5-18a2cdbc5ffe",
@@ -360182,6 +360362,26 @@
       "lastResetDate": "2023-01-17"
     },
     {
+      "id": "merchant_e6887a8a-0ce9-4bef-a3d1-9128516aeb60",
+      "entityId": "merchant_e6887a8a-0ce9-4bef-a3d1-9128516aeb60",
+      "name": "R&R BEAUTY STUDIO (AMK 416)",
+      "address": "416 Ang Mo Kio Avenue 10 Teck Ghee Heartlands Singapore 560416, #01-985,  S560416;",
+      "postalCode": "560416",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3645417089084,
+      "LON": 103.855103690549,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_3ece573e-05b8-47bb-99d9-b4565375987d",
       "entityId": "merchant_3ece573e-05b8-47bb-99d9-b4565375987d",
       "name": "R&R FAMILY MART",
@@ -383100,6 +383300,26 @@
         }
       },
       "lastResetDate": "2023-06-07"
+    },
+    {
+      "id": "merchant_ac938cbe-6b8e-4318-8932-5bf87d39ef46",
+      "entityId": "merchant_ac938cbe-6b8e-4318-8932-5bf87d39ef46",
+      "name": "SENSATIONAL TOUCH",
+      "address": "823 Tampines Street 81 Singapore 520823, #01-174,  S520823;",
+      "postalCode": "520823",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3487449454775,
+      "LON": 103.934024716838,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_bed331b7-9b83-489b-b92c-0a62fc24f369",
@@ -407260,6 +407480,26 @@
         }
       },
       "lastResetDate": "2021-12-30"
+    },
+    {
+      "id": "merchant_112b14ae-ed3a-474f-afd3-5f37b736c986",
+      "entityId": "merchant_112b14ae-ed3a-474f-afd3-5f37b736c986",
+      "name": "SOUND BEAUTY CENTRE",
+      "address": "802 Tampines Avenue 4 Tampines Polyview Singapore 520802, #01-17,  S520802;",
+      "postalCode": "520802",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34608442398209,
+      "LON": 103.938034023132,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_e0d4c253-3e13-4015-a999-2accf3341d74",
@@ -439719,7 +439959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-17"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_7eef434b-53f3-4464-b881-bbe4a07f320e",
@@ -476782,6 +477022,26 @@
       "lastResetDate": "2021-11-19"
     },
     {
+      "id": "merchant_d116dfe3-c16d-4647-89f4-6612627391cb",
+      "entityId": "merchant_d116dfe3-c16d-4647-89f4-6612627391cb",
+      "name": "WORLD TEA HOUSE - 442 CLEMENTI",
+      "address": "442 Clementi Avenue 3 Hdb-clementi Singapore 120442, #01-107C,  S120442;",
+      "postalCode": "120442",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31412254184755,
+      "LON": 103.764518594142,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-09-24"
+    },
+    {
       "id": "merchant_e45d1c96-e498-4be9-9f9b-b50a0898afab",
       "entityId": "merchant_e45d1c96-e498-4be9-9f9b-b50a0898afab",
       "name": "WORLD TEA HOUSE (407 AMK)",
@@ -506659,7 +506919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-16"
+      "lastResetDate": "2025-09-24"
     },
     {
       "id": "merchant_73c68b1e-17ae-490e-ae47-2679e07569a8",
