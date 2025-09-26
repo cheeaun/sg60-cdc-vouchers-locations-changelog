@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-26
+
+</summary>
+
+Total locations: 25,476 → 25,486
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA CHI MIAN JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | CHANGI FAMOUS NASI LEMAK | 2 Changi Village Road, #01-28,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | FISHIN' WITH YOU | 253 Choa Chu Kang Avenue 1, ST09,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | INSYIRAH DELIGHTS | 7 Empress Road, #01-91,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | MAKAN MELAKA | 221 Boon Lay Place,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | PROHEALTH MEDICAL GROUP@PUNGGOL SPECTRA | 622D Punggol Central Punggol Spectra Singapore 824622, #01-02,  S824622; | <span title="1.40053114998822,103.910536919134">1.40053, 103.91054</span> |
+  | ROJAK MOCHI | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | TINGE SALON (293 YISHUN) | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-251D,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | VMA INDIAN MUSLIM FOOD | 239 Boon Lay Drive Boon Lay Glade Singapore 640239, #01-02,  S640239; | <span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | ZHENG MAO MALA HOT POT (510623) | 623 Elias Road, 07,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TRADITIONAL (CHANGI FAMOUS NASI LEMAK)</del><br>CHANGI TRADITIONAL (NASI LEMAK) | 2 Changi Village Road, #01-24,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | JENNY CHICKEN STALL | <del>31 Commonwealth Crescent, #01-59,  S149644;</del><br>532 Choa Chu Kang Street 31, #01-33,  S680532; | <del title="1.30690013206335,103.800367271218">1.30690, 103.80037</del><br><span title="1.39222033136152,103.743611063324">1.39222, 103.74361</span> |
+  | PRINCE GOURMET PTE LTD | <del>112 Bishan Street 12 Bishan View Singapore 570112, #01-22,  S570112;</del><br>10 Marsiling Industrial Estate, #01-01,  S739276; | <del title="1.34681029782167,103.84904106054">1.34681, 103.84904</del><br><span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-25
 
 </summary>
