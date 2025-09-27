@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-27
+
+</summary>
+
+Total locations: 25,486 → 25,503
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 23 ECONOMICAL BEE HOON | 664 Yishun Avenue 4, 01283,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | AL HABIB HALAL FOODIEZ | 9012 Tampines Street 93,  S528845; | <span title="1.34087590102933,103.943710846592">1.34088, 103.94371</span> |
+  | CHAO YUAN NOODLE (TOWNER) | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | CHUNG HWA MEDICAL INSTITUTE (MARINE PARADE BRANCH) | 60 Marine Drive Marine Drive Gardens Singapore 440060, #01-54,  S440060; | <span title="1.30338982213302,103.908553539684">1.30339, 103.90855</span> |
+  | DING FENG HOME MADE BAN MIAN (TOWNER) | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | DK $ KHAN | Blk 633 Tampines North Drive 2,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | FRESH FISH & SEAFOOD | 160 Ang Mo Kio Avenue 4, #01-110,  S560160; | <span title="1.37452773784115,103.839176060905">1.37453, 103.83918</span> |
+  | HAIRITAGE HOUSE(TAMPINES 666) | 666 Tampines Street 64, #01-05,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | HONG KEE BEEF NOODLE | National Development Building, Annex B, Telok Ayer Street, #01-42,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | KAI KITCHEN | 605 Yishun Street 61,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | NOORUL FATHIMAH INDIAN FOOD | 1010 Tai Seng Avenue, 07,  S534417; | <span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | P.A.W. (PEOPLE ANIMAL WELLNESS) VETERINARY CENTRE | 112 Bukit Purmei Road Bukit Purmei Ville Singapore 090112, #01-207,  S090112; | <span title="1.27452852560807,103.825932928075">1.27453, 103.82593</span> |
+  | QUEENS BEAUTY SG (JOO CHIAT COMPLEX) | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #01-1031,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | SHELLY DUONG BEAUTY STUDIO | 604 Yishun Street 61 Nee Soon Central Meadows Singapore 760604, #01-325A,  S760604; | <span title="1.42171348124463,103.83554529409">1.42171, 103.83555</span> |
+  | SHIOK MALA HOTPOT | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | SKINNY CHEF (TPY 94) | 94 Lorong 4 Toa Payoh,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | TAG DENTAL - 464B CLEMENTI | 464B Clementi Avenue 1 Clementi Peaks Singapore 122464, #01-09,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MEI CHEW HAIR SALON | <del>9 Upper Thomson Ridge, 7,  S574637;</del><br>23 Sin Ming Road, #01-15,  S570023; | <del title="1.35289472387278,103.833787103254">1.35289, 103.83379</del><br><span title="1.3543527093097,103.835823721667">1.35435, 103.83582</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-26
 
 </summary>
