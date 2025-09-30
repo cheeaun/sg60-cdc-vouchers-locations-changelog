@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-09-30
+
+</summary>
+
+Total locations: 25,503 → 25,519
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #01-75 GROCERIES | 409 Ang Mo Kio Avenue 10, #01-75,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | 8 MINCED MEAT NOODLE | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | B1-47 GOLDEN MILE TEOCHEW FISHBALL NOODLE | 505 Beach Road, #B1-47,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | DING SHENG (BIDADARI) | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | FAITH CLINIC (MARINE TERRACE) | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-113,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | FAITH CLINIC (SIMEI) | 139 Simei Street 1 Hdb-simei Singapore 520139, #01-10,  S520139; | <span title="1.34668351000416,103.956561347886">1.34668, 103.95656</span> |
+  | FAITH CLINIC BEDOK | 746 Bedok Reservoir Road Reservoir Village Singapore 470746, #01-3013,  S470746; | <span title="1.33728644805587,103.92121574376">1.33729, 103.92122</span> |
+  | HAPPY FISH SOUP | 304 Ubi Avenue 1,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | HE HE FISH | 116 Aljunied Avenue 2, 03,  S380116; | <span title="1.32124570546254,103.886700619832">1.32125, 103.88670</span> |
+  | JIA CHENG NOODLE HOUSE 461 | 461 Yishun Ave 6, 16I,  S760461; | <span title="1.42841338853064,103.84997365333">1.42841, 103.84997</span> |
+  | JOYFUL CHICKEN RICE | 622A Tampines Avenue 12,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | KEYSTONE CLINIC & SURGERY (GM) | 19 Ghim Moh Road Hdb-ghim Moh Singapore 270019, #01-253A,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | RED LANTERN SEAFOOD | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | SI YA MALA HOTPOT | 548 Ang Mo Kio Avenue 10 Cheng San Place Singapore 560548, #01-2010,  S560548; | <span title="1.37291376311161,103.85704609864">1.37291, 103.85705</span> |
+  | VBK TRADERS PTE LTD (BARBER) | 6 Beach Road Beach Road Gardens Singapore 190006, #01-4861,  S190006; | <span title="1.30399231690916,103.864419251804">1.30399, 103.86442</span> |
+  | WECARE DENTAL | 165 Bukit Merah Central Bukit Merah Central Post Office Singapore 150165, #01-3665,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHICKEN RICE | <del>1 Choa Chu Kang Grove, 09,  S688236;</del><br>27 Woodlands Avenue 9, Republic Polytechnic, #01-05,  S737909; | <del title="1.37490650898361,103.752233735193">1.37491, 103.75223</del><br><span title="1.44496816514049,103.785362406892">1.44497, 103.78536</span> |
+  | <del>GIMME FACE NOODLE HOUSE@HG</del><br>FLAVORBORN NOODLES | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | LIYAN TRADITIONAL PRAWN NOODLE | <del>226B Ang Mo Kio Avenue 1,  S562226;</del><br>226B Ang Mo Kio Avenue 1, #01-103,  S562226; | <span title="1.36732624025946,103.83955157933">1.36733, 103.83955</span> |
+  | <del>ELITE DE SALON (2)</del><br>ON HAIR SALON & BEAUTY | Jalan Bukit Merah, #01-5156A,  S150002; | <span title="1.2866292132996,103.80686187976">1.28663, 103.80686</span> |
+  | <del>KEYSTONE FAMILY CLINIC</del><br>PANO FAMILY CLINIC | 377 Hougang Street 32, #01-03,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | <del>YONG JI ROASTED DELIGHT</del><br>PHYTO BUDDY | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | THE BEAUTY QUEENZ | <del>186 Toa Payoh Central Toa Payoh Central Singapore 310186, #01-440,  S310186;</del><br>183 Toa Payoh Central, #01-300,  S310183; | <del title="1.3326539531256,103.85021164455">1.33265, 103.85021</del><br><span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | YEW CHUAN | <del>38A Margaret Drive, #02-35,  S142038;</del><br>48A Tanglin Halt Road, #01-08,  S148813; | <del title="1.29742585102203,103.804710471304">1.29743, 103.80471</del><br><span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-27
 
 </summary>
