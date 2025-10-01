@@ -13,6 +13,61 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-01
+
+</summary>
+
+Total locations: 25,519 → 25,545
+
+- <details><summary>Added (26)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 834 COFFEEHOUSE | 834 Woodlands Street 83, ST3,  S730834; | <span title="1.44007817169826,103.79107573281">1.44008, 103.79108</span> |
+  | AH NIAN FISHBALL NOODLE . YONG TAU FOO (KELANTAN) | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | AUNTY V PIG'S ORGAN SOUP (AMK 711) | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | AUNTY V PIG'S ORGAN SOUP (AMK 711) | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | BUMI BREW | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-916,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | CIAS STUDIO | 117 Bedok Reservoir Road Eunos Vista Singapore 470117, #01-70A,  S470117; | <span title="1.3314132488271,103.908688936549">1.33141, 103.90869</span> |
+  | EFG TUCK SHOP | 177 Toa Payoh Central Toa Payoh Central Singapore 310177, #01-146,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | EN SPA | 166 Woodlands Street 13 Singapore 730166, #01-537A,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | FEI FEI YOU FISH FA | 1 Jalan Kukoh, #01-04,  S161001; | <span title="1.2882310152805,103.839934168065">1.28823, 103.83993</span> |
+  | FIRST MAY LAUNDRY & DRYCLEANING (TOWNER) | 102 Towner Road Hdb-kallang/whampoa Singapore 322102, #01-275,  S322102; | <span title="1.32058609456907,103.862002015145">1.32059, 103.86200</span> |
+  | FUNTOAST TENGAH@ TENGAH CC | 119 Plantation Crescent Plantation Grove Singapore 690119, #01-04,  S690119; | <span title="1.35675242730193,103.734500042413">1.35675, 103.73450</span> |
+  | GSK MAJU RESTAURANT | 26A Chai Chee Road Singapore 461026, #01-393,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | HABIB'S EXPRESS (TOWNER) | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | HOJIAK NASI LEMAK | 681 Hougang Avenue 8, ST7,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | HONG KEE MIX RICE | 57 Geylang Bahru,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | HONGKONG STREET SEAFOOD | 610 Tampines North Drive 1,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | LYNETTE & JJ | 511 Canberra Road, 19,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | M.T.M DESIGN PLUS CLOTHING ALTERATION | 1 Lorong Mambong, #01-01,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | MEE POK MASTER -TPY 8 | 8 Lorong 7 Toa Payoh,  S310008; | <span title="1.3378805011388,103.856612802183">1.33788, 103.85661</span> |
+  | NEW MURUGAN MINIMART | 27A Chai Chee Road Singapore 461027, #01-369A,  S461027; | <span title="1.32379346132021,103.923266784557">1.32379, 103.92327</span> |
+  | PROHEALTH MEDICAL GROUP @TAMPINES | 610 Tampines North Drive 1 Tampines Greenweave Singapore 520610, #01-03,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | STEVEN FRIED RICE (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | TANJONG RHU WANTON NOODLES 1986 (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | TINGE HAIR SALON PTE LTD | 57 New Upper Changi Road Dbs New Upper Changi Road Singapore 461057, #01-1348,  S461057; | <span title="1.32424554153984,103.941568704132">1.32425, 103.94157</span> |
+  | TIONG SENG COFFEE STALL | 531A Upper Cross Street, #02-22,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | TS EUNOS 2647 | 6 Eunos Crescent Singapore 400006, #01-2647,  S400006; | <span title="1.32107318214851,103.904252036916">1.32107, 103.90425</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHIN SENG VS KITCHEN | <del>529 Hougang Avenue 6,  S530529;</del><br>139 Tampines St 11 #01-08,  S521139; | <del title="1.37546896487502,103.890729546346">1.37547, 103.89073</del><br><span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | MI-0 GIFTS PTE LTD | <del>Jurong West Street 75, #01-252,  S640762;</del><br>Jurong West Street 51, #01-229,  S640504; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | <del>NASI LEMAK AYAM TALIWANG (TP828)</del><br>NASI LEMAK AYAM TALIWANG (TP820) | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | <del>PHYTO BUDDY</del><br>YONG JI ROASTED DELIGHT | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | ZARA CLINIC | <del>26 Teck Whye Lane Teck Whye Heights Ii Singapore 680026, #01-192,  S680026;</del><br>511 Canberra Road, #02-02A,  S750511; | <del title="1.37762112372223,103.755740001262">1.37762, 103.75574</del><br><span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-09-30
 
 </summary>
