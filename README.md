@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-02
+
+</summary>
+
+Total locations: 25,545 → 25,567
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABDUL JALIL STALL | 6 Jalan Bukit Merah, #01-23,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | ESSENTIAL PLUS 304 WOODLANDS | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-139,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | EXPRESS MINMART | 44 Bendemeer Road Hdb-kallang/whampoa Singapore 330044, #01-1468A,  S330044; | <span title="1.32226013692281,103.86662310263">1.32226, 103.86662</span> |
+  | FISHERMAN 293 YISHUN | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | FORKETTA PIZZERIA | 58 Seng Poh Road Ocbc Seng Poh Road - 7 Eleven Singapore 160058, #01-23,  S160058; | <span title="1.28462080421635,103.832979536063">1.28462, 103.83298</span> |
+  | GLOB MART | 149 Silat Avenue Hdb-bukit Merah Singapore 160149, #01-64,  S160149; | <span title="1.27736066510423,103.831600213349">1.27736, 103.83160</span> |
+  | HANDMADE MEE HOON KUEH | 150 Bukit Batok Street 11,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | HAO YOU JI CHARCOAL ROASTED DELIGHTS (27 BENDEMEER) | 27 Bendemeer Road, 4,  S330027; | <span title="1.31883815362848,103.862815823199">1.31884, 103.86282</span> |
+  | HENG 126 EGG STALL | 159 Mei Chin Road, #01-26,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | HOCK HEE FRUITS | 22 Havelock Road Hdb-bukit Merah Singapore 160022, #01-705,  S160022; | <span title="1.28874603704088,103.828824191655">1.28875, 103.82882</span> |
+  | JOYFUL SEAFOOD (28 DC) | 28 Dover Crescent,  S130028; | <span title="1.30446092675742,103.781779696748">1.30446, 103.78178</span> |
+  | KABAR KYAW TRADING - YISHUN BRANCH (262) | 262 Yishun Street 22 Hdb-yishun Singapore 760262, #01-K1,  S760262; | <span title="1.4357801119708,103.83917092486">1.43578, 103.83917</span> |
+  | LEELICIOUS | 926 Yishun Central 1 Dbs Yishun Central Branch Singapore 760926, #01-189,  S760926; | <span title="1.42789934801239,103.837908520837">1.42790, 103.83791</span> |
+  | MEGA CUTZ BY AMURIVA | 414 Yishun Ring Road Singapore 760414, #01-1833,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | MRS BUTCHER | 111A Whampoa Road, ST4,  S322111; | <span title="1.32612552903646,103.855672661254">1.32613, 103.85567</span> |
+  | NANYANG CURRY RICE | 91 Whampoa Drive, #01-47,  S320091; | <span title="1.32342818718207,103.854060197812">1.32343, 103.85406</span> |
+  | OTTIE PANCAKES | 168 Punggol Field Dbs Ntuc Punggol Plaza Singapore 820168, #01-K2,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | PRETTYFAIR STUDIO | 261 Waterloo Street Saint Vincent Home Singapore 180261, #01-22,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | SHIVAYOGI FLOWER SHOP 301 WOODLANDS | 301 Woodlands Street 31 Hdb-woodlands Singapore 730301, #01-257,  S730301; | <span title="1.4315052703273,103.773515659097">1.43151, 103.77352</span> |
+  | VALU$ (7JBM) | 7 Jalan Bukit Merah Hdb-bukit Merah Singapore 150007, #01-4434,  S150007; | <span title="1.28730052130543,103.807988268738">1.28730, 103.80799</span> |
+  | YOUNG STYLE BEAUTY SALON | 253 Choa Chu Kang Avenue 1 Choa Chu Kang Market Singapore 680253, #B1-03,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | YU PIN NOODLES | 120 Canberra Crescent,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | KHAN'S MEAT SUPPLIERS | <del>628 Ang Mo Kio Avenue 4, #01-106,  S560628;</del><br>74 Lor 4 Toa Payoh, #02-10,  S310074; | <del title="1.38098761665454,103.840628087484">1.38099, 103.84063</del><br><span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | LI DE ENTERPRISE | <del>6 Jalan Bukit Merah, #01-57,  S150006;</del><br>6 Jalan Bukit Merah, #01-63,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | <del>SOON LEE FISH SOUP</del><br>TIAN TIAN YOU YU | <del>17 Upper Boon Keng Road, #01-76,  S380017;</del><br>17 Upper Boon Keng Road, #01-67,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-01
 
 </summary>
