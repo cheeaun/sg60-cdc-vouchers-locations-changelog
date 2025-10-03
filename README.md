@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-03
+
+</summary>
+
+Total locations: 25,567 → 25,586
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABBAS RESTAURANT | 4 Changi Village Road Hdb-changi Village Rov Singapore 500004, #01-2068,  S500004; | <span title="1.38909635615366,103.98746284567">1.38910, 103.98746</span> |
+  | AL DEEN (834) | 834 Woodlands Street 83,  S730834; | <span title="1.44007817169826,103.79107573281">1.44008, 103.79108</span> |
+  | BASIL KING (CHONG PANG YISHUN) | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | EAZIHOME LAUNDRY & DRY CLEAN | 277C Compassvale Link Aspella Singapore 543277, #01-13-K2,  S543277; | <span title="1.38233698966981,103.893607838756">1.38234, 103.89361</span> |
+  | FAITH CLINIC (TOA PAYOH) | 211 Lorong 8 Toa Payoh Singapore 310211, #01-19,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | FAITH HEALTHCARE (TAMPINES) | 11 Tampines Street 32 Playfacto School @ Tampines Singapore 529287, #01-11,  S529287; | <span title="1.35454944260132,103.959900189012">1.35455, 103.95990</span> |
+  | FLOWER MURMURS | 419 Tampines Street 41 Sun Plaza Gardens Singapore 520419, #01-92C,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | GA-HOCK ROTI PRATA-BT | 794 Upper Bukit Timah Road,  S678133; | <span title="1.37292630434281,103.763298756325">1.37293, 103.76330</span> |
+  | HABIBS POWER ROJAK | 87 Bedok North Street 4,  S460087; | <span title="1.33250261426447,103.938587125421">1.33250, 103.93859</span> |
+  | HARU HARU RAMEN | 231 Bain Street,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | JAP & KOREAN CUISINE | 16 Bedok South Road, #01-43,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | LAO JIE FANG DUCK RICE | 339 Anchorvale Road, #02-22,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | LEE FRESH VEGETABLES #01-184 | 665 Buffalo Road, #01-184,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | LEGACY BAN MIAN | 531A Upper Cross Street, #02-47,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | PRAWN MEE | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | SHUN LI YONG TAU FOO | 51 Yishun Avenue 11, #01-38,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | TECK EE MIXED VEG RICE - B511 | 511 Bishan Street 13,  S570511; | <span title="1.34923139396435,103.849896613395">1.34923, 103.84990</span> |
+  | VALUE DOLLAR SHOP (BMC) | 165 Bukit Merah Central Bukit Merah Central Post Office Singapore 150165, #01-3669,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | VIETNAM CUISINE | 76 Nanyang Drive Nanyang Technological University (n2.1) Singapore 637331, #02-01,  S637331; | <span title="1.34713048855579,103.680033789538">1.34713, 103.68003</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MUI WAN BEAUTY SALON | <del>Lorong 4 Toa Payoh, #01-380,  S310085;</del><br>Lorong 4 Toa Payoh, #01-308,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | <del>LOCAL FUSION</del><br>TAIWAN SNACKS | <del>21 Tampines Ave 1,  S529757;</del><br>33A Tampines Ave 1,  S529769; | <del title="1.34594607020383,103.932631490034">1.34595, 103.93263</del><br><span title="1.34668096797526,103.930266639617">1.34668, 103.93027</span> |
+  | THE ASIAN MAKANSTALL | <del>335 Smith Street, #02-73,  S050335;</del><br>335 Smith Street, #02-55,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-02
 
 </summary>
