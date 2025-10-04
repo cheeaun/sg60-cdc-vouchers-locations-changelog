@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-04
+
+</summary>
+
+Total locations: 25,586 → 25,606
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BOON CHIANG HAINANESE CHICKEN RICE | 145 Teck Whye Avenue,  S680145; | <span title="1.38150500437531,103.752466910692">1.38151, 103.75247</span> |
+  | C3 SMART REPAIR (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3643E,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | COMFORT DENTAL SURGERY (BLK 844 YISHUN) | 844 Yishun Street 81 Kahtib Central Singapore 760844, #01-156,  S760844; | <span title="1.41544346877112,103.835215124962">1.41544, 103.83522</span> |
+  | ENSOUFFLE | 713A Ang Mo Kio Avenue 6, #01-01,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | FORTUNE WOK THAI (73A ARC) | 73A Ayer Rajah Crescent, ST20,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+  | GUO CHANG MALA 465FV | 465 Fernvale Road,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | INA MINIMART | 902 Tampines Avenue 4 Tampines Palmsville Singapore 520902, #01-K1,  S520902; | <span title="1.35128036439795,103.939195191948">1.35128, 103.93920</span> |
+  | JIA CHENG NOODLE HOUSE 207 | 207 Bukit Batok Street 21,  S650207; | <span title="1.34624866176031,103.749382188265">1.34625, 103.74938</span> |
+  | JIA JIA HAO ROASTED | 622D Punggol Central,  S824622; | <span title="1.40053114998822,103.910536919134">1.40053, 103.91054</span> |
+  | JIN XIU APPAREL | 335 Smith Street, #01-215,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | KAFFE & TOAST (WCC) | 900 South Woodlands Drive Cpf Woodlands Service Centre Singapore 730900, #01-09,  S730900; | <span title="1.43507790358971,103.786619613465">1.43508, 103.78662</span> |
+  | MY SAAP SAAP THAI (WCC) | 900 South Woodlands Drive Cpf Woodlands Service Centre Singapore 730900, #01-07,  S730900; | <span title="1.43507790358971,103.786619613465">1.43508, 103.78662</span> |
+  | QIAN WEI 208 | 208B New Upper Changi Road, #01-42,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+  | SEN YONG TRADING | 26A Chai Chee Road Singapore 461026, #01-399,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | STITCH N PRINT | 7 Empress Road, #01-57,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | SYDNEY DENTAL CLINIC | 415 Yishun Avenue 11 Hdb-yishun Singapore 760415, #01-313,  S760415; | <span title="1.42444263730394,103.845870092641">1.42444, 103.84587</span> |
+  | TIP TOP HAIR SALON | 622D Punggol Central Punggol Spectra Singapore 824622, #01-04,  S824622; | <span title="1.40053114998822,103.910536919134">1.40053, 103.91054</span> |
+  | TOTOFISH - 449 CLEMENTI | 449 Clementi Avenue 3,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | VILLAGE VEGETARIAN 132 | 132 Bukit Batok West Avenue 6 Hdb-bukit Batok Singapore 650132, #01-316,  S650132; | <span title="1.3506524380389,103.745625196086">1.35065, 103.74563</span> |
+  | WHAMPOA SOYA BEAN (BEDOK) | 208B New Upper Changi Road, #01-05,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HUA ANN TCM CLINIC</del><br>HUA AN TCM CLINIC | 119 Aljunied Ave 2, #01-24,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | THATSMYPIZZA | <del>2A Jalan Seh Chuan, #01-071,  S599213;</del><br>2A Jalan Seh Chuan, #01-67,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | <del>WONDERSTUDIOSG (YISHUN)</del><br>WONDERSTUDIOSG | <del>Yishun Avenue 5, #01-41,  S760101;</del><br>4 Woodlands Street 12, #02-32/33,  S738623; | <del title="1.4305357538408,103.827667722074">1.43054, 103.82767</del><br><span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | <del>SONG MARKET PLACE BY SONG FISH 846</del><br>YI JI BANG | <del>846 Yishun Ring Road Khatib Central Singapore 760846, #01-3653,  S760846;</del><br>828 Tampines Street 81, #01-246,  S520828; | <del title="1.41678634718118,103.834641579241">1.41679, 103.83464</del><br><span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-03
 
 </summary>
