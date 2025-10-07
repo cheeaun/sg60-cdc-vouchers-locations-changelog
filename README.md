@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-07
+
+</summary>
+
+Total locations: 25,606 → 25,619
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | $5 WESTERN - 354 CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | 18 MHK | 18 Toh Yi Drive,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | AGSF - 354 CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | D NAIL (523872) | 872C Tampines Street 86 Singapore 523872, #01-05,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | GUO CHANG MALA XIANG GUO 568C CHAMPION WAY | 568C Champions Way, 3,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | HONG XIN MIXED VEGETABLE RICE 150 | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | HUNG HENG RICE HOUSE - 354 CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | MOBILERELATION | 201B Tampines Street 21 Singapore 522201, #01-1077,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | MSMK HAIR SALON | 25 Ghim Moh Link Dbs Ghim Moh Road Singapore 270025, #01-02B,  S270025; | <span title="1.3081474688469,103.786255228477">1.30815, 103.78626</span> |
+  | SOLDIER CHICKEN - BISHAN | 511 Bishan Street 13,  S570511; | <span title="1.34923139396435,103.849896613395">1.34923, 103.84990</span> |
+  | STEAMED FISH FUN (TOWNER) | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | SWEE AIK FOOD MANUFACTORY - BISHAN | 152A Bishan Street 11, #01-235,  S571152; | <span title="1.34517766184218,103.85482517383">1.34518, 103.85483</span> |
+  | TIAN LE BAN MIAN.FISH SOUP | 211 Marsiling Crescent,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+
+  </details>
+
+- <details><summary>Changed (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>WANG KITCHEN NANYANG FLAVOUR</del><br>121 MIXED VEG RICE | 335 Smith Street, #02-121,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>A HAIR SALON -YISHUN 414</del><br>A HAIR SALON - BISHAN 279 | <del>414 Yishun Ring Road Singapore 760414, #01-1865,  S760414;</del><br>279 Bishan Street 24, #01-46,  S570279; | <del title="1.42452849741737,103.846595546746">1.42453, 103.84660</del><br><span title="1.35722283118337,103.843785252615">1.35722, 103.84379</span> |
+  | AH MA FRIED KWAY TEOW | <del>332 Ang Mo Kio Avenue 1,  S560332;</del><br>121 Hougang Ave 1, #01-1358,  S530121; | <del title="1.36167030761833,103.851955453764">1.36167, 103.85196</del><br><span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+  | <del>SRISUN EXPRESS AMK 407</del><br>AL ZAIN FOOD EXPRESS AMK 407 | 407 Ang Mo Kio Avenue 10 Ocbc Ang Mo Kio Ave 10 - Cheers Singapore 560407, #01-743,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | ARAB STREET TURKISH & WESTERN RESTAURANT | <del>661 Yishun Avenue 4 Nee Soon Central View Singapore 760661, #01-431,  S760661;</del><br>106 Clementi Street 12, #01-38,  S120106; | <del title="1.42201523201179,103.840714295544">1.42202, 103.84071</del><br><span title="1.32191467282846,103.769815226286">1.32191, 103.76982</span> |
+  | <del>FIVE STAR FRESH EGG</del><br>FIVE STAR VENTURES FRESH EGGS | 409 Ang Mo Kio Avenue 10, #01-84,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | <del>8889 CHICKEN HOT POT 91</del><br>HUAJIE MALA (TBL 91) | 91 Telok Blangah Street 31,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | INFOWORLD STATIONARY PTE LTD | <del>Yishun Street 11, #01-493,  S760123;</del><br>928 Yishun Central 1, #01-139,  S760928; | <del title="1.43453686287322,103.831779326315">1.43454, 103.83178</del><br><span title="1.4272080784162,103.837377109933">1.42721, 103.83738</span> |
+  | <del>L & M SEAFOOD 170A SENGKANG</del><br>L & M SEAFOOD | <del>170A Sengkang East Drive, 01-10,  S541170;</del><br>622D Punggol Central, 01-01,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | <del>LEGACY BAN MIAN</del><br>LEGACY BAN MIAN HL | 531A Upper Cross Street, #02-47,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | <del>99NJ MARKET PTE LTD (PHONE SHOP)</del><br>SMART TECH MOBILE (REDHILL) | 78 Redhill Lane, #01-17,  S150077; | <span title="1.28841104993352,103.816944055775">1.28841, 103.81694</span> |
+  | THATSMYPIZZA | <del>2A Jalan Seh Chuan, #01-67,  S599213;</del><br>2A Jalan Seh Chuan, #01-067,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | <del>HAPPY YONG TAU FOO (982)</del><br>WENDY FISH SOUP & LOR MEE | <del>982 Buangkok Crescent, 01-01,  S530982;</del><br>2 Lorong Lew Lian Gardens, #01-56,  S531002; | <del title="1.3808503546459,103.879309094304">1.38085, 103.87931</del><br><span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-04
 
 </summary>
