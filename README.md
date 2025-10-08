@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-08
+
+</summary>
+
+Total locations: 25,619 → 25,637
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 118 PRAWN NOODLE | 118 Rivervale Drive, S09,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | 418 ROASTED | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | BAKESTARTERS | 713A Ang Mo Kio Avenue 6, #01-06,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | BASIL KING | 412 Bedok North Avenue 2,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | DELATO | 418 Bedok North Avenue 2 Garden Hill Singapore 460418, #01-77,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | ER CHEN TANG TCM CLINIC | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-479A,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | HE JIE YONG TAU FOO | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | JIA JIA VEGETARIAN JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | JUST LAZZAT | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | LELE WANTON NOODLE(AMK 340) | 340 Ang Mo Kio Avenue 1,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | MAJESTIC HAIR ARTS PTE LTD (BARBER) | 8 Selegie Road Selegie House Singapore 180008, #01-15,  S180008; | <span title="1.30320667141798,103.850493368737">1.30321, 103.85049</span> |
+  | PROHEALTH MEDICAL GROUP(PUNGGOL DAMAI) | 612 Punggol Drive Damai Grove Singapore 820612, #01-05,  S820612; | <span title="1.40461003085618,103.908665597491">1.40461, 103.90867</span> |
+  | RAINBOW COFFEE & TOAST | 86 Market Street, #02-15,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | SHU VEGETARIAN @ 477 TAMPINES | 477 Tampines Street 43 Hdb-tampines Singapore 520477, #01-192,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | TECK EE MIXED VEG RICE (510735) | 735 Pasir Ris Street 72,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | W COFFEE & MATCHA | 261 Waterloo Street Saint Vincent Home Singapore 180261, #01-22,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | WU XIANG | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | ZOUL'S CORNER - BISHAN | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>JIA JIA HAO ROASTED</del><br>JIA JIA HAO 622D | <del>622D Punggol Central,  S824622;</del><br>622D Punggol Central, #01-01,  S824622; | <span title="1.40053114998822,103.910536919134">1.40053, 103.91054</span> |
+  | <del>LUCKY STARS FASHIONABLE FOOTWARE</del><br>LUCKY STARS FASHIONABLE FOOTWEAR | 117 Aljunied Avenue 2, #01-98,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | <del>THE ANCIENT TASTE (29B CHAI CHEE)</del><br>THE ANCIENT TASTE (631 BEDOK RESERVOIR ) | <del>29B Chai Chee Avenue,  S462029;</del><br>631 Bedok Reservoir Road, #01-982,  S470631; | <del title="1.3241399156082,103.923969688386">1.32414, 103.92397</del><br><span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | THREE STARS WELLNESS | <del>5 Eunos Crescent Singapore 400005, #01-2599B,  S400005;</del><br>824 Tampines Street 82, #01-12,  S520824; | <del title="1.32119096792976,103.903554516253">1.32119, 103.90355</del><br><span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | <del>WANTINGWEI WELLNESS</del><br>WAN KANG YUAN TCM | 715 Ang Mo Kio Avenue 6 Singapore 560715, #01-4002,  S560715; | <span title="1.37099726389553,103.845927987212">1.37100, 103.84593</span> |
+  | <del>XIANG CHONG COFFEE SHOP</del><br>WINNIE'S CAFE | National Development Building, Annex B, Telok Ayer Street, #01-51,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-07
 
 </summary>
