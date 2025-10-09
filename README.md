@@ -13,6 +13,65 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-09
+
+</summary>
+
+Total locations: 25,637 → 25,671
+
+- <details><summary>Added (34)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 151 TEOCHEW FISH SOUP BAN MIAN ( SERANGOON NORTH) | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | 547 KUEH | 547 Segar Road,  S670547; | <span title="1.3882402168269,103.76957538706">1.38824, 103.76958</span> |
+  | 97 XING YUN DIAN XIN (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | AL MAAZA INDIAN MUSLIM FOOD (523878) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | BLOMZ FASHION | 9 Selegie Road Selegie House Singapore 180009, #01-30,  S180009; | <span title="1.30346096156272,103.850709313633">1.30346, 103.85071</span> |
+  | FAM ROASTED SK215 | 215C Compassvale Drive,  S543215; | <span title="1.38977026274295,103.892787161183">1.38977, 103.89279</span> |
+  | HAINAN BEEF NOODLE & CLAYPOT RICE | 2 Bukit Panjang Ring Road, #01-23,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | HERITAGE DRINK STALL | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | HERITAGE ZICHAR | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | HOME 99 LIVING | 127 Plantation Crescent Plantation Village Singapore 690127, #02-13/14,  S690127; | <span title="1.35759319436135,103.734174851203">1.35759, 103.73417</span> |
+  | HONG LE MIXED VEGETABLE RICE | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | HONG XIN ECONOMIC RICE (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HONG XIN ECONOMIC RICE @ 494 TAMPINES | 494 Tampines Street 45,  S523494; | <span title="1.36287260065239,103.955717524059">1.36287, 103.95572</span> |
+  | HUA DEE HONG KONG STYLE ROASTED DELIGHT (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HUP SENG HUAT COOKED FOOD | 341 Ang Mo Kio Avenue 1, #01-07,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | LAO BAN SOYA BEANCURD | 83 Marine Parade Central Marine Parade Promenade Singapore 440083, #01-550,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | LE FRESH ENTERPRISE | 201C Tampines Street 21, #01-16,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | LH SALON (261 YISHUN) | 261 Yishun Street 22 Hdb-yishun Singapore 760261, #01-131,  S760261; | <span title="1.43530973604166,103.838606289364">1.43531, 103.83861</span> |
+  | LITTLE PRINCE NASI LEMAK | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | NKS INDIAN MUSLIM FOOD 568C CHAMPIONS WAY | 568C Champions Way, 7,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | OHWELL PTE LTD - 211D | 211D Punggol Walk Punggol Ripples Singapore 824211, #01-665,  S824211; | <span title="1.40093563151906,103.8991985">1.40094, 103.89920</span> |
+  | ORGANIC HAIR REGROWTH SOLUTIONS | 204 Hougang Street 21 Dbs Hougang Branch Singapore 530204, #01-97,  S530204; | <span title="1.35881911554386,103.884988426671">1.35882, 103.88499</span> |
+  | SATHIK INDIAN MUSLIM FOOD | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #01-14,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | SHU 722 CLEMENTI | 722 Clementi West Street 2,  S120722; | <span title="1.30297959881951,103.76371403028">1.30298, 103.76371</span> |
+  | SIMPLY D&H | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | TENG JI MIXED RICE - KALLANG BAHRU | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | TEOCHEW KWAY CHAP | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | TRADITIONAL FAMOUS PRAWN MEE | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | UPPER CROSS STREET HAI KEE SAUCE CHICKEN RICE & NOODLES | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | VALUEHUB DEPARTMENT STORE (SB) PTE LTD | 105 Canberra Street Eastbrook @ Canberra Singapore 750105, #01-07N08,  S750105; | <span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | WHAMPAO SOYA BEAN(MARINE PARADE) | 84 Marine Parade Central, #01-19,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | WHAMPAO SOYA BEAN(OLD AIRPORT ROAD) | 51 Old Airport Road, #01-68,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | WOW CHICKEN RICE (AMK 122) | 122 Ang Mo Kio Avenue 3,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+  | YUJI WANTON NOODLES (AMK 332) | 332 Ang Mo Kio Avenue 1,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SPA APERIAL BEAUTY HAIR NAIL (YISHUN) | <del>Yishun Street 22, #01-223,  S760293;</del><br>Yishun Street 22, #01-223A,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-08
 
 </summary>
