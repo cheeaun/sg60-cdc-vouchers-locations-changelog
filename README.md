@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-10
+
+</summary>
+
+Total locations: 25,671 → 25,690
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A'GLOW BEAUTY 633 | 633 Bukit Batok Central Singapore 650633, #01-118,  S650633; | <span title="1.34915709980563,103.751134497377">1.34916, 103.75113</span> |
+  | DING XIANG (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | EDGE COMMS VIII | 442 Clementi Avenue 3 Hdb-clementi Singapore 120442, #01-93,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | GAGA ROASTED DELIGHTS (417 FERNVALE) | 417 Fernvale Link,  S790417; | <span title="1.39158622983505,103.879874611419">1.39159, 103.87987</span> |
+  | GOLDEN SPIKES FRUITS LLP (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-04,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | HOUSE OF ROASTED MEATS - HG327 | 327 Hougang Avenue 5,  S530327; | <span title="1.36830683201861,103.895987624672">1.36831, 103.89599</span> |
+  | LAI SENG SEAFOOD | 201C Tampines Street 21, #01-00,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | LAO FAN JI @ 478 TAMPINES | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | MIXED VEG RICE (JTC 1 NORTH COAST) | Jtc 1 North Coast Avenue, S2,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | ORGANIC EXPRESS HAIR COLOR LAB | 339 Anchorvale Road Anchorvale Village Singapore 540339, #01-09,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | QUEEN BEAUTY | 103 Yishun Ring Road Singapore 760103, #01-63,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | ROOTZ HAIR STUDIO | 263 Serangoon Central Drive Hdb-serangoon Estate Singapore 550263, #01-55,  S550263; | <span title="1.35386322697735,103.871939623369">1.35386, 103.87194</span> |
+  | SARAWAK TASTY NOODLE 632 | 632 Yishun Street 61,  S760632; | <span title="1.41856736783462,103.839186937262">1.41857, 103.83919</span> |
+  | SU YUAN | 1 Tanjong Pagar Plaza,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | TIANGE WELLNESS PTE LTD | 326 Serangoon Avenue 3 Hdb-serangoon Estate Singapore 550326, #01-372,  S550326; | <span title="1.35035198508251,103.868996990604">1.35035, 103.86900</span> |
+  | VAIGAI MINIMART (1JBM) | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4536,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+  | WANTON NOODLES (153) | 153A Serangoon North Avenue 1, ST 4,  S551153; | <span title="1.36965187438477,103.871952820503">1.36965, 103.87195</span> |
+  | WHAMPOA SOYA BEAN (EUNOS) | 4A Eunos Crescent, #01-35,  S402004; | <span title="1.32033126010096,103.904256478426">1.32033, 103.90426</span> |
+  | XIANG KITCHEN HUNAN CUISINE | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BOON KENG BAN MIAN | <del>11 Upper Boon Keng Road,  S380011;</del><br>11 Upper Boon Keng Road, #01-939,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | <del>KOKOYO NYONYA DELIGHTS</del><br>HEE PARADISE | <del>263 Serangoon Central Drive Hdb-serangoon Estate Singapore 550263, #01-43,  S550263;</del><br>263 Serangoon Central Drive, #01-43,  S550263; | <span title="1.35386322697735,103.871939623369">1.35386, 103.87194</span> |
+  | MANG CHENG XIANG MIXED VEGE RICE | <del>293 Yishun Street 22,  S760293;</del><br>261 Punggol Way, #01-01,  S820261; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.40541353588128,103.896823897352">1.40541, 103.89682</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-09
 
 </summary>
