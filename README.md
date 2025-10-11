@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-11
+
+</summary>
+
+Total locations: 25,690 → 25,705
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ERA PUTU PIRING | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | EVERGREEN VEG | 134 Geylang East Avenue 1, ST5,  S380134; | <span title="1.31599388873107,103.886008964798">1.31599, 103.88601</span> |
+  | GMART | 729 Yishun Street 71 Ace Achievers Our Learning Hub Pte Ltd Singapore 760729, #01-103,  S760729; | <span title="1.42585285618241,103.831598307804">1.42585, 103.83160</span> |
+  | JIALE KOPITIAM | 28 Kelantan Road,  S200028; | <span title="1.30581076021463,103.857479607569">1.30581, 103.85748</span> |
+  | JOHN'S HAIR STUDIO | 714 Ang Mo Kio Avenue 6 Hdb-ang Mo Kio Singapore 560714, #01-4016,  S560714; | <span title="1.37109649780946,103.84623152448">1.37110, 103.84623</span> |
+  | KAFFE N TOAST (ONE PUNGGOL ) | 1 Punggol Drive, 01-07,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | LIANG ZAI PRAWN NOODLE - 622D PG | 622D Punggol Central,  S824622; | <span title="1.40053114998822,103.910536919134">1.40053, 103.91054</span> |
+  | ORGANIC EXPRESS HAIR COLOR LAB (ADMIRALTY PLACE) | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #03-11,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | PINNACLE FAMILY CLINIC - TENGAH | 235B Tengah Garden Walk, #01-334,  S692235; | <span title="1.36025846125477,103.731910568398">1.36026, 103.73191</span> |
+  | PITSTOP BY INTERTECH | 713A Ang Mo Kio Avenue 6, #01-12,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | QUEENS BEAUTY 303 WOODLAND | 303 Woodlands Street 31 Dbs Woodlands West Branch Singapore 730303, #01-207,  S730303; | <span title="1.43079961583478,103.774011078412">1.43080, 103.77401</span> |
+  | SITILICIOUS CAKES. COOKIES. DESSERT. (115 CANBERRA WALK) | 115 Canberra Walk Eastlace @ Canberra Singapore 750115, #01-02,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | SONGHUA RIVER DRAGON RESIDENCE 306 WOODLANDS | 306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-17,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | UNCLE PENYET 233 BBE | 233 Bukit Batok East Avenue 5,  S650233; | <span title="1.3488252646597,103.755127558884">1.34883, 103.75513</span> |
+  | VALU$ (124BML) | 124 Bukit Merah Lane 1 Hdb-alexandra Singapore 150124, #01-140,  S150124; | <span title="1.28582331821306,103.803532208512">1.28582, 103.80353</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | LAI SENG SEAFOOD | <del>201C Tampines Street 21, #01-00,  S523201;</del><br>201C Tampines Street 21, #01-03A,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-10
 
 </summary>
