@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-14
+
+</summary>
+
+Total locations: 25,705 → 25,720
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABC HAIR SALON | 103 Yishun Ring Road Singapore 760103, #01-71B,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | DA DE PIN (326 WOODLANDS) | 326 Woodlands Street 32, ST5,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | ECON VEGETARIAN DELIGHTS | 144 Tampines Street 12,  S521144; | <span title="1.34841857750645,103.943725846535">1.34842, 103.94373</span> |
+  | HARMONY COFFEE | National Development Building, Annex B, Telok Ayer Street, #02-121,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | HER TEA | 829 Tampines Street 81 Hdb-tampines Singapore 520829, #01-288,  S520829; | <span title="1.34922419580696,103.934912515373">1.34922, 103.93491</span> |
+  | JB CHANG CLAYPOT RICE | 107 Tampines Street 11,  S521107; | <span title="1.34836421842072,103.948158723814">1.34836, 103.94816</span> |
+  | KAO & TAN FAMILY MEDICAL CENTRE & SURGERY | 18 Jalan Membina Singapore 164018, #02-03,  S164018; | <span title="1.28569742883225,103.826785448095">1.28570, 103.82679</span> |
+  | LE XIN XIAO CHU | 88 Tanglin Halt Road, ST10,  S141088; | <span title="1.30178506364186,103.798226442608">1.30179, 103.79823</span> |
+  | PACIFIC FAMILY CLINIC (REDHILL) | 75D Redhill Road Singapore 154075, #01-116,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+  | PROHEALTH MEDICAL GROUP @TAMAN JURONG | 399 Yung Sheng Road Dbs Ntuc Taman Jurong Shopping Centre Singapore 610399, #01-56,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | SMART TECH MOBILE (REDHILL) | 78 Redhill Lane Singapore 150078, #01-17,  S150078; | <span title="1.28843088346846,103.818486786844">1.28843, 103.81849</span> |
+  | THE FAMILY MEDICAL CENTRE YISHUN PTE LTD | 411 Yishun Ring Road Hdb-yishun Singapore 760411, #01-1827,  S760411; | <span title="1.42574178895795,103.847404279075">1.42574, 103.84740</span> |
+  | XIN ZAI ZHI JIAN (TP822) | 822 Tampines Street 81 Hdb-tampines Singapore 520822, #01-194,  S520822; | <span title="1.34834234440867,103.934379779229">1.34834, 103.93438</span> |
+  | XING LONG YONG TAU FU | 20 Ghim Moh Road, #01-25,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | YUAN WEI | 138 Tampines Street 11,  S521138; | <span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 3QM BEAUTY | <del>531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-68,  S050531;</del><br>531 Upper Cross Street, #02-61B,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | <del>HOUSE OF LI XIANG CHENDOL</del><br>HOUSE OF LI XIANG MEE SIAM | 162 Ang Mo Kio Avenue 4, #01-17,  S560162; | <span title="1.3741075702016,103.838863921122">1.37411, 103.83886</span> |
+  | MASTER CHIPPY 203 TPY | <del>203 Toa Payoh North, #01-1097,  S310203;</del><br>206 Toa Payoh North, #01-1205,  S310206; | <del title="1.34205287411841,103.84939599719">1.34205, 103.84940</del><br><span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | RUI GROUPER FISH SOUP | <del>203 Toa Payoh North, #01-1097,  S310203;</del><br>206 Toa Payoh North, #01-1205,  S310206; | <del title="1.34205287411841,103.84939599719">1.34205, 103.84940</del><br><span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | <del>BOON KENG BAN MIAN</del><br>Y&Y BAN MIAN & FISH SOUP | 11 Upper Boon Keng Road, #01-939,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | <del>SWEETHEART DESSERT</del><br>ZHIYI YUTANG (FISH SOUP) 73A ARC | 73A Ayer Rajah Crescent, ST24,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-11
 
 </summary>
