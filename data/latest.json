@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 Oct 2025",
+  "lastUpdated": "15 Oct 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -45900,6 +45900,26 @@
         }
       },
       "lastResetDate": "2024-09-19"
+    },
+    {
+      "id": "merchant_aa0e4438-da7a-41d5-9e5b-a2d8b1d1ffc8",
+      "entityId": "merchant_aa0e4438-da7a-41d5-9e5b-a2d8b1d1ffc8",
+      "name": "AMEERAH RESTAURANT 306 WOODLANDS",
+      "address": "306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-41,  S730306;",
+      "postalCode": "730306",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42992991993554,
+      "LON": 103.774636554651,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
     },
     {
       "id": "merchant_3ce67de0-33e6-4701-8cb5-eace5c41e39b",
@@ -116762,6 +116782,26 @@
       "lastResetDate": "2021-10-27"
     },
     {
+      "id": "merchant_b0ddd0ff-6da4-42fe-a705-e0eb392fbdf4",
+      "entityId": "merchant_b0ddd0ff-6da4-42fe-a705-e0eb392fbdf4",
+      "name": "DELISNACKS",
+      "address": "85 Bedok North Street 4, #01-28,  S460085;",
+      "postalCode": "460085",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33200482399436,
+      "LON": 103.93876843919,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
+    },
+    {
       "id": "merchant_536eec20-7854-4817-a16a-bdacb65ccb80",
       "entityId": "merchant_536eec20-7854-4817-a16a-bdacb65ccb80",
       "name": "DELISNACKS",
@@ -148642,6 +148682,26 @@
       "lastResetDate": "2025-09-09"
     },
     {
+      "id": "merchant_53b810cd-719f-4c76-bf3f-b4e609a34571",
+      "entityId": "merchant_53b810cd-719f-4c76-bf3f-b4e609a34571",
+      "name": "FIGURA",
+      "address": "604 Yishun Street 61 Nee Soon Central Meadows Singapore 760604, #01-323,  S760604;",
+      "postalCode": "760604",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42171348124463,
+      "LON": 103.83554529409,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
+    },
+    {
       "id": "merchant_922f0060-43c4-42df-a47e-43d0188896b9",
       "entityId": "merchant_922f0060-43c4-42df-a47e-43d0188896b9",
       "name": "FIGURINELAND",
@@ -175180,6 +175240,26 @@
         }
       },
       "lastResetDate": "2022-01-07"
+    },
+    {
+      "id": "merchant_214e2421-ac14-43df-8edb-ba6efe59e6d3",
+      "entityId": "merchant_214e2421-ac14-43df-8edb-ba6efe59e6d3",
+      "name": "GRANDMA'S TASTE IPOH CLAYPOT",
+      "address": "978 Toa Payoh North Singapore 319001, #02-01,  S319001;",
+      "postalCode": "319001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34313731285966,
+      "LON": 103.85139383899,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
     },
     {
       "id": "merchant_ffd78d51-9627-416e-a079-51655d5f4b49",
@@ -235842,6 +235922,26 @@
       "lastResetDate": "2025-04-08"
     },
     {
+      "id": "merchant_5345f034-faf2-4ae5-859d-04ae8c246fe1",
+      "entityId": "merchant_5345f034-faf2-4ae5-859d-04ae8c246fe1",
+      "name": "JIN QUAN XIANG",
+      "address": "93 Toa Payoh Lorong 4, #01-48,  S310093;",
+      "postalCode": "310093",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33847469611073,
+      "LON": 103.849513448853,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
+    },
+    {
       "id": "merchant_3c5a4cb4-3b74-4fea-8c8a-507674d486bb",
       "entityId": "merchant_3c5a4cb4-3b74-4fea-8c8a-507674d486bb",
       "name": "JIN SEN FOH MEDICAL HALL",
@@ -265720,6 +265820,26 @@
         }
       },
       "lastResetDate": "2023-08-22"
+    },
+    {
+      "id": "merchant_4dd6cc4d-2888-4409-8bcc-8801b07d498c",
+      "entityId": "merchant_4dd6cc4d-2888-4409-8bcc-8801b07d498c",
+      "name": "KULLI FAMILYS INDIAN MUSLIM FOODS",
+      "address": "618 Yishun Ring Road,  S760618;",
+      "postalCode": "760618",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.4187353006021,
+      "LON": 103.835703280669,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
     },
     {
       "id": "merchant_8dff5d91-0065-4cd2-b1b4-34aa16427c8d",
@@ -299802,6 +299922,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_80f97665-9571-4f31-b130-f2ec61346131",
+      "entityId": "merchant_80f97665-9571-4f31-b130-f2ec61346131",
+      "name": "MEDICARE ASSOCIATES DENTAL SURGERY",
+      "address": "482 Tampines Street 43 Hdb-tampines Singapore 520482, #01-236,  S520482;",
+      "postalCode": "520482",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36163049178175,
+      "LON": 103.953000933898,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
+    },
+    {
       "id": "merchant_8b8327d2-b1fa-4e4c-8885-883cb144cc1c",
       "entityId": "merchant_8b8327d2-b1fa-4e4c-8885-883cb144cc1c",
       "name": "MEDILIFE CLINIC AND SURGERY",
@@ -316520,6 +316660,26 @@
         }
       },
       "lastResetDate": "2025-07-16"
+    },
+    {
+      "id": "merchant_10b47e1b-fc19-40fb-b2a9-dd8fa7252d94",
+      "entityId": "merchant_10b47e1b-fc19-40fb-b2a9-dd8fa7252d94",
+      "name": "MUN TING XIANG",
+      "address": "529 Hougang Avenue 6,  S530529;",
+      "postalCode": "530529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37546896487502,
+      "LON": 103.890729546346,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
     },
     {
       "id": "merchant_4fea710d-9468-4729-8df3-eb0f706ef427",
@@ -349722,6 +349882,26 @@
       "lastResetDate": "2025-09-15"
     },
     {
+      "id": "merchant_bc602fae-37ed-4812-b3c0-15addf52d19d",
+      "entityId": "merchant_bc602fae-37ed-4812-b3c0-15addf52d19d",
+      "name": "PHYSIO FRIEND (292 YISHUN)",
+      "address": "292 Yishun Street 22 Hdb-yishun Singapore 760292, #01-285B,  S760292;",
+      "postalCode": "760292",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43672478418958,
+      "LON": 103.836966390282,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
+    },
+    {
       "id": "merchant_14a782ab-dd93-42cb-9965-b6560eec80d4",
       "entityId": "merchant_14a782ab-dd93-42cb-9965-b6560eec80d4",
       "name": "PIABIA MINI MART",
@@ -357340,6 +357520,26 @@
         }
       },
       "lastResetDate": "2023-11-09"
+    },
+    {
+      "id": "merchant_ee7399da-61b5-4e52-beea-78d6c3d703dc",
+      "entityId": "merchant_ee7399da-61b5-4e52-beea-78d6c3d703dc",
+      "name": "PROHEALTH MEDICAL GROUP @ BUANGKOK",
+      "address": "275D Compassvale Link Aspella Singapore 544275, #01-12,  S544275;",
+      "postalCode": "544275",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38290495731413,
+      "LON": 103.893713485123,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-14"
     },
     {
       "id": "merchant_30dddefd-fd97-4162-92da-22e8a22c710b",

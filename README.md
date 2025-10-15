@@ -13,6 +13,33 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-15
+
+</summary>
+
+Total locations: 25,720 → 25,730
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMEERAH RESTAURANT 306 WOODLANDS | 306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-41,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | DELISNACKS | 85 Bedok North Street 4, #01-28,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | FIGURA | 604 Yishun Street 61 Nee Soon Central Meadows Singapore 760604, #01-323,  S760604; | <span title="1.42171348124463,103.83554529409">1.42171, 103.83555</span> |
+  | GRANDMA'S TASTE IPOH CLAYPOT | 978 Toa Payoh North Singapore 319001, #02-01,  S319001; | <span title="1.34313731285966,103.85139383899">1.34314, 103.85139</span> |
+  | JIN QUAN XIANG | 93 Toa Payoh Lorong 4, #01-48,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | KULLI FAMILYS INDIAN MUSLIM FOODS | 618 Yishun Ring Road,  S760618; | <span title="1.4187353006021,103.835703280669">1.41874, 103.83570</span> |
+  | MEDICARE ASSOCIATES DENTAL SURGERY | 482 Tampines Street 43 Hdb-tampines Singapore 520482, #01-236,  S520482; | <span title="1.36163049178175,103.953000933898">1.36163, 103.95300</span> |
+  | MUN TING XIANG | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | PHYSIO FRIEND (292 YISHUN) | 292 Yishun Street 22 Hdb-yishun Singapore 760292, #01-285B,  S760292; | <span title="1.43672478418958,103.836966390282">1.43672, 103.83697</span> |
+  | PROHEALTH MEDICAL GROUP @ BUANGKOK | 275D Compassvale Link Aspella Singapore 544275, #01-12,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-14
 
 </summary>
