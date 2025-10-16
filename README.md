@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-16
+
+</summary>
+
+Total locations: 25,730 → 25,753
+
+- <details><summary>Added (23)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 150 DRINK STALL | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | 150 FUSION WESTERN | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | 150 ROASTED DELIGHT | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | AL AZAAN INDIAN MUSLIM FOOD (361 SBW) | 361 Sembawang Crescent,  S750361; | <span title="1.44631506781839,103.813936813705">1.44632, 103.81394</span> |
+  | AL MADINA | 119 Aljunied Avenue 2, 7,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | BAO NI WANG DIM SUM (982 BUANGKOK) | 982 Buangkok Crescent,  S530982; | <span title="1.3808503546459,103.879309094304">1.38085, 103.87931</span> |
+  | CHEF HONG HOCHIAK BAR | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | CHIC LOOLA | 151 Bishan Street 11 Bishan Green Singapore 570151, #01-184,  S570151; | <span title="1.34507321944682,103.855542321231">1.34507, 103.85554</span> |
+  | DA GUO FENG FAN MIX RICE 40HD | 40 Holland Drive,  S270040; | <span title="1.30717590843196,103.793500328714">1.30718, 103.79350</span> |
+  | FOODPARK BEVERAGE (43 CAMBRIDGE) | 43 Cambridge Road, ST7,  S210043; | <span title="1.31536302699791,103.849434501824">1.31536, 103.84943</span> |
+  | FOODPARK DRINKS ( 107 ) | 107 Clementi Street 12,  S120107; | <span title="1.32225475067051,103.769960685492">1.32225, 103.76996</span> |
+  | FUJIAN SHAXIAN SNACKS | 7 Eunos Crescent, 04,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+  | JOY VEGETARIAN PTE LTD | 134 Geylang East Avenue 1,  S380134; | <span title="1.31599388873107,103.886008964798">1.31599, 103.88601</span> |
+  | K485 FOODPARK | 485 Segar Road, ST6,  S670485; | <span title="1.38868132378093,103.771312569429">1.38868, 103.77131</span> |
+  | KEBAB BHAI CLEMENTI | 378 Clementi Avenue 5,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | MUSTHAFA INDIAN MUSLIM STALL (731630) | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | QUAN NENG JOSS STICKS TRADING (78B TBL) | 78B Telok Blangah Street 32 Singapore 102078, #01-25,  S102078; | <span title="1.27362998744635,103.808254903711">1.27363, 103.80825</span> |
+  | SMARKET (77 TBL) | 77 Telok Blangah Drive Dbs Telok Blangah Drive Singapore 100077, #01-228,  S100077; | <span title="1.27395376732331,103.808817470502">1.27395, 103.80882</span> |
+  | TECK EE MIXED VEG RICE (AMK 407) | 407 Ang Mo Kio Avenue 10,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | TIAN TIAN YOU YU (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | TTYY 23 KALLANG | 23 Kallang Ave,  S339414; | <span title="1.31149300151441,103.865970973896">1.31149, 103.86597</span> |
+  | WEN WEN CHEE CHEONG FUN (111 WOODLANDS) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | XYCD SICHUAN CUISINE (523878) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG MIXED VEG RICE | <del>215 Ang Mo Kio Avenue 1,  S560215;</del><br>325 Woodlands Street 32, #01-131,  S730325; | <del title="1.36655830166122,103.841624082978">1.36656, 103.84162</del><br><span title="1.43078891155605,103.779517722142">1.43079, 103.77952</span> |
+  | <del>DORIGINAL BUMBU</del><br>D'ORIGINAL BUMBU | 1 Geylang Serai, #02-109,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | <del>BAI NIAN (BUANGKOK)</del><br>FENG JI HAINANESE BONELESS CHICKEN RICE | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K16,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | <del>TONG SHENG PORK RIBS PRAWN NOODLE</del><br>HING GOR ONE GUEST - ONE FISH | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K10,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | <del>HONGKONG EGGLET ICE CREAM</del><br>JAPANESE DRY RAMEN | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K34,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | LIYAN TRADITIONAL PRAWN NOODLE | <del>226B Ang Mo Kio Avenue 1, #01-103,  S562226;</del><br>226D Ang Mo Kio Ave 1, #01-103,  S564226; | <del title="1.36732624025946,103.83955157933">1.36733, 103.83955</del><br><span title="1.36680096218071,103.839152274224">1.36680, 103.83915</span> |
+  | <del>QUEEN BEAUTY</del><br>QUEENS BEAUTY | 103 Yishun Ring Road Singapore 760103, #01-63,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-15
 
 </summary>
