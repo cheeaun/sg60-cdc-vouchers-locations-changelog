@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-17
+
+</summary>
+
+Total locations: 25,753 → 25,771
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL IBRAHEEM MAKAN HOUSE INDIAN MUSLIM FOOD | 3014 Bedok Industrial Park E,  S489980; | <span title="1.33570307521737,103.950077856405">1.33570, 103.95008</span> |
+  | ALTERATION | 630 Bedok Reservoir Road Pasar Makan @ Reservoir Singapore 470630, #01-K1,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | BOWEN'S (TPY 95) | 95 Lorong 4 Toa Payoh, ST6,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | CHARCOAL MASTER 116BM | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | COME EAT MEE (5DC) | 5 Dover Crescent,  S130005; | <span title="1.30406012764311,103.782637200936">1.30406, 103.78264</span> |
+  | EACH A CUP (417 YISHUN) | 417 Yishun Avenue 11 Singapore 760417, #01-347,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | EAT BAR | 1015 Geylang East Avenue 3,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | FOODPARK DRINKS (780) | 780 Woodlands Crescent, ST-01,  S730780; | <span title="1.44834155029683,103.801057143543">1.44834, 103.80106</span> |
+  | JIA XIANG SATAY | 115 Bukit Merah View, #01-32,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | K6 FOODPARK | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | LAM GROCER (KOVAN) | 210 Hougang Street 21 Kovan City Singapore 530210, #01-225,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | OLD STREET HAINANESE CHICKEN | 231 Bain Street,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | VANDE INDIA BIRYANI & TANDOORI TRUCK | 73A Ayer Rajah Crescent, 01-22,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+  | VEGE BEAR (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | W. ESTHETIC 639 | 639 Bukit Batok Central Hdb-bukit Batok Singapore 650639, #01-32A,  S650639; | <span title="1.34925602280733,103.752037439341">1.34926, 103.75204</span> |
+  | WHAMPOA SOYA BEAN ( GM ) | 20 Ghim Moh Road, #01-02,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | WHAMPOA SOYA BEAN (AMK 724) | 724 Ang Mo Kio Avenue 6, #01-38,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | YEO YEO HUAT (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>D'ORIGINAL BUMBU</del><br>DORIGINAL BUMBU | 1 Geylang Serai, #02-109,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-16
 
 </summary>
