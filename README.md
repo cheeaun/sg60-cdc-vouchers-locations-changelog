@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-18
+
+</summary>
+
+Total locations: 25,771 → 25,786
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 115 EGGIES | 17 Upper Boon Keng Road, #01-115,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | 301 BEST DURIANS | 301 Serangoon Avenue 2 Camelot International Infant Care Pte Ltd Singapore 550301, #01-342A,  S550301; | <span title="1.35288347756585,103.867822811475">1.35288, 103.86782</span> |
+  | HONG TAI TCM PTE LTD | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-937,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | INKIPINKI | 90 Whampoa Drive, #01-91,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | K5 BEVERAGES | 2 Lorong Lew Lian, ST2,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | LEE LONG | 152A Serangoon North Avenue 1, #01-372,  S551152; | <span title="1.36978741062913,103.872742681692">1.36979, 103.87274</span> |
+  | LOKA LOKA (AMK 108) | 108 Ang Mo Kio Avenue 4,  S560108; | <span title="1.37094273993861,103.837974822369">1.37094, 103.83797</span> |
+  | MISSCHEFVOUS (WESTERN FOOD) | 30 Biopolis Street,  S138671; | <span title="1.30323831850192,103.79256511685">1.30324, 103.79257</span> |
+  | POPIAH AFFECTION | 504 Bishan Street 11, #01-444,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | SHIOK HOKKIEN MEE - TIONG BAHRU | 11B Boon Tiong Road, ST5,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | TEOCHEW CUISINE - 168 KUOFU | 168 Punggol Field, ST10,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | THE STEAK LAB (848 YISHUN) | 848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | WEI LEI MIXED VEG RICE 568C CHAMPIONS WAY | 568C Champions Way,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | XIAO DI NOODLE HOUSE AND SHENG KEE (521866) | 866A Tampines Street 83,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | YONG TAU FOO- 168 KOUFU | 168 Punggol Field, ST01,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FAMOUS HONG KONG STYLE CHARCOAL ROASTED DELIGHT ( 106 BIDADARI)</del><br>FAMOUS HONG KONG STYLE CHARCOAL ROASTED DELIGHT (520666) | <del>106 Bidadari Park Drive, ST6,  S340106;</del><br>666 Tampines Street 64, #01-01, 01-01,  S520666; | <del title="1.33369947750043,103.870796085779">1.33370, 103.87080</del><br><span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-17
 
 </summary>
