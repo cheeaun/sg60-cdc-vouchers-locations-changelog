@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-22
+
+</summary>
+
+Total locations: 25,786 → 25,797
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH SHENG PORRIDGE & SNACKS (NO PORK NO LARD) (239 YISHUN) | 239 Yishun Ring Road,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | FENG HOKKIEN MEE | 503 Jurong West Avenue 1,  S640503; | <span title="1.34995541462242,103.71770480961">1.34996, 103.71770</span> |
+  | HAO DONG KITCHEN | 335 Smith Street, #02-153,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | JIA XING TEO CHEW HANDMADE FISHBALL NOODLE | 186 Toa Payoh Central,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | JUSTEAT NASI LEMAK (201D TAMPINES) | 201D Tampines Street 21,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | NASI LEMAK MAN | 150A Bishan Street 11,  S571150; | <span title="1.34455983329518,103.855737419596">1.34456, 103.85574</span> |
+  | RUMAH REDANG & GRILL | 138 Tampines Street 11,  S521138; | <span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+  | SHANGHAI CAFE | 32 New Market Road, #01-1070,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | TIAN TIAN YOU YU | 201 Kim Tian Road,  S160201; | <span title="1.2805659901889,103.827374794883">1.28057, 103.82737</span> |
+  | TWOHERBS YISHUN | 925 Yishun Central 1 Singapore 760925, #01-215,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | XING LE XING HAINANESE CHICKEN RICE - 433A | 433A Sengkang West Way,  S791433; | <span title="1.39494947298112,103.877566961287">1.39495, 103.87757</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MIAN BA (639 PUNGGOL)</del><br>KE AI XIANG SU JI | <del>639 Punggol Drive, 6,  S820639;</del><br>612 Punggol Walk Drive, #01-01,  S820612; | <del title="1.39946117845803,103.916054498662">1.39946, 103.91605</del><br><span title="1.40461003085618,103.908665597491">1.40461, 103.90867</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-18
 
 </summary>
