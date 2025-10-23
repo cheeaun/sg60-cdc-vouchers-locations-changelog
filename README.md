@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-23
+
+</summary>
+
+Total locations: 25,797 → 25,814
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | APSARAS BOUTIQUE AND TAILORING | 665 Buffalo Road, #02-126,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | CANADIAN 2 FOR 1  JE242 | 242 Jurong East Street 24 Hdb-jurong East Singapore 600242, #01-627,  S600242; | <span title="1.34190350538593,103.74279685963">1.34190, 103.74280</span> |
+  | CONVENIENCE PLUS 5 | 821 Tampines Street 81 Hdb-tampines Singapore 520821, #01-220,  S520821; | <span title="1.34841976685509,103.934649103154">1.34842, 103.93465</span> |
+  | DRINK STALL (521622) | 622A Tampines Avenue 12,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | GOURMET | 3 Yung Sheng Road, #03-120,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | HAN ZAI LAI (AV) | 120 Bukit Merah Lane 1, #01-86,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | JS HAIRSALON & BEAUTY | 301 Ubi Avenue 1 Singapore 400301, #01-245,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | KING OF FRIED RICE (521622) | 622A Tampines Avenue 12,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | KWANG KEE TEOCHEW FISH PORRIDGE | 500 Clemenceau Avenue North, #01-20,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | M K DENTAL SURGERY | 305 Ubi Avenue 1 Singapore 400305, #01-181,  S400305; | <span title="1.32942111201491,103.902317496614">1.32942, 103.90232</span> |
+  | MUHAMMAD MUTTON 883 #12 | 883 Woodlands Street 82, 12,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | POWER VALUE TRADING PTE LTD | 304 Ubi Avenue 1 Singapore 400304, #01-83,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | S M KODI IMPEX TRADING PTE. LTD | 413 Yishun Ring Road Dbs Yishun Ring Road 1 Singapore 760413, #01-1875,  S760413; | <span title="1.42501074313135,103.846428227306">1.42501, 103.84643</span> |
+  | SRI ARUTHRA STORES | 301 Ubi Avenue 1 Singapore 400301, #01-285,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | TIAN TIAN CHI MIAN - 201 KIM TIAN | 201 Kim Tian Road, 1,  S160201; | <span title="1.2805659901889,103.827374794883">1.28057, 103.82737</span> |
+  | XIA KE NOODLE | 326 Woodlands Street 32,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | YATOU HANDMADE NOODLE | 209 New Upper Changi Road,  S460209; | <span title="1.32464544711794,103.931111525301">1.32465, 103.93111</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>OLD SCHOOL WESTERN ( 510623)</del><br>FIVE TEN WESTERN GRILL | <del>623 Elias Road, 003,  S510623;</del><br>623 Elias Road, 01-01,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | I-CONNECT OPTICS | <del>Ubi Avenue 1, #01-303,  S400301;</del><br>Ubi Avenue 1, #01-283,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | MERUTO CHEESECAKE | <del>165 Bukit Merah Central Bukit Merah Central Post Office Singapore 150165, #01-3663,  S150165;</del><br>165 Bukit Merah Central Bukit Merah Central Post Office Singapore 150165, #01-3661,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | <del>CARRARA CAFE</del><br>PLATE & PALETTE | <del>206 Toa Payoh North, #01-1217,  S310206;</del><br>206 Toa Payoh North, #01-1225,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | <del>GOOD TASTE</del><br>XIAO LA JIAO | Ang Mo Kio Avenue 6, #01-4100,  S560720; | <span title="1.37180102410534,103.84699031799">1.37180, 103.84699</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-22
 
 </summary>
