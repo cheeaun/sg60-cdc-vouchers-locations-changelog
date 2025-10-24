@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-24
+
+</summary>
+
+Total locations: 25,814 → 25,830
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 150 TOWNER ROAD SEAFOOD | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | CHIROPRACTIC SINGAPORE | 900 South Woodlands Drive Cpf Woodlands Service Centre Singapore 730900, #06-04A,  S730900; | <span title="1.43507790358971,103.786619613465">1.43508, 103.78662</span> |
+  | CREME | 107 Lorong 1 Toa Payoh Dbs Toa Payoh North Branch Singapore 310107, #01-254AA,  S310107; | <span title="1.34121948900326,103.847288831588">1.34122, 103.84729</span> |
+  | FISH KING | 269 Queen Street,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | FREE SKIN & BODY PERFECT | 208 New Upper Changi Road Bedok Town Centre Singapore 460208, #02-663,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | INNERSENSE HOLISTIC HEALTH PTE LTD | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-181,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+  | JAPANESE & KOREAN CUISINE | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | KUNG FU MALA HOTPOT (520633) | Blk 633 Tampines North Drive 2,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | MARTIN MEDICAL CENTRE (WOODLANDS) PTE. LTD. | 111 Woodlands Street 13 Hdb-woodlands Singapore 730111, #01-80A,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | NGOH HIANG.PRAWN CRACKER. SATAY | 51 Hougang Avenue 9, #01-31,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | ODL GLOBE | 205 Ang Mo Kio Avenue 1 Singapore 560205, #01-1085,  S560205; | <span title="1.36694084363535,103.843582435016">1.36694, 103.84358</span> |
+  | QUEENS BEAUTY SPA | 73 Bedok South Avenue 3 Dbs Bedok South Avenue 3 Singapore 460073, #01-464,  S460073; | <span title="1.31983803117222,103.943971359147">1.31984, 103.94397</span> |
+  | SPORTS KAKI | 73 Bedok South Avenue 3 Dbs Bedok South Avenue 3 Singapore 460073, #01-454B,  S460073; | <span title="1.31983803117222,103.943971359147">1.31984, 103.94397</span> |
+  | T E MOOKATA BUFFET | 1015 Geylang East Avenue 3,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | VIJES BROWS N BEAUTY SERVICES | 631 Hougang Avenue 8 Dbs Hougang Avenue 8 Singapore 530631, #01-18B,  S530631; | <span title="1.37068822144673,103.881514984012">1.37069, 103.88151</span> |
+  | ZAM HATIM - 218 SUMANG WALK | 218 Sumang Walk, 4,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BREAD CODE (UBI) | <del>301 Ubi Avenue 1 Singapore 400301, #01-245b,  S400301;</del><br>301 Ubi Avenue 1 Singapore 400301, #01-245A,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | SHELUXE BEAUTY | <del>258 Bangkit Road, #02-50,  S670258;</del><br>260 Bangkit Road, #02-43,  S670260; | <del title="1.37789653537861,103.773153808687">1.37790, 103.77315</del><br><span title="1.37794056201072,103.773337848764">1.37794, 103.77334</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-23
 
 </summary>
