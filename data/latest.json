@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Oct 2025",
+  "lastUpdated": "25 Oct 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -13819,7 +13819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-17"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_5a1fdf20-5023-4cc3-8135-ebf5eb1da1d3",
@@ -72539,7 +72539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-05-21"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_6061659c-a48b-4c5a-add6-6ed7b46a00ac",
@@ -73659,7 +73659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-20"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_38b60bd5-0ab1-4e52-8864-d41d2c7afd2c",
@@ -88022,6 +88022,26 @@
       "lastResetDate": "2025-07-10"
     },
     {
+      "id": "merchant_6d89ff33-5d8a-4d68-b949-355d10a32f83",
+      "entityId": "merchant_6d89ff33-5d8a-4d68-b949-355d10a32f83",
+      "name": "CHAO SHAN WEI",
+      "address": "527 Ang Mo Kio Avenue 10, #01-137,  S560527;",
+      "postalCode": "560527",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37277209302753,
+      "LON": 103.854457955288,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
+    },
+    {
       "id": "merchant_b1d5d564-74be-4d2c-a5a9-66b584c8e70a",
       "entityId": "merchant_b1d5d564-74be-4d2c-a5a9-66b584c8e70a",
       "name": "CHAO WEI BRAISED DUCK KWAY CHAP",
@@ -88939,7 +88959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-04"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_abf3a851-3f45-429a-9c9a-b789e345b22a",
@@ -121185,11 +121205,11 @@
       "id": "merchant_6cf99c18-03f9-48b4-94a9-f4543aa629d3",
       "entityId": "merchant_6cf99c18-03f9-48b4-94a9-f4543aa629d3",
       "name": "DING JI LAO HUO TANG",
-      "address": "308 Anchorvale Road,  S540308;",
-      "postalCode": "540308",
+      "address": "435A Hougang Ave 8, #01-01,  S531435;",
+      "postalCode": "531435",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.38955848510235,
-      "LON": 103.886426650492,
+      "LAT": 1.3776871958077,
+      "LON": 103.893997600765,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -121199,7 +121219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-05-05"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_5ef72c30-6409-493a-85ef-ac7a86856e52",
@@ -150385,11 +150405,11 @@
       "id": "merchant_3a47b235-1c3b-4894-8c1d-ddc15be999e4",
       "entityId": "merchant_3a47b235-1c3b-4894-8c1d-ddc15be999e4",
       "name": "FISH SO NICE",
-      "address": "739 Bedok Reservoir Road,  S470739;",
-      "postalCode": "470739",
+      "address": "710 Clementi West Street 2, #01-269,  S120710;",
+      "postalCode": "120710",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33788663735454,
-      "LON": 103.922648407766,
+      "LAT": 1.30628911866015,
+      "LON": 103.76151810816,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -150399,7 +150419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-12-22"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_dc3d5332-4d23-4b01-b6d3-5a3800487b40",
@@ -196539,7 +196559,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-23"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_de395498-1743-4a75-b03c-5479acfe8610",
@@ -206082,6 +206102,26 @@
       "lastResetDate": "2021-11-24"
     },
     {
+      "id": "merchant_091a8650-bdfd-4034-9e3f-20900d9f7037",
+      "entityId": "merchant_091a8650-bdfd-4034-9e3f-20900d9f7037",
+      "name": "HONG FA JAPANESE & KOREAN CUISINE",
+      "address": "2 Senja Close, 02-16,  S677632;",
+      "postalCode": "677632",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38719400415283,
+      "LON": 103.761083976377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
+    },
+    {
       "id": "merchant_09e6061d-d8f4-401c-8d1a-005ffa4b88ec",
       "entityId": "merchant_09e6061d-d8f4-401c-8d1a-005ffa4b88ec",
       "name": "HONG FAMILY CLINIC",
@@ -213560,6 +213600,26 @@
         }
       },
       "lastResetDate": "2025-07-15"
+    },
+    {
+      "id": "merchant_8b42ba88-5e53-44a1-9aac-ad410cecba8f",
+      "entityId": "merchant_8b42ba88-5e53-44a1-9aac-ad410cecba8f",
+      "name": "HUA YU ACUPUNCTURE & MEDICAL CLINIC",
+      "address": "73 Bedok South Avenue 3 Dbs Bedok South Avenue 3 Singapore 460073, #01-456,  S460073;",
+      "postalCode": "460073",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31983803117222,
+      "LON": 103.943971359147,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_288340c8-7a24-4017-8602-aa77cfd17779",
@@ -259179,7 +259239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-16"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_d3a0b2d7-c081-427d-b079-f91804a24437",
@@ -265700,6 +265760,26 @@
         }
       },
       "lastResetDate": "2025-03-10"
+    },
+    {
+      "id": "merchant_ddf05e6b-d8ff-4c56-bbd9-d8dd01b4cad0",
+      "entityId": "merchant_ddf05e6b-d8ff-4c56-bbd9-d8dd01b4cad0",
+      "name": "KPS INDIAN MUSLIM FOOD",
+      "address": "395A Bukit Batok West Avenue 5,  S651395;",
+      "postalCode": "651395",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36448974299463,
+      "LON": 103.751987145985,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_948541ea-2895-499c-b23d-22e0def92435",
@@ -286839,7 +286919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-05-20"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_4af0bff9-64dc-4e7d-9903-fda0dd0987ae",
@@ -287220,6 +287300,26 @@
         }
       },
       "lastResetDate": "2021-11-18"
+    },
+    {
+      "id": "merchant_70c52531-c39c-4e49-839c-d1e591480b2e",
+      "entityId": "merchant_70c52531-c39c-4e49-839c-d1e591480b2e",
+      "name": "LOONG 110 PTE. LTD",
+      "address": "110 Yishun Ring Road,  S760110;",
+      "postalCode": "760110",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43376057937716,
+      "LON": 103.828993389444,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_9568788a-3ae5-465f-9c07-b09abe763a7d",
@@ -311842,6 +311942,26 @@
       "lastResetDate": "2023-02-06"
     },
     {
+      "id": "merchant_2b73c764-4dfc-4556-8bb1-34fd607d76bb",
+      "entityId": "merchant_2b73c764-4dfc-4556-8bb1-34fd607d76bb",
+      "name": "MOBILE BASH YISHUN",
+      "address": "414 Yishun Ring Road Singapore 760414, #01-1867,  S760414;",
+      "postalCode": "760414",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42452849741737,
+      "LON": 103.846595546746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
+    },
+    {
       "id": "merchant_2f23c416-77dc-4999-93c0-efb7c32a14e1",
       "entityId": "merchant_2f23c416-77dc-4999-93c0-efb7c32a14e1",
       "name": "MOBILE CONCEPTZ",
@@ -325360,6 +325480,26 @@
         }
       },
       "lastResetDate": "2021-12-23"
+    },
+    {
+      "id": "merchant_2f34172e-b1d6-4218-9d67-4bb847d66840",
+      "entityId": "merchant_2f34172e-b1d6-4218-9d67-4bb847d66840",
+      "name": "NATHAN'S CAFE HOT & COOL DRINKS BEER",
+      "address": "665 Buffalo Road, #01-289,  S210665;",
+      "postalCode": "210665",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30617705352996,
+      "LON": 103.850611312978,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_55042eac-f42d-4a5b-8eb7-ef43c64a4c1f",
@@ -419505,7 +419645,7 @@
       "id": "merchant_993bb7bc-da83-4b85-ba97-52d2c200d771",
       "entityId": "merchant_993bb7bc-da83-4b85-ba97-52d2c200d771",
       "name": "STRAITS OPTICAL & CONTACT LENS PTE LTD",
-      "address": "262 Serangoon Central Drive, #01-93,  S550262;",
+      "address": "262 Serangoon Central Drive, #01-95,  S550262;",
       "postalCode": "550262",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35323084558357,
@@ -419519,7 +419659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-01-03"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_faf197f2-1055-40e7-83e3-78b2cffdd8a9",
@@ -438240,6 +438380,26 @@
         }
       },
       "lastResetDate": "2021-11-11"
+    },
+    {
+      "id": "merchant_956eaabd-3c59-4327-a035-d8104cde2005",
+      "entityId": "merchant_956eaabd-3c59-4327-a035-d8104cde2005",
+      "name": "TERRA NAIL STUDIO",
+      "address": "452 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560452, #01-1793,  S560452;",
+      "postalCode": "560452",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36889751131378,
+      "LON": 103.856200835147,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_78398583-22b8-4fe7-81ff-41cf7b6f6ff2",
@@ -479059,7 +479219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-22"
+      "lastResetDate": "2025-10-25"
     },
     {
       "id": "merchant_bddd426f-d0d8-4f5f-b34e-826fc9aada42",
@@ -505079,7 +505239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-03-01"
+      "lastResetDate": "2025-10-24"
     },
     {
       "id": "merchant_63985acd-9749-47a1-a3f8-6fcdeac973c0",

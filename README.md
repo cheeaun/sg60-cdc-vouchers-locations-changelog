@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-25
+
+</summary>
+
+Total locations: 25,830 → 25,838
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHAO SHAN WEI | 527 Ang Mo Kio Avenue 10, #01-137,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | HONG FA JAPANESE & KOREAN CUISINE | 2 Senja Close, 02-16,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | HUA YU ACUPUNCTURE & MEDICAL CLINIC | 73 Bedok South Avenue 3 Dbs Bedok South Avenue 3 Singapore 460073, #01-456,  S460073; | <span title="1.31983803117222,103.943971359147">1.31984, 103.94397</span> |
+  | KPS INDIAN MUSLIM FOOD | 395A Bukit Batok West Avenue 5,  S651395; | <span title="1.36448974299463,103.751987145985">1.36449, 103.75199</span> |
+  | LOONG 110 PTE. LTD | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | MOBILE BASH YISHUN | 414 Yishun Ring Road Singapore 760414, #01-1867,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | NATHAN'S CAFE HOT & COOL DRINKS BEER | 665 Buffalo Road, #01-289,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | TERRA NAIL STUDIO | 452 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560452, #01-1793,  S560452; | <span title="1.36889751131378,103.856200835147">1.36890, 103.85620</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DING JI LAO HUO TANG | <del>308 Anchorvale Road,  S540308;</del><br>435A Hougang Ave 8, #01-01,  S531435; | <del title="1.38955848510235,103.886426650492">1.38956, 103.88643</del><br><span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | FISH SO NICE | <del>739 Bedok Reservoir Road,  S470739;</del><br>710 Clementi West Street 2, #01-269,  S120710; | <del title="1.33788663735454,103.922648407766">1.33789, 103.92265</del><br><span title="1.30628911866015,103.76151810816">1.30629, 103.76152</span> |
+  | STRAITS OPTICAL & CONTACT LENS PTE LTD | <del>262 Serangoon Central Drive, #01-93,  S550262;</del><br>262 Serangoon Central Drive, #01-95,  S550262; | <span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-24
 
 </summary>
