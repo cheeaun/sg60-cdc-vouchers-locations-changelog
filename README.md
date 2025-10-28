@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-28
+
+</summary>
+
+Total locations: 25,838 → 25,850
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 138 PRAWN NOODLE | 9008 Tampines Street 93,  S528843; | <span title="1.34171015240353,103.942585643036">1.34171, 103.94259</span> |
+  | 834 FISHBALL NOODLE | 834 Woodlands Street 83,  S730834; | <span title="1.44007817169826,103.79107573281">1.44008, 103.79108</span> |
+  | DRAGON CURRY | 505 Beach Road, #B1-01,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | EMPEROR HOT WOK | 6 Jalan Bukit Merah, #01-07,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | HONG KONG HEALTHY STEWED SOUP STEAM RICE | 31 Tampines Street 92,  S520031; | <span title="1.33976481883113,103.943122654669">1.33976, 103.94312</span> |
+  | HOYEAH NASI LEMAK (10 MARSILING) | 10 Marsiling Industrial Estate,  S739276; | <span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+  | JINXI ZICHAR (AMK 603) | 603 Ang Mo Kio Avenue 5,  S560603; | <span title="1.38020079047279,103.83575571651">1.38020, 103.83576</span> |
+  | KOREAN CUISINE (AMK 151) | 151 Ang Mo Kio Avenue 5,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+  | MA-MA BEE | 184 Toa Payoh Central,  S310184; | <span title="1.33259000918315,103.849677717253">1.33259, 103.84968</span> |
+  | S-11 DRINKS BB640 | 640 Bukit Batok Central,  S650640; | <span title="1.34930332956795,103.751664381942">1.34930, 103.75166</span> |
+  | SHINIAN96 | 2 Senja Close, 02-11,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | STEVEN FRIED RICE 515A WOODLANDS | 515A Woodlands Drive 14,  S731515; | <span title="1.43420564787063,103.790081342564">1.43421, 103.79008</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ZHEN JIE COOKED FOOD</del><br>170 MINCED MEAT NOOODLE | <del>335 Smith Street, #02-172,  S050335;</del><br>335 Smith Street, #02-170,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>CHICKS N LOBS (JLN KELULUT)</del><br>ORCHID LIVE SEAFOOD SIGNATURE (JLN KELULUT) | 16 Jalan Kelulut Seletar Hills Estate Singapore 809033, #01-16,  S809033; | <span title="1.38336555445671,103.87590354433">1.38337, 103.87590</span> |
+  | <del>BLIND MASSAGE SERVICES- TPP</del><br>TANJONG PAGAR BEST BLIND MASSAGE SERVICE | <del>1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-55,  S082001;</del><br>1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-10,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-25
 
 </summary>
