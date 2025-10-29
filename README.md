@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-29
+
+</summary>
+
+Total locations: 25,850 → 25,872
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | B2B INDIAN FOOD | 301 Ubi Avenue 1,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | CHUAN CHUAN MIX VEG RICE #1 (FP RP) | 27 Woodlands Avenue 9, 1,  S737909; | <span title="1.44496816514049,103.785362406892">1.44497, 103.78536</span> |
+  | DELI DELIGHT HAINAN WESTERN (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | DING SHENG KAMPONG CHICKEN RICE 303 JE | 303 Jurong East Street 32,  S600303; | <span title="1.34485611194653,103.735622181477">1.34486, 103.73562</span> |
+  | FATTY AUNT YONG TAU FOO | 107 Jalan Bukit Merah,  S160107; | <span title="1.27983690191197,103.824757769108">1.27984, 103.82476</span> |
+  | FEDOURA AESTHETIC | 177 Toa Payoh Central Toa Payoh Central Singapore 310177, #01-108,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | FENG TAI FISH SOUP | 531A Upper Cross Street, #02-44,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | FISHBALL NOODLE (KOUFU RP) | 31 Woodlands Ave 9 01-01 South Food Court, 02,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | FUN & YUM CURRY & MIXED RICE | 159 Ang Mo Kio Avenue 4, ST6,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | HONG LIM CURRY PUFF @ TIONG BAHRU MARKET | 30 Seng Poh Road, #02-78,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | IPOH TUCK KEE (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | KIANG KIANG TAIWAN TEPPANYAKI | 412 Bedok North Avenue 2, 01,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | LH KWAY CHAP | 159 Ang Mo Kio Avenue 4,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | NAD DELIGHTS | 372 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650372, #01-366,  S650372; | <span title="1.35866916706906,103.751213742148">1.35867, 103.75121</span> |
+  | NANYANG SPICES (NASI LEMAK) | 30 Biopolis Street,  S138671; | <span title="1.30323831850192,103.79256511685">1.30324, 103.79257</span> |
+  | NEW DESIGN SALON (80) | 80 Redhill Lane Singapore 150080, #01-342B,  S150080; | <span title="1.28780725542023,103.818781986583">1.28781, 103.81878</span> |
+  | PERFECT HAIR PTE LTD | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-43,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | SCALP AND YOUTH | 412 Bedok North Avenue 2 Hdb-bedok Singapore 460412, #01-142B,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | STEAM FISH (PUNGGOL NORTHSHORE) | 418 Northshore Drive,  S820418; | <span title="1.41796143093751,103.901321830086">1.41796, 103.90132</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | V.J THAI FOOD (#03 KOUFU RP) | 31 Woodlands Ave 9 01-01 South Food Court, 03,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | YU JIA SIGNATURES | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>848 PANCAKE (HENG HENG PANCAKE)</del><br>848 HENG HENG YOUTIAO & NGOH HIANG PRAWN CRACKER | <del>848 Yishun Ring Road,  S760848;</del><br>848 Yishun Street 81, #01-136,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | <del>AL FAZILAH 515A WOODLANDS</del><br>AL FAZILAH | <del>515A Woodlands Drive 14,  S731515;</del><br>18 Jalan Sultan, 01-168,  S190018; | <del title="1.43420564787063,103.790081342564">1.43421, 103.79008</del><br><span title="1.3032741422611,103.862614969484">1.30327, 103.86261</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-28
 
 </summary>
