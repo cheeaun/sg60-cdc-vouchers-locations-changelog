@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-30
+
+</summary>
+
+Total locations: 25,872 → 25,894
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 18 TOH YI BBQ | 18 Toh Yi Drive,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | ACES MOBILE WP | 89 Whampoa Drive Singapore 320089, #01-839,  S320089; | <span title="1.32363913722346,103.854988582241">1.32364, 103.85499</span> |
+  | AI WAN DIAN | 3 Saint George's Road Hdb-kallang/whampoa Singapore 320003, #01-75,  S320003; | <span title="1.3225873518737,103.861107276991">1.32259, 103.86111</span> |
+  | AYAM PENYET CIK YAM (334 BROADWAY) | 334A Sembawang Close,  S751334; | <span title="1.44804933629396,103.816349002107">1.44805, 103.81635</span> |
+  | BARBERHOOD & CO (AMK 181) | 181 Ang Mo Kio Avenue 5 Kebun Baru Link 2 Singapore 560181, #01-2938,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | CHENNAI TRADING & SUPERMARKET | 301 Ubi Avenue 1 Singapore 400301, #01-301,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | CHIEF CHOICE | 21 Sengkang West Avenue, 03-30,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | DING FENG SEAFOOD (510623) | 623 Elias Road, 01-13,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | DOU YONG TAU FOO (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | EACH A CUP (520610) | 610 Tampines North Drive 1 Tampines Greenweave Singapore 520610, #01-10,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | FADE LAB GENTLEMAN BARBERSHOP | 133 Jalan Bukit Merah Hdb-bukit Merah Singapore 160133, #01-1524,  S160133; | <span title="1.27955093259631,103.82740093837">1.27955, 103.82740</span> |
+  | FISHIN' WITH YOU | 56 New Upper Changi Road,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | FRUITY FRESH | 408 Ang Mo Kio Avenue 10 Teck Ghee Square Singapore 560408, #01-803A,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | HERITAGE TANGLIN PUFF | 4 Woodlands Street 12, #01-62,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | HOE KEE BONELESS CHICKEN RICE | 31 Commonwealth Crescent, #02-84,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | LITTLE PRINCE NASI LEMAK | 555 Ang Mo Kio Avenue 10,  S560555; | <span title="1.37119666371478,103.85702400572">1.37120, 103.85702</span> |
+  | NASI PADANG | 535 Clementi Road, Blk 51, Level 2,  S599489; | <span title="1.33378462302575,103.775294348014">1.33378, 103.77529</span> |
+  | NORAS KITCHEN 2.0 | National Development Building, Annex B, Telok Ayer Street, #01-72,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | SEASONS SWEET (ONE PUNGGOL) | 1 Punggol Drive, #02-05,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | TBS FRESH CHICKEN | 21 Sengkang West Avenue, 03-31,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | TEN DOLLAR SHOP GROUP (510440) | 440 Pasir Ris Drive 4 Dbs Pasir Ris Drive 4 Singapore 510440, #01-03,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | THE FAMILY CLINIC @ TOWNER | 34 Whampoa West Bendemeer Ville Singapore 330034, #01-55,  S330034; | <span title="1.32050169556608,103.863341271367">1.32050, 103.86334</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>IN'Z HAIR SALOON</del><br>INZI BEAUTY & HAIR PTE LTD | 84 Bedok North Street 4, #01-71B,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | NOVAHEALTH TCM CLINIC @ YISHUN | <del>Yishun Ring Road, #01-179,  S760106;</del><br>Yishun Ring Road, #01-179A,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-29
 
 </summary>
