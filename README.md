@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-10-31
+
+</summary>
+
+Total locations: 25,894 → 25,908
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH Y EATING HOUSE PTE LTD | 9 Toa Payoh Industrial Park,  S319061; | <span title="1.33674506157381,103.860127995999">1.33675, 103.86013</span> |
+  | AZIZ GORENG PISANG | 138 Tampines Street 11,  S521138; | <span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+  | EAST BRISTRO (SBW) | 10 Jalan Tampang Sembawang Garden Arcade Singapore 758954, #01-10,  S758954; | <span title="1.44204759918479,103.823336611779">1.44205, 103.82334</span> |
+  | EASY CUT CURRY | 181 Ang Mo Kio Avenue 5,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | GRANDMA'S TASTE IPOH CLAYPOT | 148 Silat Avenue,  S160148; | <span title="1.27688315064164,103.830883904963">1.27688, 103.83088</span> |
+  | HAI LI FANG | 10 Sengkang Square, 60,  S544829; | <span title="1.39152651487694,103.89365715873">1.39153, 103.89366</span> |
+  | HELLO STEAM FISH (MARGARET DRIVE) | 38A Margaret Drive, #01-33,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | INDIAN MUSLIM FOODIE DELIGHTS | 27 Jalan Berseh,  S200027; | <span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | JIAWANG YONG TAU FOO | 341 Ang Mo Kio Avenue 1, #01-13,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | SAZ BARBER | 835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-06,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | SHARPZILLA KNIFE SHARPENING | 117 Aljunied Avenue 2, #01-93,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | SORELLA - KALLANG BAHRU | 71 Kallang Bahru Singapore 330071, #01-529H,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | THE HUNGRY BEAR | 301 Serangoon Avenue 2 Camelot International Infant Care Pte Ltd Singapore 550301, #01-326B,  S550301; | <span title="1.35288347756585,103.867822811475">1.35288, 103.86782</span> |
+  | WANTON FU | 144 Tampines Street 12,  S521144; | <span title="1.34841857750645,103.943725846535">1.34842, 103.94373</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ZHEN JIE COOKED FOOD</del><br>170 MINCED MEAT NOODLE | 335 Smith Street, #02-170,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | ENTRUST PROVISION | <del>548 Woodlands Drive 44, 30,  S730548;</del><br>548 Woodlands Drive 44, 31,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | <del>HWA HENG BEEF NOODLE (461 YISHUN)</del><br>HAI GE JI BEEF NOODLES | 461 Yishun Ave 6, #01-01,  S760461; | <span title="1.42841338853064,103.84997365333">1.42841, 103.84997</span> |
+  | JING WEI DIM SUM | <del>101 Yishun Avenue 5, D2,  S760101;</del><br>110 Yishun Ring Road, #01-401,  S760110; | <del title="1.4305357538408,103.827667722074">1.43054, 103.82767</del><br><span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | <del>SEDAP</del><br>SEDAP YONG TAU FU | 11 Bedok North Street 1, #01-28/29,  S469662; | <span title="1.32662388643563,103.931806159881">1.32662, 103.93181</span> |
+  | <del>170 MINCED MEAT NOOODLE</del><br>ZHEN JIE COOKED FOOD | <del>335 Smith Street, #02-170,  S050335;</del><br>335 Smith Street, #02-172,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-30
 
 </summary>

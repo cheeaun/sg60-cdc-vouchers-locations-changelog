@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Oct 2025",
+  "lastUpdated": "31 Oct 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -9882,9 +9882,9 @@
       "lastResetDate": "2024-03-21"
     },
     {
-      "id": "merchant_fc60aca2-0ab9-40b2-8ba7-62758e13aa61",
-      "entityId": "merchant_fc60aca2-0ab9-40b2-8ba7-62758e13aa61",
-      "name": "170 MINCED MEAT NOOODLE",
+      "id": "merchant_0a289621-ee61-4365-b1e0-a42f96542867",
+      "entityId": "merchant_0a289621-ee61-4365-b1e0-a42f96542867",
+      "name": "170 MINCED MEAT NOODLE",
       "address": "335 Smith Street, #02-170,  S050335;",
       "postalCode": "050335",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -9899,7 +9899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-27"
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_7308c036-a944-4fbf-a2ee-b50f17f41cc8",
@@ -36622,6 +36622,26 @@
       "lastResetDate": "2021-11-26"
     },
     {
+      "id": "merchant_889b2194-d648-466d-a197-4d423f1f8e03",
+      "entityId": "merchant_889b2194-d648-466d-a197-4d423f1f8e03",
+      "name": "AH Y EATING HOUSE PTE LTD",
+      "address": "9 Toa Payoh Industrial Park,  S319061;",
+      "postalCode": "319061",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33674506157381,
+      "LON": 103.860127995999,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_d9624edc-3f98-4738-ae41-9244b8cafa3e",
       "entityId": "merchant_d9624edc-3f98-4738-ae41-9244b8cafa3e",
       "name": "AH YA FISH SOUP",
@@ -56860,6 +56880,26 @@
         }
       },
       "lastResetDate": "2021-12-16"
+    },
+    {
+      "id": "merchant_e4c74d44-007b-4872-a814-a926ac67cfdf",
+      "entityId": "merchant_e4c74d44-007b-4872-a814-a926ac67cfdf",
+      "name": "AZIZ GORENG PISANG",
+      "address": "138 Tampines Street 11,  S521138;",
+      "postalCode": "521138",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3455045062724,
+      "LON": 103.945588355383,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_95ad4f33-fff4-48c6-9386-b0fbd75e9480",
@@ -132722,6 +132762,26 @@
       "lastResetDate": "2023-06-12"
     },
     {
+      "id": "merchant_91a539d6-b4a4-426e-b0a6-81b13a11eb52",
+      "entityId": "merchant_91a539d6-b4a4-426e-b0a6-81b13a11eb52",
+      "name": "EAST BRISTRO (SBW)",
+      "address": "10 Jalan Tampang Sembawang Garden Arcade Singapore 758954, #01-10,  S758954;",
+      "postalCode": "758954",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44204759918479,
+      "LON": 103.823336611779,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_80aa558c-9b71-44d1-a51a-e3d5cf750f95",
       "entityId": "merchant_80aa558c-9b71-44d1-a51a-e3d5cf750f95",
       "name": "EAST EIGHT",
@@ -133080,6 +133140,26 @@
         }
       },
       "lastResetDate": "2025-07-22"
+    },
+    {
+      "id": "merchant_bf5fd02e-973f-432e-a218-81ec974ed0a7",
+      "entityId": "merchant_bf5fd02e-973f-432e-a218-81ec974ed0a7",
+      "name": "EASY CUT CURRY",
+      "address": "181 Ang Mo Kio Avenue 5,  S560181;",
+      "postalCode": "560181",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37679309896347,
+      "LON": 103.837142240849,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_d10c9362-9637-40af-89a2-3793f617466e",
@@ -138865,7 +138945,7 @@
       "id": "merchant_69f273bf-86a3-4c28-8073-cf39820d7859",
       "entityId": "merchant_69f273bf-86a3-4c28-8073-cf39820d7859",
       "name": "ENTRUST PROVISION",
-      "address": "548 Woodlands Drive 44, 30,  S730548;",
+      "address": "548 Woodlands Drive 44, 31,  S730548;",
       "postalCode": "730548",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.43044361849124,
@@ -138879,7 +138959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-27"
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_c4165fde-0b5d-4881-87b1-aef0b4b6380d",
@@ -176422,6 +176502,26 @@
       "lastResetDate": "2022-01-07"
     },
     {
+      "id": "merchant_afa183b6-f4de-486f-8fb0-ea5b55526e6e",
+      "entityId": "merchant_afa183b6-f4de-486f-8fb0-ea5b55526e6e",
+      "name": "GRANDMA'S TASTE IPOH CLAYPOT",
+      "address": "148 Silat Avenue,  S160148;",
+      "postalCode": "160148",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27688315064164,
+      "LON": 103.830883904963,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_214e2421-ac14-43df-8edb-ba6efe59e6d3",
       "entityId": "merchant_214e2421-ac14-43df-8edb-ba6efe59e6d3",
       "name": "GRANDMA'S TASTE IPOH CLAYPOT",
@@ -182442,6 +182542,26 @@
       "lastResetDate": "2022-01-28"
     },
     {
+      "id": "merchant_300f2f6b-1a62-488c-b178-7b51c579d69b",
+      "entityId": "merchant_300f2f6b-1a62-488c-b178-7b51c579d69b",
+      "name": "HAI GE JI BEEF NOODLES",
+      "address": "461 Yishun Ave 6, #01-01,  S760461;",
+      "postalCode": "760461",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42841338853064,
+      "LON": 103.84997365333,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_c6266bfb-0816-4acf-99d1-4ce165a3bd33",
       "entityId": "merchant_c6266bfb-0816-4acf-99d1-4ce165a3bd33",
       "name": "HAI GUAN SENG TRADING SERVICE",
@@ -182680,6 +182800,26 @@
         }
       },
       "lastResetDate": "2021-12-09"
+    },
+    {
+      "id": "merchant_21047f09-6834-4521-aa55-1a3e3566f25f",
+      "entityId": "merchant_21047f09-6834-4521-aa55-1a3e3566f25f",
+      "name": "HAI LI FANG",
+      "address": "10 Sengkang Square, 60,  S544829;",
+      "postalCode": "544829",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39152651487694,
+      "LON": 103.89365715873,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_e17704e9-0634-4cee-aa45-319395704585",
@@ -196340,6 +196480,26 @@
         }
       },
       "lastResetDate": "2021-12-08"
+    },
+    {
+      "id": "merchant_8d68f14d-8ef3-4719-bdc3-67deacd10d03",
+      "entityId": "merchant_8d68f14d-8ef3-4719-bdc3-67deacd10d03",
+      "name": "HELLO STEAM FISH (MARGARET DRIVE)",
+      "address": "38A Margaret Drive, #01-33,  S142038;",
+      "postalCode": "142038",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29742585102203,
+      "LON": 103.804710471304,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_05212de9-1f79-49df-8c35-67c3d34ff86d",
@@ -218102,26 +218262,6 @@
       "lastResetDate": "2024-04-04"
     },
     {
-      "id": "merchant_300f2f6b-1a62-488c-b178-7b51c579d69b",
-      "entityId": "merchant_300f2f6b-1a62-488c-b178-7b51c579d69b",
-      "name": "HWA HENG BEEF NOODLE (461 YISHUN)",
-      "address": "461 Yishun Ave 6, #01-01,  S760461;",
-      "postalCode": "760461",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.42841338853064,
-      "LON": 103.84997365333,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-02-18"
-    },
-    {
       "id": "merchant_33bbbbee-c0e3-4b72-9ef8-c18ff4ae425e",
       "entityId": "merchant_33bbbbee-c0e3-4b72-9ef8-c18ff4ae425e",
       "name": "HWA HENG BEEF NOODLE (SK SQUARE)",
@@ -222060,6 +222200,26 @@
         }
       },
       "lastResetDate": "2023-09-05"
+    },
+    {
+      "id": "merchant_98c6b474-28b3-41b5-9eea-36ffbc84bb71",
+      "entityId": "merchant_98c6b474-28b3-41b5-9eea-36ffbc84bb71",
+      "name": "INDIAN MUSLIM FOODIE DELIGHTS",
+      "address": "27 Jalan Berseh,  S200027;",
+      "postalCode": "200027",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30660046872975,
+      "LON": 103.857799738556,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_5cd5c32b-61cd-4d7f-94ec-9e7644db0afd",
@@ -235902,6 +236062,26 @@
       "lastResetDate": "2024-11-01"
     },
     {
+      "id": "merchant_89859a67-6c3c-461c-aaca-098055e33cbb",
+      "entityId": "merchant_89859a67-6c3c-461c-aaca-098055e33cbb",
+      "name": "JIAWANG YONG TAU FOO",
+      "address": "341 Ang Mo Kio Avenue 1, #01-13,  S560341;",
+      "postalCode": "560341",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36384516921846,
+      "LON": 103.84806729788,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_8bf68739-1169-4871-b141-2167a869edc1",
       "entityId": "merchant_8bf68739-1169-4871-b141-2167a869edc1",
       "name": "JIAXIANG MALA HOTPOT",
@@ -238985,11 +239165,11 @@
       "id": "merchant_0cda22d5-b186-4003-bccc-cc2809a1c808",
       "entityId": "merchant_0cda22d5-b186-4003-bccc-cc2809a1c808",
       "name": "JING WEI DIM SUM",
-      "address": "101 Yishun Avenue 5, D2,  S760101;",
-      "postalCode": "760101",
+      "address": "110 Yishun Ring Road, #01-401,  S760110;",
+      "postalCode": "760110",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.4305357538408,
-      "LON": 103.827667722074,
+      "LAT": 1.43376057937716,
+      "LON": 103.828993389444,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -238999,7 +239179,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-06-30"
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_a1f2b19b-d0c4-47aa-b6c7-0c860c22f915",
@@ -384822,6 +385002,26 @@
       "lastResetDate": "2021-10-20"
     },
     {
+      "id": "merchant_d0aaef1d-a6ba-41fc-8b1c-d9faf2195f42",
+      "entityId": "merchant_d0aaef1d-a6ba-41fc-8b1c-d9faf2195f42",
+      "name": "SAZ BARBER",
+      "address": "835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-06,  S520835;",
+      "postalCode": "520835",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35113833740958,
+      "LON": 103.933863132539,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
+    },
+    {
       "id": "merchant_026c90d6-08ea-4d1d-85f7-72ffe66f921d",
       "entityId": "merchant_026c90d6-08ea-4d1d-85f7-72ffe66f921d",
       "name": "SB MART (THE BROOKS II)",
@@ -386942,26 +387142,6 @@
       "lastResetDate": "2022-02-15"
     },
     {
-      "id": "merchant_95cde227-0cd9-4da2-9ba1-0e87b1eacb31",
-      "entityId": "merchant_95cde227-0cd9-4da2-9ba1-0e87b1eacb31",
-      "name": "SEDAP",
-      "address": "11 Bedok North Street 1, #01-28/29,  S469662;",
-      "postalCode": "469662",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32662388643563,
-      "LON": 103.931806159881,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-04-15"
-    },
-    {
       "id": "merchant_66c14335-a640-4d68-b3df-81bec198ee90",
       "entityId": "merchant_66c14335-a640-4d68-b3df-81bec198ee90",
       "name": "SEDAP",
@@ -387040,6 +387220,26 @@
         }
       },
       "lastResetDate": "2021-11-24"
+    },
+    {
+      "id": "merchant_95cde227-0cd9-4da2-9ba1-0e87b1eacb31",
+      "entityId": "merchant_95cde227-0cd9-4da2-9ba1-0e87b1eacb31",
+      "name": "SEDAP YONG TAU FU",
+      "address": "11 Bedok North Street 1, #01-28/29,  S469662;",
+      "postalCode": "469662",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32662388643563,
+      "LON": 103.931806159881,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_649d7be3-9184-4e30-abbf-efcfa83a8544",
@@ -392860,6 +393060,26 @@
         }
       },
       "lastResetDate": "2023-04-10"
+    },
+    {
+      "id": "merchant_25a5f5cf-93f5-4d75-aa99-8ea3205670a8",
+      "entityId": "merchant_25a5f5cf-93f5-4d75-aa99-8ea3205670a8",
+      "name": "SHARPZILLA KNIFE SHARPENING",
+      "address": "117 Aljunied Avenue 2, #01-93,  S380117;",
+      "postalCode": "380117",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32064636781982,
+      "LON": 103.88702414,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_e1214437-e1a0-4e18-8be9-14212d2927bd",
@@ -413960,6 +414180,26 @@
         }
       },
       "lastResetDate": "2023-11-02"
+    },
+    {
+      "id": "merchant_3ac515bd-a026-4f0b-88e5-4e5d4cc6a043",
+      "entityId": "merchant_3ac515bd-a026-4f0b-88e5-4e5d4cc6a043",
+      "name": "SORELLA - KALLANG BAHRU",
+      "address": "71 Kallang Bahru Singapore 330071, #01-529H,  S330071;",
+      "postalCode": "330071",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3209929422065,
+      "LON": 103.870389998344,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_830b71f3-f478-40a7-a5cf-be72039b06d6",
@@ -444280,6 +444520,26 @@
         }
       },
       "lastResetDate": "2022-11-10"
+    },
+    {
+      "id": "merchant_3f34f0a2-d37f-47a4-86f4-90e578aa8401",
+      "entityId": "merchant_3f34f0a2-d37f-47a4-86f4-90e578aa8401",
+      "name": "THE HUNGRY BEAR",
+      "address": "301 Serangoon Avenue 2 Camelot International Infant Care Pte Ltd Singapore 550301, #01-326B,  S550301;",
+      "postalCode": "550301",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35288347756585,
+      "LON": 103.867822811475,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_6fcd6bcb-0c43-41c0-b19b-c7d212c94397",
@@ -476420,6 +476680,26 @@
         }
       },
       "lastResetDate": "2021-12-10"
+    },
+    {
+      "id": "merchant_779779f5-ad3d-4b23-a8e0-21a93e01e323",
+      "entityId": "merchant_779779f5-ad3d-4b23-a8e0-21a93e01e323",
+      "name": "WANTON FU",
+      "address": "144 Tampines Street 12,  S521144;",
+      "postalCode": "521144",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34841857750645,
+      "LON": 103.943725846535,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_6f34c9f0-eeec-41e5-b225-cbc3915431c8",
@@ -513742,10 +514022,10 @@
       "lastResetDate": "2025-07-11"
     },
     {
-      "id": "merchant_0a289621-ee61-4365-b1e0-a42f96542867",
-      "entityId": "merchant_0a289621-ee61-4365-b1e0-a42f96542867",
+      "id": "merchant_fc60aca2-0ab9-40b2-8ba7-62758e13aa61",
+      "entityId": "merchant_fc60aca2-0ab9-40b2-8ba7-62758e13aa61",
       "name": "ZHEN JIE COOKED FOOD",
-      "address": "335 Smith Street, #02-170,  S050335;",
+      "address": "335 Smith Street, #02-172,  S050335;",
       "postalCode": "050335",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.2822749605271,
@@ -513759,7 +514039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-06-23"
+      "lastResetDate": "2025-10-30"
     },
     {
       "id": "merchant_32d139f4-46e9-42a0-b190-bdcf6b0ea935",
