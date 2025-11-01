@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31 Oct 2025",
+  "lastUpdated": "01 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -10580,6 +10580,26 @@
         }
       },
       "lastResetDate": "2025-04-10"
+    },
+    {
+      "id": "merchant_206fa6dc-fff3-4746-b814-f02adbc24f14",
+      "entityId": "merchant_206fa6dc-fff3-4746-b814-f02adbc24f14",
+      "name": "187 AYAM PENYET",
+      "address": "187C Marsiling,  S733187;",
+      "postalCode": "733187",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43809211633155,
+      "LON": 103.774587399697,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_5abf76ab-d121-4c9a-a14a-c32a0b8fea32",
@@ -25342,6 +25362,26 @@
       "lastResetDate": "2025-05-23"
     },
     {
+      "id": "merchant_4266f82d-7355-4970-aa79-11ecccf74045",
+      "entityId": "merchant_4266f82d-7355-4970-aa79-11ecccf74045",
+      "name": "A & B FASHION",
+      "address": "58 New Upper Changi Road, #01-146,  S461058;",
+      "postalCode": "461058",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32420087334002,
+      "LON": 103.941125277547,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_74d916f7-f31c-4ced-9f08-dfd7aa933219",
       "entityId": "merchant_74d916f7-f31c-4ced-9f08-dfd7aa933219",
       "name": "A & C FACE & BODY BEAUTY SALOON",
@@ -39840,6 +39880,26 @@
         }
       },
       "lastResetDate": "2025-10-02"
+    },
+    {
+      "id": "merchant_c508c1bf-d45f-465e-8ca4-53193ef6ce68",
+      "entityId": "merchant_c508c1bf-d45f-465e-8ca4-53193ef6ce68",
+      "name": "AL DELIGHTS",
+      "address": "59 New Upper Changi Road, ST5,  S461059;",
+      "postalCode": "461059",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32405898618809,
+      "LON": 103.940695612461,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_191ff399-785c-41e5-b53e-ce0aa3a40cb3",
@@ -61244,12 +61304,12 @@
     {
       "id": "merchant_0b9208de-32df-4d03-aa49-d7a09d0e9ad0",
       "entityId": "merchant_0b9208de-32df-4d03-aa49-d7a09d0e9ad0",
-      "name": "BAN MIAN & FISH SOUP (BUSINESS PARK CANTEEN)",
-      "address": "23A Tampines Ave 1, #02-09,  S529764;",
-      "postalCode": "529764",
+      "name": "BAN MIAN & FISH SOUP (FLAVOURS FOODCOURT)",
+      "address": "23A Tampines Ave 1,  S529765;",
+      "postalCode": "529765",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34499644226206,
-      "LON": 103.934075693105,
+      "LAT": 1.34414512457045,
+      "LON": 103.933351066694,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -61259,7 +61319,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-17"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_ddcb06e7-03e4-4212-a8c4-1d77c238b3cb",
@@ -61502,6 +61562,26 @@
       "lastResetDate": "2025-04-24"
     },
     {
+      "id": "merchant_839bc5b8-14ca-41f4-8167-b73c1c082e33",
+      "entityId": "merchant_839bc5b8-14ca-41f4-8167-b73c1c082e33",
+      "name": "BAN MIAN FISH SOUP - YUE RAN JU XIANG LOU (SHORT CIRCUIT CANTEEN)",
+      "address": "31A Tampines Ave 1,  S529768;",
+      "postalCode": "529768",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34640386883345,
+      "LON": 103.930785515045,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_f0495ac2-c8d8-42eb-8a30-c6ba9d2f930d",
       "entityId": "merchant_f0495ac2-c8d8-42eb-8a30-c6ba9d2f930d",
       "name": "BAN MIAN FISH SOUP (CCK ST62)",
@@ -61540,26 +61620,6 @@
         }
       },
       "lastResetDate": "2021-11-02"
-    },
-    {
-      "id": "merchant_839bc5b8-14ca-41f4-8167-b73c1c082e33",
-      "entityId": "merchant_839bc5b8-14ca-41f4-8167-b73c1c082e33",
-      "name": "BAN MIAN FISH SOUP-YUE RAN JU XIANG LOU",
-      "address": "31A Tampines Ave 1,  S529768;",
-      "postalCode": "529768",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34640386883345,
-      "LON": 103.930785515045,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-05-24"
     },
     {
       "id": "merchant_87560701-fef7-4dfe-9bfa-51ee09d7508c",
@@ -71965,7 +72025,7 @@
       "id": "merchant_53ea45a2-33de-4e5e-bdfa-153e589403b5",
       "entityId": "merchant_53ea45a2-33de-4e5e-bdfa-153e589403b5",
       "name": "BILLION BOWLS RAMEN DON",
-      "address": "531A Upper Cross Street, #02-52,  S051531;",
+      "address": "531A Upper Cross Street, #02-08,  S051531;",
       "postalCode": "051531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.28529907736773,
@@ -71979,7 +72039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-11"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_22d9e832-e91b-4b8d-9a7b-81e094967b17",
@@ -78560,6 +78620,26 @@
         }
       },
       "lastResetDate": "2023-08-02"
+    },
+    {
+      "id": "merchant_36e41e3c-c035-4ee5-9333-5e06d7808872",
+      "entityId": "merchant_36e41e3c-c035-4ee5-9333-5e06d7808872",
+      "name": "BRITISH ESSENTIAL BB156",
+      "address": "156 Bukit Batok Street 11 Singapore 650156, #01-12,  S650156;",
+      "postalCode": "650156",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34836489977938,
+      "LON": 103.743842009803,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_66fc0f97-8374-44f1-9c42-e0f4f0e1851a",
@@ -94385,7 +94465,7 @@
       "id": "merchant_a675ec01-6e21-42df-a158-143f422b33ec",
       "entityId": "merchant_a675ec01-6e21-42df-a158-143f422b33ec",
       "name": "CHICKEN RICE (FLAVOURS FOODCOURT)",
-      "address": "23A Tampines Ave 1, #02-02,  S529764;",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -94399,7 +94479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_4e277363-6836-4772-952f-4f34965a4f46",
@@ -107739,7 +107819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-10-18"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_fc063367-2e86-4b0a-b847-1e39197b4d22",
@@ -108904,8 +108984,8 @@
     {
       "id": "merchant_a8cc8592-d0e8-4f87-a70a-2dc2d3d13daa",
       "entityId": "merchant_a8cc8592-d0e8-4f87-a70a-2dc2d3d13daa",
-      "name": "CROWDED BOWL (BUSINESS PARK CANTEEN)",
-      "address": "23A Tampines Ave 1, #02-01,  S529764;",
+      "name": "CROWDED BOWL (FLAVOURS FOODCOURT)",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -108919,7 +108999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-17"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_85a38f59-f4f5-40ef-b390-cc9b9ff4add5",
@@ -128185,7 +128265,7 @@
       "id": "merchant_e71d7371-97eb-4b11-a021-14153e825f5d",
       "entityId": "merchant_e71d7371-97eb-4b11-a021-14153e825f5d",
       "name": "DRINKS (FLAVOURS FOODCOURT)",
-      "address": "23A Tampines Ave 1, #02-11,  S529764;",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -128199,7 +128279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_cd2124ce-a6fc-4ccc-9abc-abaafde3e919",
@@ -129045,7 +129125,7 @@
       "id": "merchant_f03af5bd-5c35-499b-a5ef-5840d5189e34",
       "entityId": "merchant_f03af5bd-5c35-499b-a5ef-5840d5189e34",
       "name": "DRINKS STALL (DESIGNER PAD CANTEEN)",
-      "address": "29A Tampines Ave 1, #01-01,  S529767;",
+      "address": "29A Tampines Ave 1,  S529767;",
       "postalCode": "529767",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34521444590076,
@@ -129059,7 +129139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_d8577eda-5901-4b10-9236-716f2912fe4d",
@@ -210602,6 +210682,26 @@
       "lastResetDate": "2024-01-16"
     },
     {
+      "id": "merchant_59a54920-fef5-4cf6-b150-28d51a429ecc",
+      "entityId": "merchant_59a54920-fef5-4cf6-b150-28d51a429ecc",
+      "name": "HONG XING HANDMADE FISHBALL MEATBALL (465)",
+      "address": "465 North Bridge Road,  S191465;",
+      "postalCode": "191465",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30522426727313,
+      "LON": 103.863097963132,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_a97f8427-fd4c-4217-bb89-872329ad789a",
       "entityId": "merchant_a97f8427-fd4c-4217-bb89-872329ad789a",
       "name": "HONG XING HANDMADE FISHBALL MEATBALL NOODLE",
@@ -218622,6 +218722,26 @@
       "lastResetDate": "2023-01-03"
     },
     {
+      "id": "merchant_e40e7259-197c-4ebf-875d-cdc8c3670ab7",
+      "entityId": "merchant_e40e7259-197c-4ebf-875d-cdc8c3670ab7",
+      "name": "HYDEENS KITCHEN PTE LTD",
+      "address": "785E Woodlands Rise Woodlands Pasture Ii Singapore 735785, #01-15,  S735785;",
+      "postalCode": "735785",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44679888115266,
+      "LON": 103.805489772817,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_27f1c35f-ed22-4216-b7f7-ee3b7e33f41c",
       "entityId": "merchant_27f1c35f-ed22-4216-b7f7-ee3b7e33f41c",
       "name": "HYOGAKI",
@@ -219940,6 +220060,26 @@
         }
       },
       "lastResetDate": "2024-09-13"
+    },
+    {
+      "id": "merchant_1f3f6ad4-1f36-4528-873e-cfda3cf0ab92",
+      "entityId": "merchant_1f3f6ad4-1f36-4528-873e-cfda3cf0ab92",
+      "name": "IBU ENDANG BAN MIAN FISH SOUP",
+      "address": "120 Bukit Merah Lane 1, #01-62,  S150120;",
+      "postalCode": "150120",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28630594274136,
+      "LON": 103.804492637648,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_dc309eac-5616-43d5-9ab0-a0b8f1f53c9d",
@@ -225205,7 +225345,7 @@
       "id": "merchant_95222caf-bf7c-48dc-8bb4-aa71f3b53788",
       "entityId": "merchant_95222caf-bf7c-48dc-8bb4-aa71f3b53788",
       "name": "ITALIAN CUISINE (FLAVOURS FOODCOURT)",
-      "address": "23A Tampines Ave 1, #02-05,  S529764;",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -225219,7 +225359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_85ecaa61-42a8-454e-b383-c8edd28bb142",
@@ -229365,7 +229505,7 @@
       "id": "merchant_b7b2348b-8888-4486-8c38-6e6dbb2c9017",
       "entityId": "merchant_b7b2348b-8888-4486-8c38-6e6dbb2c9017",
       "name": "JAPANESE CUISINE (DESIGNER PAD CANTEEN)",
-      "address": "29A Tampines Ave 1, #01-02,  S529767;",
+      "address": "29A Tampines Ave 1,  S529767;",
       "postalCode": "529767",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34521444590076,
@@ -229379,7 +229519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_7b432803-25a2-4206-b18d-2280397d4499",
@@ -229724,7 +229864,7 @@
     {
       "id": "merchant_c00ccdc4-0172-4205-beeb-c17608df57f8",
       "entityId": "merchant_c00ccdc4-0172-4205-beeb-c17608df57f8",
-      "name": "JAPANESE RICE BOWL",
+      "name": "JAPANESE RICE BOWL (FLAVOURS FOODCOURT)",
       "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -229739,7 +229879,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-06-24"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_2afdaa08-9673-4747-9a3c-bf567054e92b",
@@ -265604,8 +265744,8 @@
     {
       "id": "merchant_0ac38512-ba7a-4aa5-8158-5f0b4c30358c",
       "entityId": "merchant_0ac38512-ba7a-4aa5-8158-5f0b4c30358c",
-      "name": "KOREAN FRIED CHICKEN",
-      "address": "31A Tampines Ave 1,  S529768;",
+      "name": "KOREAN FRIED CHICKEN (SHORT CIRCUIT CANTEEN)",
+      "address": "31A Tampines Ave 1, #02-03,  S529768;",
       "postalCode": "529768",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34640386883345,
@@ -265619,7 +265759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-05-21"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_db60cff5-0017-4f2f-bf86-648fac143afe",
@@ -266620,6 +266760,26 @@
         }
       },
       "lastResetDate": "2025-03-10"
+    },
+    {
+      "id": "merchant_12ad2e82-0299-4848-affb-72722f90781d",
+      "entityId": "merchant_12ad2e82-0299-4848-affb-72722f90781d",
+      "name": "KPS BB109",
+      "address": "109 Bukit Batok West Avenue 6,  S650109;",
+      "postalCode": "650109",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34700376747987,
+      "LON": 103.746170410388,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_ddf05e6b-d8ff-4c56-bbd9-d8dd01b4cad0",
@@ -271260,6 +271420,26 @@
         }
       },
       "lastResetDate": "2022-07-16"
+    },
+    {
+      "id": "merchant_0a7b5063-3d8a-4557-810e-c2611d7f23eb",
+      "entityId": "merchant_0a7b5063-3d8a-4557-810e-c2611d7f23eb",
+      "name": "LAI YUAN GOURMET",
+      "address": "110 Yishun Ring Road,  S760110;",
+      "postalCode": "760110",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43376057937716,
+      "LON": 103.828993389444,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_ef74d5db-0b3c-4d2c-b2ca-7ab804137d0c",
@@ -281419,7 +281599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-08-22"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_686ba768-c787-4b0e-8cb8-20382e19c7db",
@@ -288302,6 +288482,26 @@
       "lastResetDate": "2025-05-13"
     },
     {
+      "id": "merchant_fcebc63e-0f5e-4d89-8a0c-f1fb8fda45da",
+      "entityId": "merchant_fcebc63e-0f5e-4d89-8a0c-f1fb8fda45da",
+      "name": "LOR 9 FP 491",
+      "address": "491 Jurong West Avenue 1,  S640491;",
+      "postalCode": "640491",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34958656573247,
+      "LON": 103.72631531647,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_2daabf1e-c30a-4980-83b1-1e66cfe2980c",
       "entityId": "merchant_2daabf1e-c30a-4980-83b1-1e66cfe2980c",
       "name": "LORONG 7 FLORIST",
@@ -290460,6 +290660,26 @@
         }
       },
       "lastResetDate": "2021-12-01"
+    },
+    {
+      "id": "merchant_336827a2-446f-41c7-a922-bab2ff12cb15",
+      "entityId": "merchant_336827a2-446f-41c7-a922-bab2ff12cb15",
+      "name": "LUMIRA BEAUTY PARLOUR",
+      "address": "716 Yishun Street 71 Aavc-animal & Avian Veterinary Clinic Singapore 760716, #01-274,  S760716;",
+      "postalCode": "760716",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42621096565013,
+      "LON": 103.827704108295,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_bc222db7-c8bd-4b81-8cd3-37e28e17eb98",
@@ -295005,11 +295225,11 @@
       "id": "merchant_c9e56f76-1efe-429e-b007-7a11d434aef4",
       "entityId": "merchant_c9e56f76-1efe-429e-b007-7a11d434aef4",
       "name": "MALA HOTPOT",
-      "address": "21 Tampines Ave 1,  S529757;",
-      "postalCode": "529757",
+      "address": "25A Tampines Ave 1,  S529765;",
+      "postalCode": "529765",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34594607020383,
-      "LON": 103.932631490034,
+      "LAT": 1.34414512457045,
+      "LON": 103.933351066694,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -295019,7 +295239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-11"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_a9747dea-4706-48f0-bc5a-4bb46c90ce74",
@@ -298380,6 +298600,26 @@
         }
       },
       "lastResetDate": "2023-11-08"
+    },
+    {
+      "id": "merchant_5044545a-daf4-4f5f-9905-03198b10580c",
+      "entityId": "merchant_5044545a-daf4-4f5f-9905-03198b10580c",
+      "name": "MARKET BEEF STALL",
+      "address": "74 Toa Payoh Lorong 4, #02-19,  S310074;",
+      "postalCode": "310074",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3345507487214,
+      "LON": 103.852003509176,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_5f0c30a1-bd5d-4a10-a3b2-e4b2cf0a680b",
@@ -326105,7 +326345,7 @@
       "id": "merchant_1bf82ddd-33de-4925-9dad-0a5e4af3d318",
       "entityId": "merchant_1bf82ddd-33de-4925-9dad-0a5e4af3d318",
       "name": "NASI PADANG (DESIGNER PAD CANTEEN)",
-      "address": "29A Tampines Ave 1, #01-04,  S529767;",
+      "address": "29A Tampines Ave 1,  S529767;",
       "postalCode": "529767",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34521444590076,
@@ -326119,13 +326359,13 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_3b53583a-5583-485a-9e6f-cf6a273df40b",
       "entityId": "merchant_3b53583a-5583-485a-9e6f-cf6a273df40b",
       "name": "NASI PADANG (FLAVOURS FOODCOURT)",
-      "address": "23A Tampines Ave 1, #02-07,  S529764;",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -326139,7 +326379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_2950959c-d2c6-4e29-a2f9-c22e038d562d",
@@ -339884,7 +340124,7 @@
     {
       "id": "merchant_e49ae6c6-d20c-4c53-8a92-823cc28c25e3",
       "entityId": "merchant_e49ae6c6-d20c-4c53-8a92-823cc28c25e3",
-      "name": "OLD TOWN BARBERS",
+      "name": "OLD TOWN BARBERZ",
       "address": "Potong Pasir Avenue 1, #01-131,  S350146;",
       "postalCode": "350146",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -339899,7 +340139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-01-17"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_9ed0b5e4-4073-451b-a735-3bf61194b850",
@@ -361142,6 +361382,26 @@
       "lastResetDate": "2024-01-30"
     },
     {
+      "id": "merchant_dc45cc34-acc0-4784-a3fe-f360c2e9c445",
+      "entityId": "merchant_dc45cc34-acc0-4784-a3fe-f360c2e9c445",
+      "name": "PUNG PUNG KITCHEN ZICHAR",
+      "address": "727 East Coast Road, ST1,  S459073;",
+      "postalCode": "459073",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31232661714919,
+      "LON": 103.922986093901,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_88ff9c60-b9d5-4cf1-af91-fa7bbf061713",
       "entityId": "merchant_88ff9c60-b9d5-4cf1-af91-fa7bbf061713",
       "name": "PUNG PUNG KITCHEN@31 HOLLAND CLOSE",
@@ -373162,26 +373422,6 @@
       "lastResetDate": "2025-08-26"
     },
     {
-      "id": "merchant_83cf1349-0c57-4a30-aa45-a1b0c2d53fb4",
-      "entityId": "merchant_83cf1349-0c57-4a30-aa45-a1b0c2d53fb4",
-      "name": "ROASTED DELIGHT",
-      "address": "31A Tampines Ave 1,  S529768;",
-      "postalCode": "529768",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34640386883345,
-      "LON": 103.930785515045,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-11-11"
-    },
-    {
       "id": "merchant_b088e841-1578-4728-9ff1-d7109b419bea",
       "entityId": "merchant_b088e841-1578-4728-9ff1-d7109b419bea",
       "name": "ROASTED DELIGHT",
@@ -373320,6 +373560,26 @@
         }
       },
       "lastResetDate": "2022-01-31"
+    },
+    {
+      "id": "merchant_83cf1349-0c57-4a30-aa45-a1b0c2d53fb4",
+      "entityId": "merchant_83cf1349-0c57-4a30-aa45-a1b0c2d53fb4",
+      "name": "ROASTED DELIGHT (SHORT CIRCUIT CANTEEN)",
+      "address": "31A Tampines Ave 1,  S529768;",
+      "postalCode": "529768",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34640386883345,
+      "LON": 103.930785515045,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_da077563-d9fb-43c9-b1ac-bf702bf16365",
@@ -396420,6 +396680,26 @@
         }
       },
       "lastResetDate": "2024-11-04"
+    },
+    {
+      "id": "merchant_e581fe56-dbbd-417a-a3fa-2660059da332",
+      "entityId": "merchant_e581fe56-dbbd-417a-a3fa-2660059da332",
+      "name": "SHIOK STACK",
+      "address": "215 Ang Mo Kio Avenue 1,  S560215;",
+      "postalCode": "560215",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36655830166122,
+      "LON": 103.841624082978,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_66cfed2a-1562-45fe-8b25-fb915f112c5e",
@@ -463202,6 +463482,26 @@
       "lastResetDate": "2025-08-19"
     },
     {
+      "id": "merchant_7157051a-2846-4365-9b27-6ead57e63d09",
+      "entityId": "merchant_7157051a-2846-4365-9b27-6ead57e63d09",
+      "name": "ULTIMED MEDICAL CENTRE & SURGICAL SUITES (OTH)",
+      "address": "1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #05-31,  S528523;",
+      "postalCode": "528523",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35291588606932,
+      "LON": 103.940197935055,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_1d8dc58e-aae1-42f9-941b-9a7c75f175db",
       "entityId": "merchant_1d8dc58e-aae1-42f9-941b-9a7c75f175db",
       "name": "UMA HAUS RAMEN & DONBURI",
@@ -468705,7 +469005,7 @@
       "id": "merchant_d9dc52a8-a525-4953-b5cc-41adddbce66e",
       "entityId": "merchant_d9dc52a8-a525-4953-b5cc-41adddbce66e",
       "name": "VEG STALL",
-      "address": "Ang Mo Kio Ave 1, #01-1627,  S560338;",
+      "address": "338 Ang Mo Kio Ave 1, #01-1613,  S560338;",
       "postalCode": "560338",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.36382298132967,
@@ -468719,7 +469019,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-02-07"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_491d7836-a010-49f6-bd92-35546ab1c41b",
@@ -480842,26 +481142,6 @@
       "lastResetDate": "2022-03-04"
     },
     {
-      "id": "merchant_c8a62d4d-26c9-414b-91b3-cc2006fe61c1",
-      "entityId": "merchant_c8a62d4d-26c9-414b-91b3-cc2006fe61c1",
-      "name": "WESTERN (DESIGNER PAD CANTEEN)",
-      "address": "29A Tampines Ave 1, #01-03,  S529767;",
-      "postalCode": "529767",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34521444590076,
-      "LON": 103.931639074244,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-05-23"
-    },
-    {
       "id": "merchant_c045ccc0-30c7-4b27-86c7-96951fefd994",
       "entityId": "merchant_c045ccc0-30c7-4b27-86c7-96951fefd994",
       "name": "WESTERN (SHORT CIRCUIT CANTEEN)",
@@ -481222,10 +481502,30 @@
       "lastResetDate": "2025-07-25"
     },
     {
+      "id": "merchant_c8a62d4d-26c9-414b-91b3-cc2006fe61c1",
+      "entityId": "merchant_c8a62d4d-26c9-414b-91b3-cc2006fe61c1",
+      "name": "WESTERN CUISINE (DESIGNER PAD CANTEEN)",
+      "address": "29A Tampines Ave 1,  S529767;",
+      "postalCode": "529767",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34521444590076,
+      "LON": 103.931639074244,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
+    },
+    {
       "id": "merchant_f2d7ad47-ba0f-4df2-8d43-b381a5cd0c3d",
       "entityId": "merchant_f2d7ad47-ba0f-4df2-8d43-b381a5cd0c3d",
       "name": "WESTERN CUISINE (FLAVOURS FOODCOURT)",
-      "address": "23A Tampines Ave 1, #02-06,  S529764;",
+      "address": "23A Tampines Ave 1,  S529764;",
       "postalCode": "529764",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34499644226206,
@@ -481239,7 +481539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-23"
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_7022100f-1d75-4165-8609-c3a9dd766ab1",
@@ -511700,6 +512000,26 @@
         }
       },
       "lastResetDate": "2023-05-17"
+    },
+    {
+      "id": "merchant_4ea76ace-16bf-4233-b5de-039ccb0ef806",
+      "entityId": "merchant_4ea76ace-16bf-4233-b5de-039ccb0ef806",
+      "name": "YUPAN - CLEMENTI",
+      "address": "354 Clementi Avenue 2,  S120354;",
+      "postalCode": "120354",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3135304106234,
+      "LON": 103.770859843658,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-10-31"
     },
     {
       "id": "merchant_8249a6ac-b7d2-4c7f-a608-2b38165029fe",

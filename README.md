@@ -13,6 +13,65 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-01
+
+</summary>
+
+Total locations: 25,908 → 25,924
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 187 AYAM PENYET | 187C Marsiling,  S733187; | <span title="1.43809211633155,103.774587399697">1.43809, 103.77459</span> |
+  | A & B FASHION | 58 New Upper Changi Road, #01-146,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | AL DELIGHTS | 59 New Upper Changi Road, ST5,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | BRITISH ESSENTIAL BB156 | 156 Bukit Batok Street 11 Singapore 650156, #01-12,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | HONG XING HANDMADE FISHBALL MEATBALL (465) | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | HYDEENS KITCHEN PTE LTD | 785E Woodlands Rise Woodlands Pasture Ii Singapore 735785, #01-15,  S735785; | <span title="1.44679888115266,103.805489772817">1.44680, 103.80549</span> |
+  | IBU ENDANG BAN MIAN FISH SOUP | 120 Bukit Merah Lane 1, #01-62,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | KPS BB109 | 109 Bukit Batok West Avenue 6,  S650109; | <span title="1.34700376747987,103.746170410388">1.34700, 103.74617</span> |
+  | LAI YUAN GOURMET | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | LOR 9 FP 491 | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | LUMIRA BEAUTY PARLOUR | 716 Yishun Street 71 Aavc-animal & Avian Veterinary Clinic Singapore 760716, #01-274,  S760716; | <span title="1.42621096565013,103.827704108295">1.42621, 103.82770</span> |
+  | MARKET BEEF STALL | 74 Toa Payoh Lorong 4, #02-19,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | PUNG PUNG KITCHEN ZICHAR | 727 East Coast Road, ST1,  S459073; | <span title="1.31232661714919,103.922986093901">1.31233, 103.92299</span> |
+  | SHIOK STACK | 215 Ang Mo Kio Avenue 1,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | ULTIMED MEDICAL CENTRE & SURGICAL SUITES (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #05-31,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | YUPAN - CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+
+  </details>
+
+- <details><summary>Changed (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BAN MIAN & FISH SOUP (BUSINESS PARK CANTEEN)</del><br>BAN MIAN & FISH SOUP (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-09,  S529764;</del><br>23A Tampines Ave 1,  S529765; | <del title="1.34499644226206,103.934075693105">1.34500, 103.93408</del><br><span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | <del>BAN MIAN FISH SOUP-YUE RAN JU XIANG LOU</del><br>BAN MIAN FISH SOUP - YUE RAN JU XIANG LOU (SHORT CIRCUIT CANTEEN) | 31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | BILLION BOWLS RAMEN DON | <del>531A Upper Cross Street, #02-52,  S051531;</del><br>531A Upper Cross Street, #02-08,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | CHICKEN RICE (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-02,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | <del>CROWDED BOWL (BUSINESS PARK CANTEEN)</del><br>CROWDED BOWL (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-01,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | DRINKS (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-11,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | DRINKS STALL (DESIGNER PAD CANTEEN) | <del>29A Tampines Ave 1, #01-01,  S529767;</del><br>29A Tampines Ave 1,  S529767; | <span title="1.34521444590076,103.931639074244">1.34521, 103.93164</span> |
+  | ITALIAN CUISINE (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-05,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | JAPANESE CUISINE (DESIGNER PAD CANTEEN) | <del>29A Tampines Ave 1, #01-02,  S529767;</del><br>29A Tampines Ave 1,  S529767; | <span title="1.34521444590076,103.931639074244">1.34521, 103.93164</span> |
+  | <del>JAPANESE RICE BOWL</del><br>JAPANESE RICE BOWL (FLAVOURS FOODCOURT) | 23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | <del>KOREAN FRIED CHICKEN</del><br>KOREAN FRIED CHICKEN (SHORT CIRCUIT CANTEEN) | <del>31A Tampines Ave 1,  S529768;</del><br>31A Tampines Ave 1, #02-03,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | MALA HOTPOT | <del>21 Tampines Ave 1,  S529757;</del><br>25A Tampines Ave 1,  S529765; | <del title="1.34594607020383,103.932631490034">1.34595, 103.93263</del><br><span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | NASI PADANG (DESIGNER PAD CANTEEN) | <del>29A Tampines Ave 1, #01-04,  S529767;</del><br>29A Tampines Ave 1,  S529767; | <span title="1.34521444590076,103.931639074244">1.34521, 103.93164</span> |
+  | NASI PADANG (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-07,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+  | <del>OLD TOWN BARBERS</del><br>OLD TOWN BARBERZ | Potong Pasir Avenue 1, #01-131,  S350146; | <span title="1.3318007826539,103.867242849282">1.33180, 103.86724</span> |
+  | <del>ROASTED DELIGHT</del><br>ROASTED DELIGHT (SHORT CIRCUIT CANTEEN) | 31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | VEG STALL | <del>Ang Mo Kio Ave 1, #01-1627,  S560338;</del><br>338 Ang Mo Kio Ave 1, #01-1613,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | <del>WESTERN (DESIGNER PAD CANTEEN)</del><br>WESTERN CUISINE (DESIGNER PAD CANTEEN) | <del>29A Tampines Ave 1, #01-03,  S529767;</del><br>29A Tampines Ave 1,  S529767; | <span title="1.34521444590076,103.931639074244">1.34521, 103.93164</span> |
+  | WESTERN CUISINE (FLAVOURS FOODCOURT) | <del>23A Tampines Ave 1, #02-06,  S529764;</del><br>23A Tampines Ave 1,  S529764; | <span title="1.34499644226206,103.934075693105">1.34500, 103.93408</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-10-31
 
 </summary>
