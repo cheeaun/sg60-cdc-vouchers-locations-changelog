@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-04
+
+</summary>
+
+Total locations: 25,924 → 25,936
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANGEL BEAUTY HAIR SALON | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-12,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | CHOON ANN MEDICAL HALL | 729 Yishun Street 71 Ace Achievers Our Learning Hub Pte Ltd Singapore 760729, #01-109,  S760729; | <span title="1.42585285618241,103.831598307804">1.42585, 103.83160</span> |
+  | FUTURE BIOTECH BEAUTY & HEALTH  CENTRE | 86 Circuit Road Hdb-geylang Singapore 370086, #01-995,  S370086; | <span title="1.32292385706044,103.885358063443">1.32292, 103.88536</span> |
+  | GOOD MEDICAL CLINIC | 136 Bedok North Avenue 3 Singapore 460136, #01-152,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | HELLOFISH STEAM FISH(TPY) | 183 Toa Payoh Central,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | JU FENG WANTON NOODLE 326 WOODLANDS | 326 Woodlands Street 32,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | KAMPONG CHANGI WELLNESS | 1 Changi Village Road Hdb-changi Village Rov Singapore 500001, #01-2010,  S500001; | <span title="1.38854656229022,103.987804503483">1.38855, 103.98780</span> |
+  | M S COLOR PTE. LTD. | 133 Canberra View Canberra Plaza Singapore 750133, #01-14,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | MARYAM'S KITCHEN | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | NTUCR MY KAMPUNG CHICKEN RICE | 50 Nanyang Avenue,  S639798; | <span title="1.34421841586272,103.680152218583">1.34422, 103.68015</span> |
+  | SIXTH SENSE BEAUTY @ BEDOK | 416 Bedok North Avenue 2 Garden Hill Singapore 460416, #01-33,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | THUMBS UP BBQ | 829 Tampines Street 81 Hdb-tampines Singapore 520829, #01-282,  S520829; | <span title="1.34922419580696,103.934912515373">1.34922, 103.93491</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHRIS OPTICAL & CONTACT LENS CENTRE | <del>Yishun Street 81, #01-156,  S760845;</del><br>844 Yishun Street 81, #01-156,  S760844; | <del title="1.41599814748468,103.835053564214">1.41600, 103.83505</del><br><span title="1.41544346877112,103.835215124962">1.41544, 103.83522</span> |
+  | DRINKS (SHORT CIRCUIT CANTEEN) | <del>31A Tampines Ave 1, #02-06,  S529768;</del><br>31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | <del>VINZCUTS BARBER</del><br>JAPZCUTS BARBER SHOP | 6 Telok Blangah Crescent Dbs Telok Blangah Crescent Singapore 090006, #01-430,  S090006; | <span title="1.27814081311562,103.818484019328">1.27814, 103.81848</span> |
+  | <del>TIPAH (304 PASAR)</del><br>KEDAI AMBOK | 418 Yishun Avenue 11, 01-427C,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | KOREAN FRIED CHICKEN (SHORT CIRCUIT CANTEEN) | <del>31A Tampines Ave 1, #02-03,  S529768;</del><br>31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | MALA HOTPOT (SHORT CIRCUIT CANTEEN) | <del>31A Tampines Ave 1, #02-04,  S529768;</del><br>31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+  | QUAN JIN FOOT REFLEXOLOGY (YS) | <del>846 Yishun Ring Road Khatib Central Singapore 760846, #01-3675,  S760846;</del><br>846 Yishun Ring Road Khatib Central Singapore 760846, 01-3681,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | WESTERN (SHORT CIRCUIT CANTEEN) | <del>31A Tampines Ave 1, #02-03,  S529768;</del><br>31A Tampines Ave 1,  S529768; | <span title="1.34640386883345,103.930785515045">1.34640, 103.93079</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-01
 
 </summary>
