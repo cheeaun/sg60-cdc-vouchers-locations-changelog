@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-05
+
+</summary>
+
+Total locations: 25,936 → 25,948
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #16 MJ WHOLESALE (SEAFOOD) | 548 Woodlands Drive 44, 16,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | 137 HENG FRUIT STALL | 137 Tampines Street 11, #01-79,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | 99 FOODPARK DRINKS AND DIM SUM (519A TAMPINES) | 519A Tampines Central 8, ST1,  S521519; | <span title="1.35727594461393,103.940381600354">1.35728, 103.94038</span> |
+  | AN & CHILL VIETNAMESE CUISINE | 159 Ang Mo Kio Avenue 4,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | ASHES BURNNIT TPY | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | BOYZ2MEN BARBERSHOP | 483 Tampines Street 43 Hdb-tampines Singapore 520483, #01-194B,  S520483; | <span title="1.36143340439515,103.952685912661">1.36143, 103.95269</span> |
+  | DIY MINIMART | 26 Jalan Membina Multi Storey Car Park Singapore 161026, #01-02,  S161026; | <span title="1.28263437649669,103.825595753657">1.28263, 103.82560</span> |
+  | FOODPARK DRINKS/DESSERTS | 182A Rivervale Crescent, ST7,  S541182; | <span title="1.39045272942314,103.908892267885">1.39045, 103.90889</span> |
+  | HELLO STEAM FISH (WHAMPOA) | 86 Whampoa Drive,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | KIM SENG CHICKEN RICE | 64 Loyang Way,  S508754; | <span title="1.38387929997423,103.97396763261">1.38388, 103.97397</span> |
+  | SHA INDIAN ROJAK | 339 Anchorvale Road, #02-25,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | THE TEOCHEW KITCHENETTE | 7 Tanjong Pagar Plaza Hdb-central Area Singapore 081007, #02-102,  S081007; | <span title="1.27712012183459,103.843117743777">1.27712, 103.84312</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>RONG XIANG SEAFOOD & FROG PORRIDGE</del><br>CHICKEN RICE | <del>202 Ang Mo Kio Avenue 3,  S560202;</del><br>526 Jurong West Street 52, #01-329,  S640526; | <del title="1.36844644010937,103.844516260527">1.36845, 103.84452</del><br><span title="1.34767189554903,103.717048366015">1.34767, 103.71705</span> |
+  | <del>M S COLOR PTE. LTD.</del><br>M S COLOR SERVICE PTE. LTD | 133 Canberra View Canberra Plaza Singapore 750133, #01-14,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | <del>MAO PANCAKES</del><br>THE PANCAKE GARDEN | <del>505 Beach Road, #B1-55,  S199583;</del><br>17 Upper Boon Keng Rd, #01-76,  S380017; | <del title="1.30314151533241,103.863877368653">1.30314, 103.86388</del><br><span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-04
 
 </summary>
