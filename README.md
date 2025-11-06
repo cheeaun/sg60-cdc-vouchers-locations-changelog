@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-06
+
+</summary>
+
+Total locations: 25,948 → 25,965
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 313 CONGEE HERBAL BLACK CHICKEN SOUP | 313A Sembawang Drive,  S751313; | <span title="1.44410704772453,103.821277851245">1.44411, 103.82128</span> |
+  | BAI LI XIANG BEE HOON | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | BRILLIANT MEDICINE & TRADING CO | 618 Yishun Ring Road Hdb-yishun Singapore 760618, #01-3240,  S760618; | <span title="1.4187353006021,103.835703280669">1.41874, 103.83570</span> |
+  | DRINKS (TP164) | 164 Tampines Street 12,  S521164; | <span title="1.3496215142655,103.946000691097">1.34962, 103.94600</span> |
+  | FREESTYLE | 30 Seng Poh Road, #01-218,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | FREEZE FRESH | 30 Seng Poh Road, #01-152,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | HAPPYBARA | 681 Punggol Drive Oasis Terraces Singapore 820681, #03-20,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | JIAYE TONIC SHOP | 59 New Upper Changi Road Dbs New Upper Changi Road Singapore 461059, #01-1256,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | KEEP IT HANDSOME BARBERSHOP CENTRAL PARK | 856 Tampines Street 82 Pcf Sparkletots Preschool @ Tampines Central Blk 856 (kn) Singapore 520856, #01-K1,  S520856; | <span title="1.35344324893831,103.936557632514">1.35344, 103.93656</span> |
+  | KIM HENG (HK) ROASTED DELIGHTS 204 | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | MC THAI KITCHEN PTE LTD | 261 Serangoon Central Drive, ST 7,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | MOM'S HAND KITCHEN | 169 Stirling Road Stirling View Singapore 140169, #01-1149,  S140169; | <span title="1.29043486528791,103.803105948762">1.29043, 103.80311</span> |
+  | PENG SOON FRUITS | 152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-342,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+  | RESTORAN AH FONG | 1 Lorong Mambong, #01-14,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | SENG HENG HIANG CHAM KEE | 22 Havelock Road Hdb-bukit Merah Singapore 160022, #01-675,  S160022; | <span title="1.28874603704088,103.828824191655">1.28875, 103.82882</span> |
+  | SIXTH SENSE BEAUTY @ SERANGOON | 265 Serangoon Central Drive Singapore 550265, #01-267B,  S550265; | <span title="1.35296423374068,103.87147157124">1.35296, 103.87147</span> |
+  | V GROCER | 9012 Tampines Street 93,  S528845; | <span title="1.34087590102933,103.943710846592">1.34088, 103.94371</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CARING SKILLFUL MASSAGE | <del>828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-268,  S520828;</del><br>59 New Upper Changi Road, #01-1254,  S461059; | <del title="1.34893084103853,103.934588111014">1.34893, 103.93459</del><br><span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | <del>HUA WEI XIAO CHU</del><br>CLAYPOT HERBAL BAK KUT TEH | <del>440 Bukit Batok West Avenue 8,  S650440;</del><br>291 Yishun St 22, #01-369,  S760291; | <del title="1.35572308109486,103.739303105372">1.35572, 103.73930</del><br><span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | <del>SAN HUP BIG PRAWN NOODLE - 328 CLEMENTI</del><br>SAN HUP BIG PRAWN NOODLE | <del>328 Clementi Avenue 2,  S120328;</del><br>201C Tampines Street 21 #01-01,  S523201; | <del title="1.31399161476536,103.767089003977">1.31399, 103.76709</del><br><span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | SES STUDIO PTE LTD | <del>59 New Upper Changi Road, 01-1294B,  S461059;</del><br>56 New Upper Changi Road, 01-1294B,  S461056; | <del title="1.32405898618809,103.940695612461">1.32406, 103.94070</del><br><span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-05
 
 </summary>
