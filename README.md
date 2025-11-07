@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-07
+
+</summary>
+
+Total locations: 25,965 → 25,981
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 82 YONG TAU FOO #6 (883) | 883 Woodlands Street 82, ST6,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | A AND A NAILS , EYELASHES AND WAXING 301 WOODLANDS | 301 Woodlands Street 31 Hdb-woodlands Singapore 730301, #01-259,  S730301; | <span title="1.4315052703273,103.773515659097">1.43151, 103.77352</span> |
+  | BANGKOK STREET MOOKATA (338 SENGKANG) | 338 Anchorvale Crescent,  S540338; | <span title="1.39922772538912,103.88965593061">1.39923, 103.88966</span> |
+  | BERJAYA WESTERN (291 YISHUN) | 291 Yishun Street 22,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | BIG PRAWN NOODLE 205 | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | BIJILI BHAI 675 | 675 Yishun Avenue 4,  S760675; | <span title="1.42006293748965,103.843561434577">1.42006, 103.84356</span> |
+  | CARING MEDICAL CLINIC TAMPINES (520666) | 666 Tampines Street 64, #01-03,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | CARING SKILLFUL MASSAGE | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-268,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | CHINATOWN COMPLEX FRESH FISH B1-103 | 335 Smith Street, #B1-103,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | INNERSENSE - CLEMENTI | 443 Clementi Avenue 3 Hdb-clementi Singapore 120443, #01-63,  S120443; | <span title="1.31421051581741,103.764010395621">1.31421, 103.76401</span> |
+  | MMP SUPER MART- BP | 259 Bukit Panjang Ring Road, #01-14,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | NASSER HALAL POULTRY | 216 Bedok North Street 1, #01-90,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | TAI HAO CHI ROASTED DELIGHT- SENJA CLOSE | 2 Senja Close, 02-13,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | THE BUBBLE PAW (261 YISHUN) | 261 Yishun Street 22 Hdb-yishun Singapore 760261, #01-131,  S760261; | <span title="1.43530973604166,103.838606289364">1.43531, 103.83861</span> |
+  | WHAMPOA SOYA BEAN (KOVAN) | 209 Hougang Street 21, #01-14,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | YOU FRESH STEAM FISH (TB10) | 10 Telok Blangah Crescent,  S090010; | <span title="1.27773153190559,103.819769431353">1.27773, 103.81977</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>216 TEOCHEW MUSHROOM MINCED PORK NOODLE</del><br>BEO CRESCENT LOR MEE | 216 Bedok North Street 1, #01-44,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | <del>SYR2 TRADING</del><br>SIN YU RONG TRADING | Hougang Avenue 1, #01-1127B,  S530104; | <span title="1.35478438666054,103.890318475929">1.35478, 103.89032</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-06
 
 </summary>
