@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-08
+
+</summary>
+
+Total locations: 25,981 → 26,001
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A&M ZAIKA | 2 Senja Close, 02-20,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | BASIL KING - BS511 | 511 Bishan Street 13,  S570511; | <span title="1.34923139396435,103.849896613395">1.34923, 103.84990</span> |
+  | CHIN SENG BREAD | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | DOUBLE R | 55 Tiong Bahru Road Tiong Bahru Estate Singapore 160055, #01-55,  S160055; | <span title="1.28441396459751,103.83413547764">1.28441, 103.83414</span> |
+  | HARSI INDIAN FOOD | 137 Tampines Street 11, #01-19,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | JIN KIMCHI EXPRESS (TAMPINES) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | KARE SKIN & BROW (BMC) | 164 Bukit Merah Central Hdb-bukit Merah Singapore 150164, #01-3627,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | KIMLY DRINKS | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | KIMLY MVR | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | KLAO FROZEN MEAT | 254 Jurong East Street 24, #01-104,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | LAO JIE MIAN DANG (SJHC) | 2 Senja Close, 02-04,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | LILICIOUS WESTERN (848 YISHUN) | 848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | MUM'S COOKHOUSE | 500 Clemenceau Avenue North, #01-24,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | PHYSIO AND SOLE CLINIC (WOODLANDS) | 111 Woodlands Street 13 Hdb-woodlands Singapore 730111, #01-084,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | PONTIAN NOODLE HOUSE@TEKKA | 665 Buffalo Road, #01-314,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | QQ OPTOMETRIST OPTICAL | 524A Jelapang Road Amazing Star Montessori House (greenridge) Singapore 671524, #01-05,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | SALON DE SINGA | 55 Tiong Bahru Road Tiong Bahru Estate Singapore 160055, #01-55,  S160055; | <span title="1.28441396459751,103.83413547764">1.28441, 103.83414</span> |
+  | SINGA SNACKS BUKIT MERAH | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | TENDERBEST | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | THE BLEP CLUB | 78 Indus Road Animal Medical Centre (vet@rv) Singapore 161078, #01-481,  S161078; | <span title="1.29129374515873,103.827476436671">1.29129, 103.82748</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AL HANI MEAN & POULTRY</del><br>AL HANI MEAT & POULTRY | <del>146 Teck Whye Avenue, #01-0179,  S680146;</del><br>532 Choa Chu Kang Street 51, #01-33,  S680532; | <del title="1.3811166785123,103.752527098337">1.38112, 103.75253</del><br><span title="1.39222033136152,103.743611063324">1.39222, 103.74361</span> |
+  | DA JI BAN MIAN | <del>Ang Mo Kio Avenue 1, #01-1879,  S560332;</del><br>19 Ghim Moh Road, #01-229,  S270019; | <del title="1.36167030761833,103.851955453764">1.36167, 103.85196</del><br><span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | DRINKS STALL | <del>134 Geylang East Avenue 1,  S380134;</del><br>134 Geylang East Avenue 1, #01-229,  S380134; | <span title="1.31599388873107,103.886008964798">1.31599, 103.88601</span> |
+  | <del>BLEP CLUB</del><br>THE BLEP CLUB | 742 Bedok Reservoir Road Kidskingdom @ Bedok Reservoir Llp Singapore 470742, #01-3121,  S470742; | <span title="1.33808524960901,103.922090734567">1.33809, 103.92209</span> |
+  | <del>WANGS ROASTED DELIGHTS (848 YISHUN)</del><br>WONG MUI KEE ROASTED DELIGHTS. WANTON NOODLE (848 YISHUN) | 848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | <del>XIANG VILLAGE CHARCOAL ROASTED - EAST COAST ROAD</del><br>XIANG VILLAGE CHARCOAL ROASTED | <del>727 East Coast Road,  S459073;</del><br>38 Beo Crescent, #01-42,  S160038; | <del title="1.31232661714919,103.922986093901">1.31233, 103.92299</del><br><span title="1.28855393184563,103.827290023383">1.28855, 103.82729</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-07
 
 </summary>
