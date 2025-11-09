@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08 Nov 2025",
+  "lastUpdated": "09 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -465220,6 +465220,26 @@
         }
       },
       "lastResetDate": "2024-05-17"
+    },
+    {
+      "id": "merchant_153419f9-bed3-42fe-ba67-1fbf5af4030b",
+      "entityId": "merchant_153419f9-bed3-42fe-ba67-1fbf5af4030b",
+      "name": "UN.",
+      "address": "726 Clementi West Street 2, #01-92,  S120726;",
+      "postalCode": "120726",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30378203325462,
+      "LON": 103.764264494666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-08"
     },
     {
       "id": "merchant_a1c7b277-81fd-457d-a979-d81944cdfa4c",

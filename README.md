@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-09
+
+</summary>
+
+Total locations: 26,001 → 26,002
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | UN. | 726 Clementi West Street 2, #01-92,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-08
 
 </summary>
