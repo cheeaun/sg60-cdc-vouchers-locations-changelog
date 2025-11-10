@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09 Nov 2025",
+  "lastUpdated": "10 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -254300,6 +254300,26 @@
         }
       },
       "lastResetDate": "2025-08-29"
+    },
+    {
+      "id": "merchant_6cdd1ab8-3806-49ed-8026-022761231e92",
+      "entityId": "merchant_6cdd1ab8-3806-49ed-8026-022761231e92",
+      "name": "KH 253 HAO JIA BIAN MIAN",
+      "address": "253 Choa Chu Kang Avenue 1, 002,  S680253;",
+      "postalCode": "680253",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37743962648904,
+      "LON": 103.744383226772,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-09"
     },
     {
       "id": "merchant_00475c92-51b4-4992-867b-202afa3dc838",

@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-10
+
+</summary>
+
+Total locations: 26,002 → 26,003
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | KH 253 HAO JIA BIAN MIAN | 253 Choa Chu Kang Avenue 1, 002,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-09
 
 </summary>
