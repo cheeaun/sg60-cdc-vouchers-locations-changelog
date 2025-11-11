@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-11
+
+</summary>
+
+Total locations: 26,003 → 26,018
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP BAN MIAN PORRIDGE (892C WOODLANDS) | 892C Woodlands Drive 50,  S732892; | <span title="1.43678473589244,103.789409620559">1.43678, 103.78941</span> |
+  | BASIL KING JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | CHARLIE CORNER | 2 Changi Village Road, #01-70,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | DRINKS STALL | 289H Bukit Batok Street 25, ST8,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | ELAINE WESTERN FOOD | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | HE JIA MIXED RICE | 88 Tanglin Halt Road,  S141088; | <span title="1.30178506364186,103.798226442608">1.30179, 103.79823</span> |
+  | JB BRAISED DUCK KWAY CHAP - SIMS DRIVE | 45 Sims Drive, 8,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | MALA | 289H Bukit Batok Street 25,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | MIXED RICE | 3014 Bedok Industrial Park E,  S489980; | <span title="1.33570307521737,103.950077856405">1.33570, 103.95008</span> |
+  | OLD CHENGDU | Jurong Town Hall Road,  S609434; | <span title="1.33114235850558,103.742036114336">1.33114, 103.74204</span> |
+  | ONE BOWL LAH - TPY 233 | 233 Lorong 8 Toa Payoh,  S310233; | <span title="1.33828365922679,103.858467966719">1.33828, 103.85847</span> |
+  | SHIOK HOKKIEN MEE - BS504 | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | TONG XIN TANG TCM CLINIC | 259 Pasir Ris Street 21 Loyang Point Singapore 510259, #02-35,  S510259; | <span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+  | WELCOME 57 GEYLANG | 57 Geylang Bahru Geylang Bahru Ville Singapore 330057, #01-3513,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | XIN HAINANESE BONELESS CHICKEN RICE (TG61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-10
 
 </summary>
