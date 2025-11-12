@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11 Nov 2025",
+  "lastUpdated": "12 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -17842,6 +17842,26 @@
       "lastResetDate": "2025-06-10"
     },
     {
+      "id": "merchant_20bc0810-707d-4458-8ca7-eea4f435fc85",
+      "entityId": "merchant_20bc0810-707d-4458-8ca7-eea4f435fc85",
+      "name": "51 TOA PAYOH DRINKS PTE LTD",
+      "address": "51 Lorong 6 Toa Payoh,  S310051;",
+      "postalCode": "310051",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33778337648439,
+      "LON": 103.852507455855,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-11"
+    },
+    {
       "id": "merchant_50bed952-c7e4-4e95-a386-37f10a8d6658",
       "entityId": "merchant_50bed952-c7e4-4e95-a386-37f10a8d6658",
       "name": "51 TPY DRINK STALL",
@@ -17940,6 +17960,26 @@
         }
       },
       "lastResetDate": "2025-07-01"
+    },
+    {
+      "id": "merchant_01d1497b-2dfc-4c30-93a9-27b55319b1c0",
+      "entityId": "merchant_01d1497b-2dfc-4c30-93a9-27b55319b1c0",
+      "name": "511 NASI LEMAK",
+      "address": "511 Bedok North Street 3, #01-41,  S460511;",
+      "postalCode": "460511",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33321993297265,
+      "LON": 103.930581522776,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_b0cf9748-0c2c-4931-adb3-0a6077440095",
@@ -57425,11 +57465,11 @@
       "id": "merchant_a92e1a14-361e-4df0-a70a-6a288755fd4f",
       "entityId": "merchant_a92e1a14-361e-4df0-a70a-6a288755fd4f",
       "name": "B B HARDWARE",
-      "address": "Holland Drive, #01-85,  S270042;",
-      "postalCode": "270042",
+      "address": "44 Holland Drive, #01-04,  S270044;",
+      "postalCode": "270044",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30790383303654,
-      "LON": 103.792961440964,
+      "LAT": 1.30811780015992,
+      "LON": 103.792773769341,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -57439,7 +57479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-17"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_45d0c59b-5ea6-4010-a03e-8ff3e7484980",
@@ -96159,7 +96199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-30"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_97bbda89-5b04-426d-a250-9a9784c5a786",
@@ -97560,6 +97600,26 @@
         }
       },
       "lastResetDate": "2023-07-17"
+    },
+    {
+      "id": "merchant_5593e9ed-15d6-4c9c-a986-bd325a73b046",
+      "entityId": "merchant_5593e9ed-15d6-4c9c-a986-bd325a73b046",
+      "name": "CHIQUE NAIL STUDIO (108 AMK)",
+      "address": "108 Ang Mo Kio Avenue 4 Kebun Baru Heights Singapore 560108, #01-92,  S560108;",
+      "postalCode": "560108",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37094273993861,
+      "LON": 103.837974822369,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_45600b57-9d41-46c6-8349-b16e1d86146f",
@@ -177862,6 +177922,26 @@
       "lastResetDate": "2021-11-16"
     },
     {
+      "id": "merchant_8caba899-6800-4369-8649-0dded2485014",
+      "entityId": "merchant_8caba899-6800-4369-8649-0dded2485014",
+      "name": "GREAT HARMONY UNDERGARMENTS",
+      "address": "335 Smith Street, #01-258,  S050335;",
+      "postalCode": "050335",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2822749605271,
+      "LON": 103.843238518071,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-11"
+    },
+    {
       "id": "merchant_4adefbae-30e7-4dd7-95fb-43941d9f29db",
       "entityId": "merchant_4adefbae-30e7-4dd7-95fb-43941d9f29db",
       "name": "GREAT OCEAN LIVE SEAFOOD",
@@ -240239,7 +240319,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2025-10-30"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_a1f2b19b-d0c4-47aa-b6c7-0c860c22f915",
@@ -243505,11 +243585,11 @@
       "id": "merchant_b612b389-63e3-4bad-aac6-25d495ba8766",
       "entityId": "merchant_b612b389-63e3-4bad-aac6-25d495ba8766",
       "name": "JOY NAILS LASH",
-      "address": "1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4532,  S150001;",
-      "postalCode": "150001",
+      "address": "11 Jalan Bukit Merah, #03-4460,  S150011;",
+      "postalCode": "150011",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.28645354030174,
-      "LON": 103.808242400418,
+      "LAT": 1.28662190407489,
+      "LON": 103.808963346663,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -243519,7 +243599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-11"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_d2ada3f0-0d9f-4dc7-aaac-ecf97a05eb42",
@@ -253639,7 +253719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-09-26"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_b63028dc-466f-4964-9e14-8463769203e0",
@@ -275760,6 +275840,26 @@
         }
       },
       "lastResetDate": "2021-12-17"
+    },
+    {
+      "id": "merchant_77647dc9-4034-4b06-8cfc-613bd857639f",
+      "entityId": "merchant_77647dc9-4034-4b06-8cfc-613bd857639f",
+      "name": "LE LE MEE POK PTE LTD",
+      "address": "51 Lorong 6 Toa Payoh,  S310051;",
+      "postalCode": "310051",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33778337648439,
+      "LON": 103.852507455855,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_3f931912-2322-469a-9013-768ce8ace2c1",
@@ -327325,7 +327425,7 @@
       "id": "merchant_64dc21b8-c0b6-45b6-ab26-a6abd9c345ab",
       "entityId": "merchant_64dc21b8-c0b6-45b6-ab26-a6abd9c345ab",
       "name": "NASI LEMAK GORENG SG",
-      "address": "38A Beo Crescent, #01-80,  S169982;",
+      "address": "38A Beo Crescent, #01-92,  S169982;",
       "postalCode": "169982",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.28883089150258,
@@ -327339,7 +327439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-01-04"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_baa09c76-e5a9-4202-a53c-26c3ae4fc7f9",
@@ -333824,7 +333924,7 @@
     {
       "id": "merchant_7e6ecef8-b882-481d-9659-c5f04ba96dd8",
       "entityId": "merchant_7e6ecef8-b882-481d-9659-c5f04ba96dd8",
-      "name": "NIKUSHO TANAKA",
+      "name": "NIKU NIKU BUTCHERY",
       "address": "169 Stirling Road Stirling View Singapore 140169, #01-1157,  S140169;",
       "postalCode": "140169",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -333839,7 +333939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-07-05"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_982b7f77-3fee-47d0-a349-2e1b3e79cd40",
@@ -418525,7 +418625,7 @@
       "id": "merchant_e3b49411-3dc3-45bf-bf18-e18e7c921b9b",
       "entityId": "merchant_e3b49411-3dc3-45bf-bf18-e18e7c921b9b",
       "name": "SRI ANNAI MART",
-      "address": "Ang Mo Kio Avenue 3, #01-1865,  S560128;",
+      "address": "128 Ang Mo Kio Avenue 3, #01-1839,  S560128;",
       "postalCode": "560128",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.37083202800001,
@@ -418539,7 +418639,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-27"
+      "lastResetDate": "2025-11-11"
     },
     {
       "id": "merchant_aabe5f27-6e45-47b5-8b97-bb08de40ccd4",

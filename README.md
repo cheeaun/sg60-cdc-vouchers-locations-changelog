@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-12
+
+</summary>
+
+Total locations: 26,018 → 26,023
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 51 TOA PAYOH DRINKS PTE LTD | 51 Lorong 6 Toa Payoh,  S310051; | <span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+  | 511 NASI LEMAK | 511 Bedok North Street 3, #01-41,  S460511; | <span title="1.33321993297265,103.930581522776">1.33322, 103.93058</span> |
+  | CHIQUE NAIL STUDIO (108 AMK) | 108 Ang Mo Kio Avenue 4 Kebun Baru Heights Singapore 560108, #01-92,  S560108; | <span title="1.37094273993861,103.837974822369">1.37094, 103.83797</span> |
+  | GREAT HARMONY UNDERGARMENTS | 335 Smith Street, #01-258,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | LE LE MEE POK PTE LTD | 51 Lorong 6 Toa Payoh,  S310051; | <span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | B B HARDWARE | <del>Holland Drive, #01-85,  S270042;</del><br>44 Holland Drive, #01-04,  S270044; | <del title="1.30790383303654,103.792961440964">1.30790, 103.79296</del><br><span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+  | JOY NAILS LASH | <del>1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4532,  S150001;</del><br>11 Jalan Bukit Merah, #03-4460,  S150011; | <del title="1.28645354030174,103.808242400418">1.28645, 103.80824</del><br><span title="1.28662190407489,103.808963346663">1.28662, 103.80896</span> |
+  | NASI LEMAK GORENG SG | <del>38A Beo Crescent, #01-80,  S169982;</del><br>38A Beo Crescent, #01-92,  S169982; | <span title="1.28883089150258,103.827353892228">1.28883, 103.82735</span> |
+  | <del>NIKUSHO TANAKA</del><br>NIKU NIKU BUTCHERY | 169 Stirling Road Stirling View Singapore 140169, #01-1157,  S140169; | <span title="1.29043486528791,103.803105948762">1.29043, 103.80311</span> |
+  | SRI ANNAI MART | <del>Ang Mo Kio Avenue 3, #01-1865,  S560128;</del><br>128 Ang Mo Kio Avenue 3, #01-1839,  S560128; | <span title="1.37083202800001,103.843546990613">1.37083, 103.84355</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-11
 
 </summary>
