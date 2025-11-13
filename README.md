@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-13
+
+</summary>
+
+Total locations: 26,023 → 26,037
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AHER SOUP (510735) | 735 Pasir Ris Street 72, 003,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | DRINK STALL | 110 Lengkong Tiga,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | EN RAMEN | 267A Toh Guan Road,  S601267; | <span title="1.34155988964929,103.744937235987">1.34156, 103.74494</span> |
+  | HENG HENG NOODLE JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | HOMEMADE BAN MAIN | 443 Ang Mo Kio Avenue 10,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | LAI HEE PORK | 209 Hougang Street 21, #01-124,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | LAO GUANG JI CLAYPOT RICE #16 | 21 Canberra Link,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | LAZY'S CORNER (828 TAMPINES) | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-228,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | PERFECT EIGHT PTE LTD | 514A Bishan Street 13,  S571514; | <span title="1.35081674654628,103.850571470566">1.35082, 103.85057</span> |
+  | RAHMAT STALL | 527 Ang Mo Kio Avenue 10, #01-68,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | ROTI KARI | 16 Bedok South Road, #01-10,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | SOLDIER CHICKEN (TG61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | STEVIE WASH @ 111 WOODLANDS | 111 Woodlands Street 13 Hdb-woodlands Singapore 730111, #01-082,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | XIANG KITCHEN | 16 Bedok South Road, #01-17,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CAHAYA TIMUR BRIYANI HOUSE | <del>5 Changi Village Road, #01-2013,  S500005;</del><br>5 Changi Village Road, #01-2063,  S500005; | <span title="1.38885339963623,103.986845986484">1.38885, 103.98685</span> |
+  | <del>XI DE LI</del><br>HONG YUN FISH SOUP BAN MIAN | 69 Geylang Bahru, #01-70,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | INTEMEDICAL TECK GHEE | <del>338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1625,  S560338;</del><br>338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1623,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | <del>RETRO SNACKS FOR YIU (510258)</del><br>RETRO SNACKS FOR YIU (510259) | <del>258 Pasir Ris Street 21 Dbs Loyang Point Singapore 510258, #01-04,  S510258;</del><br>259 Pasir Ris Street 21 Dbs Loyang Point Singapore 510259, #02-45,  S510259; | <del title="1.36706634197242,103.964635610477">1.36707, 103.96464</del><br><span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-12
 
 </summary>
