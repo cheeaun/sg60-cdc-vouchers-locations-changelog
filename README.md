@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-14
+
+</summary>
+
+Total locations: 26,037 → 26,052
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 101 FRUITS | 336 Smith Street New Bridge Centre Singapore 050336, #01-300,  S050336; | <span title="1.28276238827844,103.84270303814">1.28276, 103.84270</span> |
+  | AH MA CHI MIAN TPY206 | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | ALLAN DREAM HAIR SALON | 102 Towner Road Hdb-kallang/whampoa Singapore 322102, #01-276,  S322102; | <span title="1.32058609456907,103.862002015145">1.32059, 103.86200</span> |
+  | BEAUTY NUTRITIOUS SOUP (AMK 630) | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+  | BRONZO (BUKIT TIMAH) | 2A Jalan Seh Chuan, #01-071,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | FENG FENG HAINANESE BONELESS CHICKEN RICE | 134 Lorong Ah Soo, ST 4,  S530134; | <span title="1.35046468321696,103.886509352895">1.35046, 103.88651</span> |
+  | FLAKYHAUS TOWNER ROAD | 150 Towner Road Towner Crest Singapore 320150, #01-04,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | HAINAN BEEF NOODLE | National Development Building, Annex B, Telok Ayer Street, #01-52,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | JIM KEY DUPLICATE & SHOE REPAIR | 724 Ang Mo Kio Avenue 6, #01-72,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | MISS SOYA | 927 Yishun Central 1 Hdb-yishun Singapore 760927, #01-163,  S760927; | <span title="1.42767464529376,103.837731455467">1.42767, 103.83773</span> |
+  | NAMTOWN (AP) | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #01-03,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | PONTIAN NOODLE HOUSE (AMK 724) | 724 Ang Mo Kio Avenue 6, #01-16,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | SK433 ALI'S FRY & GRILL | 433A Sengkang West Way,  S791433; | <span title="1.39494947298112,103.877566961287">1.39495, 103.87757</span> |
+  | WARUNG MAT WEST | 978 Toa Payoh North Singapore 319001, #02-01E,  S319001; | <span title="1.34313731285966,103.85139383899">1.34314, 103.85139</span> |
+  | WESTERN DELIGHT JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CUT & CURL BEAUTY SALON (AMK) | <del>Ang Mo Kio Avenue 10, #01-2357,  S560529;</del><br>Ang Mo Kio Avenue 10, #01-2345,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+  | <del>YEO'S CAFE (293 YISHUN)</del><br>GUI SHU BRAISED MEAT (256 YISHUN) | <del>293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-259,  S760293;</del><br>256 Yishun Ring Road, #01-1005,  S760256; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | <del>HE JIA MIXED RICE</del><br>HE JIA MIXED RICE 88 TANGLIN | 88 Tanglin Halt Road,  S141088; | <span title="1.30178506364186,103.798226442608">1.30179, 103.79823</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-13
 
 </summary>
