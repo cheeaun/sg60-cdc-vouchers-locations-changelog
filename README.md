@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-15
+
+</summary>
+
+Total locations: 26,052 → 26,062
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CURRY PARADISE INDIAN MUSLIM FOOD | 128 Bedok North Street 2,  S460128; | <span title="1.327740236451,103.939005696963">1.32774, 103.93901</span> |
+  | DONG JI YUN JIAO (BUKIT TIMAH) | 2A Jalan Seh Chuan, #01-050,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | E. LAYER HAIR STUDIO | 506 Bishan Street 11 Hdb-bishan Singapore 570506, #01-402,  S570506; | <span title="1.34917198788036,103.849165453932">1.34917, 103.84917</span> |
+  | GALORE - 17 UPPER BOON KENG | 17 Upper Boon Keng Road, #01-08,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | HONG KEE HAINANESE CHICKEN RICE. NOODLE (BB 289H) | 289H Bukit Batok Street 25, ST5,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | KEBAB CORNER ( PUNGGOL COAST ) | 84 Punggol Way, #02-62,  S829911; | <span title="1.41455331350836,103.908235308668">1.41455, 103.90824</span> |
+  | NASI PADANG & PENYETS | 118 Aljunied Ave 2, #02-100,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE (BB 289H) | 289H Bukit Batok Street 25, ST1,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | PIN FEN ECONOMIC BEE HOON | 453A Ang Mo Kio Avenue 10, #01-03,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | THE LOOK LAB PTE LTD | 810 Choa Chu Kang Avenue 7 Keat Hong Colours Singapore 680810, #01-02,  S680810; | <span title="1.3740546176425,103.746160942106">1.37405, 103.74616</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AUNTY V PIG'S ORGAN SOUP | <del>107 Hougang Avenue 1,  S530107;</del><br>107 Hougang Avenue 1, 01-00,  S530107; | <span title="1.35343419106776,103.890669732271">1.35343, 103.89067</span> |
+  | <del>ELENE BEAUTY (AMK 705)</del><br>ELENE BEAUTY (AMK 703) | <del>Ang Mo Kio Avenue 8, #01-2569,  S560705;</del><br>703 Ang Mo Kio Ave 8, #01-2535,  S560703; | <del title="1.37043722990379,103.847515505343">1.37044, 103.84752</del><br><span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | <del>GALORE PORK NOODLE</del><br>GALORE - WHAMPOA | 90 Whampoa Drive, #01-85,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | HONG KONG STREET SEAFOOD | <del>203 Toa Payoh North,  S310203;</del><br>280 Tampines St 22, #01-240,  S520280; | <del title="1.34205287411841,103.84939599719">1.34205, 103.84940</del><br><span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+  | JIA JIA VEGETARIAN | <del>496 Jurong West Street 41, #01-84,  S640496;</del><br>327 Hougang Ave 5, #01-156,  S530327; | <del title="1.34998960720747,103.723836476095">1.34999, 103.72384</del><br><span title="1.36830683201861,103.895987624672">1.36831, 103.89599</span> |
+  | LEE BEAUTY (AMK 703) | <del>703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2535,  S560703;</del><br>703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2533,  S560703; | <span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | OBEK'S KITCHEN YOUR INDONESIAN CUISINE | <del>203 Toa Payoh North,  S310203;</del><br>221 Mount Vernon Road, #01-07,  S360221; | <del title="1.34205287411841,103.84939599719">1.34205, 103.84940</del><br><span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | <del>PINK ESSENTIALS (AMK 703)</del><br>PINK ESSENTIALS (AMK 705) | <del>703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2535,  S560703;</del><br>705 Ang Mo Kio Ave 8, #01-2569,  S560705; | <del title="1.36977526980178,103.847321383156">1.36978, 103.84732</del><br><span title="1.37043722990379,103.847515505343">1.37044, 103.84752</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-14
 
 </summary>
