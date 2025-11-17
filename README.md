@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-17
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ACUMED BEDOK</del><br>ACUMED MEDICAL GROUP (BEDOK) | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-165,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-15
 
 </summary>

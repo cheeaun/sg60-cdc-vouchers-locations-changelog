@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 Nov 2025",
+  "lastUpdated": "17 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -30062,26 +30062,6 @@
       "lastResetDate": "2022-01-27"
     },
     {
-      "id": "merchant_d92af59f-8fe1-4cbc-ba6e-babc38a3d0f3",
-      "entityId": "merchant_d92af59f-8fe1-4cbc-ba6e-babc38a3d0f3",
-      "name": "ACUMED BEDOK",
-      "address": "214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-165,  S460214;",
-      "postalCode": "460214",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32587565122354,
-      "LON": 103.932493035074,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2023-10-30"
-    },
-    {
       "id": "merchant_9a97bf4a-c548-437d-8ef9-80793ce35223",
       "entityId": "merchant_9a97bf4a-c548-437d-8ef9-80793ce35223",
       "name": "ACUMED MEDICAL",
@@ -30140,6 +30120,26 @@
         }
       },
       "lastResetDate": "2024-01-19"
+    },
+    {
+      "id": "merchant_d92af59f-8fe1-4cbc-ba6e-babc38a3d0f3",
+      "entityId": "merchant_d92af59f-8fe1-4cbc-ba6e-babc38a3d0f3",
+      "name": "ACUMED MEDICAL GROUP (BEDOK)",
+      "address": "214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-165,  S460214;",
+      "postalCode": "460214",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32587565122354,
+      "LON": 103.932493035074,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-17"
     },
     {
       "id": "merchant_753ec300-e0c8-4267-9477-9f69ba5c2920",
