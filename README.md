@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-18
+
+</summary>
+
+Total locations: 26,062 → 26,072
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH SENG MUSHROOM MINCED MEAT NOODLE | Woodlands Street 12,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | CUTE CUTE PANCAKE | 684 Hougang Avenue 8,  S530684; | <span title="1.3739584050047,103.886898456705">1.37396, 103.88690</span> |
+  | DOU YONG TAU FOO | 419 Tampines Street 41,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | EUNOS (MRT) BAK KUT TEH KWAY CHAP (806 WDLS) | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | HE XIN HERBAL SOUP | 211 Marsiling Crescent,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+  | JACE'S PLACE | Woodlands Street 12,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | MA MA BEE (510444) | 444 Pasir Ris Drive 6, 03,  S510444; | <span title="1.370002238886,103.957400908358">1.37000, 103.95740</span> |
+  | THAI CUISINE (848 YISHUN) | 848 Yishun Street 81, ST12,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | WOODPECKER STUDIO | 683 Hougang Avenue 8 Dbs Hougang Avenue 8 Singapore 530683, #01-917,  S530683; | <span title="1.37331270061833,103.886367847223">1.37331, 103.88637</span> |
+  | XIN YUE HANDMADE BANMIAN FISH SOUP | 38A Margaret Drive, #01-34,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ACUMED MEDICAL GROUP</del><br>ACUMED MEDICAL GROUP (SENGKANG) | 215C Compassvale Drive Compassvale Mast Singapore 543215, #01-02,  S543215; | <span title="1.38977026274295,103.892787161183">1.38977, 103.89279</span> |
+  | <del>JALAN BATU KWAY CHAP</del><br>ALJUNIED WANTON NOODLE | 69 Geylang Bahru, #01-20,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | <del>MEI WEI (293 YISHUN)</del><br>MEI WEI | <del>293 Yishun Street 22,  S760293;</del><br>221 Mount Vernon Road, #01-07,  S360221; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | OLD AIRPORT ROAD HK ROASTED DELIGHT | <del>45 Sims Drive, #01-150,  S380045;</del><br>53 Sims Place, #01-150,  S380053; | <del title="1.31733721505469,103.878442674183">1.31734, 103.87844</del><br><span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | THAI YAOWARAT | <del>41A Cambridge Road, #01-35,  S211041;</del><br>505 Ang Mo Kio Avenue 8, #01-2688,  S560505; | <del title="1.31613128029458,103.850232935162">1.31613, 103.85023</del><br><span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-17
 
 </summary>
