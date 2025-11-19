@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-19
+
+</summary>
+
+Total locations: 26,072 → 26,084
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL ASRIN INDIAN MUSLIM FOOD | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | DING JIAN HONG KONG STYLE CHARCOAL ROASTED (731630) | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | ES KITCHEN (522602) | 602B Tampines Avenue 9,  S522602; | <span title="1.36138884982369,103.937648040157">1.36139, 103.93765</span> |
+  | JENNY FASHION | 30 Seng Poh Road, #01-022,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | LAU KA KOPITIAM | 416 Bedok North Avenue 2, 01,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | S. LASH BEAUTY | 803 King George's Avenue Hdb-kallang/whampoa Singapore 200803, #02-148,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | TEOCHEW LAO | Tampines Street 32,  S529286; | <span title="1.35436493607477,103.960042189097">1.35436, 103.96004</span> |
+  | THREE THREE THREE | 416 Bedok North Avenue 2,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | TONG XIN | 49A Serangoon Garden Way, #01-77,  S555945; | <span title="1.36273680777483,103.866162163042">1.36274, 103.86616</span> |
+  | WANG HE TANG | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #03-1028,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | YING CHUN WELLNESS AND SPA (293 YISHUN) | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-209,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | YJ STEAMED FISH | 237 Serangoon Avenue 3,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>WEI MIN THE FAMOUS WANTON NOODLE</del><br>GOLDEN PROSPER | 120 Bukit Merah Lane 1, #01-37,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | <del>YOU LE TIAN SEAFOOD - BEDOK</del><br>HAO TIAN RESTAURANT PTE LTD | 211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | <del>MUM N TOTS</del><br>MIKIKI | 29 Bendemeer Road, #01-101,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-18
 
 </summary>
