@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-20
+
+</summary>
+
+Total locations: 26,084 → 26,097
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 365 JUICES BAR (407 NORTHSHORE) | 407 Northshore Drive Northshore Plaza I Singapore 820407, #02-10,  S820407; | <span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | A KITCHEN BUKIT MERAH | 201 Kim Tian Road,  S160201; | <span title="1.2805659901889,103.827374794883">1.28057, 103.82737</span> |
+  | A&A CLINIC 570A WOODLANDS | 570A Woodlands Avenue 1 Champions Court Singapore 731570, #01-06,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | BREMJ ACA-PHYSIO | 234 Lorong 8 Toa Payoh Toa Payoh Eight Singapore 310234, #01-282,  S310234; | <span title="1.33860148626926,103.857914069837">1.33860, 103.85791</span> |
+  | DA FU HAO CLAYPOT DELIGHTS 888 WOODLANDS | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | DRINKS STALL (AMK608) | 608 Ang Mo Kio Avenue 5,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | HECHA | 7 Everton Park Singapore 080007, #01-15,  S080007; | <span title="1.27692435153003,103.838679504443">1.27692, 103.83868</span> |
+  | HOYEAH BB440 | 440 Bukit Batok West Avenue 8,  S650440; | <span title="1.35572308109486,103.739303105372">1.35572, 103.73930</span> |
+  | KERRY SLIMING AND BEAUTY (511 SEMBAWANG MART) | 511 Canberra Road Berry Tree Preschool@sembawang Private Limited Singapore 750511, #01-10,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | MANJARI MINIMART (MUTHU MINI MART PTE LTD) | 888 Woodlands Drive 50 888 Plaza Singapore 730888, #01-721,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | MIAO YIN VEGETARIAN FROZEN FOOD | 16 Bedok South Road, #01-179,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | TAI SENG FISH SOUP | 217 Bedok North Street 1,  S460217; | <span title="1.32683721721427,103.933920712718">1.32684, 103.93392</span> |
+  | V DENTAL (AMK 632) | 632 Ang Mo Kio Avenue 4 Uob Ang Mo Kio Avenue 4 Singapore 560632, #01-958,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BRIGHT CENTRE</del><br>BRIGHT CENTRE MINIMART | Redhill Close, #01-602,  S150086; | <span title="1.2869200622963,103.818673592235">1.28692, 103.81867</span> |
+  | CURRY PARADISE INDIAN MUSLIM FOOD | <del>128 Bedok North Street 2,  S460128;</del><br>128 Bedok North Street 2, #01-02,  S460128; | <span title="1.327740236451,103.939005696963">1.32774, 103.93901</span> |
+  | FIVE TEN WESTERN GRILL | <del>537 Bedok North Street 3,  S460537;</del><br>18 Bedok South Road, 01-45,  S460018; | <del title="1.33177300757048,103.924236461237">1.33177, 103.92424</del><br><span title="1.32062504871279,103.934734222428">1.32063, 103.93473</span> |
+  | <del>AH MEI BAK CHOR MEE</del><br>MEI YONG TAU FU | 38A Margaret Drive, #02-35,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | <del>FENG YI CHICKEN RICE</del><br>REDHILL PORK PORRIDGE | 105 Hougang Avenue 1, #02-12,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | THE KITTY CORNER | <del>264 Tampines Street 21, #01-114,  S520264;</del><br>139 Tampines Street 11, #01-34,  S521139; | <del title="1.35280486315014,103.951145717078">1.35280, 103.95115</del><br><span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | <del>HAO TIAN RESTAURANT PTE LTD</del><br>YOU LE TIAN | 211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-19
 
 </summary>
