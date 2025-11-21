@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-21
+
+</summary>
+
+Total locations: 26,097 → 26,111
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHILL & GRILL THAI FOOD | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-24,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | CONFIRM BEST LAH NASI LEMAK | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | CU LIANG YU FEN ( 198 PUNGGOL ) | 198 Punggol Field, 01-01,  S820198; | <span title="1.39946295698551,103.906402434062">1.39946, 103.90640</span> |
+  | DESSERT | 120 Bukit Merah Lane 1, #01-23,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | HAPPY HOUSE MALA HOTPOT | 866A Tampines Street 83,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | HERITAGE TANGLIN PUFF SINCE 1952 (PEK KIO) | 41A Cambridge Road, #01-45,  S211041; | <span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+  | HI-LITE CAFE BEDOK 84 | 84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-53,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | MAREMYST | 505 Beach Road, #B1-22,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | NAIL EARTH | 151 Serangoon North Avenue 2 Edmond Tan Veterinary Surgery Singapore 550151, #01-13,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | NEPTUNE DENTAL GROUP - TAMPINES | 357 Tampines Street 33 Hdb Public Shelters Singapore 520357, #01-610,  S520357; | <span title="1.35401954349057,103.961599844443">1.35402, 103.96160</span> |
+  | PIN CHA CAFE 101 LLP | 374 Bukit Batok Street 31 Dbs Bukit Batok Street 31 Singapore 650374, #01-212,  S650374; | <span title="1.35798291106742,103.750736425731">1.35798, 103.75074</span> |
+  | RIDE-FIX (TP822) | 822 Tampines Street 81 Hdb-tampines Singapore 520822, #01-186,  S520822; | <span title="1.34834234440867,103.934379779229">1.34834, 103.93438</span> |
+  | SEOUL PRIME GOURMET (256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | ZHEN BU CUO MALA HOTPOT (AMK151) | 151 Ang Mo Kio Avenue 5,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DOU YONG TAU FOO</del><br>419 DOU YONG TAU FOO | 419 Tampines Street 41,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | LAO WANG KAMPONG BEAN SPROUT CHICKEN RICE . HOR FUN SINCE 1986 | <del>151A Serangoon North Avenue 2, 01-81,  S551151;</del><br>623 Elias Road, 01-01,  S510623; | <del title="1.36953424620889,103.873492369263">1.36953, 103.87349</del><br><span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | <del>PC RECYCLING TRADING</del><br>PC COMPUTERS | <del>106 Hougang Avenue 1, #01-1207,  S530106;</del><br>113 Hougang Ave 1 #01-k1, #01-K1,  S530113; | <del title="1.3537029714401,103.890680792553">1.35370, 103.89068</del><br><span title="1.35356905255693,103.888705665044">1.35357, 103.88871</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-20
 
 </summary>
