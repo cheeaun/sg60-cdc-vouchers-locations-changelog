@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-22
+
+</summary>
+
+Total locations: 26,111 → 26,126
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 01-1126B CURRY CHICKEN/SOUP | 32 New Market Road, #01-1126B,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | 131 YONG TAU FOO - CLEMENTI | 448 Clementi Avenue 3, #01-131,  S120448; | <span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | 158 MIXED RICE | 158 Mei Ling Street,  S140158; | <span title="1.29274038365689,103.802806668414">1.29274, 103.80281</span> |
+  | 505 CAFE | 505 Ang Mo Kio Avenue 8,  S560505; | <span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | AI XIN WANTON NOODLE | 335 Smith Street, #02-149,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | AL ASLAM INDIAN MUSLIM FOOD | 168 Bedok South Avenue 3,  S460168; | <span title="1.32003554111515,103.944570078049">1.32004, 103.94457</span> |
+  | BINSMART | 66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-509,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | C K 77 | 246 Hougang Street 22,  S530246; | <span title="1.35876258437852,103.891460074318">1.35876, 103.89146</span> |
+  | FAMILYCARE CLINIC & SURGERY (TPY 85) | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-380,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | HAK LAI (TPY 95) | 95 Lorong 4 Toa Payoh,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | HAO TIAN SEAFOOD RESTAURANT | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | IBU RECIPE (JTC CANTEEN) | 19 Serangoon North Avenue 5,  S554913; | <span title="1.37563500157221,103.871996419103">1.37564, 103.87200</span> |
+  | ICON STEAK @505 AMK | 505 Ang Mo Kio Avenue 8,  S560505; | <span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | VIVID LIFE SALON | 57 Geylang Bahru Geylang Bahru Ville Singapore 330057, #01-3499,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | YUMMY SEDAP | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>IA HERITAGE (HALAL DIM SUM - 209 UPPER CHANGI)</del><br>1A HERITAGE (HALAL DIM SUM - 209 UPPER CHANGI) | 209 New Upper Changi Road, #01-633,  S460209; | <span title="1.32464544711794,103.931111525301">1.32465, 103.93111</span> |
+  | FATTY WANTON MEE | <del>151 Serangoon North Avenue 2, #01-41,  S550151;</del><br>36 Sin Ming Drive, #01-371,  S575710; | <del title="1.36934535015796,103.873778334096">1.36935, 103.87378</del><br><span title="1.35884114756586,103.836938065119">1.35884, 103.83694</span> |
+  | <del>HONG LIANG ELECTRICAL ENTERPRISE</del><br>HLE APPLIANCES PTE LTD | Bukit Merah Lane 1, #01-02,  S150121; | <span title="1.28662949776774,103.804920144204">1.28663, 103.80492</span> |
+  | JENNY CHICKEN STALL | <del>532 Choa Chu Kang Street 31, #01-33,  S680532;</del><br>20 Ghim Moh Rd, #01-149,  S270020; | <del title="1.39222033136152,103.743611063324">1.39222, 103.74361</del><br><span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | <del>THAWFEEK'S CUISINE</del><br>MUSTHAFA SATAY CLUB | 500 Clemenceau Avenue North, #01-79,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | <del>GADO GRILL - OUR TAMPINES HUB</del><br>TASTE OF INDONESIA EXPRESS (OTH) | 1 Tampines Walk, #B1-20,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-21
 
 </summary>
