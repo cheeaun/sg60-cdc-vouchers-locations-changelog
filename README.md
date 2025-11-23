@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-23
+
+</summary>
+
+Total locations: 26,126 → 26,127
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GREENTEA RICE -BP | 2 Bukit Panjang Ring Road, #01-18,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-22
 
 </summary>

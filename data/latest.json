@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Nov 2025",
+  "lastUpdated": "23 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -179900,6 +179900,26 @@
         }
       },
       "lastResetDate": "2025-04-07"
+    },
+    {
+      "id": "merchant_4d944ae1-293b-4c93-aad6-edbf22ce877f",
+      "entityId": "merchant_4d944ae1-293b-4c93-aad6-edbf22ce877f",
+      "name": "GREENTEA RICE -BP",
+      "address": "2 Bukit Panjang Ring Road, #01-18,  S679947;",
+      "postalCode": "679947",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37759742308947,
+      "LON": 103.772491526747,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-22"
     },
     {
       "id": "merchant_ff04b7f2-fcf6-41e0-a12b-72d8ca084fd3",
