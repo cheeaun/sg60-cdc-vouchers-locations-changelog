@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-25
+
+</summary>
+
+Total locations: 26,127 → 26,137
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHONG PANG HUAT @ LAU KA KOPITIAM | 416 Bedok North Avenue 2,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | DZ | 203 Hougang Street 21 Kovan City Singapore 530203, #01-71,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | HONG LOK FAN ZHUANG | 418 Yishun Avenue 11, 385J,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | MIX & MATCH DELIGHTS | 210 Toa Payoh Lorong 8, #01-21,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | MYA AUTHENTIC MYANMAR CUISINE | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | SHIOK HOKKEN MEE | 412 Bedok North Avenue 2,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | SIMPANG BEDOK YONG TAU FOO | 308 Clementi Avenue 4,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | VALUE DOLLAR (34 UCS) | 34 Upper Cross Street Hdb-central Area Singapore 050034, #01-160,  S050034; | <span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+  | XIANG CHI RUI JIA XIAO CHAO | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | YI PING CHICKEN RICE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>A HOT TEMPTATION</del><br>BA SHU JIA CHANG CAI (411 BALESTIER) | <del>411 Balestier Road, 4,  S329930;</del><br>411 Balestier Road, #01-05,  S329930; | <span title="1.32551185334397,103.849036533963">1.32551, 103.84904</span> |
+  | KEBAB KONAFA | <del>300 Tampines Ave 5, Income At Tampines Juncation, #01-01A, S529653, #01-01A,  S529653;</del><br>1 Tampines Walk, #B1-K24,  S528523; | <del title="1.3523360160745,103.941943293971">1.35234, 103.94194</del><br><span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | <del>MALA HOT POT - UPPER BOON KENG</del><br>MAN TANG HONG MALA HOTPOT | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | <del>BEAUTIFUL TIPS PTE LTD</del><br>YU SHANG YI TCM WELLNESS | 203 Hougang Street 21, #01-53,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-23
 
 </summary>
