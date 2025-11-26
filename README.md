@@ -13,6 +13,33 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-26
+
+</summary>
+
+Total locations: 26,137 → 26,147
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 630A FRIED HOKKIEN PRAWN NOODLE | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | BAAN MAI THAI KITCHEN | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | COMBO | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | GOOD PRICE CENTRE JW276 | 276 Jurong West Street 25 Dbs Jurong West Street 25 Singapore 640276, #01-07,  S640276; | <span title="1.35360972722828,103.703730685947">1.35361, 103.70373</span> |
+  | INDIAN MUSLIM FOODIE DELIGHTS | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | JAPANESE & KOREAN FOOD (510443) | 443 Pasir Ris Drive 6, 14,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | JOHNSON DUCK 628 | 628 Senja Road,  S670628; | <span title="1.38509602471476,103.760218434373">1.38510, 103.76022</span> |
+  | MURUGAN SUPERMARKET | 55 Chai Chee Drive Ping-an Gardens Singapore 460055, #01-196,  S460055; | <span title="1.32684846948333,103.919015573079">1.32685, 103.91902</span> |
+  | NGAN LEE | 10 Sengkang Square, 01-45,  S544829; | <span title="1.39152651487694,103.89365715873">1.39153, 103.89366</span> |
+  | THREE LITTLE COCONUT ( ONE PUNGGOL) | 1 Punggol Drive,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-25
 
 </summary>

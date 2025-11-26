@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 Nov 2025",
+  "lastUpdated": "26 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -19762,6 +19762,26 @@
       "lastResetDate": "2021-12-11"
     },
     {
+      "id": "merchant_df1e2c3e-8a73-4818-af5c-4de5a8f295c2",
+      "entityId": "merchant_df1e2c3e-8a73-4818-af5c-4de5a8f295c2",
+      "name": "630A FRIED HOKKIEN PRAWN NOODLE",
+      "address": "630A Woodlands Ring Road,  S731630;",
+      "postalCode": "731630",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43509447552281,
+      "LON": 103.801196428683,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
+    },
+    {
       "id": "merchant_82a66c18-e4e7-4807-80bd-b3600748f870",
       "entityId": "merchant_82a66c18-e4e7-4807-80bd-b3600748f870",
       "name": "631 AMK COFFEE HOUSE PTE. LTD.",
@@ -33659,7 +33679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-21"
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_689761f7-0156-4529-8012-70beba7e2ab9",
@@ -58480,6 +58500,26 @@
         }
       },
       "lastResetDate": "2025-05-21"
+    },
+    {
+      "id": "merchant_fc2f431a-3ec9-4b9b-8135-7a363323114a",
+      "entityId": "merchant_fc2f431a-3ec9-4b9b-8135-7a363323114a",
+      "name": "BAAN MAI THAI KITCHEN",
+      "address": "278D Compassvale Bow,  S544278;",
+      "postalCode": "544278",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38269271730514,
+      "LON": 103.89105712565,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_64d0118e-f54c-4bb6-a5e0-7ecc78660709",
@@ -107400,6 +107440,26 @@
         }
       },
       "lastResetDate": "2025-03-05"
+    },
+    {
+      "id": "merchant_d36e7454-7dc3-44e5-a1f5-96d238cfbce1",
+      "entityId": "merchant_d36e7454-7dc3-44e5-a1f5-96d238cfbce1",
+      "name": "COMBO",
+      "address": "278D Compassvale Bow,  S544278;",
+      "postalCode": "544278",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38269271730514,
+      "LON": 103.89105712565,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_8441a33a-6c73-46cf-93dc-050590a61fef",
@@ -175159,7 +175219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-11-18"
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_874862fa-4bc5-4732-aefc-63c647796192",
@@ -176500,6 +176560,26 @@
         }
       },
       "lastResetDate": "2024-10-21"
+    },
+    {
+      "id": "merchant_e407a64a-ae3c-4c4f-b700-b3649fedb428",
+      "entityId": "merchant_e407a64a-ae3c-4c4f-b700-b3649fedb428",
+      "name": "GOOD PRICE CENTRE JW276",
+      "address": "276 Jurong West Street 25 Dbs Jurong West Street 25 Singapore 640276, #01-07,  S640276;",
+      "postalCode": "640276",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35360972722828,
+      "LON": 103.703730685947,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_1f20492d-b2ff-43cd-a10b-6b05ba0dd4b6",
@@ -224402,6 +224482,26 @@
       "lastResetDate": "2023-09-05"
     },
     {
+      "id": "merchant_873c946e-c472-4a5a-b13e-1e3d7aa8aed1",
+      "entityId": "merchant_873c946e-c472-4a5a-b13e-1e3d7aa8aed1",
+      "name": "INDIAN MUSLIM FOODIE DELIGHTS",
+      "address": "421 Ang Mo Kio Avenue 10,  S560421;",
+      "postalCode": "560421",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36538422642267,
+      "LON": 103.852966961527,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
+    },
+    {
       "id": "merchant_98c6b474-28b3-41b5-9eea-36ffbc84bb71",
       "entityId": "merchant_98c6b474-28b3-41b5-9eea-36ffbc84bb71",
       "name": "INDIAN MUSLIM FOODIE DELIGHTS",
@@ -231320,6 +231420,26 @@
         }
       },
       "lastResetDate": "2025-07-07"
+    },
+    {
+      "id": "merchant_104fc11d-fe03-4ce4-a81c-29b4476a9236",
+      "entityId": "merchant_104fc11d-fe03-4ce4-a81c-29b4476a9236",
+      "name": "JAPANESE & KOREAN FOOD (510443)",
+      "address": "443 Pasir Ris Drive 6, 14,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_082b0e28-3d26-421e-81a8-874a1b29dc81",
@@ -243500,6 +243620,26 @@
         }
       },
       "lastResetDate": "2024-08-01"
+    },
+    {
+      "id": "merchant_f3fbdcae-b2d9-4bc7-8b27-96f5a340db3c",
+      "entityId": "merchant_f3fbdcae-b2d9-4bc7-8b27-96f5a340db3c",
+      "name": "JOHNSON DUCK 628",
+      "address": "628 Senja Road,  S670628;",
+      "postalCode": "670628",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38509602471476,
+      "LON": 103.760218434373,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_8f5678be-37e3-4fc5-bb5f-0831f3aaea32",
@@ -322762,6 +322902,26 @@
       "lastResetDate": "2023-06-14"
     },
     {
+      "id": "merchant_9687e76b-f950-418c-aba5-d809c3409ace",
+      "entityId": "merchant_9687e76b-f950-418c-aba5-d809c3409ace",
+      "name": "MURUGAN SUPERMARKET",
+      "address": "55 Chai Chee Drive Ping-an Gardens Singapore 460055, #01-196,  S460055;",
+      "postalCode": "460055",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32684846948333,
+      "LON": 103.919015573079,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
+    },
+    {
       "id": "merchant_95afd32b-230c-4929-9a1a-6290c4e0999d",
       "entityId": "merchant_95afd32b-230c-4929-9a1a-6290c4e0999d",
       "name": "MURUGAN SUPERMARKET PTE LTD",
@@ -334560,6 +334720,26 @@
         }
       },
       "lastResetDate": "2022-01-06"
+    },
+    {
+      "id": "merchant_af9aff6f-fa32-4c55-8abe-745179ef7289",
+      "entityId": "merchant_af9aff6f-fa32-4c55-8abe-745179ef7289",
+      "name": "NGAN LEE",
+      "address": "10 Sengkang Square, 01-45,  S544829;",
+      "postalCode": "544829",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39152651487694,
+      "LON": 103.89365715873,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_7f03df11-bf2c-4e69-8941-dc0c4eeacbf1",
@@ -452282,6 +452462,26 @@
       "lastResetDate": "2021-12-14"
     },
     {
+      "id": "merchant_2bc2027b-99ba-4f66-b8fa-a35fe0dcba77",
+      "entityId": "merchant_2bc2027b-99ba-4f66-b8fa-a35fe0dcba77",
+      "name": "THREE LITTLE COCONUT ( ONE PUNGGOL)",
+      "address": "1 Punggol Drive,  S828629;",
+      "postalCode": "828629",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40874764582071,
+      "LON": 103.905169457582,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-25"
+    },
+    {
       "id": "merchant_30e7eff7-72b5-4829-8fac-6eed08891509",
       "entityId": "merchant_30e7eff7-72b5-4829-8fac-6eed08891509",
       "name": "THREE LITTLE RAINBOW",
@@ -512259,7 +512459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-12-27"
+      "lastResetDate": "2025-11-25"
     },
     {
       "id": "merchant_a10e3dbd-23f1-4e5d-bad6-be530d371d0d",
