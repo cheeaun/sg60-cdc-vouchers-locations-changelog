@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Nov 2025",
+  "lastUpdated": "27 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -33664,7 +33664,7 @@
     {
       "id": "merchant_48e416b5-5694-406e-8936-514950860296",
       "entityId": "merchant_48e416b5-5694-406e-8936-514950860296",
-      "name": "AH HUA KO KO MEE",
+      "name": "AH HUA KOK KOK MEE",
       "address": "3014 Bedok Industrial Park E,  S489980;",
       "postalCode": "489980",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -33679,7 +33679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-11-25"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_689761f7-0156-4529-8012-70beba7e2ab9",
@@ -64062,26 +64062,6 @@
       "lastResetDate": "2021-11-26"
     },
     {
-      "id": "merchant_16470f83-1e9c-457a-a1d8-3e9848d36408",
-      "entityId": "merchant_16470f83-1e9c-457a-a1d8-3e9848d36408",
-      "name": "BASIL KING",
-      "address": "412 Bedok North Avenue 2,  S460412;",
-      "postalCode": "460412",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32929126082802,
-      "LON": 103.931090689284,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-10-07"
-    },
-    {
       "id": "merchant_1b0d0f29-99cc-485e-87ea-d854abd4b3cc",
       "entityId": "merchant_1b0d0f29-99cc-485e-87ea-d854abd4b3cc",
       "name": "BASIL KING",
@@ -64220,6 +64200,26 @@
         }
       },
       "lastResetDate": "2025-08-22"
+    },
+    {
+      "id": "merchant_16470f83-1e9c-457a-a1d8-3e9848d36408",
+      "entityId": "merchant_16470f83-1e9c-457a-a1d8-3e9848d36408",
+      "name": "BASIL KING (412 BEDOK)",
+      "address": "412 Bedok North Avenue 2,  S460412;",
+      "postalCode": "460412",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32929126082802,
+      "LON": 103.931090689284,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_2cc21040-0c11-44c2-b06b-ad3c6cb42f62",
@@ -79042,6 +79042,26 @@
       "lastResetDate": "2025-05-02"
     },
     {
+      "id": "merchant_71f99c34-af66-41b0-ae7d-d68fd0e63353",
+      "entityId": "merchant_71f99c34-af66-41b0-ae7d-d68fd0e63353",
+      "name": "BRIDGEPOINT HEALTH BARTLEY",
+      "address": "221 Mount Vernon Road, #01-04,  S360221;",
+      "postalCode": "360221",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34172888603572,
+      "LON": 103.880577622977,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_cee00e6b-75c3-4cfe-b2bb-b25af4a0643b",
       "entityId": "merchant_cee00e6b-75c3-4cfe-b2bb-b25af4a0643b",
       "name": "BRIDGEPOINT HEALTH- EVERTON",
@@ -85100,26 +85120,6 @@
         }
       },
       "lastResetDate": "2025-03-17"
-    },
-    {
-      "id": "merchant_e78af165-3457-434e-ba80-df0507c5013e",
-      "entityId": "merchant_e78af165-3457-434e-ba80-df0507c5013e",
-      "name": "CATHAY CHICKEN RICE",
-      "address": "168 Bedok South Avenue 3,  S460168;",
-      "postalCode": "460168",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32003554111515,
-      "LON": 103.944570078049,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-08-15"
     },
     {
       "id": "merchant_06ed1b58-c7af-49dc-9a00-698587f2e40f",
@@ -119979,7 +119979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-02-03"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_41ff92e0-1ad9-47b8-87b4-c437ad5a37c6",
@@ -208602,6 +208602,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_0ebe39c7-431d-44df-a621-830bc663a47d",
+      "entityId": "merchant_0ebe39c7-431d-44df-a621-830bc663a47d",
+      "name": "HOMIES BAKERY (221 MT VERNON)",
+      "address": "221 Mount Vernon Road, #01-06,  S360221;",
+      "postalCode": "360221",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34172888603572,
+      "LON": 103.880577622977,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_2e11d632-12d1-4c06-bba4-458406cec4f4",
       "entityId": "merchant_2e11d632-12d1-4c06-bba4-458406cec4f4",
       "name": "HOMIES BAKERY (YISHUN 761)",
@@ -215640,6 +215660,26 @@
         }
       },
       "lastResetDate": "2025-07-15"
+    },
+    {
+      "id": "merchant_1d579351-418f-4825-8eb5-a4c82e78ee13",
+      "entityId": "merchant_1d579351-418f-4825-8eb5-a4c82e78ee13",
+      "name": "HU LA NOODLE HOUSE",
+      "address": "2A Jalan Seh Chuan, #01-075,  S599213;",
+      "postalCode": "599213",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34099257381097,
+      "LON": 103.775013112947,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_243d111a-500b-4fe2-a280-10c539315c52",
@@ -224359,7 +224399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-12-11"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_05cc6e37-ef0e-4c01-adfb-778232e71ba7",
@@ -234842,6 +234882,26 @@
       "lastResetDate": "2021-11-25"
     },
     {
+      "id": "merchant_deb7e897-2654-4eca-bc2d-0e9226d95186",
+      "entityId": "merchant_deb7e897-2654-4eca-bc2d-0e9226d95186",
+      "name": "JIA CHENG NOODLE HOUSE",
+      "address": "19 Ghim Moh Road, 01-229,  S270019;",
+      "postalCode": "270019",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31143852315951,
+      "LON": 103.788298892377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_0bbf4a9a-1cbb-4dbb-abe9-0351f2e48b4a",
       "entityId": "merchant_0bbf4a9a-1cbb-4dbb-abe9-0351f2e48b4a",
       "name": "JIA CHENG NOODLE HOUSE",
@@ -234860,26 +234920,6 @@
         }
       },
       "lastResetDate": "2022-01-27"
-    },
-    {
-      "id": "merchant_deb7e897-2654-4eca-bc2d-0e9226d95186",
-      "entityId": "merchant_deb7e897-2654-4eca-bc2d-0e9226d95186",
-      "name": "JIA CHENG NOODLE HOUSE (151 AMK)",
-      "address": "151 Ang Mo Kio Avenue 5, 6,  S560151;",
-      "postalCode": "560151",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37671105271454,
-      "LON": 103.841168190659,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-09-17"
     },
     {
       "id": "merchant_105b0bf8-6ebd-4463-b04c-54f4f09e59ed",
@@ -277225,11 +277265,11 @@
       "id": "merchant_01b7f355-a5a0-40c1-afb1-d10cf1290e2d",
       "entityId": "merchant_01b7f355-a5a0-40c1-afb1-d10cf1290e2d",
       "name": "LE HAIR STUDIO PTE LTD",
-      "address": "463 Crawford Lane Crawford Court Singapore 190463, #01-07,  S190463;",
-      "postalCode": "190463",
+      "address": "465 Crawford Lane, #01-04,  S190465;",
+      "postalCode": "190465",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30505411579746,
-      "LON": 103.861916751532,
+      "LAT": 1.30512319499862,
+      "LON": 103.86274639248,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -277239,7 +277279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-11-29"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_51eaf442-cabe-4136-a533-6f4007bb68eb",
@@ -297682,6 +297722,26 @@
       "lastResetDate": "2024-07-03"
     },
     {
+      "id": "merchant_f4e1e9f2-d80e-4610-803a-1437c4d226db",
+      "entityId": "merchant_f4e1e9f2-d80e-4610-803a-1437c4d226db",
+      "name": "MAKE THE CUT (BARTLEY) PTE LTD",
+      "address": "221 Mount Vernon Road, #01-05,  S360221;",
+      "postalCode": "360221",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34172888603572,
+      "LON": 103.880577622977,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_899e9668-48a5-4651-8377-9ef71d1c9788",
       "entityId": "merchant_899e9668-48a5-4651-8377-9ef71d1c9788",
       "name": "MAKE YOUR OWN",
@@ -313719,7 +313779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-04"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_855c660a-c093-472e-8ff6-7675d5233bb7",
@@ -320779,7 +320839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-30"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_7c61d55e-47ac-452b-a4e6-f7456be9154b",
@@ -372219,7 +372279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-10-25"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_eb5cf9d2-c5fe-4530-a73e-3f0d80b651dc",
@@ -468662,6 +468722,26 @@
       "lastResetDate": "2025-09-23"
     },
     {
+      "id": "merchant_b59489cb-53c7-4f31-951f-e767eee38561",
+      "entityId": "merchant_b59489cb-53c7-4f31-951f-e767eee38561",
+      "name": "UNCLE ROCKY",
+      "address": "727 Ang Mo Kio Avenue 6, #01-4236,  S560727;",
+      "postalCode": "560727",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37299031596651,
+      "LON": 103.846012559319,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_218a24ea-eb7d-4a44-900e-f1b7bf106a64",
       "entityId": "merchant_218a24ea-eb7d-4a44-900e-f1b7bf106a64",
       "name": "UNCLE SAM DURIAN",
@@ -472322,6 +472402,26 @@
       "lastResetDate": "2022-08-25"
     },
     {
+      "id": "merchant_a1d009dc-de1d-470d-81c7-f5115b9edc19",
+      "entityId": "merchant_a1d009dc-de1d-470d-81c7-f5115b9edc19",
+      "name": "VALUE SHOP 492 JW",
+      "address": "492 Jurong West Street 41 Central 24-hr Clnic (jurong West) Singapore 640492, #01-68,  S640492;",
+      "postalCode": "640492",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34994543559348,
+      "LON": 103.725180466645,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
+    },
+    {
       "id": "merchant_e3bc4399-b1a4-453f-8a3e-f0f7b30552fd",
       "entityId": "merchant_e3bc4399-b1a4-453f-8a3e-f0f7b30552fd",
       "name": "VALUE SHOP 57 MARINE TERRACE",
@@ -475320,6 +475420,26 @@
         }
       },
       "lastResetDate": "2022-02-14"
+    },
+    {
+      "id": "merchant_e78af165-3457-434e-ba80-df0507c5013e",
+      "entityId": "merchant_e78af165-3457-434e-ba80-df0507c5013e",
+      "name": "VICTORIA HAINAN CHICKEN RICE",
+      "address": "168 Bedok South Avenue 3,  S460168;",
+      "postalCode": "460168",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32003554111515,
+      "LON": 103.944570078049,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_962eda55-f36c-4260-bc4e-3d4d23d0c377",
@@ -481580,6 +481700,26 @@
         }
       },
       "lastResetDate": "2025-05-06"
+    },
+    {
+      "id": "merchant_e9e103db-0302-46eb-9820-90da0bc08ff6",
+      "entityId": "merchant_e9e103db-0302-46eb-9820-90da0bc08ff6",
+      "name": "WARONG QIEQAN ( PUNGGOL )",
+      "address": "658 Punggol East,  S820658;",
+      "postalCode": "820658",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39991156763461,
+      "LON": 103.919353979151,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_7b60c3eb-82b8-4446-a69f-47bd9efad532",
@@ -491360,26 +491500,6 @@
         }
       },
       "lastResetDate": "2021-12-01"
-    },
-    {
-      "id": "merchant_b59489cb-53c7-4f31-951f-e767eee38561",
-      "entityId": "merchant_b59489cb-53c7-4f31-951f-e767eee38561",
-      "name": "XI SHI SCISSORS CUT CURRY RICE",
-      "address": "727 Ang Mo Kio Avenue 6, #01-4236,  S560727;",
-      "postalCode": "560727",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37299031596651,
-      "LON": 103.846012559319,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-07-09"
     },
     {
       "id": "merchant_0abfdb40-69f6-4d0e-a258-dfe0e6db4af8",
@@ -512365,11 +512485,11 @@
       "id": "merchant_f3055917-9965-4b85-9e13-589e666e4313",
       "entityId": "merchant_f3055917-9965-4b85-9e13-589e666e4313",
       "name": "YU ER FASHION",
-      "address": "705 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560705, #01-2569,  S560705;",
-      "postalCode": "560705",
+      "address": "703 Ang Mo Kio Avenue 8, #01-2535,  S560703;",
+      "postalCode": "560703",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37043722990379,
-      "LON": 103.847515505343,
+      "LAT": 1.36977526980178,
+      "LON": 103.847321383156,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -512379,7 +512499,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-06-05"
+      "lastResetDate": "2025-11-26"
     },
     {
       "id": "merchant_12a8838f-85a2-42d2-bc31-6abf348dfec1",

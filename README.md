@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-27
+
+</summary>
+
+Total locations: 26,147 → 26,153
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BRIDGEPOINT HEALTH BARTLEY | 221 Mount Vernon Road, #01-04,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | HOMIES BAKERY (221 MT VERNON) | 221 Mount Vernon Road, #01-06,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | HU LA NOODLE HOUSE | 2A Jalan Seh Chuan, #01-075,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | MAKE THE CUT (BARTLEY) PTE LTD | 221 Mount Vernon Road, #01-05,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | VALUE SHOP 492 JW | 492 Jurong West Street 41 Central 24-hr Clnic (jurong West) Singapore 640492, #01-68,  S640492; | <span title="1.34994543559348,103.725180466645">1.34995, 103.72518</span> |
+  | WARONG QIEQAN ( PUNGGOL ) | 658 Punggol East,  S820658; | <span title="1.39991156763461,103.919353979151">1.39991, 103.91935</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AH HUA KO KO MEE</del><br>AH HUA KOK KOK MEE | 3014 Bedok Industrial Park E,  S489980; | <span title="1.33570307521737,103.950077856405">1.33570, 103.95008</span> |
+  | <del>BASIL KING</del><br>BASIL KING (412 BEDOK) | 412 Bedok North Avenue 2,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | <del>JIA CHENG NOODLE HOUSE (151 AMK)</del><br>JIA CHENG NOODLE HOUSE | <del>151 Ang Mo Kio Avenue 5, 6,  S560151;</del><br>19 Ghim Moh Road, 01-229,  S270019; | <del title="1.37671105271454,103.841168190659">1.37671, 103.84117</del><br><span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | LE HAIR STUDIO PTE LTD | <del>463 Crawford Lane Crawford Court Singapore 190463, #01-07,  S190463;</del><br>465 Crawford Lane, #01-04,  S190465; | <del title="1.30505411579746,103.861916751532">1.30505, 103.86192</del><br><span title="1.30512319499862,103.86274639248">1.30512, 103.86275</span> |
+  | <del>XI SHI SCISSORS CUT CURRY RICE</del><br>UNCLE ROCKY | 727 Ang Mo Kio Avenue 6, #01-4236,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+  | <del>CATHAY CHICKEN RICE</del><br>VICTORIA HAINAN CHICKEN RICE | 168 Bedok South Avenue 3,  S460168; | <span title="1.32003554111515,103.944570078049">1.32004, 103.94457</span> |
+  | YU ER FASHION | <del>705 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560705, #01-2569,  S560705;</del><br>703 Ang Mo Kio Avenue 8, #01-2535,  S560703; | <del title="1.37043722990379,103.847515505343">1.37044, 103.84752</del><br><span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-26
 
 </summary>
