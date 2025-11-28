@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-28
+
+</summary>
+
+Total locations: 26,153 → 26,160
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HAO LAI KE (510623) | 623 Elias Road, 11,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | JOYFUL SEAFOOD 330 | 330 Anchorvale Street,  S540330; | <span title="1.3968497990014,103.889246755784">1.39685, 103.88925</span> |
+  | LION HEALTH CLINIC & SURGERY (BOON KENG) | 101 Towner Road Dbs Towner Road Branch Singapore 322101, #01-218,  S322101; | <span title="1.31942539040726,103.86108746288">1.31943, 103.86109</span> |
+  | NANAY'S KITCHEN | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | QUEEN BANH MI - PHO & COFFEE | 212 Hougang Street 21,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | REPOSE | 2 Everton Park Everton Park Singapore 081002, #01-59,  S081002; | <span title="1.27741630337522,103.839330846341">1.27742, 103.83933</span> |
+  | SRP FAMILY MART | 163 Yung Ping Road Hdb Public Shelters Singapore 610163, #01-90,  S610163; | <span title="1.33003579972894,103.722565513663">1.33004, 103.72257</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SHI CHEN LAO HUO TANG</del><br>WESTERN STYLE WORKSHOP | <del>548 Woodlands Drive 44, 12,  S730548;</del><br>548 Woodlands Drive 44, #02-34,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-27
 
 </summary>

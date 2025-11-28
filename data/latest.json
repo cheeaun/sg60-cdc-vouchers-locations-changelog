@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Nov 2025",
+  "lastUpdated": "28 Nov 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -54419,7 +54419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-16"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_3842810f-e90f-4a9a-beea-9efee7a60b5a",
@@ -58439,7 +58439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-11-24"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_f1b3e495-fe02-40eb-a5ea-88dc760a1626",
@@ -86619,7 +86619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-29"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_1fdf09e2-01a4-4ec6-bd74-b742439d5a4d",
@@ -191282,6 +191282,26 @@
       "lastResetDate": "2024-01-19"
     },
     {
+      "id": "merchant_671c704c-eade-4576-8c74-3eb0da73c5a8",
+      "entityId": "merchant_671c704c-eade-4576-8c74-3eb0da73c5a8",
+      "name": "HAO LAI KE (510623)",
+      "address": "623 Elias Road, 11,  S510623;",
+      "postalCode": "510623",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37790533095468,
+      "LON": 103.94233582068,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_0f952489-9a86-49c2-a6e9-4f523b46e334",
       "entityId": "merchant_0f952489-9a86-49c2-a6e9-4f523b46e334",
       "name": "HAO LAI KE LA MIAN",
@@ -245322,6 +245342,26 @@
       "lastResetDate": "2023-02-02"
     },
     {
+      "id": "merchant_eba252c3-b23c-446e-9d49-5ae4e1bfdc06",
+      "entityId": "merchant_eba252c3-b23c-446e-9d49-5ae4e1bfdc06",
+      "name": "JOYFUL SEAFOOD 330",
+      "address": "330 Anchorvale Street,  S540330;",
+      "postalCode": "540330",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3968497990014,
+      "LON": 103.889246755784,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_a3022755-6f26-45f5-b7ce-2ecfe5a9cd38",
       "entityId": "merchant_a3022755-6f26-45f5-b7ce-2ecfe5a9cd38",
       "name": "JOYFUL SEAFOOD 531",
@@ -288322,6 +288362,26 @@
       "lastResetDate": "2021-10-27"
     },
     {
+      "id": "merchant_51057415-e934-4736-87ad-34f8a10d3906",
+      "entityId": "merchant_51057415-e934-4736-87ad-34f8a10d3906",
+      "name": "LION HEALTH CLINIC & SURGERY (BOON KENG)",
+      "address": "101 Towner Road Dbs Towner Road Branch Singapore 322101, #01-218,  S322101;",
+      "postalCode": "322101",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31942539040726,
+      "LON": 103.86108746288,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_1b01a095-12b6-4483-af8c-98be117f7468",
       "entityId": "merchant_1b01a095-12b6-4483-af8c-98be117f7468",
       "name": "LION HEALTH CLINIC & SURGERY (YISHUN)",
@@ -328082,6 +328142,26 @@
       "lastResetDate": "2022-05-04"
     },
     {
+      "id": "merchant_dfb0c119-8538-4a16-9e38-ad266400bdab",
+      "entityId": "merchant_dfb0c119-8538-4a16-9e38-ad266400bdab",
+      "name": "NANAY'S KITCHEN",
+      "address": "278D Compassvale Bow,  S544278;",
+      "postalCode": "544278",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38269271730514,
+      "LON": 103.89105712565,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_f8cde05c-33b4-41f7-9b8d-1116a9c2de8d",
       "entityId": "merchant_f8cde05c-33b4-41f7-9b8d-1116a9c2de8d",
       "name": "NANAY'S KITCHEN YISHUN",
@@ -353699,7 +353779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-17"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_7e3194bd-cb06-41cd-8b42-059b7a833c61",
@@ -354899,7 +354979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-06-09"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_4dc51eb3-1bbe-495e-961d-15140b556a4c",
@@ -369202,6 +369282,26 @@
       "lastResetDate": "2022-12-29"
     },
     {
+      "id": "merchant_72c4fd8b-555a-4aaa-866e-3b12c5ee6c8c",
+      "entityId": "merchant_72c4fd8b-555a-4aaa-866e-3b12c5ee6c8c",
+      "name": "QUEEN BANH MI - PHO & COFFEE",
+      "address": "212 Hougang Street 21,  S530212;",
+      "postalCode": "530212",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35952087347427,
+      "LON": 103.888340028762,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_481b0235-80c4-4ec6-be2f-5ee74fcc5909",
       "entityId": "merchant_481b0235-80c4-4ec6-be2f-5ee74fcc5909",
       "name": "QUEEN BANH MI & COFFEE",
@@ -374680,6 +374780,26 @@
         }
       },
       "lastResetDate": "2021-12-05"
+    },
+    {
+      "id": "merchant_484a09d3-4c0e-4b89-900b-d2120f72c1ba",
+      "entityId": "merchant_484a09d3-4c0e-4b89-900b-d2120f72c1ba",
+      "name": "REPOSE",
+      "address": "2 Everton Park Everton Park Singapore 081002, #01-59,  S081002;",
+      "postalCode": "081002",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27741630337522,
+      "LON": 103.839330846341,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_6a9e0a96-f273-4959-9f85-2ecb9d8fa4ce",
@@ -398822,26 +398942,6 @@
       "lastResetDate": "2022-05-13"
     },
     {
-      "id": "merchant_933eb895-a124-4455-81e7-1621cc7eb1e8",
-      "entityId": "merchant_933eb895-a124-4455-81e7-1621cc7eb1e8",
-      "name": "SHI CHEN LAO HUO TANG",
-      "address": "548 Woodlands Drive 44, 12,  S730548;",
-      "postalCode": "730548",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43044361849124,
-      "LON": 103.793804884379,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-05-16"
-    },
-    {
       "id": "merchant_05f5d6cc-7b94-474b-a36e-84f0b5ac073c",
       "entityId": "merchant_05f5d6cc-7b94-474b-a36e-84f0b5ac073c",
       "name": "SHI DAI FANG WEI",
@@ -422142,6 +422242,26 @@
       "lastResetDate": "2023-07-27"
     },
     {
+      "id": "merchant_f330bd2b-6fd4-4072-a4d5-d29b4b8facf5",
+      "entityId": "merchant_f330bd2b-6fd4-4072-a4d5-d29b4b8facf5",
+      "name": "SRP FAMILY MART",
+      "address": "163 Yung Ping Road Hdb Public Shelters Singapore 610163, #01-90,  S610163;",
+      "postalCode": "610163",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33003579972894,
+      "LON": 103.722565513663,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_1b2464ec-dfd9-42fe-a52b-e405a293d90d",
       "entityId": "merchant_1b2464ec-dfd9-42fe-a52b-e405a293d90d",
       "name": "SRP INDIAN MUSLIM FOOD",
@@ -427559,7 +427679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-09-30"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_946d27d0-4144-4e50-a98e-ead4d63da45a",
@@ -446859,7 +446979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-22"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_1bc71059-f7d6-42f6-8f94-8f9b054c9182",
@@ -451639,7 +451759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-11-01"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_95405775-b3c7-4838-82d1-9b49691261e1",
@@ -453399,7 +453519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-08"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_f1ba6666-d903-4595-96e1-8d1fd1ee4d73",
@@ -486322,6 +486442,26 @@
       "lastResetDate": "2021-12-15"
     },
     {
+      "id": "merchant_933eb895-a124-4455-81e7-1621cc7eb1e8",
+      "entityId": "merchant_933eb895-a124-4455-81e7-1621cc7eb1e8",
+      "name": "WESTERN STYLE WORKSHOP",
+      "address": "548 Woodlands Drive 44, #02-34,  S730548;",
+      "postalCode": "730548",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43044361849124,
+      "LON": 103.793804884379,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-11-27"
+    },
+    {
       "id": "merchant_4ea77504-4eb5-420a-89b5-cf6c6becd649",
       "entityId": "merchant_4ea77504-4eb5-420a-89b5-cf6c6becd649",
       "name": "WESTERN TENDERBEST BIDADARI",
@@ -518819,7 +518959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-11-20"
+      "lastResetDate": "2025-11-27"
     },
     {
       "id": "merchant_7d02cf20-c45a-4046-aafe-707c31381da8",
