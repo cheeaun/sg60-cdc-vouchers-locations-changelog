@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-11-29
+
+</summary>
+
+Total locations: 26,160 → 26,178
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BASIL KING - SIMS PLACE | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | BEAUTY NUTRITIOUS SOUP | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | CHINDAMANI 883 WDL | 883 Woodlands Street 82,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | FATTY BOY CHARCOAL ROASTED DELIGHT | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | HENG YI FENG HK ROASTED DELIGHTS | 118 Aljunied Ave 2, #02-100, MR2,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | HUP LI PLAIN MEEHOON ( 671 PUNGGOL ) | 671 Edgefield Plains,  S820671; | <span title="1.40566048045603,103.911991277154">1.40566, 103.91199</span> |
+  | INDONESIA TRADITION AYAM PENYET | 75 Toa Payoh Lorong 5, #01-03,  S310075; | <span title="1.336020767662,103.852956988062">1.33602, 103.85296</span> |
+  | JAPANESE & KOREAN CUISINE | 18 Jalan Membina,  S164018; | <span title="1.28569742883225,103.826785448095">1.28570, 103.82679</span> |
+  | JOHNSON DUCK (325 WOODLANDS) | 325 Woodlands Street 32,  S730325; | <span title="1.43078891155605,103.779517722142">1.43079, 103.77952</span> |
+  | KOREAN CUISINE | 118 Aljunied Ave 2, #02-100, S2,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | PAIN PAIN | 169 Stirling Road Stirling View Singapore 140169, #01-1165,  S140169; | <span title="1.29043486528791,103.803105948762">1.29043, 103.80311</span> |
+  | PLAY! NAILS | 18 Toh Yi Drive Dbs Toh Yi Drive Singapore 590018, #01-101B,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | STEAMED FISH | 118 Aljunied Ave 2, #02-100, S5,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | STYLE NOW HAIR SALON MARSILING | 132 Marsiling Rise Hdb-woodlands Singapore 730132, #01-224C,  S730132; | <span title="1.43828189832914,103.778025758394">1.43828, 103.77803</span> |
+  | THE SUGARCANE PLANT 30 | 2 Adam Road, #01-30,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | TIONG BAHRU JIAN BO SHUI KUEH (CHAI CHEE) | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | XING LONG FISH SOUP (CHONG PANG 101) | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | YEE TEE VEGETABLES STALL | 622 Choa Chu Kang Street 62, 01-04,  S680622; | <span title="1.39827719583769,103.74718245127">1.39828, 103.74718</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | C K 77 | <del>246 Hougang Street 22,  S530246;</del><br>246 Hougang Street 22, 01-161,  S530246; | <span title="1.35876258437852,103.891460074318">1.35876, 103.89146</span> |
+  | MOBILEBRO98 | <del>417 Yishun Avenue 11 Singapore 760417, #01-325,  S760417;</del><br>846 Yishun Ring Road, #01-3675,  S760846; | <del title="1.42442095783169,103.846284488667">1.42442, 103.84628</del><br><span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | <del>NENE CHICKEN (OTH)</del><br>NENE CHICKEN (209) | <del>1 Tampines Walk, #01-81,  S528523;</del><br>209B Clementi Avenue 6, #01-10,  S122209; | <del title="1.35291588606932,103.940197935055">1.35292, 103.94020</del><br><span title="1.32307183298737,103.763858722838">1.32307, 103.76386</span> |
+  | Q&A CHICKEN HOUSE | <del>338 Anchorvale Crescent,  S540338;</del><br>19 Serangoon North Avenue 5, #02-03,  S554913; | <del title="1.39922772538912,103.88965593061">1.39923, 103.88966</del><br><span title="1.37563500157221,103.871996419103">1.37564, 103.87200</span> |
+  | QUEEN BANH MI - PHO & COFFEE | <del>212 Hougang Street 21,  S530212;</del><br>212 Hougang Street 21, #01-349,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | <del>LAO WANG KAMPONG BEAN SPROUT CHICKEN RICE . HOR FUN SINCE 1986</del><br>TEOCHEW BRAISED DUCK RICE | 623 Elias Road, 01-01,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-28
 
 </summary>
