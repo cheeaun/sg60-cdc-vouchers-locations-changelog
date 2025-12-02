@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-02
+
+</summary>
+
+Total locations: 26,178 → 26,189
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 2 CHEFS TOO MANY | 1 Changi Village Road Hdb-changi Village Rov Singapore 500001, #01-2042,  S500001; | <span title="1.38854656229022,103.987804503483">1.38855, 103.98780</span> |
+  | AN YI AN LE KANG REFLEXOLOGY | 58 Marine Terrace Marine Terrace Haven Singapore 440058, #01-57,  S440058; | <span title="1.30611781253448,103.914026029355">1.30612, 103.91403</span> |
+  | BEO CRESCENT LOR MEE | 85 Bedok North Street 4, #01-46,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | BREWTIQUE BY MYSSERSS ( PUNGGOL ) | 660A Edgedale Plains Waterway Sundew Singapore 821660, #02-05,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | EAT BAR | 651A Jalan Tenaga,  S411651; | <span title="1.3325145605132,103.906989989433">1.33251, 103.90699</span> |
+  | HOCK KEE TEOCHEW NOODLE | 21 Canberra Link, 28,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | JO-YI CAFE | 136 Bedok North Avenue 3 Singapore 460136, #01-148,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | KHUN YAI THAI FOOD | 33A Tampines Ave 1,  S529769; | <span title="1.34668096797526,103.930266639617">1.34668, 103.93027</span> |
+  | MANNA FISH | 511 Canberra Road, 4,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | MUSLIMFOOD @PEOPLE'S PARK | 32 New Market Road, #01-1002A,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | VIETNAMESE FOOD | 347 Ang Mo Kio Avenue 3,  S560347; | <span title="1.36733858334098,103.848576334625">1.36734, 103.84858</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MAN TANG HONG MALA HOTPOT | <del>11 Upper Boon Keng Road,  S380011;</del><br>29B Chai Chee Avenue, #01-60,  S462029; | <del title="1.31423937033551,103.870914031459">1.31424, 103.87091</del><br><span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | <del>TASTY CHICKEN</del><br>THE CHEEKY CHICK | <del>21 Canberra Link, 33,  S756973;</del><br>21 Canberra Link, 01-15,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | <del>APLUSFRUITYHOME (442 PASIR RIS #01-40)</del><br>VANWARD TOWN | 442 Pasir Ris Drive 6, #01-40,  S510442; | <span title="1.36893288711175,103.957951722203">1.36893, 103.95795</span> |
+  | <del>YU HONG SPA PTE LTD</del><br>ZHENG HONG PTE LTD | 463 Crawford Lane Crawford Court Singapore 190463, #01-13,  S190463; | <span title="1.30505411579746,103.861916751532">1.30505, 103.86192</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-11-29
 
 </summary>
