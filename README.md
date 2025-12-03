@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-03
+
+</summary>
+
+Total locations: 26,189 → 26,205
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 178 PORK | 30 Seng Poh Road, #01-178,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | A.D.PREFAB PTE LTD | 19 Toh Yi Drive Toh Yi Gardens Singapore 590019, #01-119,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+  | AYAM PENYET | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #01-ST7,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | BASIL KING - TIONG BAHRU | 56 Eng Hoon Street,  S160056; | <span title="1.28424137023496,103.833923067555">1.28424, 103.83392</span> |
+  | CHICKEN CURRY RICE | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #01-S2,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | E-LABELLE BEAUTY SALON 351 JE | 351 Jurong East Street 31 Dbs Jurong East Street 31 351A Singapore 600351, #01-89,  S600351; | <span title="1.34483235620533,103.730778253474">1.34483, 103.73078</span> |
+  | HARU HARU RAMEN @505 AMK | 505 Ang Mo Kio Avenue 8,  S560505; | <span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | HONGXING FISHBALL JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | HUAT SEAFOOD RESTAURANT (111 WOODLANDS) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | MAN CUN CHENG BONELESS HAINANESE CHICKEN RICE - 139 TAMPINES | 139 Tampines Street 11, #01-08,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | MOHAMED WASEEF INDIAN MUSLIM FOOD (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | NK BOUCHERIE KITCHEN (TPY 74) | 74 Toa Payoh Lorong 4, #02-12,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | TIONG BAHRU FRIED FISH BALL | 538 Bedok North Street 3, #01-107,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | TWC IMPLANT & DENTAL CENTER YISHUN | 925 Yishun Central 1 Singapore 760925, #01-245,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | UNCLE MEE HOON KUEH | 44 Owen Road,  S210044; | <span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | YUTING NGOH HIANG PRAWN CRACKERS NASI LEMAK ( 111 WOODLANDS ) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GOOD MEDICAL CLINIC</del><br>GOOD MEDICAL CLINIC (BEDOK NORTH) | 136 Bedok North Avenue 3 Singapore 460136, #01-152,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-02
 
 </summary>
