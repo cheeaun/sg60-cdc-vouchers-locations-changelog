@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-04
+
+</summary>
+
+Total locations: 26,205 → 26,214
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CANBERRA DANLAO SCRAMBLED EGG RICE | 21 Canberra Link, #01-55,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | CLAYPOT CURRY FISHHEAD 261 | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | GADGETBOX BISHAN | 282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-159,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | LAI CHI MIAN | 121 Hougang Avenue 1, 01,  S530121; | <span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+  | RICE GARDEN(MIXED RICE) 639 PUNGGOL DRIVE | 639 Punggol Drive, 10,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | SHENG FA MALA (FV417) | 417 Fernvale Link,  S790417; | <span title="1.39158622983505,103.879874611419">1.39159, 103.87987</span> |
+  | SIZZLING N GRILL - 639 PUNGGOL DRIVE | 639 Punggol Drive,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | SOLDIER CHICKEN (510623) | 623 Elias Road, 01,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | STEVEN HOME SERVICING | 20 Ghim Moh Road, #01-95,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>69 FROZEN PROCESS FOOD</del><br>69 FROZEN PROCESSED FOOD | 69 Geylang Bahru, #01-80,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | AH SAM DURIAN | <del>26A Chai Chee Road Singapore 461026, #01-403,  S461026;</del><br>27A Chai Chee Road Singapore 461027, #01-373,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | HAIR INDUSTRY SALON | <del>282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-145,  S570282;</del><br>282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-141,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | <del>VEGETARIAN FOOD</del><br>MIXED RICE | 49 Sims Place, #01-02,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | OXYGEN YAN BEAUTY WELLNESS CLUB | <del>184 Toa Payoh Central Toa Payoh Central Singapore 310184, #01-358,  S310184;</del><br>178 Toa Payoh Central, #01-228,  S310178; | <del title="1.33259000918315,103.849677717253">1.33259, 103.84968</del><br><span title="1.33358025794591,103.84926452128">1.33358, 103.84926</span> |
+  | RI RI HONG MA LA HOT POT | <del>159A Hougang Street 11,  S531159;</del><br>721 Ang Mo Kio Ave 8, #01-2823,  S560721; | <del title="1.35189336565608,103.879444507283">1.35189, 103.87944</del><br><span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | ZUI XIANG | <del>323 Bukit Batok Street 33,  S650323;</del><br>215 Jurong East Street 21 #01-541,  S600215; | <del title="1.36103222148882,103.748091419935">1.36103, 103.74809</del><br><span title="1.33993327217519,103.738514477739">1.33993, 103.73851</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-03
 
 </summary>
