@@ -13,6 +13,36 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-05
+
+</summary>
+
+Total locations: 26,214 → 26,227
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALL GOOD SEAFOOD (REDHILL) | 75D Redhill Road,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+  | BLOOM HAIR STUDIO (510587) | 587 Pasir Ris Drive 3, #01-03,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | FENG YOU JI MVR BB440 | 440 Bukit Batok West Avenue 8,  S650440; | <span title="1.35572308109486,103.739303105372">1.35572, 103.73930</span> |
+  | GADGET DIGITAL PTE LTD | 505 Tampines Central 1 Tampines Heart Singapore 520505, #01-349,  S520505; | <span title="1.3555484823662,103.945616071023">1.35555, 103.94562</span> |
+  | GU YUE LAO HUO TANG (BUANGKOK) | 991 Buangkok Link, ST01,  S530991; | <span title="1.38433426615655,103.881623070164">1.38433, 103.88162</span> |
+  | HWA HENG BEEF NOODLE | 17 Upper Boon Keng Road, #01-84,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | ITC SUPERMART JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-137,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | JIAKALI | 335 Smith Street, #02-95,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | MIXED RICE STALL 769 | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | NAM WAH HENG FISH HEAD STEAMBOAT | 289H Bukit Batok Street 25,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | PHAN88 MINIMART (510587) | 587 Pasir Ris Drive 3, #01-01,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | SEREMBAN KEE MEI SIEW POW (293 YISHUN) | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-249,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | SWANROYII BAN MAIN | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #01-14,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-04
 
 </summary>
