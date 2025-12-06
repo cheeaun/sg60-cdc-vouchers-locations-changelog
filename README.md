@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-06
+
+</summary>
+
+Total locations: 26,227 → 26,240
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 8TH AVE MOBILE@AMK | 703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2533,  S560703; | <span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | DOPA | 7 Tanjong Pagar Plaza Hdb-central Area Singapore 081007, #01-107,  S081007; | <span title="1.27712012183459,103.843117743777">1.27712, 103.84312</span> |
+  | DUAL FEED - 681 PUNGGOL DRIVE | 681 Punggol Drive Oasis Terraces Singapore 820681, #02-20,  S820681; | <span title="1.40278015725693,103.913215101343">1.40278, 103.91322</span> |
+  | FISHIN' WITH YOU - 639 PUNGGOL DRIVE | 639 Punggol Drive,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | FUKUSHIN JAPANESE | 91 Hillview Link, K2,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | HELLO BANHMI | 1 Kadayanallur Street, #01-98,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | HONG XIN ECONOMIC RICE (520478) | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | MARINA HARBOR SEAFOOD(ZI CHAR) 639 PUNGGOL DRIVE | 639 Punggol Drive, MR 1,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | MUTHUS TRADING ( PUNGGOL 432B ) | 432B Northshore Drive Punggol Point Woods Singapore 822432, #01-07,  S822432; | <span title="1.41667094985656,103.911241269144">1.41667, 103.91124</span> |
+  | OXLEY DENTAL QUEENSTOWN | 38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #02-01,  S141038; | <span title="1.29773598434542,103.804319690649">1.29774, 103.80432</span> |
+  | PERFECT STUDIO (AMK 340) | 340 Ang Mo Kio Avenue 1 Singapore 560340, #01-1687,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | QIAN NAI NAI CURRY POK | 527 Ang Mo Kio Avenue 10, #01-115,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | ZHA ZHA NOODLE | 5 Banda Street,  S050005; | <span title="1.28119737026913,103.843437320613">1.28120, 103.84344</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BETHESDA MEDICAL @ MARGARET | <del>38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #02-01,  S141038;</del><br>38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #02-03,  S141038; | <span title="1.29773598434542,103.804319690649">1.29774, 103.80432</span> |
+  | DERMAL BEAUTIES | <del>128 Ang Mo Kio Avenue 3 Hdb-ang Mo Kio Singapore 560128, #01-1863,  S560128;</del><br>553 Ang Mo Kio Ave 10, #01-2048,  S560553; | <del title="1.37083202800001,103.843546990613">1.37083, 103.84355</del><br><span title="1.37260157854458,103.857234141592">1.37260, 103.85723</span> |
+  | KIMBERLY FLORIST | <del>11 Telok Blangah Crescent, #01-11,  S090011;</del><br>11 Telok Blangah Crescent, #01-10,  S090011; | <span title="1.27736813225761,103.818651524334">1.27737, 103.81865</span> |
+  | <del>HONG HENG RICE HOUSE (HG 435A)</del><br>SHENG XING RICE HOUSE | 435A Hougang Avenue 8, 01,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | TERRY KATONG LAKSA | <del>51 Upper Bukit Timah Road, #02-194,  S588215;</del><br>7 Maxwell Road, #01-028,  S069111; | <del title="1.33945242854685,103.776007306701">1.33945, 103.77601</del><br><span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-05
 
 </summary>
