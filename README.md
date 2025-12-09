@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-09
+
+</summary>
+
+Total locations: 26,240 → 26,254
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BANGKIT WANTON MEE | 117 Aljunied Avenue 2, #01-74,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | CHAO YUAN NOODLE (520666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | FAT CAT SARAWAK DELIGHTS SINGAPORE PRAWN NOODLES | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | JOAN WALKER PTE LTD (TPY 47) | 47 Lorong 6 Toa Payoh East Payoh Spring Singapore 310047, #01-130,  S310047; | <span title="1.33691029763166,103.854030352751">1.33691, 103.85403</span> |
+  | MANNA FISH (730768) | 768 Woodlands Avenue 6, 06,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | MASTER OF WOK (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #01-60,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MEATING GROUNDS (#30) | 548 Woodlands Drive 44, 30,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | OCEAN CITY -168 PUNGGOL PLAZA | 168 Punggol Field Dbs Ntuc Punggol Plaza Singapore 820168, #B1-ST31,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | ROYAL KING BARBER | 308 Clementi Avenue 4 Clementi Meadows Singapore 120308, #01-347,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | SOON KEE CHILI PAN MEE 883 | 883 Woodlands Street 82,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | SOON KEE ROASTED DELIGHT | 505 Ang Mo Kio Avenue 8,  S560505; | <span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | SUKHOTHAI GRILL | 533 Choa Chu Kang Street 51,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | THAI SISTER MINCED MEAT NOODLES | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | WANG JI HAINANESE CHICKEN RICE | 210 Toa Payoh Lorong 8, #01-08,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ADIL NASI PADANG | <del>86 Bedok North Street 4, #01-165,  S460086;</del><br>5 Tanjong Pagar Plaza, #01-03,  S081005; | <del title="1.33254084365722,103.93898934581">1.33254, 103.93899</del><br><span title="1.27624052001347,103.843006115698">1.27624, 103.84301</span> |
+  | FRUITY FRUIT | <del>51 Upper Bukit Timah Road, #02-159,  S588215;</del><br>2A Jalan Seh Chuan, #01-035,  S599213; | <del title="1.33945242854685,103.776007306701">1.33945, 103.77601</del><br><span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | NASI LEMAK AYAM TALIWANG (TPY 177) | <del>177 Toa Payoh Central,  S310177;</del><br>51 Lorong 6 Toa Payoh, #01-62,  S310051; | <del title="1.33390034057387,103.848854818382">1.33390, 103.84885</del><br><span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+  | PENNY PROFESSIONAL BEAUTY | <del>178 Toa Payoh Central, #01-228B,  S310178;</del><br>183 Toa Payoh Central, #01-282,  S310183; | <del title="1.33358025794591,103.84926452128">1.33358, 103.84926</del><br><span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-06
 
 </summary>
