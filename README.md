@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-10
+
+</summary>
+
+Total locations: 26,254 → 26,270
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1010 KJ FOOD PTE. LTD. | 3024 Ubi Road 3,  S408652; | <span title="1.32883552950362,103.897400194752">1.32884, 103.89740</span> |
+  | BEN BAKER (303 WOODLANDS) | 303 Woodlands Street 31 Dbs Woodlands West Branch Singapore 730303, #01-189,  S730303; | <span title="1.43079961583478,103.774011078412">1.43080, 103.77401</span> |
+  | CHANG XIN MIXED VEGETABLE RICE & PORRIDGE | 221 Mount Vernon Road, ST 12,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | CRAB AT BAY EXPRESS | 221 Mount Vernon Road, 1,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | JI XIANG CONFECTIONERY | 1 Everton Park Everton Park Singapore 081001, #01-33,  S081001; | <span title="1.27742654288695,103.840001188095">1.27743, 103.84000</span> |
+  | JI ZAI JI PRIVATE LIMITED | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | L H 4 SEAFOOD | 4 Defu Lane 10,  S539185; | <span title="1.35963371506222,103.89510319719">1.35963, 103.89510</span> |
+  | POPULAR FOOD JAPANESE & KOREAN CUISINE | 221 Mount Vernon Road, ST  6,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | RONG XIANG SEAFOOD CAI GUAN (JW 557) | 557 Jurong West Street 42,  S640557; | <span title="1.35399275101832,103.718567124767">1.35399, 103.71857</span> |
+  | SAY LOCK ELECTRICAL SEWING | 101 Yishun Avenue 5 Chong Pang City Singapore 760101, #01-51A,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | SELERA BONDAKU (167) | 167 Woodlands Street 11,  S730167; | <span title="1.43359370586711,103.775884057946">1.43359, 103.77588</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT | 221 Mount Vernon Road, ST 3,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | TONG YI HANDMADE DIM SUM | 529 Ang Mo Kio Avenue 10,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+  | TRICHY KR RESTAURANT PTE. LTD. | 503 Jurong West Avenue 1,  S640503; | <span title="1.34995541462242,103.71770480961">1.34996, 103.71770</span> |
+  | UNCLE PANCAKE | 221 Mount Vernon Road, ST 3,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | YOURS BAKERY | 170A Sengkang East Drive Rivervale Shores Singapore 541170, #01-01,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A&C BRAISED DUCK KWAY CHAP | <del>605 Yishun Street 61, 01-319,  S760605;</del><br>414 Yishun Ring Road, #01-1871,  S760414; | <del title="1.42172608902193,103.836336375801">1.42173, 103.83634</del><br><span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | HOMBRE BARBERS | <del>111 Bishan Street 12 Bishan View Singapore 570111, #01-156,  S570111;</del><br>Blk 443 Ang Mo Kio Avenue 10, #01-1249,  S560443; | <del title="1.34706752664279,103.848063665404">1.34707, 103.84806</del><br><span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | K&H PAPER TRADING (CHONG PANG BLK 106) | <del>106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-163,  S760106;</del><br>106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-161a,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+  | LIANG JI @ 146JBM | <del>146 Jalan Bukit Merah,  S160146;</del><br>335 Smith Street, #02-217,  S050335; | <del title="1.27784876576774,103.830811459909">1.27785, 103.83081</del><br><span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>ZU TAI FOOT REFLEXOLOGY</del><br>ZU TAI TCM | <del>6 Telok Blangah Crescent Dbs Telok Blangah Crescent Singapore 090006, #01-416,  S090006;</del><br>36 Beo Crescent, #01-35,  S160036; | <del title="1.27814081311562,103.818484019328">1.27814, 103.81848</del><br><span title="1.28835977080873,103.827056911096">1.28836, 103.82706</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-09
 
 </summary>
