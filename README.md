@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-11
+
+</summary>
+
+Total locations: 26,270 → 26,286
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASSURE FAMILY CLINIC WOODLANDS | 132 Marsiling Rise Hdb-woodlands Singapore 730132, #01-218C,  S730132; | <span title="1.43828189832914,103.778025758394">1.43828, 103.77803</span> |
+  | BAI SHI SHUN XIN WELLNESS | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-235,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | BEAUTY NUTRITIOUS SOUP | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | BEAUTY NUTRITIOUS SOUP 442 CLEMENTI | 442 Clementi Avenue 3,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | COMBO | 463 Sembawang Drive,  S750463; | <span title="1.45555388401849,103.81464932384">1.45555, 103.81465</span> |
+  | DING WANG BAK KUT TEH | 339 Anchorvale Road, #02-23,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | FAITHWELL TRADING PTE LTD | 2 Lorong Lew Lian Dbs Lorong Lew Lian Singapore 531002, #01-34,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | FANG DELIGHTS - 354 CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | HENG YI FENG HK ROASTED DELIGHTS - 354 CLEMENTI | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | LAI KEE HANDMADE PAU DIM SUM | 2 Lorong Lew Lian,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | MAWAR AUTHENTIC CRISPY CHICKEN RICE & MALAY CUISINE | 339 Anchorvale Road, #02-28,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | NO. 1 BAN MEE PTE. LTD. | 237 Serangoon Avenue 3,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | PATHEIN THU MYANMAR MINIMART | 476 Tampines Street 44 Hdb-tampines Singapore 520476, #01-193A,  S520476; | <span title="1.36092283930264,103.953359364582">1.36092, 103.95336</span> |
+  | THE HEARTLANDS STORE | 10 Simei Avenue Dbs Ite College East Singapore 486047, #B1-14,  S486047; | <span title="1.3334475626498,103.955310837048">1.33345, 103.95531</span> |
+  | TIAN TIAN BEAUTY (TP 828) | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-240,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | VANILLA MART (PUNGGOL 421C) | 421C Northshore Drive Northshore Straitsview Singapore 823421, #01-02,  S823421; | <span title="1.41921326140541,103.905299855658">1.41921, 103.90530</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HONG TAI TCM PTE LTD</del><br>ACES MOBILE WP | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-937,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | DERMAL BEAUTIES | <del>553 Ang Mo Kio Ave 10, #01-2048,  S560553;</del><br>554 Ang Mo Kio Ave 10, #01-2048,  S560554; | <del title="1.37260157854458,103.857234141592">1.37260, 103.85723</del><br><span title="1.37282000844329,103.857784026362">1.37282, 103.85778</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-10
 
 </summary>
