@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-12
+
+</summary>
+
+Total locations: 26,286 → 26,301
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMPANG YONG TAU FOO - 639 PUNGGOL DRIVE | 639 Punggol Drive,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | ANNAM MINI-MART (BLACK SHEEP) | 306 Clementi Avenue 4 Clementi Meadows Singapore 120306, #01-449,  S120306; | <span title="1.32143826057396,103.765901268051">1.32144, 103.76590</span> |
+  | CUI XIANG YUAN YONG TAU FOO@78A TBL | 78A Telok Blangah Street 32,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | GADGET GENIUS MOBILE | 305 Woodlands Street 31 Singapore 730305, #01-55,  S730305; | <span title="1.43036145835565,103.774102414119">1.43036, 103.77410</span> |
+  | GREEN GARDEN VEGETARIAN | 29A Ghim Moh Link,  S271029; | <span title="1.30859676574975,103.784545203331">1.30860, 103.78455</span> |
+  | HAOSH PTE LTD | 201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1117,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | HAPPY HOUSE MALA HOTPOT @644 | 644 Hougang Avenue 8,  S530644; | <span title="1.37143736463903,103.88126107892">1.37144, 103.88126</span> |
+  | HAUS MART (WOODLAND'S) | 166 Woodlands Street 13 Singapore 730166, #01-551,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | LE MAN SEAFOOD 470B | 470B Yishun Street 42,  S762470; | <span title="1.42584619116894,103.852260998106">1.42585, 103.85226</span> |
+  | PAWON VEGETARIAN | 590 Upper Thomson Road, #01-15,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | PRIMA CARE FAMILY CLINIC | 477 Tampines Street 43 Hdb-tampines Singapore 520477, #01-176,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | T-LUCK HOME JOY PRODUCTS (CANBERRA) | 120 Canberra Crescent Dbs 120 Canberra Crescent Singapore 750120, #01-03,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | THE HAKKA NOOK | 373 Bukit Batok Street 31,  S650373; | <span title="1.35892457118178,103.750397174291">1.35892, 103.75040</span> |
+  | XIN HUP KEE BRAISED DUCK & PIG ORGAN SOUP | 500 Lorong 6 Toa Payoh,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | YUPAN BAN MIAN (REDHILL) | 75D Redhill Road,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-11
 
 </summary>
