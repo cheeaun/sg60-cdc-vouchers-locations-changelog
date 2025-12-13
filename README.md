@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-13
+
+</summary>
+
+Total locations: 26,301 → 26,315
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL NOOR RESTAURANT 786 | 214 Serangoon Avenue 4,  S550214; | <span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+  | ANGSANA MEDICAL | 1 Everton Park Everton Park Singapore 081001, #01-39,  S081001; | <span title="1.27742654288695,103.840001188095">1.27743, 103.84000</span> |
+  | BLOOM HAIR PLACE | 446 Hougang Avenue 8 Hdb Public Shelters Singapore 530446, #B1-1635,  S530446; | <span title="1.37880458762233,103.894283804483">1.37880, 103.89428</span> |
+  | FARHANA WEST COAST (PRATA/MEE GORENG/MUTTON SOUP) | 665 Buffalo Road, #01-262,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | GUO AN TANG TCM CLINIC (BUKIT MERAH) | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4532,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+  | HABIBI GRILL MEDITERRANEAN | 51 Yishun Avenue 11, #01-13,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | ISLANDBITES | 131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-190B,  S730131; | <span title="1.43847983955609,103.778613439344">1.43848, 103.77861</span> |
+  | JIU ZHOU HOT & COLD DOU JIANG@TEKKA | 665 Buffalo Road, #01-282,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | JOY STEAKS WESTERN FOOD (REDHILL) | 75D Redhill Road,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+  | MT COFFEE | 184 Toa Payoh Central Toa Payoh Central Singapore 310184, #01-352,  S310184; | <span title="1.33259000918315,103.849677717253">1.33259, 103.84968</span> |
+  | ROTI KARI@TEKKA | 665 Buffalo Road, #01-234,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | S.Q BEAUTY LAB | 106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-161,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+  | TOP DURIAN STATION (291 YISHUN) | 291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-341A,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | WORLD TEA HOUSE | 685 Hougang Street 61 Hougang Spring Singapore 530685, #01-162,  S530685; | <span title="1.37499002963882,103.88598223129">1.37499, 103.88598</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>02-167 (51 UPPER BUKIT TIMAH ROAD)</del><br>01-041 | <del>51 Upper Bukit Timah Road, #02-167,  S588215;</del><br>2A Jalan Seh Chuan, #01-041,  S599213; | <del title="1.33945242854685,103.776007306701">1.33945, 103.77601</del><br><span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-12
 
 </summary>
