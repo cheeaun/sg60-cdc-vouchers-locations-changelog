@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-15
+
+</summary>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CLASSIC SALON (BEDOK) | <del>17 Bedok South Road Singapore 460017, #01-573,  S460017;</del><br>17 Bedok South Road Singapore 460017, #01-573A,  S460017; | <span title="1.32014883000628,103.935563486677">1.32015, 103.93556</span> |
+  | GGOT MOBILE (BEDOK) | <del>17 Bedok South Road Singapore 460017, #01-571,  S460017;</del><br>17 Bedok South Road Singapore 460017, #01-571A,  S460017; | <span title="1.32014883000628,103.935563486677">1.32015, 103.93556</span> |
+  | <del>ZHI HOLISTIC BEAUTY CENTRE</del><br>ZHI HOLISTIC BEAUTY SALON | 17 Bedok South Road Singapore 460017, #01-569,  S460017; | <span title="1.32014883000628,103.935563486677">1.32015, 103.93556</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-13
 
 </summary>

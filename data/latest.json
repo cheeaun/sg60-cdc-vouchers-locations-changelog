@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 Dec 2025",
+  "lastUpdated": "15 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -105685,7 +105685,7 @@
       "id": "merchant_07b4f147-4cd1-40b8-b26f-f2b72ce8c520",
       "entityId": "merchant_07b4f147-4cd1-40b8-b26f-f2b72ce8c520",
       "name": "CLASSIC SALON (BEDOK)",
-      "address": "17 Bedok South Road Singapore 460017, #01-573,  S460017;",
+      "address": "17 Bedok South Road Singapore 460017, #01-573A,  S460017;",
       "postalCode": "460017",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32014883000628,
@@ -105699,7 +105699,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-05-13"
+      "lastResetDate": "2025-12-14"
     },
     {
       "id": "merchant_f359a606-1a37-42ea-a070-f2c3579046d0",
@@ -172925,7 +172925,7 @@
       "id": "merchant_0225a4e0-3c3f-4d43-bf04-33647cdd6d78",
       "entityId": "merchant_0225a4e0-3c3f-4d43-bf04-33647cdd6d78",
       "name": "GGOT MOBILE (BEDOK)",
-      "address": "17 Bedok South Road Singapore 460017, #01-571,  S460017;",
+      "address": "17 Bedok South Road Singapore 460017, #01-571A,  S460017;",
       "postalCode": "460017",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32014883000628,
@@ -172939,7 +172939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-06-18"
+      "lastResetDate": "2025-12-14"
     },
     {
       "id": "merchant_124377ee-2c73-4fe0-85e9-27a08c548461",
@@ -523444,7 +523444,7 @@
     {
       "id": "merchant_58481ce0-9b74-419b-aac2-ffb3e8b37322",
       "entityId": "merchant_58481ce0-9b74-419b-aac2-ffb3e8b37322",
-      "name": "ZHI HOLISTIC BEAUTY CENTRE",
+      "name": "ZHI HOLISTIC BEAUTY SALON",
       "address": "17 Bedok South Road Singapore 460017, #01-569,  S460017;",
       "postalCode": "460017",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -523459,7 +523459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-27"
+      "lastResetDate": "2025-12-14"
     },
     {
       "id": "merchant_281156a7-01a1-4597-b66b-3d8e71d7f5e6",
