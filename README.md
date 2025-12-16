@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-16
+
+</summary>
+
+Total locations: 26,315 → 26,321
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHIANG MAI THAI FOOD | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | COFTEA & MEE | 474 Tampines Street 43 Hdb-tampines Singapore 520474, #01-108,  S520474; | <span title="1.35987299160234,103.952787602577">1.35987, 103.95279</span> |
+  | JIN ZHU YUAN WELLNESS | 418 Yishun Avenue 11 Singapore 760418, #01-389A,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | PAUL BARBERSHOP | 139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-22,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | SANTIAGO SALON 291 | 291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-339A,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | YISHUN 414 HUAT HUAT STEAMED FISH | 414 Yishun Ring Road, B,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | JA RESTAURANT (INDIAN MUSLIM FOOD) | <del>69 Bedok South Avenue 3,  S460069;</del><br>25A Tampines Avenue 1,  S529765; | <del title="1.31935026360524,103.943632360195">1.31935, 103.94363</del><br><span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | <del>KLANG BAK KUT TEH</del><br>JIANG JI PTE LTD (KL 5 BKT) | 5 Upper Boon Keng Road, #01-22,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | KETOJIAK | <del>44 Owen Road Hdb-kallang/whampoa Singapore 210044, #01-313,  S210044;</del><br>Blk 231 Bain St, #01-75,  S180231; | <del title="1.31551162976199,103.850377879064">1.31551, 103.85038</del><br><span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-15
 
 </summary>
