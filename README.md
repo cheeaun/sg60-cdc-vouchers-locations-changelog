@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-17
+
+</summary>
+
+Total locations: 26,321 → 26,334
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP BAN MIAN PORRIDGE 691 | 691 Woodlands Drive 73, ST5,  S730691; | <span title="1.44062992421831,103.806198056529">1.44063, 103.80620</span> |
+  | AL-ANUSHA INDIAN MUSLIM FOOD | 55 Lengkok Bahru, ST05,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | BEST MOBILE SERVICE PTE LTD | 116 Aljunied Avenue 2 Hdb-geylang East Singapore 380116, #01-65,  S380116; | <span title="1.32124570546254,103.886700619832">1.32125, 103.88670</span> |
+  | BIG WESTERN 289H BUKIT BATOK | 289H Bukit Batok Street 25,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | BRIGHT NAIL SALON | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-98,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | DING FENG HEALTHY KITCHEN (AMK 107) | 107 Ang Mo Kio Avenue 4, ST1,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | JIAK ROJAK POPIAH | 515A Woodlands Drive 14,  S731515; | <span title="1.43420564787063,103.790081342564">1.43421, 103.79008</span> |
+  | LIONG MINI ZHI CHAR @ LIMBANG | 787B Choa Chu Kang Drive,  S681787; | <span title="1.395361844967,103.748139410115">1.39536, 103.74814</span> |
+  | MUMMY NOODLE HOUSE | 126 Canberra Street, ST06,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | NNBW | 826 Tampines Street 81,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | SELETAR SHENG MIAN & MEE HOON KUEH | 117 Pending Road,  S670117; | <span title="1.37730128071547,103.767979335905">1.37730, 103.76798</span> |
+  | SK THUNEI TRADING-BP | 259A Bangkit Road Bukit Panjang Neighbourhood Centre Singapore 670259, #01-28,  S670259; | <span title="1.37750727624619,103.77360557644">1.37751, 103.77361</span> |
+  | SONG HUI PTE. LTD. | 264 Serangoon Central Braddell Heights Community Hub Singapore 550264, #01-233,  S550264; | <span title="1.35246730993198,103.872102766359">1.35247, 103.87210</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CASTLE CHINESE MEDICAL HALL | <del>118 Aljunied Avenue 2, #01-136A,  S380118;</del><br>118 Aljunied Avenue 2, #01-114,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | <del>768 YONG TAU FOO</del><br>HAI PAI HOKKIEN MEE 747 | 768 Woodlands Avenue 6, #01-30,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | <del>ACES MOBILE WP</del><br>HONG TAI TCM PTE LTD (WP86) | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-937,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | <del>JIN ZHU YUAN REFLOXOLOGY</del><br>JIN ZU YUAN REFLEXOLOGY | <del>303 Woodlands Street 31 Dbs Woodlands West Branch Singapore 730303, #01-189F,  S730303;</del><br>303 Woodlands Street 31, #01-189F,  S730303; | <span title="1.43079961583478,103.774011078412">1.43080, 103.77401</span> |
+  | <del>TRIPLE N SUPERMART PTE LTD</del><br>MAI SHOP | <del>28 Haig Road, #01-28,  S438736;</del><br>28 Haig Road,  S438736; | <span title="1.31325452531149,103.895714871924">1.31325, 103.89571</span> |
+  | NEW SKIN BEAUTY | <del>208 New Upper Changi Road Bedok Town Centre Singapore 460208, #01-665,  S460208;</del><br>208 New Upper Changi Road Bedok Town Centre Singapore 460208, #01-665C,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-16
 
 </summary>
