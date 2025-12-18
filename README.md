@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-18
+
+</summary>
+
+Total locations: 26,334 → 26,348
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 156 MOHAMED PRATA MEE GORENG STALL | 51 Yishun Avenue 11, #01-04,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | AIYOYO (ADMIRALTY) | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #01-24,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | AYAM PENYET + BBQ | 118 Rivervale Drive, RV1,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | BE COMMUNICATIONS | 266 Serangoon Central Drive Singapore 550266, #02-259,  S550266; | <span title="1.35323212759899,103.871503595573">1.35323, 103.87150</span> |
+  | EFG SHENTON WAY FAMOUS MEE GORENG | 651A Jalan Tenaga, 01,  S411651; | <span title="1.3325145605132,103.906989989433">1.33251, 103.90699</span> |
+  | FIVE TEN WESTERN GRILL ( 19 GM ) | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | JAPANESE & KOREAN CUISINE | 25 Ghim Moh Link,  S270025; | <span title="1.3081474688469,103.786255228477">1.30815, 103.78626</span> |
+  | KICKSTART PANICAKE -BP | 2 Bukit Panjang Ring Road, #01-16,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | KOREAN & JAPANESE FOOD | 261 Waterloo Street, 07,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | LOR MEE.  SATAY BEE HOON | 51 Yishun Avenue 11, #01-26,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | SABAI WOK THAI 306 | 306 Woodlands Street 31,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | SHENG KEE TEOCHEW KWAY CHAP | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | SHHRI RAM PTE LTD | 475 Tampines Street 44 Singapore 520475, #01-125,  S520475; | <span title="1.36032331939995,103.953129640464">1.36032, 103.95313</span> |
+  | STYLE FASHION HAIR SALON | 822 Tampines Street 81 Hdb-tampines Singapore 520822, #01-192,  S520822; | <span title="1.34834234440867,103.934379779229">1.34834, 103.93438</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ASPIRE  BEAUTY (208 BEDOK NORTH)</del><br>ASPIRE BEAUTY (208 BEDOK NORTH) | 208 New Upper Changi Road, #01-675,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | <del>CHAR GRILL BAR 630</del><br>ICE WESTERN | <del>630 Ang Mo Kio Avenue 4, #01-972,  S560630;</del><br>4A Jalan Batu, #01-13,  S432004; | <del title="1.38054138917049,103.841068277331">1.38054, 103.84107</del><br><span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | KHAN'S MEAT SUPPLIERS | <del>74 Lor 4 Toa Payoh, #02-10,  S310074;</del><br>628 Ang Mo Kio Avenue 4, #01-106,  S560628; | <del title="1.3345507487214,103.852003509176">1.33455, 103.85200</del><br><span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-17
 
 </summary>
