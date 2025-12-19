@@ -13,6 +13,59 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-19
+
+</summary>
+
+Total locations: 26,348 → 26,362
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP BAN MIAN | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | AH HUAT HOKKIEN PRAWN MEE TP | 51 Lorong 6 Toa Payoh,  S310051; | <span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+  | FRIED RICE STORY | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | GOOD DAY BAKERY | 209 New Upper Changi Road Singapore 460209, #01-631,  S460209; | <span title="1.32464544711794,103.931111525301">1.32465, 103.93111</span> |
+  | HUP HENG BEDOK 510 PRAWN MEE | 445 Tampines Street 42,  S520445; | <span title="1.35830242194338,103.950658405067">1.35830, 103.95066</span> |
+  | KACHANG POOL | 201E Tampines Street 23,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | LC HOMES | 20 Ghim Moh Road, #01-91,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | LOVZ SKIN BEAUTY (REDHILL) | 75D Redhill Road Singapore 154075, #01-86,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+  | MALAY KUEH KUEH & ROJAK | 477 Tampines Street 43 Hdb-tampines Singapore 520477, #01-152,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | MANNA FISH | 87 Bedok North Street 4,  S460087; | <span title="1.33250261426447,103.938587125421">1.33250, 103.93859</span> |
+  | MUHAMMAD JAZEEL INDIAN MUSLIM FOOD | 51 Hougang Avenue 9, #01-43,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | SMORES BY ALKAFF | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-826B,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | TINO WESTERN GRILL (BMC) | 165 Bukit Merah Central,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | TREASURE FISH SOUP - AMK | 5036 Ang Mo Kio Industrial Park 2,  S569539; | <span title="1.3722933064188,103.861759518041">1.37229, 103.86176</span> |
+
+  </details>
+
+- <details><summary>Changed (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>0106</del><br>0106 HOU KI YONG TAU FOO | 79 Redhill Lane, #01-06,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | <del>FU XING FISHBALL NOODLE HG</del><br>A MEI FISHBALL NOODLES | <del>21 Hougang Street 51, 01-42,  S538719;</del><br>Blk 628 Ang Mo Kio Ave 4, 01-54,  S560628; | <del title="1.37924528796406,103.887832026893">1.37925, 103.88783</del><br><span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | <del>YUAN DONG HEALTH & BEAUTY</del><br>AVELIA HAIR & BEAUTY STUDIO | 70 Lorong 4 Toa Payoh Toa Payoh Vista Singapore 310070, #01-349B,  S310070; | <span title="1.33444874946936,103.852333287558">1.33445, 103.85233</span> |
+  | <del>BAO KA LIAO TRADING (TPY 74)</del><br>BAO KA LIAO TRADING | <del>74 Toa Payoh Lorong 4, #02-28,  S310074;</del><br>409 Ang Mo Kio Avenue 10, #01-54,  S560409; | <del title="1.3345507487214,103.852003509176">1.33455, 103.85200</del><br><span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | <del>CHONG LEE HUCK(FISH STALL MKT)  #01-19/20/21</del><br>CHONG SEAFOOD | <del>74 Toa Payoh Lorong 4, #01-19,  S310074;</del><br>74 Toa Payoh Lorong 4, #01-15,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | <del>J & JAS HAIRDRESSING SALON HG682</del><br>CKM HAIR SALON | 682 Hougang Avenue 4 Dbs Ntuc Hougang Avenue 4 Singapore 530682, #01-336,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | <del>CRAZYBADMAN.COM</del><br>CRAZYBADMAN KIOSK | 62 Chai Chee Road, #01-K1,  S460062; | <span title="1.32541587745253,103.921251264514">1.32542, 103.92125</span> |
+  | <del>DING FENG MIXED RICE & STEWED SOUP (AMK 107)</del><br>DING FENG MIXED RICE & STEWED SOUP (AMK 332) | <del>107 Ang Mo Kio Avenue 4, ST1,  S560107;</del><br>332 Ang Mo Kio Avenue 1, #01-1879,  S560332; | <del title="1.37138400081003,103.837381409794">1.37138, 103.83738</del><br><span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | <del>FRUITY FRUIT</del><br>FRUITEA FRUIT | 2A Jalan Seh Chuan, #01-035,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | JESSILYN UNISEX SALON 94 | <del>Lorong 4 Toa Payoh, #01-44,  S310094;</del><br>Lorong 4 Toa Payoh, #01-40,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | <del>KIM POH PROVISION SHOP</del><br>KIM POH SHOP | 341 Ang Mo Kio Avenue 1, #01-36,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | <del>STYLE FASHION HAIR SALON</del><br>STYLE FASHION HAIR | <del>822 Tampines Street 81 Hdb-tampines Singapore 520822, #01-192,  S520822;</del><br>822 Tampines Street 81, #01-192,  S520822; | <span title="1.34834234440867,103.934379779229">1.34834, 103.93438</span> |
+  | <del>LEE HUAT FRUIT JUICE</del><br>SUNNY SIPS | 270 Queen Street, #01-89,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | TCS BEAUTY CENTRE | <del>Bedok North Street 1, #02-415,  S460204;</del><br>416 Bedok North Street 1, #01-43,  S460416; | <del title="1.32635909520616,103.929995919076">1.32636, 103.93000</del><br><span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | THE SKIN CLINIQUE BY LUXELLE BEAUTY & CO PTE LTD | <del>Bedok North Street 1, #02-415,  S460204;</del><br>416 Bedok North Ave 2, #02-43,  S460416; | <del title="1.32635909520616,103.929995919076">1.32636, 103.93000</del><br><span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-18
 
 </summary>
