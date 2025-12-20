@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-20
+
+</summary>
+
+Total locations: 26,362 → 26,373
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CLEMENTI TEOCHEW FISHBALL NOODLES | 26 Jalan Membina,  S161026; | <span title="1.28263437649669,103.825595753657">1.28263, 103.82560</span> |
+  | GOOD NECTAR (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #B1-K12,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | HAIR SHINE SALON | 59 New Upper Changi Road Dbs New Upper Changi Road Singapore 461059, #01-1280,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | HENG HENG FISHBALL MINCED MEAT NOODLE | 89 Circuit Road, #01-117,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | NANYANG KAMPUNG (633) | 633 Tampines North Drive 2 Tampines Greencourt Singapore 520633, #02-02,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | RASA TOGETHER | Woodlands Street 12,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | TAI HAO CHI DELIGHTS | 339 Anchorvale Road, #02-09,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | ULTIMED CLINIC ( JURONG EAST 31) | 318 Jurong East Street 31 Hdb-jurong East Singapore 600318, #01-46,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | YI SHENG AI PTE LTD | 30 Seng Poh Road, #01-01,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | YONG KANG TCM CLINIC (AMK 726) | 726 Ang Mo Kio Avenue 6 Singapore 560726, #01-4154,  S560726; | <span title="1.37278358482637,103.84644830631">1.37278, 103.84645</span> |
+  | YUMEN HUT (AMK 108) | 108 Ang Mo Kio Avenue 4,  S560108; | <span title="1.37094273993861,103.837974822369">1.37094, 103.83797</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>WANTON NOODLE</del><br>AH MA WANTON NOODLE | <del>293 Yishun Street 22,  S760293;</del><br>291 Yishun Street 22, #01-369,  S760291; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | CCK190 WANTON MEE | <del>89 Circuit Road, #01-110,  S370089;</del><br>89 Circuit Road, #01-126,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | L.A BBQ SEAFOOD | <del>848 Yishun Street 81,  S760848;</del><br>848 Yishun Street 81, #01-126,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | STARSHIPS FLOWERS & BALLOONS | <del>20 Lengkok Bahru Singapore 159053, #01-11,  S159053;</del><br>20 Lengkok Bahru, #01-09,  S159053; | <span title="1.28683297163774,103.814669931218">1.28683, 103.81467</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-19
 
 </summary>
