@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Dec 2025",
+  "lastUpdated": "23 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -37540,6 +37540,26 @@
         }
       },
       "lastResetDate": "2025-09-23"
+    },
+    {
+      "id": "merchant_f32acded-78e6-4829-ac36-34a93e283c75",
+      "entityId": "merchant_f32acded-78e6-4829-ac36-34a93e283c75",
+      "name": "AH YU FRIED PRAWN NOODLE",
+      "address": "1220 East Coast Parkway, #01-36,  S468960;",
+      "postalCode": "468960",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30690573552745,
+      "LON": 103.935137935777,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_512a0eb9-9770-415e-bc56-8dc95d5510c7",
@@ -110319,7 +110339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-18"
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_9b0e6ece-7bf0-42fe-8dc3-dceef8423fc7",
@@ -113760,6 +113780,26 @@
         }
       },
       "lastResetDate": "2025-05-26"
+    },
+    {
+      "id": "merchant_158f50e1-bad5-4a59-9cd6-2a5a897b6564",
+      "entityId": "merchant_158f50e1-bad5-4a59-9cd6-2a5a897b6564",
+      "name": "D'RAUB AYAM BEREMPAH",
+      "address": "139 Tampines Street 11,  S521139;",
+      "postalCode": "521139",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34607675043696,
+      "LON": 103.944284625086,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_b20f8171-7914-4258-befe-59e4adf96409",
@@ -132505,7 +132545,7 @@
       "id": "merchant_8214f49a-7d09-40c9-b149-76b7da00a147",
       "entityId": "merchant_8214f49a-7d09-40c9-b149-76b7da00a147",
       "name": "DUCK PROFESSOR (ROAST DELIGHTS)",
-      "address": "14 Haig Road, #01-42,  S430014;",
+      "address": "14 Haig Road, #01-37,  S430014;",
       "postalCode": "430014",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.31542509324914,
@@ -132519,7 +132559,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-03-24"
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_cb8e63dc-f168-4840-8897-cec671181677",
@@ -181722,6 +181762,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_bf27c56e-804d-4b11-89fa-1c31b9bc6961",
+      "entityId": "merchant_bf27c56e-804d-4b11-89fa-1c31b9bc6961",
+      "name": "GROUPER FISH SOUP",
+      "address": "628 Ang Mo Kio Avenue 4, #01-50,  S560628;",
+      "postalCode": "560628",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38098761665454,
+      "LON": 103.840628087484,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
+    },
+    {
       "id": "merchant_2dab4eee-4d86-448f-906a-3cb5dca74c45",
       "entityId": "merchant_2dab4eee-4d86-448f-906a-3cb5dca74c45",
       "name": "GROW UP MART",
@@ -186325,11 +186385,11 @@
       "id": "merchant_96b3b42c-4cce-4fc4-a3df-db2299c30bd1",
       "entityId": "merchant_96b3b42c-4cce-4fc4-a3df-db2299c30bd1",
       "name": "HAI PAI HOKKIEN MEE 747",
-      "address": "768 Woodlands Avenue 6, #01-30,  S730768;",
-      "postalCode": "730768",
+      "address": "747 Yishun Street 72, #01-108,  S760747;",
+      "postalCode": "760747",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.44562289926402,
-      "LON": 103.798140996611,
+      "LAT": 1.42822554342155,
+      "LON": 103.833488111349,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -186339,7 +186399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-16"
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_87073aa5-712c-423d-9fff-25217ef3119b",
@@ -187780,6 +187840,26 @@
         }
       },
       "lastResetDate": "2022-11-01"
+    },
+    {
+      "id": "merchant_1b92d285-b0ab-49ca-a05a-758d646dab15",
+      "entityId": "merchant_1b92d285-b0ab-49ca-a05a-758d646dab15",
+      "name": "HAIR CARE( 306 )",
+      "address": "306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-35DD,  S730306;",
+      "postalCode": "730306",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42992991993554,
+      "LON": 103.774636554651,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_5c4aebbc-3cdc-472f-bbeb-a8856d3e35e0",
@@ -285040,6 +285120,26 @@
         }
       },
       "lastResetDate": "2024-05-14"
+    },
+    {
+      "id": "merchant_d8cb44ff-b413-4a6a-83da-03d802e538c2",
+      "entityId": "merchant_d8cb44ff-b413-4a6a-83da-03d802e538c2",
+      "name": "LI XIN SPINACH SOUP",
+      "address": "335 Smith Street, #02-174,  S050335;",
+      "postalCode": "050335",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2822749605271,
+      "LON": 103.843238518071,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_f6cfb3a7-7c00-4d93-9c1c-7b631d96db1c",
@@ -452642,6 +452742,26 @@
       "lastResetDate": "2021-10-21"
     },
     {
+      "id": "merchant_4f09a8f8-fe4f-4f2e-afc7-e440c9ba888b",
+      "entityId": "merchant_4f09a8f8-fe4f-4f2e-afc7-e440c9ba888b",
+      "name": "THE HOUSE OF LAMANG",
+      "address": "681 Hougang Avenue 8,  S530681;",
+      "postalCode": "530681",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37297840284804,
+      "LON": 103.88567915953,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
+    },
+    {
       "id": "merchant_416f5f9c-7789-49e4-917c-db88f7806ff7",
       "entityId": "merchant_416f5f9c-7789-49e4-917c-db88f7806ff7",
       "name": "THE HOUSE OF LEMANG",
@@ -453025,11 +453145,11 @@
       "id": "merchant_e842ce02-40d2-4c96-9326-927542baabb3",
       "entityId": "merchant_e842ce02-40d2-4c96-9326-927542baabb3",
       "name": "THE LENS MEN PTE LTD",
-      "address": "83 Marine Parade Central, #01-558,  S440083;",
-      "postalCode": "440083",
+      "address": "85 Marine Parade Central, #01-668,  S440085;",
+      "postalCode": "440085",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30255976878216,
-      "LON": 103.90607458727,
+      "LAT": 1.30213889373056,
+      "LON": 103.906749407665,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -453039,7 +453159,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-27"
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_d65488ba-389e-444b-99bb-aa344feac822",
@@ -467380,6 +467500,26 @@
         }
       },
       "lastResetDate": "2024-10-09"
+    },
+    {
+      "id": "merchant_2dd31a88-e394-4cdc-b3c7-3fb26814c199",
+      "entityId": "merchant_2dd31a88-e394-4cdc-b3c7-3fb26814c199",
+      "name": "TRADITIONAL TEOCHEW KWAY CHAP",
+      "address": "628 Ang Mo Kio Avenue 4, #01-52,  S560628;",
+      "postalCode": "560628",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38098761665454,
+      "LON": 103.840628087484,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_022f6946-2a24-4bb7-9974-16d2e6b44eea",
@@ -483120,6 +483260,26 @@
         }
       },
       "lastResetDate": "2022-06-30"
+    },
+    {
+      "id": "merchant_fcea68b2-5301-4bba-9fc3-e6ea91f59ef5",
+      "entityId": "merchant_fcea68b2-5301-4bba-9fc3-e6ea91f59ef5",
+      "name": "WAN JIA XIANG ZA CAI FUN",
+      "address": "55 Lengkok Bahru, ST3,  S151055;",
+      "postalCode": "151055",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28744981772847,
+      "LON": 103.81344506122,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_7928f0e2-d018-41e6-9d46-4472286b6f4c",
@@ -526400,6 +526560,26 @@
         }
       },
       "lastResetDate": "2025-08-07"
+    },
+    {
+      "id": "merchant_5bf834ee-ef27-4622-aa31-a2b8a43e2b69",
+      "entityId": "merchant_5bf834ee-ef27-4622-aa31-a2b8a43e2b69",
+      "name": "ZMA HAIR SALON (AMK 226A)",
+      "address": "226A Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 561226, #01-633,  S561226;",
+      "postalCode": "561226",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36749458006861,
+      "LON": 103.839283930528,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-22"
     },
     {
       "id": "merchant_f0fdee7b-4c56-4656-b7ad-dfcf3d878f79",

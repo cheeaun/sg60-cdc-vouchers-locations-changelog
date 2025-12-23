@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-23
+
+</summary>
+
+Total locations: 26,373 → 26,382
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH YU FRIED PRAWN NOODLE | 1220 East Coast Parkway, #01-36,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | D'RAUB AYAM BEREMPAH | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | GROUPER FISH SOUP | 628 Ang Mo Kio Avenue 4, #01-50,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | HAIR CARE( 306 ) | 306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-35DD,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | LI XIN SPINACH SOUP | 335 Smith Street, #02-174,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | THE HOUSE OF LAMANG | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | TRADITIONAL TEOCHEW KWAY CHAP | 628 Ang Mo Kio Avenue 4, #01-52,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | WAN JIA XIANG ZA CAI FUN | 55 Lengkok Bahru, ST3,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | ZMA HAIR SALON (AMK 226A) | 226A Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 561226, #01-633,  S561226; | <span title="1.36749458006861,103.839283930528">1.36749, 103.83928</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DUCK PROFESSOR (ROAST DELIGHTS) | <del>14 Haig Road, #01-42,  S430014;</del><br>14 Haig Road, #01-37,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | HAI PAI HOKKIEN MEE 747 | <del>768 Woodlands Avenue 6, #01-30,  S730768;</del><br>747 Yishun Street 72, #01-108,  S760747; | <del title="1.44562289926402,103.798140996611">1.44562, 103.79814</del><br><span title="1.42822554342155,103.833488111349">1.42823, 103.83349</span> |
+  | THE LENS MEN PTE LTD | <del>83 Marine Parade Central, #01-558,  S440083;</del><br>85 Marine Parade Central, #01-668,  S440085; | <del title="1.30255976878216,103.90607458727">1.30256, 103.90607</del><br><span title="1.30213889373056,103.906749407665">1.30214, 103.90675</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-20
 
 </summary>
