@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-24
+
+</summary>
+
+Total locations: 26,382 → 26,406
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 422 MIXED VEG RICE | 422 Ang Mo Kio Avenue 3,  S560422; | <span title="1.36799988809778,103.851873942231">1.36800, 103.85187</span> |
+  | 68 VEGETARIAN | 453A Ang Mo Kio Avenue 10, #01-68,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | BERKSHIRE WALMART@ AMK | 443 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560443, #01-1241,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | C3STAR 732 YISHUN | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | CRUNCHI | 90 Whampoa Drive, #01-69,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | FAMOUS HONG KONG STYLE CHARCOAL ROASTED DELIGHT (TPY 184) | 184 Toa Payoh Central,  S310184; | <span title="1.33259000918315,103.849677717253">1.33259, 103.84968</span> |
+  | FENG FENG CHICKEN RICE | 308 Clementi Avenue 4, ST4,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | FIVE LOAVES & TWO FISH | 93 Toa Payoh Lorong 4, #01-54,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | FRESH PORK( 304 WOODLANDS) | 304 Woodlands Street 31, #01-135,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | HAPPY TIMES 136 | 6 Jalan Bukit Merah, #01-136,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | HOME CURRY PUFF | 159 Ang Mo Kio Avenue 4,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | HUANGKEE FISHBALL NOODLE (T844) | 844 Tampines Street 82, 131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | HUP LEE FRIED BEE HOON | 221B Boon Lay Place, #01-112,  S642221; | <span title="1.34575695160082,103.713071862125">1.34576, 103.71307</span> |
+  | JU MEI . SALON | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1627,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | LK MINIMART | 304 Ang Mo Kio Avenue 1 Dbs Ang Mo Kio Avenue 1 Singapore 560304, #01-1135,  S560304; | <span title="1.36628642816469,103.8449947612">1.36629, 103.84499</span> |
+  | M-MINIMART | 122 Mcnair Road Mcnair Spring Singapore 320122, #01-41,  S320122; | <span title="1.3188425968422,103.856837677166">1.31884, 103.85684</span> |
+  | MEI ZHUAN NOODLE HOUSE | 2 Lorong Lew Lian, 56,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | OLD STREET BIG PRAWN NOODLE 769 | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | POLISHED! NAIL BAR | 925 Yishun Central 1 Singapore 760925, #02-229,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | RUYI TANJONG RHU WANTON NOODLE | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | SUNRISE HK-STYLE DOUBLE-BOILED SOUPS & RICE | 17 Upper Boon Keng Road, #01-40,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | TACO LIBERATION CO | National Development Building, Annex B, Telok Ayer Street, #02-117,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | ZI LING EXCELLENT FRUITS (AMK 338) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1625,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | ZIJIA153 | 153A Serangoon North Avenue 1,  S551153; | <span title="1.36965187438477,103.871952820503">1.36965, 103.87195</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 848 BRAISED DUCK (YISHUN) | <del>848 Yishun Ring Road,  S760848;</del><br>848 Yishun Street 81, #01-126,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | AUNTY KIM'S FISH SOUP & BAN MIAN | <del>848 Yishun Ring Road,  S760848;</del><br>848 Yishun Street 81, #01-126,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | FATTYMUM FOODSTUFF | <del>848 Yishun Ring Road,  S760848;</del><br>848 Yishun Street 81,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | FRESH PORK | <del>304 Woodlands Street 31, #01-135,  S730304;</del><br>Blk 441 Pasir Drive 6, #01-80,  S510441; | <del title="1.42989255980863,103.773853927578">1.42989, 103.77385</del><br><span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+  | <del>HUANG KEE CUISINE</del><br>HUANG KEE SEAFISH SOUP | <del>51 Old Airport Road, #01-56,  S390051;</del><br>844 Tampines St 82, #01-131,  S520844; | <del title="1.3082518471287,103.88580870609">1.30825, 103.88581</del><br><span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | <del>SIMPLY D & H MUSLIM FOOD 239 YISHUN</del><br>SIMPLY D & H MUSLIM FOOD (354A WOODLAND AVE) | <del>239 Yishun Ring Road,  S760239;</del><br>354A Woodlands Avenue 1, #01-01,  S731354; | <del title="1.43359453113734,103.839686662816">1.43359, 103.83969</del><br><span title="1.43284923729255,103.785065178302">1.43285, 103.78507</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-23
 
 </summary>
