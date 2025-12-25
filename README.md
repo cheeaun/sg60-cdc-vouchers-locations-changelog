@@ -13,6 +13,36 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-25
+
+</summary>
+
+Total locations: 26,406 → 26,411
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL-AMEEN (CHU LIN RD) | 5 Chu Lin Road Hillview Garden Estate Singapore 669893, #01-5,  S669893; | <span title="1.35766515414805,103.760577325737">1.35767, 103.76058</span> |
+  | JIN YANG BAN MIAN 888 | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | LOBSTER KING PAO FAN (513527) | 527C Pasir Ris Street 51, MR1,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | SRI KRISHNA | 139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-30,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | THE NASI LEMAK | 270 Queen Street, #01-55,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MOBILE FRIEND (MBF2 T503 #01-303)</del><br>MOBILE FRIEND | <del>503 Tampines Central 1, #01-303,  S520503;</del><br>Blk 83 Marine Parade Central, #01-562,  S440083; | <del title="1.3558033565401,103.945102946956">1.35580, 103.94510</del><br><span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-24
 
 </summary>

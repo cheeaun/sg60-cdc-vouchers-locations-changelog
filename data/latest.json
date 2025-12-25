@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Dec 2025",
+  "lastUpdated": "25 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -4619,7 +4619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-16"
+      "lastResetDate": "2025-12-24"
     },
     {
       "id": "merchant_f4fcd11a-b448-4ece-a71c-7bbababd29e1",
@@ -43000,6 +43000,26 @@
         }
       },
       "lastResetDate": "2024-05-27"
+    },
+    {
+      "id": "merchant_5329541f-2742-45eb-9fc8-f058b0ce56fe",
+      "entityId": "merchant_5329541f-2742-45eb-9fc8-f058b0ce56fe",
+      "name": "AL-AMEEN (CHU LIN RD)",
+      "address": "5 Chu Lin Road Hillview Garden Estate Singapore 669893, #01-5,  S669893;",
+      "postalCode": "669893",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35766515414805,
+      "LON": 103.760577325737,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-24"
     },
     {
       "id": "merchant_fc8ab0a9-0ad6-47f8-b404-b2be1e92d8ed",
@@ -243382,6 +243402,26 @@
       "lastResetDate": "2025-10-03"
     },
     {
+      "id": "merchant_b9022232-c226-4a5d-943b-1e41ff90ff01",
+      "entityId": "merchant_b9022232-c226-4a5d-943b-1e41ff90ff01",
+      "name": "JIN YANG BAN MIAN 888",
+      "address": "888 Woodlands Drive 50,  S730888;",
+      "postalCode": "730888",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43712301500434,
+      "LON": 103.795314383823,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-24"
+    },
+    {
       "id": "merchant_5f6ce95b-1b85-4d08-8cb2-e867db84f622",
       "entityId": "merchant_5f6ce95b-1b85-4d08-8cb2-e867db84f622",
       "name": "JIN YAO FOODBIZ",
@@ -292422,6 +292462,26 @@
       "lastResetDate": "2024-06-18"
     },
     {
+      "id": "merchant_ca16be51-bae8-48d0-86dc-514f617812eb",
+      "entityId": "merchant_ca16be51-bae8-48d0-86dc-514f617812eb",
+      "name": "LOBSTER KING PAO FAN (513527)",
+      "address": "527C Pasir Ris Street 51, MR1,  S513527;",
+      "postalCode": "513527",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36937329925111,
+      "LON": 103.947970231713,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-24"
+    },
+    {
       "id": "merchant_26523ee6-a94d-4282-bb23-8dd77a2fc588",
       "entityId": "merchant_26523ee6-a94d-4282-bb23-8dd77a2fc588",
       "name": "LOBSTER KING PAO FAN (BLK 676 WOODLANDS DRIVE 71)",
@@ -319524,12 +319584,12 @@
     {
       "id": "merchant_3115d8b9-e105-4e61-93d8-0306c5ba5e7c",
       "entityId": "merchant_3115d8b9-e105-4e61-93d8-0306c5ba5e7c",
-      "name": "MOBILE FRIEND (MBF2 T503 #01-303)",
-      "address": "503 Tampines Central 1, #01-303,  S520503;",
-      "postalCode": "520503",
+      "name": "MOBILE FRIEND",
+      "address": "Blk 83 Marine Parade Central, #01-562,  S440083;",
+      "postalCode": "440083",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.3558033565401,
-      "LON": 103.945102946956,
+      "LAT": 1.30255976878216,
+      "LON": 103.90607458727,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -319539,7 +319599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-08-03"
+      "lastResetDate": "2025-12-24"
     },
     {
       "id": "merchant_3c75ac09-b79c-4dcb-b665-7396d94935ee",
@@ -361659,7 +361719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-05-05"
+      "lastResetDate": "2025-12-24"
     },
     {
       "id": "merchant_ad7dcd16-8c8b-45ac-8d7c-3b26edd84eb8",
@@ -425162,6 +425222,26 @@
       "lastResetDate": "2023-09-15"
     },
     {
+      "id": "merchant_e28511a2-962b-4205-96f5-757e9ad1f70b",
+      "entityId": "merchant_e28511a2-962b-4205-96f5-757e9ad1f70b",
+      "name": "SRI KRISHNA",
+      "address": "139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-30,  S521139;",
+      "postalCode": "521139",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34607675043696,
+      "LON": 103.944284625086,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-24"
+    },
+    {
       "id": "merchant_250ed642-7ff9-4527-9bfa-6b39d594f604",
       "entityId": "merchant_250ed642-7ff9-4527-9bfa-6b39d594f604",
       "name": "SRI KRISHNA FOODS",
@@ -454160,6 +454240,26 @@
         }
       },
       "lastResetDate": "2021-12-30"
+    },
+    {
+      "id": "merchant_f587df73-7f4e-44cc-a7ab-b91fe311c442",
+      "entityId": "merchant_f587df73-7f4e-44cc-a7ab-b91fe311c442",
+      "name": "THE NASI LEMAK",
+      "address": "270 Queen Street, #01-55,  S180270;",
+      "postalCode": "180270",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30110201573423,
+      "LON": 103.854115779087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-24"
     },
     {
       "id": "merchant_8a4a477e-d8c9-4703-aea6-51e0b5f73742",
