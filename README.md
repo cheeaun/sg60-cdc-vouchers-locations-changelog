@@ -13,6 +13,99 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-27
+
+</summary>
+
+Total locations: 26,411 → 26,463
+
+- <details><summary>Added (53)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 134 FASHION | 30 Seng Poh Road, #01-34,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | 8 DEGREES TAIWANESE BISTRO 8 | 8 Jalan Legundi Victory 8 Singapore 759274, #01-03A,  S759274; | <span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | ALIA'S BEAUTY & SPA (AMK 709) | 709 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560709, #01-2603,  S560709; | <span title="1.37113720765377,103.847662320064">1.37114, 103.84766</span> |
+  | ALIA'S BEAUTY & SPA@78A TB | 78A Telok Blangah Street 32 Dbs Ntuc Telok Blangah Street 32 Singapore 101078, #01-08,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | BEAU-D BEAUTY CENTRE | 162 Bukit Merah Central Singapore 150162, #02-3535,  S150162; | <span title="1.28383730148701,103.81746608298">1.28384, 103.81747</span> |
+  | BODY THERAPY | 131 Jalan Bukit Merah Bambini Montessori Pte. Ltd. Singapore 160131, #01-1567,  S160131; | <span title="1.2801894226101,103.828178445611">1.28019, 103.82818</span> |
+  | CECILIA WESTBERRY BEAUTY SPA | 6 Holland Close Hdb-queenstown Singapore 271006, #01-20,  S271006; | <span title="1.30711568626095,103.795264617136">1.30712, 103.79526</span> |
+  | COSMIC BEAUTY BAR | 463 Crawford Lane Crawford Court Singapore 190463, #02-11,  S190463; | <span title="1.30505411579746,103.861916751532">1.30505, 103.86192</span> |
+  | ESSENCE HEALTH SPA | 443 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560443, #01-1257,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | FOOT HOUSE (TPY 85) | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-312,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | FOOT RELAX (TPY 85) | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-364,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | FU YING PORRIDGE | 498 Jurong West Street 41,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | HAN DYNASTY @ ALEXANDRA VILLAGE | 123 Bukit Merah Lane 1 Singapore 150123, #01-98,  S150123; | <span title="1.28685131852907,103.804019041147">1.28685, 103.80402</span> |
+  | INNERSENSE (AMK 709) | 709 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560709, #01-2593,  S560709; | <span title="1.37113720765377,103.847662320064">1.37114, 103.84766</span> |
+  | JIAN KANG YANG SHENG | 63 Kallang Bahru Hdb-kallang/whampoa Singapore 330063, #01-419,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | JK NAIL SPA (BUKIT PURMEI) | 109 Bukit Purmei Road Bukit Purmei Ville Singapore 090109, #01-133,  S090109; | <span title="1.27392939929265,103.825310761145">1.27393, 103.82531</span> |
+  | LYDIA BEAUTY & SLIMMING | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-469,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | MAJESTY BEAUTY SUITE | 3 Everton Park Everton Park Singapore 080003, #01-73,  S080003; | <span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | MANCHU (TPY 73) | 73 Lorong 4 Toa Payoh Dbs Toa Payoh Lorong 4/73 Singapore 310073, #01-595C,  S310073; | <span title="1.33432001132262,103.851714329027">1.33432, 103.85171</span> |
+  | MANCHU PALOUR | 123 Lorong 1 Toa Payoh Toa Payoh View Singapore 310123, #01-505,  S310123; | <span title="1.33864901784911,103.845703844955">1.33865, 103.84570</span> |
+  | MANCHU REFLEXOLOGY (120 PP) | 120 Potong Pasir Avenue 1 Hdb-potong Pasir Singapore 350120, #01-816,  S350120; | <span title="1.33545353246777,103.863387980398">1.33545, 103.86339</span> |
+  | MANCHU REFLEXOLOGY (137 PP) | 137 Potong Pasir Avenue 3 Hdb-potong Pasir Singapore 350137, #01-142,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | MANCHU REFLEXOLOGY (146 PP) | 146 Potong Pasir Avenue 1 Singapore 350146, #01-137,  S350146; | <span title="1.3318007826539,103.867242849282">1.33180, 103.86724</span> |
+  | NEW CONCEPT REFLEXOLOGY | 525 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560525, #01-2395,  S560525; | <span title="1.37264569640251,103.853890703815">1.37265, 103.85389</span> |
+  | NEW SUNSHINE TCM | 233 Ang Mo Kio Avenue 3 Kebun Baru Palm View Singapore 560233, #01-1178,  S560233; | <span title="1.36754924977907,103.836740628478">1.36755, 103.83674</span> |
+  | NOVAHEALTH TCM (BUKIT MERAH) | 161 Bukit Merah Central Hdb-bukit Merah Singapore 150161, #01-3713,  S150161; | <span title="1.28391229397444,103.816006111441">1.28391, 103.81601</span> |
+  | OLD TIONG BAHRU BAK KUT TEH | 20 Sixth Avenue Singapore 276479, #01-20,  S276479; | <span title="1.3306742966396,103.794969885426">1.33067, 103.79497</span> |
+  | OLD WORLD BAKUTEH & FRIED PORRIDGE FROM T-SPACE | 414 Yishun Ring Road, F,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | QB KING OF PRAWN FRITTER (WHAMPOA) | 86 Whampoa Drive,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | QS WELLNESS AND BEAUTY | 555 Ang Mo Kio Avenue 10 Cheng San Place Singapore 560555, #01-1964,  S560555; | <span title="1.37119666371478,103.85702400572">1.37120, 103.85702</span> |
+  | RED HORSE (AMK 709) | 709 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560709, #01-2605,  S560709; | <span title="1.37113720765377,103.847662320064">1.37114, 103.84766</span> |
+  | SABRINA'S KITCHEN (JLN TAMPANG) | 20 Jalan Tampang Sembawang Garden Arcade Singapore 758964, #01-20,  S758964; | <span title="1.44163259728545,103.823480320055">1.44163, 103.82348</span> |
+  | SHAN TRADITIONAL THERAPY | 22 Havelock Road Hdb-bukit Merah Singapore 160022, #01-681,  S160022; | <span title="1.28874603704088,103.828824191655">1.28875, 103.82882</span> |
+  | SHAN YUAN TANG TUI NA YANG SHENG | 410 Ang Mo Kio Avenue 10 Singapore 560410, #01-843,  S560410; | <span title="1.36271541988052,103.854644986527">1.36272, 103.85464</span> |
+  | SIAM ORIENTAL | 46 Sims Place Sims Vista Singapore 380046, #01-189,  S380046; | <span title="1.31757785555311,103.878785901158">1.31758, 103.87879</span> |
+  | SPINACH SOUP (SIMS PLACE) | 49 Sims Place, #01-23,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | SUI AN TANG | 407 Ang Mo Kio Avenue 10 Ocbc Ang Mo Kio Ave 10 - Cheers Singapore 560407, #01-753A,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | SUMS KITCHEN & HONG KONG ROASTED MEAT | 8 Jalan Legundi Victory 8 Singapore 759274, #01-03,  S759274; | <span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | THE ADDICTION BISTRO | 1018 Sembawang Road Singapore 758495, #01-1018,  S758495; | <span title="1.45333283349839,103.832368108178">1.45333, 103.83237</span> |
+  | THE BEST BEAUTY CENTRE (TPY 500) | 500 Lorong 6 Toa Payoh Citibank Toa Payoh Hub Singapore 310500, #04-35,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | TONG JOO DRUG STORE - JBM | 111 Jalan Bukit Merah Banyan Tree Education Centre Singapore 160111, #01-1672,  S160111; | <span title="1.2803211411457,103.826185854436">1.28032, 103.82619</span> |
+  | VL CREATIONZ & DESIGNING PTE. LTD. | 665 Buffalo Road, #02-48,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | VL CREATIONZ & TAILORING PTE. LTD. | 665 Buffalo Road, #02-49,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | W & G | 269 Queen Street Cheng Yan Court Singapore 180269, #02-232,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | WAD COFFEE | 152 Bishan Street 11 Bishan Green Singapore 570152, #01-219,  S570152; | <span title="1.34552772598093,103.854821241123">1.34553, 103.85482</span> |
+  | WAN YUAN THERAPY HUB | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-933,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | XIANG CHI RUI JIA XIAO CHAO - SIMS DRIVE | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | XIN MEI TCM CENTRE | 416 Ang Mo Kio Avenue 10 Teck Ghee Heartlands Singapore 560416, #01-983,  S560416; | <span title="1.3645417089084,103.855103690549">1.36454, 103.85510</span> |
+  | YAN YI BEAUTY PTE LTD | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-18,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | YE SPA | 451 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560451, #01-1757,  S560451; | <span title="1.36879314171149,103.855527833291">1.36879, 103.85553</span> |
+  | YI PIN HUB FOOT REFLEXOLOGY | 81 Whampoa Drive Singapore 320081, #01-913,  S320081; | <span title="1.32400427468755,103.85632640336">1.32400, 103.85633</span> |
+  | ZHENG YUAN TANG | 316B Ang Mo Kio Street 31 Teck Ghee Vista Singapore 563316, #01-08,  S563316; | <span title="1.36462540270464,103.847677034369">1.36463, 103.84768</span> |
+  | ZIJIA YONG TAU FOO 418 | 418 Yishun Avenue 11, #01-385,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+
+  </details>
+
+- <details><summary>Removed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | YUAN JIA | 1002 Toa Payoh Industrial Park, #01-1407,  S319074; | <span title="1.334943636366,103.861041557556">1.33494, 103.86104</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAO MA XUAN | <del>335 Smith Street, #01-246,  S050335;</del><br>335 Smith Street, #01-115,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | BEAUTY TAYLOR | <del>628 Ang Mo Kio Avenue 4, #01-17,  S560628;</del><br>628 Ang Mo Kio Avenue 4, #01-20,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | <del>HENG HUAT BAK KUT TEH</del><br>CHUAN XIANG LOU | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | DIRECTOR OF PORRIDGE | <del>91 Whampoa Drive, #01-05,  S320091;</del><br>91 Whampoa Drive, #01-32,  S320091; | <span title="1.32342818718207,103.854060197812">1.32343, 103.85406</span> |
+  | <del>HEE STEAMED FISH & SEAFOOD</del><br>FRIED CARROT CAKE | 22B Havelock Road, #01-26,  S162022; | <span title="1.28775546193797,103.829362888759">1.28776, 103.82936</span> |
+  | JIN HO JIAK YONG TAU FOO | <del>1 Ang Mo Kio Industrial Park 2A,  S568049;</del><br>7 Empress Road, #01-79,  S260007; | <del title="1.37794735185987,103.867856139461">1.37795, 103.86786</del><br><span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | <del>SUNRISE HK-STYLE DOUBLE-BOILED SOUPS & RICE</del><br>SUNRISE HK-STYLE DOUBLE-BOILED SOUPS & RICE POTS | 17 Upper Boon Keng Road, #01-40,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | TING SENG CEREMONIAL PRODUCTS | <del>38 Beo Crescent The Beo Crescent Singapore 160038, #01-44,  S160038;</del><br>38A Beo Crescent, #01-60,  S169982; | <del title="1.28855393184563,103.827290023383">1.28855, 103.82729</del><br><span title="1.28883089150258,103.827353892228">1.28883, 103.82735</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-25
 
 </summary>
