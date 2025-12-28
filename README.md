@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-28
+
+</summary>
+
+Total locations: 26,463 → 26,464
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | PET&QUOT;S STATION - BT | 480 Upper Bukit Timah Road The Rail Mall Singapore 678085, #01-480,  S678085; | <span title="1.36052038767454,103.767494632524">1.36052, 103.76749</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-27
 
 </summary>

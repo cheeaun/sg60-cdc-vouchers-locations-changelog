@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Dec 2025",
+  "lastUpdated": "28 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -358700,6 +358700,26 @@
         }
       },
       "lastResetDate": "2021-12-09"
+    },
+    {
+      "id": "merchant_eb3ccee1-d5ef-4965-a45f-8b327413d72d",
+      "entityId": "merchant_eb3ccee1-d5ef-4965-a45f-8b327413d72d",
+      "name": "PET&QUOT;S STATION - BT",
+      "address": "480 Upper Bukit Timah Road The Rail Mall Singapore 678085, #01-480,  S678085;",
+      "postalCode": "678085",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36052038767454,
+      "LON": 103.767494632524,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-27"
     },
     {
       "id": "merchant_20b17703-5daf-4ae3-82df-be82ac3c3213",
