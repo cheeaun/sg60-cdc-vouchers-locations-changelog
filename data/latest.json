@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28 Dec 2025",
+  "lastUpdated": "29 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -241040,6 +241040,26 @@
         }
       },
       "lastResetDate": "2021-10-27"
+    },
+    {
+      "id": "merchant_977f522e-b1e7-4f13-841b-9f5dde710571",
+      "entityId": "merchant_977f522e-b1e7-4f13-841b-9f5dde710571",
+      "name": "JIANG SHAN INTERNATIONAL ENTERPRISE PTE LTD (201E TAMPINES)",
+      "address": "201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-76,  S527201;",
+      "postalCode": "527201",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35292162536007,
+      "LON": 103.953858335355,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-28"
     },
     {
       "id": "merchant_f67a60b8-1ba3-44cd-8db6-f3e023a7723f",

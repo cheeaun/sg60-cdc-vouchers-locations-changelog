@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-29
+
+</summary>
+
+Total locations: 26,464 → 26,465
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | JIANG SHAN INTERNATIONAL ENTERPRISE PTE LTD (201E TAMPINES) | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-76,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-28
 
 </summary>
