@@ -13,6 +13,75 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2025-12-30
+
+</summary>
+
+Total locations: 26,465 → 26,504
+
+- <details><summary>Added (39)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 7 GOURMET PTE LTD | 19 Binjai Park Binjai Park Singapore 589826, #01-19,  S589826; | <span title="1.33635273768182,103.786854924336">1.33635, 103.78685</span> |
+  | AHJUMA ECON BEE HOON | 1TAMPINES Walk, #01-31,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | ALI FATIMAH FOOD STALL | 85 Redhill Lane, #01-01,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | ANANDHAS RESTAURANT PTE. LTD. | 441 Sembawang Road Sembawang Park Singapore 758401, #01-441,  S758401; | <span title="1.42845654899527,103.82655911299">1.42846, 103.82656</span> |
+  | ANGEL TEA HOUSE | 42 Holland Drive Hdb-queenstown Singapore 270042, #01-77,  S270042; | <span title="1.30790383303654,103.792961440964">1.30790, 103.79296</span> |
+  | BAKE ANTHEM | 29 Binjai Park Binjai Park Singapore 589831, #01-29,  S589831; | <span title="1.33661378718238,103.786974822749">1.33661, 103.78697</span> |
+  | BEE DURIAN & FRESH FRUITS | 202 Ang Mo Kio Avenue 3 Ang Mo Kio View Singapore 560202, #01-1672,  S560202; | <span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | BOON CHIANG HAINANESE CHICKEN RICE (SEMBAWANG) | 302 Ubi Avenue 1, #01-09,  S400302; | <span title="1.33002586987709,103.900995405582">1.33003, 103.90100</span> |
+  | BORED TACOS | 315 Joo Chiat Road Singapore 427566, #01-01,  S427566; | <span title="1.30939407989301,103.902551290418">1.30939, 103.90255</span> |
+  | CHEF LESLIE WESTERN CUISINE | 470 Lorong 6 Toa Payoh, ST 4,  S310470; | <span title="1.33203473928975,103.849338664495">1.33203, 103.84934</span> |
+  | CHURROS REPUBLIC | 1 Tampines Walk, #B1-K28,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | CLAYPOT RICE | 500 Lorong 6 Toa Payoh,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | ESTELLE DIVINE@61 TB | 61 Telok Blangah Heights Blangah Garden Singapore 100061, #01-95A,  S100061; | <span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | FIVE STAR FAST FOOD | 4 Woodlands Street 12, #01-40,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | FOOD FUSION KOPITIAM | 171 Yishun Avenue 7,  S760171; | <span title="1.43691621022976,103.832132015264">1.43692, 103.83213</span> |
+  | GORENG STORY | 60 Springside Walk The Brooks I Singapore 786020, #01-01,  S786020; | <span title="1.40480911505593,103.819465500143">1.40481, 103.81947</span> |
+  | GU ZAO WEI TEOCHEW BAK KUT TEH | 119 Aljunied Avenue 2,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | HE XIE TCM PTE. LTD. | 183 Toa Payoh Central Toa Payoh Central Singapore 310183, #02-268,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | HELLO ARIGATO | 314 Joo Chiat Road Singapore 427565, #01-314,  S427565; | <span title="1.30931938130739,103.902113656445">1.30932, 103.90211</span> |
+  | HEYYA X WIN CAFE | 16 Greenwood Avenue Hillcrest Park Singapore 289209, #01-16,  S289209; | <span title="1.33139604367066,103.80688967447">1.33140, 103.80689</span> |
+  | IVINS PERANAKAN RESTAURANT | 21 Binjai Park Binjai Park Singapore 589827, #01-21,  S589827; | <span title="1.33639912490825,103.78687922881">1.33640, 103.78688</span> |
+  | JUNYI KOREAN BBQ | 3 Jalan Jamal Singapore 457602, #01-01,  S457602; | <span title="1.31299477714143,103.925462617524">1.31299, 103.92546</span> |
+  | KAFFE & TOAST | 1 Tampines Walk, #B1-K8/K9,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | KANG JIAN WELLNESS | 92 Lorong 4 Toa Payoh Toa Payoh Palm Spring Singapore 310092, #01-276,  S310092; | <span title="1.33807081646129,103.849457178811">1.33807, 103.84946</span> |
+  | KING POH HONG TRADING | 823 Tampines Street 81 Singapore 520823, #01-162,  S520823; | <span title="1.3487449454775,103.934024716838">1.34874, 103.93402</span> |
+  | LAI JIAK PNG 493 JW | 493 Jurong West Street 41,  S640493; | <span title="1.34896996021593,103.724938358616">1.34897, 103.72494</span> |
+  | MANG CHENG XIANG CURRY RICE | 1 Tampines Walk, #01-64,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MARLOW'S DELI | 162 Joo Chiat Road Singapore 427437, #01-01,  S427437; | <span title="1.31290440263885,103.899711209308">1.31290, 103.89971</span> |
+  | MILLENIUM WELLNESS | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-324,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | MOMMY RENDANG | 1 Tampines Walk, #01-61,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MOON RIVER CAKE SHOP | 624 Choa Chu Kang Street 62 Ocbc Yew Tee Sqaure Singapore 680624, #01-0232,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | OMAR SHARIFF RESTAURANT | 14 Greenwood Avenue Hillcrest Park Singapore 289206, #01-14,  S289206; | <span title="1.33135540758098,103.806924856207">1.33136, 103.80692</span> |
+  | OPPO (MOBILE) | 19 Marsiling Lane Singapore 730019, #01-303,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | PORTERHAUS | 82 Serangoon Garden Way Serangoon Garden Estate Singapore 555978, #01-01,  S555978; | <span title="1.36433618355803,103.865033679948">1.36434, 103.86503</span> |
+  | PURE MOBILE | 205 Bedok North Street 1 Bedok Town Centre Singapore 460205, #01-377,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | SAAP SAAP THAI | 1 Tampines Walk, #01-100,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | SECOND PRINCE OF FRUITS (201E TAMPINES) | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-K2,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | SONG FISHBALL NOODLE | 418 Yishun Avenue 11, 01-385,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | SPICE HEAVEN PTE LTD (269) | 269 Queen Street,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 168 HOMEMADE WANTON NOODLE | <del>86 Whampoa Drive, #01-919,  S320086;</del><br>81 Whampoa Drive, #01-893,  S320081; | <del title="1.32314598295591,103.855879621151">1.32315, 103.85588</del><br><span title="1.32400427468755,103.85632640336">1.32400, 103.85633</span> |
+  | 1ST CHOICE COLOUR CENTER | <del>Yishun Avenue 11, #01-397,  S760418;</del><br>Yishun Avenue 11, #01-325,  S760417; | <del title="1.4248993192219,103.847249789758">1.42490, 103.84725</del><br><span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | <del>DJ BREAD & LOAVES</del><br>DJ BAKERY (OTH) | <del>Tanjong Pagar Plaza, #01-37,  S082001;</del><br>1 Tampines Walk, #01-93,  S528523; | <del title="1.2755961982077,103.842393171342">1.27560, 103.84239</del><br><span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | <del>REDHILL FRIED HOKKIEN MEE</del><br>KA KA JAPANESE STYLE CURRY | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K14,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | <del>PET&QUOT;S STATION - BT</del><br>PET'S STATION - BT | 480 Upper Bukit Timah Road The Rail Mall Singapore 678085, #01-480,  S678085; | <span title="1.36052038767454,103.767494632524">1.36052, 103.76749</span> |
+  | TOP DESIGN SALON (36) | <del>Beo Crescent, #01-35,  S160036;</del><br>36 Beo Crescent, #01-31,  S160036; | <span title="1.28835977080873,103.827056911096">1.28836, 103.82706</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-29
 
 </summary>
