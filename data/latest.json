@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Dec 2025",
+  "lastUpdated": "31 Dec 2025",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -10800,6 +10800,26 @@
         }
       },
       "lastResetDate": "2025-10-31"
+    },
+    {
+      "id": "merchant_fb23435f-cb29-4b0a-b845-497163c0c6cb",
+      "entityId": "merchant_fb23435f-cb29-4b0a-b845-497163c0c6cb",
+      "name": "188 CAFE GEYLANG",
+      "address": "672 Geylang Road Geylang Conservation Area Singapore 389599, #01-01,  S389599;",
+      "postalCode": "389599",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31452237674056,
+      "LON": 103.890286888364,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_5abf76ab-d121-4c9a-a14a-c32a0b8fea32",
@@ -29480,6 +29500,26 @@
         }
       },
       "lastResetDate": "2021-10-19"
+    },
+    {
+      "id": "merchant_967221c0-2563-4ddb-8680-3f98df060453",
+      "entityId": "merchant_967221c0-2563-4ddb-8680-3f98df060453",
+      "name": "ABG AYAM",
+      "address": "630 Bedok Reservoir Road, #01-67,  S470630;",
+      "postalCode": "470630",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3328267867172,
+      "LON": 103.914307972878,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_6971839a-30e6-4ba2-b1ad-4c5229322c3c",
@@ -64302,6 +64342,26 @@
       "lastResetDate": "2021-12-27"
     },
     {
+      "id": "merchant_80befd90-f052-4afd-9991-d15052fb7888",
+      "entityId": "merchant_80befd90-f052-4afd-9991-d15052fb7888",
+      "name": "BAO ZHI LIN HEALTHCARE",
+      "address": "538 Geylang Road The Arizon Singapore 389493, #02-12,  S389493;",
+      "postalCode": "389493",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31371862266175,
+      "LON": 103.886588867863,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_a502744e-a22b-4968-8301-be2fd401f2e5",
       "entityId": "merchant_a502744e-a22b-4968-8301-be2fd401f2e5",
       "name": "BAO ZHONG BAO BLK 5 BANDA ST",
@@ -64760,6 +64820,26 @@
         }
       },
       "lastResetDate": "2025-06-02"
+    },
+    {
+      "id": "merchant_8a2fc74c-1748-4a74-9877-359ded97d939",
+      "entityId": "merchant_8a2fc74c-1748-4a74-9877-359ded97d939",
+      "name": "BARKOPIA",
+      "address": "1210 Upper Thomson Road Singapore 787126, #01-1210,  S787126;",
+      "postalCode": "787126",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40017050911592,
+      "LON": 103.817817579005,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_80cee24a-57c9-4e3e-817c-7b125e2cfc58",
@@ -68880,6 +68960,26 @@
         }
       },
       "lastResetDate": "2021-10-22"
+    },
+    {
+      "id": "merchant_330aa9d7-4158-42f0-87a1-4020435d5455",
+      "entityId": "merchant_330aa9d7-4158-42f0-87a1-4020435d5455",
+      "name": "BEE HOE",
+      "address": "55 Joo Chiat Place Singapore 427779, #01-01,  S427779;",
+      "postalCode": "427779",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31358834357757,
+      "LON": 103.901133939288,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_e8c6a33d-621d-4d00-af83-eee0f411b62c",
@@ -76942,6 +77042,26 @@
       "lastResetDate": "2022-02-03"
     },
     {
+      "id": "merchant_40ef1e2a-c0dd-4ec2-9bf8-182baeafd077",
+      "entityId": "merchant_40ef1e2a-c0dd-4ec2-9bf8-182baeafd077",
+      "name": "BOMBAY GARDEN",
+      "address": "97 East Coast Road Singapore 428794, #01-97,  S428794;",
+      "postalCode": "428794",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30567773456774,
+      "LON": 103.904162793531,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_978b9091-6e3a-4f0c-b84b-d8d542f2156d",
       "entityId": "merchant_978b9091-6e3a-4f0c-b84b-d8d542f2156d",
       "name": "BON MARCHE MINIMART",
@@ -79900,6 +80020,26 @@
         }
       },
       "lastResetDate": "2023-10-31"
+    },
+    {
+      "id": "merchant_771925e7-d70f-4fcf-a86a-d90435ff827b",
+      "entityId": "merchant_771925e7-d70f-4fcf-a86a-d90435ff827b",
+      "name": "BREAKFAST AT FLUFFYS",
+      "address": "318 Joo Chiat Road Singapore 427569, #01-318,  S427569;",
+      "postalCode": "427569",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30930095783978,
+      "LON": 103.902238217334,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_1ddcf0f5-2e95-4a9d-962b-c9f2e9f010ec",
@@ -83602,6 +83742,26 @@
       "lastResetDate": "2023-04-25"
     },
     {
+      "id": "merchant_0f4b6cb2-5be6-4b7f-bf43-0958b869d739",
+      "entityId": "merchant_0f4b6cb2-5be6-4b7f-bf43-0958b869d739",
+      "name": "CAFE MOSHIKOMU",
+      "address": "169 Still Road Boon Court Singapore 423999, #01-00,  S423999;",
+      "postalCode": "423999",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31576509756053,
+      "LON": 103.905390918103,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_774d1e20-9059-4b45-96b1-e44db7b96c12",
       "entityId": "merchant_774d1e20-9059-4b45-96b1-e44db7b96c12",
       "name": "CAFE PORT",
@@ -83640,6 +83800,26 @@
         }
       },
       "lastResetDate": "2023-09-19"
+    },
+    {
+      "id": "merchant_4d384283-9684-4dd3-b80d-55de25cfd58b",
+      "entityId": "merchant_4d384283-9684-4dd3-b80d-55de25cfd58b",
+      "name": "CAFE WABI SABI JC",
+      "address": "283 Joo Chiat Road Singapore 427537, #01-283,  S427537;",
+      "postalCode": "427537",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31010196968724,
+      "LON": 103.902111041008,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_f8e5aa4f-4b92-4124-b434-2c4e1c54e4a2",
@@ -92122,6 +92302,26 @@
       "lastResetDate": "2025-07-17"
     },
     {
+      "id": "merchant_2940252f-9f4e-4409-a8b7-7bfa65b5714d",
+      "entityId": "merchant_2940252f-9f4e-4409-a8b7-7bfa65b5714d",
+      "name": "CHAT MASALA",
+      "address": "158 Upper East Coast Road Singapore 455254, #01-158,  S455254;",
+      "postalCode": "455254",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31371492924655,
+      "LON": 103.931604155179,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_13aebbb0-be45-4191-8982-44d10c761a9a",
       "entityId": "merchant_13aebbb0-be45-4191-8982-44d10c761a9a",
       "name": "CHATTERS",
@@ -94580,6 +94780,26 @@
         }
       },
       "lastResetDate": "2021-12-14"
+    },
+    {
+      "id": "merchant_83a73d94-2174-45ba-9372-ac3c97988d77",
+      "entityId": "merchant_83a73d94-2174-45ba-9372-ac3c97988d77",
+      "name": "CHENGDU MINOR TUNE",
+      "address": "735 Pasir Ris Street 72 Dbs Ntuc Pasir Ris West Plaza Singapore 510735, #01-300CD,  S510735;",
+      "postalCode": "510735",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37930651921164,
+      "LON": 103.93627211062,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_15d659b3-5b45-4eb4-a095-a7294f0c4ff4",
@@ -103102,6 +103322,26 @@
       "lastResetDate": "2022-04-27"
     },
     {
+      "id": "merchant_e2c0d0c8-ed6f-4013-92f8-704f883b72d9",
+      "entityId": "merchant_e2c0d0c8-ed6f-4013-92f8-704f883b72d9",
+      "name": "CHUAN COURT SICHUAN CUISINE",
+      "address": "532 Macpherson Road Singapore 368219, #01-01,  S368219;",
+      "postalCode": "368219",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33233958632002,
+      "LON": 103.884446746065,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_cef5bc9f-9fb8-4146-9844-e2dbbdf63caf",
       "entityId": "merchant_cef5bc9f-9fb8-4146-9844-e2dbbdf63caf",
       "name": "CHUAN FRIED HOKKIEN PRAWN MEE",
@@ -105460,6 +105700,26 @@
         }
       },
       "lastResetDate": "2022-08-23"
+    },
+    {
+      "id": "merchant_7b4f049c-d751-45a1-bfb3-b50944dfc998",
+      "entityId": "merchant_7b4f049c-d751-45a1-bfb3-b50944dfc998",
+      "name": "CITY BOOK ROOM",
+      "address": "387 Joo Chiat Road The Modules Singapore 427623, #03-02,  S427623;",
+      "postalCode": "427623",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30796049185682,
+      "LON": 103.903830279651,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_9af2cbb8-ccc4-4d08-b8d9-e837d601cdab",
@@ -110860,6 +111120,26 @@
         }
       },
       "lastResetDate": "2025-12-22"
+    },
+    {
+      "id": "merchant_8048590a-0205-4de2-aedf-bb109acb3a25",
+      "entityId": "merchant_8048590a-0205-4de2-aedf-bb109acb3a25",
+      "name": "CREAM AND CUSTARD",
+      "address": "328 Changi Road Singapore 419803, #01-03,  S419803;",
+      "postalCode": "419803",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3180672677589,
+      "LON": 103.908811491066,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_9b0e6ece-7bf0-42fe-8dc3-dceef8423fc7",
@@ -116482,6 +116762,26 @@
       "lastResetDate": "2025-06-12"
     },
     {
+      "id": "merchant_e789d39a-94c7-4efd-8dd9-5985cf57ff64",
+      "entityId": "merchant_e789d39a-94c7-4efd-8dd9-5985cf57ff64",
+      "name": "DAN HEALTHCARE PTE.LTD.",
+      "address": "212 Geylang Road Singapore 389272, #01-212,  S389272;",
+      "postalCode": "389272",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31191063948331,
+      "LON": 103.876756610134,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_26bcb9e1-278a-4e1e-8719-efc41faebf2a",
       "entityId": "merchant_26bcb9e1-278a-4e1e-8719-efc41faebf2a",
       "name": "DAN LAO PP",
@@ -117600,6 +117900,26 @@
         }
       },
       "lastResetDate": "2021-12-07"
+    },
+    {
+      "id": "merchant_0eb32371-c839-46ec-b30f-122cff8a8cc1",
+      "entityId": "merchant_0eb32371-c839-46ec-b30f-122cff8a8cc1",
+      "name": "DAWOOD TRADING & WHOLESALE PTE LTD",
+      "address": "94 Joo Chiat Road Singapore 427388, #01-00,  S427388;",
+      "postalCode": "427388",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31424917188255,
+      "LON": 103.898761208682,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_84f3917c-4ae3-4cbb-b6da-6543e83dff1a",
@@ -123062,6 +123382,26 @@
       "lastResetDate": "2024-07-01"
     },
     {
+      "id": "merchant_2d5f7e79-2356-4a9b-8592-8befb3e9c618",
+      "entityId": "merchant_2d5f7e79-2356-4a9b-8592-8befb3e9c618",
+      "name": "DIM SUM MORE",
+      "address": "125 East Coast Road Singapore 428810, #01-03,  S428810;",
+      "postalCode": "428810",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30605572715893,
+      "LON": 103.904751293639,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_feb1f946-710a-4ae9-a21d-2500e2f5b065",
       "entityId": "merchant_feb1f946-710a-4ae9-a21d-2500e2f5b065",
       "name": "DIM SUM US/CHEONG FUN @HG 681",
@@ -127080,6 +127420,26 @@
         }
       },
       "lastResetDate": "2025-07-18"
+    },
+    {
+      "id": "merchant_15272e58-edeb-4d01-b95b-3d79a9934f08",
+      "entityId": "merchant_15272e58-edeb-4d01-b95b-3d79a9934f08",
+      "name": "DONA MANIS CAKE SHOP",
+      "address": "95 East Coast Road Singapore 428793, #B1-93,  S428793;",
+      "postalCode": "428793",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30565503868043,
+      "LON": 103.904129666996,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_f015ccbd-6728-4c37-b39e-bc08b153cf2e",
@@ -139662,6 +140022,26 @@
       "lastResetDate": "2021-11-05"
     },
     {
+      "id": "merchant_47ce7ec1-467f-420a-a4b8-8fe4514d24e3",
+      "entityId": "merchant_47ce7ec1-467f-420a-a4b8-8fe4514d24e3",
+      "name": "ELEMENTO DEBANIO",
+      "address": "540 Sims Avenue Sims Avenue Centre Singapore 387603, #01-03,  S387603;",
+      "postalCode": "387603",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31616810157098,
+      "LON": 103.889561883558,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_801d9e92-e71e-4d59-9639-f13876e49ed9",
       "entityId": "merchant_801d9e92-e71e-4d59-9639-f13876e49ed9",
       "name": "ELEMENTS BEAUTY SALON",
@@ -141260,6 +141640,26 @@
         }
       },
       "lastResetDate": "2023-11-16"
+    },
+    {
+      "id": "merchant_0d6863b5-b624-4b41-8ae9-15d96ec971bf",
+      "entityId": "merchant_0d6863b5-b624-4b41-8ae9-15d96ec971bf",
+      "name": "ENERGY TCM CLINIC",
+      "address": "355 Changi Road Singapore 419819, #01-01,  S419819;",
+      "postalCode": "419819",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3187573267216,
+      "LON": 103.909742849666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_7ec69e74-7c36-4dca-b3d9-4fa79077a46d",
@@ -164162,6 +164562,26 @@
       "lastResetDate": "2025-07-18"
     },
     {
+      "id": "merchant_2648a85b-b596-4b4c-ad06-957ea4a2bc2f",
+      "entityId": "merchant_2648a85b-b596-4b4c-ad06-957ea4a2bc2f",
+      "name": "FRESH SEAFOOD #01-107",
+      "address": "409 Ang Mo Kio Avenue 10, #01-107,  S560409;",
+      "postalCode": "560409",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36272174657669,
+      "LON": 103.855350672118,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_03c728e6-c102-4573-bae2-bccba32e5a2d",
       "entityId": "merchant_03c728e6-c102-4573-bae2-bccba32e5a2d",
       "name": "FRESH SEAFOOD #01-119 PEK KIO",
@@ -176682,6 +177102,26 @@
       "lastResetDate": "2022-08-19"
     },
     {
+      "id": "merchant_46a71ce9-1e9f-4875-b65e-5ea841eee4d2",
+      "entityId": "merchant_46a71ce9-1e9f-4875-b65e-5ea841eee4d2",
+      "name": "GOLD XIANG CURRY PUFF",
+      "address": "115 Bukit Merah View, #01-12,  S151115;",
+      "postalCode": "151115",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28550445567433,
+      "LON": 103.821823256087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_7df660a7-2b0d-4cb5-8020-8ca5e9dc1c02",
       "entityId": "merchant_7df660a7-2b0d-4cb5-8020-8ca5e9dc1c02",
       "name": "GOLDCITY DIGITAL COMMUNICATION",
@@ -179860,6 +180300,26 @@
         }
       },
       "lastResetDate": "2021-12-01"
+    },
+    {
+      "id": "merchant_b0f7c177-ddf8-46e5-9bed-bb4416668078",
+      "entityId": "merchant_b0f7c177-ddf8-46e5-9bed-bb4416668078",
+      "name": "GP JOO CHIAT CLINIC",
+      "address": "194 Joo Chiat Road Singapore 427465, #01-01,  S427465;",
+      "postalCode": "427465",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31231874616792,
+      "LON": 103.900119580304,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_df2abfd2-706d-485a-b669-c969df80e901",
@@ -184680,6 +185140,26 @@
         }
       },
       "lastResetDate": "2021-11-17"
+    },
+    {
+      "id": "merchant_0c274c84-ef7b-4763-a282-9ee999effd56",
+      "entityId": "merchant_0c274c84-ef7b-4763-a282-9ee999effd56",
+      "name": "GUILT FREE FOOD",
+      "address": "308 Telok Kurau Road Vibes @ East Coast Singapore 423858, #01-23,  S423858;",
+      "postalCode": "423858",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30948276318529,
+      "LON": 103.911720115974,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_7f4d435a-8308-465d-ac48-452bccbf6a6a",
@@ -190660,6 +191140,26 @@
         }
       },
       "lastResetDate": "2021-12-10"
+    },
+    {
+      "id": "merchant_5d1ac245-2fe8-4a45-91e7-c58934b1b78e",
+      "entityId": "merchant_5d1ac245-2fe8-4a45-91e7-c58934b1b78e",
+      "name": "HAIRZ (TPY 185)",
+      "address": "185 Toa Payoh Central Toa Payoh Central Singapore 310185, #02-346,  S310185;",
+      "postalCode": "310185",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33272795858038,
+      "LON": 103.849994231509,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_780a5bb9-21e3-4163-aa28-e026d6c1d6ab",
@@ -206539,7 +207039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-26"
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_6fb345d8-b204-421f-afdf-bc4b2a8292bc",
@@ -214142,6 +214642,26 @@
       "lastResetDate": "2025-06-24"
     },
     {
+      "id": "merchant_5d7c3345-e8d9-4813-a7d2-3f75df7ef75d",
+      "entityId": "merchant_5d7c3345-e8d9-4813-a7d2-3f75df7ef75d",
+      "name": "HONG LIM CURRY PUFF - BUKIT MERAH VIEW",
+      "address": "115 Bukit Merah View, #01-53,  S151115;",
+      "postalCode": "151115",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28550445567433,
+      "LON": 103.821823256087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_32b89149-3514-4867-917d-62bc1d33ed63",
       "entityId": "merchant_32b89149-3514-4867-917d-62bc1d33ed63",
       "name": "HONG LIM CURRY PUFF ( GM )",
@@ -216162,6 +216682,26 @@
       "lastResetDate": "2025-09-30"
     },
     {
+      "id": "merchant_0a85de90-d04c-4db8-8196-86f28e9f051a",
+      "entityId": "merchant_0a85de90-d04c-4db8-8196-86f28e9f051a",
+      "name": "HONGSHENG MIXED VEG RICE (AMK122)",
+      "address": "122 Ang Mo Kio Avenue 3,  S560122;",
+      "postalCode": "560122",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37018860668947,
+      "LON": 103.843413231524,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_4fd75925-133c-480a-8684-e84d6fce41c8",
       "entityId": "merchant_4fd75925-133c-480a-8684-e84d6fce41c8",
       "name": "HONGSHENG MIXED VEGETABLE RICE",
@@ -217860,6 +218400,26 @@
         }
       },
       "lastResetDate": "2025-04-16"
+    },
+    {
+      "id": "merchant_a3635a08-7bb6-4c37-a668-3ebb3ae9f469",
+      "entityId": "merchant_a3635a08-7bb6-4c37-a668-3ebb3ae9f469",
+      "name": "HOUSE OF SAMOSAS",
+      "address": "470 Macpherson Road Singapore 368188, #01-470,  S368188;",
+      "postalCode": "368188",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3319689994907,
+      "LON": 103.882778120442,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_7877041c-7ea1-43b2-a819-7958d0b85b76",
@@ -225500,6 +226060,26 @@
         }
       },
       "lastResetDate": "2023-12-15"
+    },
+    {
+      "id": "merchant_0c6c2aac-d24c-464f-939b-1fce2de52008",
+      "entityId": "merchant_0c6c2aac-d24c-464f-939b-1fce2de52008",
+      "name": "ICONIC BEAUTY (TPY 184)",
+      "address": "184 Toa Payoh Central Toa Payoh Central Singapore 310184, #01-356,  S310184;",
+      "postalCode": "310184",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33259000918315,
+      "LON": 103.849677717253,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_032c7e9b-1693-4deb-a78e-508450affb0d",
@@ -250624,7 +251204,7 @@
     {
       "id": "merchant_f7c7f393-748d-4b04-9a38-839f79a43ad3",
       "entityId": "merchant_f7c7f393-748d-4b04-9a38-839f79a43ad3",
-      "name": "JUNYI KOREAN BBQ",
+      "name": "JUNGYI KOREAN BBQ",
       "address": "3 Jalan Jamal Singapore 457602, #01-01,  S457602;",
       "postalCode": "457602",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -250639,7 +251219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-29"
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_647057ac-dbf4-4f6e-ae5b-1ab6991c4c5f",
@@ -262702,6 +263282,26 @@
       "lastResetDate": "2021-11-12"
     },
     {
+      "id": "merchant_39ae571a-cb6a-4f0c-b4d4-8134e17ee358",
+      "entityId": "merchant_39ae571a-cb6a-4f0c-b4d4-8134e17ee358",
+      "name": "KIM'S PLACE SEAFOOD RESTURANT PTE LTD",
+      "address": "62B Jalan Eunos Singapore 419510, #01-01,  S419510;",
+      "postalCode": "419510",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32169560145059,
+      "LON": 103.905571190916,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_7400613e-a772-4f0b-a43f-e3696c38e680",
       "entityId": "merchant_7400613e-a772-4f0b-a43f-e3696c38e680",
       "name": "KIM'S VIETNAM FOOD",
@@ -263520,6 +264120,26 @@
         }
       },
       "lastResetDate": "2024-06-29"
+    },
+    {
+      "id": "merchant_fd949475-7913-4faf-9c4e-07f37e5015bd",
+      "entityId": "merchant_fd949475-7913-4faf-9c4e-07f37e5015bd",
+      "name": "KIMLY DIM SUM 639 PUNGGOL DRIVE",
+      "address": "639 Punggol Drive, 6,  S820639;",
+      "postalCode": "820639",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39946117845803,
+      "LON": 103.916054498662,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_2d722733-bb0b-4278-89e3-798f856cbe1b",
@@ -267560,6 +268180,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_0cca8803-283d-40b3-9707-70a06022bf35",
+      "entityId": "merchant_0cca8803-283d-40b3-9707-70a06022bf35",
+      "name": "KINGS CART COFFEE FACTORY",
+      "address": "328 Joo Chiat Road Singapore 427585, #01-05,  S427585;",
+      "postalCode": "427585",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3089072395437,
+      "LON": 103.902325960597,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_b250a79c-271d-47e9-8b5b-f0d4ff9a7bdc",
@@ -273942,6 +274582,26 @@
       "lastResetDate": "2023-03-03"
     },
     {
+      "id": "merchant_0550c1d2-d32f-424d-a6a0-90edd904c743",
+      "entityId": "merchant_0550c1d2-d32f-424d-a6a0-90edd904c743",
+      "name": "KUEH PARTY ( PUNGGOL COAST )",
+      "address": "84 Punggol Way, #02-01,  S829911;",
+      "postalCode": "829911",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41455331350836,
+      "LON": 103.908235308668,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_849e5fe1-f8e8-48c5-a57d-eb7eff2b2276",
       "entityId": "merchant_849e5fe1-f8e8-48c5-a57d-eb7eff2b2276",
       "name": "KUEH STALL",
@@ -276160,6 +276820,26 @@
         }
       },
       "lastResetDate": "2021-12-14"
+    },
+    {
+      "id": "merchant_9f5d0eba-9958-41fd-b3a9-51bd68a9099e",
+      "entityId": "merchant_9f5d0eba-9958-41fd-b3a9-51bd68a9099e",
+      "name": "LA SAIGON CAFE",
+      "address": "914 East Coast Road The Domain Singapore 459108, #01-01,  S459108;",
+      "postalCode": "459108",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31205928208952,
+      "LON": 103.924449849436,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_cabe4fdc-0ed6-42bf-88ea-a62389cdf86c",
@@ -290800,6 +291480,26 @@
         }
       },
       "lastResetDate": "2023-02-17"
+    },
+    {
+      "id": "merchant_dd6242b7-d5ec-4ee0-8f2e-fb8bb319cbe9",
+      "entityId": "merchant_dd6242b7-d5ec-4ee0-8f2e-fb8bb319cbe9",
+      "name": "LIMCHA TEAHOUSE",
+      "address": "93 East Coast Road Singapore 428792, #02-01,  S428792;",
+      "postalCode": "428792",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30563040601982,
+      "LON": 103.904090883392,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_b1853e0c-5bf6-443f-aad0-e5a684597dee",
@@ -306462,6 +307162,26 @@
       "lastResetDate": "2025-08-27"
     },
     {
+      "id": "merchant_969db37e-a9da-403d-93af-bc4c0e12f3b7",
+      "entityId": "merchant_969db37e-a9da-403d-93af-bc4c0e12f3b7",
+      "name": "MASALA TANDOOR",
+      "address": "85 East Coast Road Singapore 428787, #01-01,  S428787;",
+      "postalCode": "428787",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30552784616789,
+      "LON": 103.903911294253,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_b3cf1aa5-016b-4590-be79-115fb4c87d0c",
       "entityId": "merchant_b3cf1aa5-016b-4590-be79-115fb4c87d0c",
       "name": "MASALAA BAR",
@@ -306540,6 +307260,26 @@
         }
       },
       "lastResetDate": "2022-07-04"
+    },
+    {
+      "id": "merchant_722a6728-1619-46d6-a60a-8042afad89a1",
+      "entityId": "merchant_722a6728-1619-46d6-a60a-8042afad89a1",
+      "name": "MASMASGROOMERS PET GROOMING CENTRE",
+      "address": "477 Sims Avenue Singapore 387549, #01-01,  S387549;",
+      "postalCode": "387549",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31620828105778,
+      "LON": 103.887489643803,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_7e6c37a9-40a9-4820-ab7f-db466dbbf4ca",
@@ -308840,6 +309580,26 @@
         }
       },
       "lastResetDate": "2025-06-05"
+    },
+    {
+      "id": "merchant_21851559-bce1-4d5e-9fbf-46b1c2c19517",
+      "entityId": "merchant_21851559-bce1-4d5e-9fbf-46b1c2c19517",
+      "name": "MEAT COLLECTIVE",
+      "address": "342 Tanjong Katong Road Singapore 437112, #01-342,  S437112;",
+      "postalCode": "437112",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30373387351391,
+      "LON": 103.89649832916,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_86d0e762-7fb4-41d1-8fd0-e9242e5a44fa",
@@ -333762,6 +334522,26 @@
       "lastResetDate": "2024-05-20"
     },
     {
+      "id": "merchant_6fa1ea5a-cdb1-460a-a1cc-82246f93cfc3",
+      "entityId": "merchant_6fa1ea5a-cdb1-460a-a1cc-82246f93cfc3",
+      "name": "NASI PADANG",
+      "address": "728 Ang Mo Kio Avenue 6,  S560728;",
+      "postalCode": "560728",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37262841608628,
+      "LON": 103.845682928938,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_940c311d-c95d-462a-be1c-cd2f972c8d2f",
       "entityId": "merchant_940c311d-c95d-462a-be1c-cd2f972c8d2f",
       "name": "NASI PADANG",
@@ -337382,6 +338162,26 @@
       "lastResetDate": "2023-01-17"
     },
     {
+      "id": "merchant_ea6442ff-fd19-439e-b1a2-f5d11ab7a556",
+      "entityId": "merchant_ea6442ff-fd19-439e-b1a2-f5d11ab7a556",
+      "name": "NEW JOO GUAN NURSERY",
+      "address": "2 Senja Close, K1,  S677632;",
+      "postalCode": "677632",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38719400415283,
+      "LON": 103.761083976377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_c5bf99f6-c3ec-41cc-bbbc-7d6954370591",
       "entityId": "merchant_c5bf99f6-c3ec-41cc-bbbc-7d6954370591",
       "name": "NEW KORAT MOOKATA (AMK 711)",
@@ -340262,6 +341062,26 @@
       "lastResetDate": "2024-08-06"
     },
     {
+      "id": "merchant_516ad517-6420-42c1-bdbd-07944fc17e56",
+      "entityId": "merchant_516ad517-6420-42c1-bdbd-07944fc17e56",
+      "name": "NIMBLE PAWS PHYSIOTHERAPY PTE. LTD.",
+      "address": "338 Changi Road Mera East Singapore 419977, #01-05B,  S419977;",
+      "postalCode": "419977",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31817526770849,
+      "LON": 103.909292082346,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_880ef910-f994-4e3d-b286-c69bea21c556",
       "entityId": "merchant_880ef910-f994-4e3d-b286-c69bea21c556",
       "name": "NINA BEAUTY & NAIL",
@@ -341640,6 +342460,26 @@
         }
       },
       "lastResetDate": "2021-11-23"
+    },
+    {
+      "id": "merchant_b74874b0-6f7f-4565-a5e8-6d93b31805d1",
+      "entityId": "merchant_b74874b0-6f7f-4565-a5e8-6d93b31805d1",
+      "name": "NO ORDINARY CHICKEN",
+      "address": "85 Redhill Lane, #01-43,  S150085;",
+      "postalCode": "150085",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28730751501552,
+      "LON": 103.818311195307,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_a8f00483-bc38-4819-b750-ea287efaf5ba",
@@ -348139,7 +348979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-26"
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_ebd406d2-2bc4-42b0-b982-942fe41b3e9c",
@@ -358662,6 +359502,26 @@
       "lastResetDate": "2025-08-01"
     },
     {
+      "id": "merchant_4e17f7bf-e6d1-4c3b-83e8-0f1ea5078e55",
+      "entityId": "merchant_4e17f7bf-e6d1-4c3b-83e8-0f1ea5078e55",
+      "name": "PERANAKAN MANSION",
+      "address": "283 Joo Chiat Road Singapore 427537, #02-283A,  S427537;",
+      "postalCode": "427537",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31010196968724,
+      "LON": 103.902111041008,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_f87f6490-20f7-421d-b1b7-32865063de7c",
       "entityId": "merchant_f87f6490-20f7-421d-b1b7-32865063de7c",
       "name": "PERANAKAN SHOP",
@@ -359000,6 +359860,26 @@
         }
       },
       "lastResetDate": "2024-12-27"
+    },
+    {
+      "id": "merchant_1c5b84d3-ab71-49d8-b124-7eec56788ccf",
+      "entityId": "merchant_1c5b84d3-ab71-49d8-b124-7eec56788ccf",
+      "name": "PET COACH",
+      "address": "1 Figaro Street Opera Estate Singapore 458322, #01-1D,  S458322;",
+      "postalCode": "458322",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31579743580014,
+      "LON": 103.925990414105,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_a31bf0b4-54ab-4b77-8612-803dc84d7c78",
@@ -366359,7 +367239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-29"
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_70de8458-ca30-4365-890d-5ffc41aa830e",
@@ -374102,6 +374982,26 @@
       "lastResetDate": "2023-08-25"
     },
     {
+      "id": "merchant_f3bfcd3b-4f01-40a1-9e99-adca988cd508",
+      "entityId": "merchant_f3bfcd3b-4f01-40a1-9e99-adca988cd508",
+      "name": "QUAN YUAN FISHBALL",
+      "address": "628 Ang Mo Kio Avenue 4, #01-210,  S560628;",
+      "postalCode": "560628",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38098761665454,
+      "LON": 103.840628087484,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_982e6adf-6cc8-4345-9611-e0076ce18171",
       "entityId": "merchant_982e6adf-6cc8-4345-9611-e0076ce18171",
       "name": "QUAN YUAN FRESH FRUIT JUICE",
@@ -379022,6 +379922,26 @@
       "lastResetDate": "2022-01-06"
     },
     {
+      "id": "merchant_005aefc4-f21d-442d-89ed-52a4a14b497a",
+      "entityId": "merchant_005aefc4-f21d-442d-89ed-52a4a14b497a",
+      "name": "REJUV FOOTWORK",
+      "address": "496 Changi Road Singapore 419902, #01-01,  S419902;",
+      "postalCode": "419902",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31921460732859,
+      "LON": 103.91394998798,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_6bf4d53f-b312-4254-ae7a-e69b43ad27be",
       "entityId": "merchant_6bf4d53f-b312-4254-ae7a-e69b43ad27be",
       "name": "REJUV FOOTWORK (AMK)",
@@ -379040,6 +379960,26 @@
         }
       },
       "lastResetDate": "2024-05-16"
+    },
+    {
+      "id": "merchant_06c2c086-fdad-48fd-a5bb-d0afef448c52",
+      "entityId": "merchant_06c2c086-fdad-48fd-a5bb-d0afef448c52",
+      "name": "REJUV TCM",
+      "address": "324 Changi Road Singapore 419799, #01-324M,  S419799;",
+      "postalCode": "419799",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31786851894401,
+      "LON": 103.907753065671,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_e5026d1c-134f-470f-a785-fb07bc76b45a",
@@ -418262,6 +419202,66 @@
       "lastResetDate": "2025-04-11"
     },
     {
+      "id": "merchant_2eb17553-cae5-4558-9fa3-68a1e849fc66",
+      "entityId": "merchant_2eb17553-cae5-4558-9fa3-68a1e849fc66",
+      "name": "SMILE CENTRE FOR DENTAL EXCELLENCE PTE.LTD.",
+      "address": "231 East Coast Road Singapore 428927, #03-231B,  S428927;",
+      "postalCode": "428927",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30776854389657,
+      "LON": 103.907326228092,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
+      "id": "merchant_571d4966-cc3a-4caf-b166-a6b27a1cc2cb",
+      "entityId": "merchant_571d4966-cc3a-4caf-b166-a6b27a1cc2cb",
+      "name": "SMILE DENTAL CENTRE FOR AESTHETICS PTE.LTD.",
+      "address": "231 East Coast Road Singapore 428927, #02-231A,  S428927;",
+      "postalCode": "428927",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30776854389657,
+      "LON": 103.907326228092,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
+      "id": "merchant_b60e5ed2-7b08-442a-984c-841d2a5e52a4",
+      "entityId": "merchant_b60e5ed2-7b08-442a-984c-841d2a5e52a4",
+      "name": "SMILE DENTAL GROUP",
+      "address": "231 East Coast Road Singapore 428927, #01-231,  S428927;",
+      "postalCode": "428927",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30776854389657,
+      "LON": 103.907326228092,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_18bb928a-327a-4fff-a835-d63fe0733779",
       "entityId": "merchant_18bb928a-327a-4fff-a835-d63fe0733779",
       "name": "SMILE DENTAL MARINE TERRACE PTE LTD",
@@ -424282,6 +425282,26 @@
       "lastResetDate": "2022-08-06"
     },
     {
+      "id": "merchant_b997aa68-6a33-4c19-b552-43667eae4057",
+      "entityId": "merchant_b997aa68-6a33-4c19-b552-43667eae4057",
+      "name": "SOUTH UNION PARK",
+      "address": "101 Jalan Kembangan Singapore 419139, #01-101,  S419139;",
+      "postalCode": "419139",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32504473217765,
+      "LON": 103.913219133597,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_40703c26-3ba1-41f8-a32e-1cd216a218ab",
       "entityId": "merchant_40703c26-3ba1-41f8-a32e-1cd216a218ab",
       "name": "SOUTH WIN LASER PTE LTD",
@@ -428222,6 +429242,26 @@
       "lastResetDate": "2024-03-28"
     },
     {
+      "id": "merchant_3426591d-ab2c-45c6-959a-3a971ea8919a",
+      "entityId": "merchant_3426591d-ab2c-45c6-959a-3a971ea8919a",
+      "name": "ST HOUSEHOLD TRADING (TBC)",
+      "address": "9 Telok Blangah Crescent Singapore 090009, #01-133,  S090009;",
+      "postalCode": "090009",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2774078592663,
+      "LON": 103.819408460491,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_7f8ad0a2-451f-4980-96bc-e8461225aba1",
       "entityId": "merchant_7f8ad0a2-451f-4980-96bc-e8461225aba1",
       "name": "ST KERRY",
@@ -428760,6 +429800,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_5c86d9db-1ccf-4e04-8582-25a023df0310",
+      "entityId": "merchant_5c86d9db-1ccf-4e04-8582-25a023df0310",
+      "name": "STAR BAGUETTE 345 JURONG",
+      "address": "345 Jurong East Street 31 Dbs Ntuc Jurong East Street 31/345 Singapore 600345, #01-19,  S600345;",
+      "postalCode": "600345",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34551210586752,
+      "LON": 103.73121914575,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_0c46fd9c-2596-490f-a33e-d49ade2a3bd7",
@@ -430880,6 +431940,26 @@
         }
       },
       "lastResetDate": "2025-09-19"
+    },
+    {
+      "id": "merchant_56da5eac-fe8c-40f0-a254-483b1ff22832",
+      "entityId": "merchant_56da5eac-fe8c-40f0-a254-483b1ff22832",
+      "name": "STREETS OF CAIRO JE134",
+      "address": "134 Jurong Gateway Road,  S600134;",
+      "postalCode": "600134",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33399413849743,
+      "LON": 103.738819152518,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_28217e0d-9bec-48b8-a547-2f0db417c09f",
@@ -443922,6 +445002,26 @@
       "lastResetDate": "2025-07-23"
     },
     {
+      "id": "merchant_bed25019-86f8-4341-a348-b9627110f0de",
+      "entityId": "merchant_bed25019-86f8-4341-a348-b9627110f0de",
+      "name": "TASH TISH TOSH",
+      "address": "1000 East Coast Parkway Singapore 449876, #01-1000,  S449876;",
+      "postalCode": "449876",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30200053040251,
+      "LON": 103.914145450611,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_ebdd385e-d06e-4061-b53f-9f409306709f",
       "entityId": "merchant_ebdd385e-d06e-4061-b53f-9f409306709f",
       "name": "TASTE HAINANESE CHICKEN CHOP RICE",
@@ -450702,6 +451802,26 @@
       "lastResetDate": "2024-03-20"
     },
     {
+      "id": "merchant_22c8cce6-0397-41fe-8c51-7633b38f1f8e",
+      "entityId": "merchant_22c8cce6-0397-41fe-8c51-7633b38f1f8e",
+      "name": "THAI PAN RESTUARANT",
+      "address": "13 Siglap Road Mandarin Gardens Singapore 448911, #01-01,  S448911;",
+      "postalCode": "448911",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30750316771296,
+      "LON": 103.924238318099,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_ddc998ff-c0ba-4ff1-819c-45eba9efeede",
       "entityId": "merchant_ddc998ff-c0ba-4ff1-819c-45eba9efeede",
       "name": "THAI PARADISE",
@@ -453520,6 +454640,26 @@
         }
       },
       "lastResetDate": "2025-06-18"
+    },
+    {
+      "id": "merchant_e4e472dc-1da1-43dc-85f0-2205eb12e60d",
+      "entityId": "merchant_e4e472dc-1da1-43dc-85f0-2205eb12e60d",
+      "name": "THE DURIAN BAKERY",
+      "address": "2 Jalan Lokam Kensington Square Singapore 537846, #01-01,  S537846;",
+      "postalCode": "537846",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34560719747232,
+      "LON": 103.882695128109,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_30655dd7-1ed0-4c2f-85a3-33c12b5e0334",
@@ -457640,6 +458780,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_496cd820-4041-46c0-9966-e07557585af2",
+      "entityId": "merchant_496cd820-4041-46c0-9966-e07557585af2",
+      "name": "THE VIET ROTI JOO CHIAT",
+      "address": "290A Joo Chiat Road Singapore 427542, #01-290K,  S427542;",
+      "postalCode": "427542",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31040620563721,
+      "LON": 103.901482493391,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_84984f64-f2dd-46cf-9ed7-f49f55f97fa8",
@@ -467722,6 +468882,26 @@
       "lastResetDate": "2021-11-24"
     },
     {
+      "id": "merchant_0e2a91c2-0041-46d4-874f-8f4f77455ac0",
+      "entityId": "merchant_0e2a91c2-0041-46d4-874f-8f4f77455ac0",
+      "name": "TOP CHOICE SUPERMARKET",
+      "address": "84 Bayshore Road Costa Del Sol Singapore 469994, #01-38,  S469994;",
+      "postalCode": "469994",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31218816492753,
+      "LON": 103.940116990514,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_f40db1e7-3e88-42d2-a430-a65f97c7a7a6",
       "entityId": "merchant_f40db1e7-3e88-42d2-a430-a65f97c7a7a6",
       "name": "TOP CUT",
@@ -469420,6 +470600,26 @@
         }
       },
       "lastResetDate": "2023-04-18"
+    },
+    {
+      "id": "merchant_187ef1d2-0738-4187-90ed-989f3b5f9908",
+      "entityId": "merchant_187ef1d2-0738-4187-90ed-989f3b5f9908",
+      "name": "TRADITIONAL JOO CHIAT PRAWN MEE",
+      "address": "59 Joo Chiat Place Singapore 427783, #01-59,  S427783;",
+      "postalCode": "427783",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31359319953634,
+      "LON": 103.901266362397,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_6c507f0a-0d6e-4f45-a568-d8382a499899",
@@ -474120,6 +475320,26 @@
         }
       },
       "lastResetDate": "2021-10-22"
+    },
+    {
+      "id": "merchant_3c62094e-c2b6-41c3-a6f2-9358b30fb581",
+      "entityId": "merchant_3c62094e-c2b6-41c3-a6f2-9358b30fb581",
+      "name": "UMAMI",
+      "address": "709 Geylang Road Singapore 389624, #01-01,  S389624;",
+      "postalCode": "389624",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31484500760924,
+      "LON": 103.889805442953,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_75715225-7619-426e-93b4-3cd54d714cb2",
@@ -479542,6 +480762,26 @@
       "lastResetDate": "2022-08-23"
     },
     {
+      "id": "merchant_231d02ca-f362-4679-acfb-62421f75bcdb",
+      "entityId": "merchant_231d02ca-f362-4679-acfb-62421f75bcdb",
+      "name": "VATAN SE",
+      "address": "368 Tanjong Katong Road Singapore 437125, #01-01,  S437125;",
+      "postalCode": "437125",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30293161004963,
+      "LON": 103.896723163601,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_ea783247-8c5d-4fab-91b8-71755ce8d99c",
       "entityId": "merchant_ea783247-8c5d-4fab-91b8-71755ce8d99c",
       "name": "VB MAJUS ENTERPRISE@31 COMMONWEALTH",
@@ -481242,6 +482482,26 @@
       "lastResetDate": "2024-06-11"
     },
     {
+      "id": "merchant_df657413-55c9-4775-8c9b-7b80b3883a47",
+      "entityId": "merchant_df657413-55c9-4775-8c9b-7b80b3883a47",
+      "name": "VEGGYYA",
+      "address": "355 East Coast Road Caltex East Coast Singapore 428972, #01-355,  S428972;",
+      "postalCode": "428972",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30906128470828,
+      "LON": 103.91080664543,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_4f022b7d-86d0-4e6f-821a-ebdc84e3e5d0",
       "entityId": "merchant_4f022b7d-86d0-4e6f-821a-ebdc84e3e5d0",
       "name": "VEL'S MARRT",
@@ -482740,6 +484000,26 @@
         }
       },
       "lastResetDate": "2022-01-07"
+    },
+    {
+      "id": "merchant_7ba996be-32f8-4239-ac43-ef0f0f06f04b",
+      "entityId": "merchant_7ba996be-32f8-4239-ac43-ef0f0f06f04b",
+      "name": "VINCENT'S DENTAL SURGERY",
+      "address": "245 Tanjong Katong Road Singapore 437033, #01-01,  S437033;",
+      "postalCode": "437033",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30831756015406,
+      "LON": 103.895218636579,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_89482367-df85-46c0-88e5-0eaa3d0c50b6",
@@ -510302,6 +511582,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_beb9c902-6abd-4c0f-bb20-995083a75bcd",
+      "entityId": "merchant_beb9c902-6abd-4c0f-bb20-995083a75bcd",
+      "name": "YES NATURAL BAKERY",
+      "address": "55 Lorong 27 Geylang Singapore 388183, #01-55,  S388183;",
+      "postalCode": "388183",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31579846292226,
+      "LON": 103.883663418348,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_5f0f4582-e044-4178-ba5c-4399e54b2485",
       "entityId": "merchant_5f0f4582-e044-4178-ba5c-4399e54b2485",
       "name": "YES NATURAL PTE LTD",
@@ -510320,6 +511620,26 @@
         }
       },
       "lastResetDate": "2022-04-28"
+    },
+    {
+      "id": "merchant_6cffe126-2ac0-45da-99d2-0736b1949943",
+      "entityId": "merchant_6cffe126-2ac0-45da-99d2-0736b1949943",
+      "name": "YES NATURAL RETAIL",
+      "address": "51 Lorong 27 Geylang Singapore 388181, #01-51,  S388181;",
+      "postalCode": "388181",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31568996929977,
+      "LON": 103.883644062844,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_02ef010d-a0b2-44c8-b1b0-26add29b45d5",
@@ -512280,6 +513600,26 @@
         }
       },
       "lastResetDate": "2021-10-26"
+    },
+    {
+      "id": "merchant_82fe3d8a-a4a8-4499-8d92-ede645ea26b8",
+      "entityId": "merchant_82fe3d8a-a4a8-4499-8d92-ede645ea26b8",
+      "name": "YI JIA SOUTH VILLAGE SEAFOOD RESTAURANT",
+      "address": "544 Macpherson Road Singapore 368225, #01-01,  S368225;",
+      "postalCode": "368225",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33241203896963,
+      "LON": 103.88477564866,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_75560915-9e4e-464c-ac39-df84140396d5",
@@ -518262,6 +519602,26 @@
       "lastResetDate": "2021-10-28"
     },
     {
+      "id": "merchant_613cf149-5a67-4ade-886f-0751a517f692",
+      "entityId": "merchant_613cf149-5a67-4ade-886f-0751a517f692",
+      "name": "YOU KEE DUCK RICE",
+      "address": "21 Canberra Link, 46,  S756973;",
+      "postalCode": "756973",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44826336410158,
+      "LON": 103.82276363189,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
+    },
+    {
       "id": "merchant_882bd6a2-ef39-4c91-8da1-ef51c4d0de18",
       "entityId": "merchant_882bd6a2-ef39-4c91-8da1-ef51c4d0de18",
       "name": "YOU KEE DUCK RICE",
@@ -518280,6 +519640,26 @@
         }
       },
       "lastResetDate": "2022-12-28"
+    },
+    {
+      "id": "merchant_861f65ee-a8bc-4633-b027-2c67a2ba96b8",
+      "entityId": "merchant_861f65ee-a8bc-4633-b027-2c67a2ba96b8",
+      "name": "YOU KEE XO PTE.LTD.",
+      "address": "43 Joo Chiat Place Singapore 427767, #01-01,  S427767;",
+      "postalCode": "427767",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31355782405737,
+      "LON": 103.900820906289,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_c56bc6fe-c44e-49a7-87a1-51e46fec87e2",
@@ -522380,6 +523760,26 @@
         }
       },
       "lastResetDate": "2021-11-12"
+    },
+    {
+      "id": "merchant_6bfaa599-8798-4ee4-8f96-ad505418e48c",
+      "entityId": "merchant_6bfaa599-8798-4ee4-8f96-ad505418e48c",
+      "name": "YUM CHA RESTAURANT",
+      "address": "6 Changi Business Park Avenue 1 Ue Bizhub East Singapore 486017, #01-33,  S486017;",
+      "postalCode": "486017",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33535677709911,
+      "LON": 103.963892243026,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2025-12-30"
     },
     {
       "id": "merchant_a729b1a7-c3ea-4448-a6f5-470622fbf6d8",
