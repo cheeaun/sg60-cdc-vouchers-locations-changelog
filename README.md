@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-01
+
+</summary>
+
+Total locations: 26,574 → 26,596
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 21 OLD AIRPORT WANTON NOODLE 605 | 605 Yishun Street 61,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | ADAMS FAMILY CATERING PTE. LTD. | 324 Lavender Street Singapore 338822, #01-01,  S338822; | <span title="1.31569661388633,103.859380318699">1.31570, 103.85938</span> |
+  | AIK GUAN PET TRADING | 197 Sims Avenue Singapore 387502, #01-01,  S387502; | <span title="1.31482407092867,103.880281682209">1.31482, 103.88028</span> |
+  | AL-MADINA KITCHEN | 38 Lorong 11 Geylang Road,  S388730; | <span title="1.31369153395811,103.876922711561">1.31369, 103.87692</span> |
+  | AM MOHAMED FOOD | 51 Old Airport Road, #01-46,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | BC LOR MEE SINCE 1962 (AMK 628) | 628 Ang Mo Kio Avenue 4, #01-86,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | BUNGA RAYA PRATA CORNER | 202C Woodleigh Link, #01-09,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | BUTTER STUDIO | 147 Jalan Besar Little India Conservation Area Singapore 208865, #01-00,  S208865; | <span title="1.30717589154174,103.856240804069">1.30718, 103.85624</span> |
+  | CANADIAN 2 FOR 1 PIZZA | 369 Sembawang Road Sembawang Cottage Singapore 758382, #01-2,  S758382; | <span title="1.42690781299771,103.826051896017">1.42691, 103.82605</span> |
+  | COBA KEDAI KOPI | 20 Beatty Road Singapore 209947, #01-01,  S209947; | <span title="1.31378868964032,103.859325383515">1.31379, 103.85933</span> |
+  | FENG JI CHICKEN RICE | 225 River Valley Road Singapore 238283, #01-00,  S238283; | <span title="1.29373983732216,103.842252250489">1.29374, 103.84225</span> |
+  | HONGXING HANDMADE FISHBALL (212 BIDADARI) | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | JENNY BEAUTY & HAIR STUDIO | 399 Yung Sheng Road Dbs Ntuc Taman Jurong Shopping Centre Singapore 610399, #01-29,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | JUZ BREAD (465 FV) | 465 Fernvale Road Fernvale Vines Singapore 790465, #01-02,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | KNS RESTAURANT (YCK CC) | 50 Ang Mo Kio Street 61 Yio Chu Kang Community Club Singapore 569163, #01-02,  S569163; | <span title="1.38132578567055,103.841450468671">1.38133, 103.84145</span> |
+  | MDM TCM HEALTH MANAGEMENT CENTER | 255 Jalan Kayu Jalan Kayu Estate Singapore 799482, #01-255,  S799482; | <span title="1.39673338074763,103.872880621099">1.39673, 103.87288</span> |
+  | MOHAMMAD HABIB & SONS PTE. LTD. | 54 Onan Road Singapore 424502, #01-01,  S424502; | <span title="1.31466193603373,103.897682004732">1.31466, 103.89768</span> |
+  | NUR ANI CUISINE | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | SINAR SEAFOOD (376 GOMBAK) | 376 Bukit Batok Street 31,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | THO HANG LEONG | 180 Joo Chiat Road Singapore 427451, #01-01,  S427451; | <span title="1.31251681723137,103.899876823342">1.31252, 103.89988</span> |
+  | TURF N TIDE | 531 Ang Mo Kio Avenue 10, 1,  S560531; | <span title="1.37332712966953,103.854382572609">1.37333, 103.85438</span> |
+  | ZHAN FISH SOUP | 527 Ang Mo Kio Avenue 10, #01-132,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2025-12-31
 
 </summary>
