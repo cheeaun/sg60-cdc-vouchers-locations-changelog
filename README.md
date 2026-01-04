@@ -13,6 +13,35 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-04
+
+</summary>
+
+Total locations: 25,901 → 25,905
+
+- <details><summary>Added (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | E PIN HONG MALA HOTPOT 304 WOODLAND | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | HAPPY & JOY TRADING | 961 Jurong West Street 92 Hdb-jurong West Singapore 640961, #01-190,  S640961; | <span title="1.34128694894302,103.692069415924">1.34129, 103.69207</span> |
+  | HONG LIM CURRY PUFF @ BLK 101 CHONG PANG | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | SENSURE BEAUTE | 422 Ang Mo Kio Avenue 3 Chong Boon View Singapore 560422, #01-2540,  S560422; | <span title="1.36799988809778,103.851873942231">1.36800, 103.85187</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ADONIS NUSKIN PTE LTD BEDOK | <del>Bedok North Street 1, #01-111,  S460213;</del><br>205 Bedok North Street 1, #01-373,  S460205; | <del title="1.32635298072477,103.932637214105">1.32635, 103.93264</del><br><span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-03
 
 </summary>

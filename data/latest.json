@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03 Jan 2026",
+  "lastUpdated": "04 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -30285,11 +30285,11 @@
       "id": "merchant_164d1174-62d4-403b-b096-138d77fb0775",
       "entityId": "merchant_164d1174-62d4-403b-b096-138d77fb0775",
       "name": "ADONIS NUSKIN PTE LTD BEDOK",
-      "address": "Bedok North Street 1, #01-111,  S460213;",
-      "postalCode": "460213",
+      "address": "205 Bedok North Street 1, #01-373,  S460205;",
+      "postalCode": "460205",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32635298072477,
-      "LON": 103.932637214105,
+      "LAT": 1.32592675434667,
+      "LON": 103.930808082635,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -30299,7 +30299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-14"
+      "lastResetDate": "2026-01-03"
     },
     {
       "id": "merchant_f9665825-636b-4d88-a726-0892017d4cf4",
@@ -131402,6 +131402,26 @@
       "lastResetDate": "2025-09-24"
     },
     {
+      "id": "merchant_e71b9e66-f08f-4cc3-b3e8-3160b53c1395",
+      "entityId": "merchant_e71b9e66-f08f-4cc3-b3e8-3160b53c1395",
+      "name": "E PIN HONG MALA HOTPOT 304 WOODLAND",
+      "address": "304 Woodlands Street 31,  S730304;",
+      "postalCode": "730304",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42989255980863,
+      "LON": 103.773853927578,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-03"
+    },
+    {
       "id": "merchant_918df556-70e0-48c6-8f39-6b4daa9d5af1",
       "entityId": "merchant_918df556-70e0-48c6-8f39-6b4daa9d5af1",
       "name": "E Q FURNISHING PTE LTD",
@@ -190682,6 +190702,26 @@
       "lastResetDate": "2025-09-22"
     },
     {
+      "id": "merchant_2d8f24ad-b58d-4ba0-9c4e-4d12a0bb5e9b",
+      "entityId": "merchant_2d8f24ad-b58d-4ba0-9c4e-4d12a0bb5e9b",
+      "name": "HAPPY & JOY TRADING",
+      "address": "961 Jurong West Street 92 Hdb-jurong West Singapore 640961, #01-190,  S640961;",
+      "postalCode": "640961",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34128694894302,
+      "LON": 103.692069415924,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-03"
+    },
+    {
       "id": "merchant_85b02e0b-7491-4807-a6c6-54a39c59578e",
       "entityId": "merchant_85b02e0b-7491-4807-a6c6-54a39c59578e",
       "name": "HAPPY 5566",
@@ -209420,6 +209460,26 @@
         }
       },
       "lastResetDate": "2025-07-17"
+    },
+    {
+      "id": "merchant_dc38a11b-1dd5-46e2-a091-607fcd77c794",
+      "entityId": "merchant_dc38a11b-1dd5-46e2-a091-607fcd77c794",
+      "name": "HONG LIM CURRY PUFF @ BLK 101 CHONG PANG",
+      "address": "101 Yishun Avenue 5,  S760101;",
+      "postalCode": "760101",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.4305357538408,
+      "LON": 103.827667722074,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-03"
     },
     {
       "id": "merchant_ce7de9e7-46d8-4dce-a85e-1200e8db87ab",
@@ -390120,6 +390180,26 @@
         }
       },
       "lastResetDate": "2025-09-24"
+    },
+    {
+      "id": "merchant_22acac52-5d60-419a-9e1e-427692c094b8",
+      "entityId": "merchant_22acac52-5d60-419a-9e1e-427692c094b8",
+      "name": "SENSURE BEAUTE",
+      "address": "422 Ang Mo Kio Avenue 3 Chong Boon View Singapore 560422, #01-2540,  S560422;",
+      "postalCode": "560422",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36799988809778,
+      "LON": 103.851873942231,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-03"
     },
     {
       "id": "merchant_bed331b7-9b83-489b-b92c-0a62fc24f369",
