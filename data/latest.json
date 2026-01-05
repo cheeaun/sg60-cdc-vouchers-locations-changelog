@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "04 Jan 2026",
+  "lastUpdated": "05 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -224785,11 +224785,11 @@
       "id": "merchant_6ba95329-9e77-4b05-b055-c9f51485ac82",
       "entityId": "merchant_6ba95329-9e77-4b05-b055-c9f51485ac82",
       "name": "ISABEL BEAUTY CREATION",
-      "address": "717 Yishun Street 11, #01-317,  S760717;",
-      "postalCode": "760717",
+      "address": "376 Bukit Batok Street 31, #01-102,  S650376;",
+      "postalCode": "650376",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.42575233813242,
-      "LON": 103.828104354933,
+      "LAT": 1.35831705249927,
+      "LON": 103.749579868748,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -224799,7 +224799,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-07-13"
+      "lastResetDate": "2026-01-04"
     },
     {
       "id": "merchant_b5e44dfe-7dca-441e-a4d5-346d3df5d9f7",

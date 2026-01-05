@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-05
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ISABEL BEAUTY CREATION | <del>717 Yishun Street 11, #01-317,  S760717;</del><br>376 Bukit Batok Street 31, #01-102,  S650376; | <del title="1.42575233813242,103.828104354933">1.42575, 103.82810</del><br><span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-04
 
 </summary>
