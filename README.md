@@ -13,6 +13,29 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-06
+
+</summary>
+
+Total locations: 25,905 → 25,911
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AKHIL TRADERS PTE LTD | 123 Hougang Avenue 1 Hdb-hougang Singapore 530123, #01-1424,  S530123; | <span title="1.35338313541393,103.886258951798">1.35338, 103.88626</span> |
+  | JING HOUSE YONG TAU FOO | Tampines Street 32,  S529286; | <span title="1.35436493607477,103.960042189097">1.35436, 103.96004</span> |
+  | JS DUCK ROASTED DELIGHTS (312A SUMANG LINK) | 312A Sumang Link, ST7,  S821312; | <span title="1.41081926900094,103.900371677782">1.41082, 103.90037</span> |
+  | K.VEGGIE | 48A Tanglin Halt Road, #01-09,  S148813; | <span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+  | KASHMIRA INDIAN MUSLIM FOOD (AMK 232) | 232 Ang Mo Kio Avenue 3,  S560232; | <span title="1.36834606813391,103.837196046409">1.36835, 103.83720</span> |
+  | MAN MAN HAINANESE CHICKEN RICE | 163 Bukit Merah Central, #02-13,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-05
 
 </summary>

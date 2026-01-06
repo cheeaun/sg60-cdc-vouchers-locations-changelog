@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05 Jan 2026",
+  "lastUpdated": "06 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -23579,7 +23579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-05"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_9295fc71-fd58-4a9d-83e5-6ed191474350",
@@ -38580,6 +38580,26 @@
         }
       },
       "lastResetDate": "2022-06-28"
+    },
+    {
+      "id": "merchant_b2b1496b-0470-4fbb-bbda-6c17e0ebc416",
+      "entityId": "merchant_b2b1496b-0470-4fbb-bbda-6c17e0ebc416",
+      "name": "AKHIL TRADERS PTE LTD",
+      "address": "123 Hougang Avenue 1 Hdb-hougang Singapore 530123, #01-1424,  S530123;",
+      "postalCode": "530123",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35338313541393,
+      "LON": 103.886258951798,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_61184d06-3263-4b84-83ab-aff6507a5fd9",
@@ -78719,7 +78739,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-07-12"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_b1908443-f471-480e-aeb9-30e7d35b46c5",
@@ -94419,7 +94439,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2021-12-28"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_5b488765-af82-4444-834c-038ad182da4b",
@@ -104099,7 +104119,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-03-27"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_1510924e-15d9-48de-adab-e199314e8c70",
@@ -234959,7 +234979,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-07-11"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_f496688e-dc9c-4539-bebd-07db51550329",
@@ -234979,7 +234999,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-07-11"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_105a03d5-6aad-489b-a2d9-c3303f727f03",
@@ -238860,6 +238880,26 @@
         }
       },
       "lastResetDate": "2025-06-24"
+    },
+    {
+      "id": "merchant_cbdd216b-7396-46c1-a223-7d4e56b130ce",
+      "entityId": "merchant_cbdd216b-7396-46c1-a223-7d4e56b130ce",
+      "name": "JING HOUSE YONG TAU FOO",
+      "address": "Tampines Street 32,  S529286;",
+      "postalCode": "529286",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35436493607477,
+      "LON": 103.960042189097,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_881d9f28-b3d4-4b43-9ad1-d66a043c17bb",
@@ -243082,6 +243122,26 @@
       "lastResetDate": "2023-08-29"
     },
     {
+      "id": "merchant_9ccbb16e-1c7a-4706-90bf-b26a0851be77",
+      "entityId": "merchant_9ccbb16e-1c7a-4706-90bf-b26a0851be77",
+      "name": "JS DUCK ROASTED DELIGHTS (312A SUMANG LINK)",
+      "address": "312A Sumang Link, ST7,  S821312;",
+      "postalCode": "821312",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41081926900094,
+      "LON": 103.900371677782,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
+    },
+    {
       "id": "merchant_787bae90-2c2d-4c94-a0c3-5e149a53afa3",
       "entityId": "merchant_787bae90-2c2d-4c94-a0c3-5e149a53afa3",
       "name": "JS ECONOMIC BEE HOON",
@@ -246962,6 +247022,26 @@
       "lastResetDate": "2021-12-17"
     },
     {
+      "id": "merchant_76c9e0ca-f455-4f83-a82e-8d65b4feb156",
+      "entityId": "merchant_76c9e0ca-f455-4f83-a82e-8d65b4feb156",
+      "name": "K.VEGGIE",
+      "address": "48A Tanglin Halt Road, #01-09,  S148813;",
+      "postalCode": "148813",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30054407507427,
+      "LON": 103.797737980247,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
+    },
+    {
       "id": "merchant_68d6ed4d-1492-42ee-9d1c-9c7bcad26853",
       "entityId": "merchant_68d6ed4d-1492-42ee-9d1c-9c7bcad26853",
       "name": "K&H PAPER TRADING",
@@ -249820,6 +249900,26 @@
         }
       },
       "lastResetDate": "2024-12-02"
+    },
+    {
+      "id": "merchant_c71739c9-41ed-459e-afdc-af18693ae82a",
+      "entityId": "merchant_c71739c9-41ed-459e-afdc-af18693ae82a",
+      "name": "KASHMIRA INDIAN MUSLIM FOOD (AMK 232)",
+      "address": "232 Ang Mo Kio Avenue 3,  S560232;",
+      "postalCode": "560232",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36834606813391,
+      "LON": 103.837196046409,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_321b317a-327c-457a-8c7a-5e7e925a6121",
@@ -288839,7 +288939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-09"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_9d72f929-f063-4a9a-974a-72ff2e324fff",
@@ -296679,7 +296779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-07-02"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_e83612f4-a594-4f98-975d-aad47850ca58",
@@ -296739,7 +296839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-18"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_cc773ac8-c2cf-486b-8895-e4e2c2ae79c3",
@@ -296780,6 +296880,26 @@
         }
       },
       "lastResetDate": "2021-10-20"
+    },
+    {
+      "id": "merchant_a6edcd00-b9ae-4a13-836f-f95209c982fd",
+      "entityId": "merchant_a6edcd00-b9ae-4a13-836f-f95209c982fd",
+      "name": "MAN MAN HAINANESE CHICKEN RICE",
+      "address": "163 Bukit Merah Central, #02-13,  S150163;",
+      "postalCode": "150163",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28370220959751,
+      "LON": 103.816949612508,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_268570fc-f757-4ac6-9f7d-5974b790f606",
@@ -311839,7 +311959,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2021-12-28"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_0dbbe87d-690c-48d6-b5fe-f27c9ce5f9ea",
@@ -313979,7 +314099,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-20"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_384a6486-0c23-4208-829e-7292614ad28d",
@@ -329819,7 +329939,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-06-30"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_cbc79922-de44-4d02-9600-54f7942c2da5",
@@ -373559,7 +373679,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2022-01-28"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_affb4aa8-f41e-4439-9860-0590c7d90671",
@@ -373899,7 +374019,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2021-12-27"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_f0006834-312c-4bd3-8bb7-54ea503279fc",
@@ -386619,7 +386739,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-28"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_3d50197b-7c99-41d4-a617-7f1e992843d9",
@@ -448279,7 +448399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-15"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_195c351f-26ac-45bb-9e53-c8caac25c49b",
@@ -456499,7 +456619,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-06-30"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_f01b9279-10e2-4ca2-a3f8-fc3d33902844",
@@ -514079,7 +514199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-21"
+      "lastResetDate": "2026-01-05"
     },
     {
       "id": "merchant_5debffd0-e590-4fa5-b55f-763a174089ff",
