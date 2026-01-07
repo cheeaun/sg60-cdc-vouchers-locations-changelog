@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-07
+
+</summary>
+
+Total locations: 25,911 → 25,923
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1 LIFE BEAUTY PTE LTD | 52 Chin Swee Road Hdb-central Area Singapore 160052, #01-63,  S160052; | <span title="1.28708278284998,103.841580109275">1.28708, 103.84158</span> |
+  | 91 PORK STALL | 137 Tampines Street 11, #01-91,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | BE TELECOMMUNICATIONS | 823A Tampines Street 81, PC-09,  S521823; | <span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | CHANGI AIRPORT T2 FAMOUS FRIED FISH SOUP (AMK 721) | 721 Ang Mo Kio Avenue 8,  S560721; | <span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | CURFYLAND PTE. LTD. | 128 Ang Mo Kio Avenue 3 Hdb-ang Mo Kio Singapore 560128, #01-1863,  S560128; | <span title="1.37083202800001,103.843546990613">1.37083, 103.84355</span> |
+  | DING JIAN HONG KONG STYLE CHARCOAL ROASTED - 304 WOODLANDS | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | FUXING HANDMADE HAKKA YONG TAUFOO 304 | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | GOLD XIANG CURRY PUFF | 270 Queen Street, #01-81,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | HE SHENG HONGKONG FLAVOR EXPERT BEEF (BENDEMEER) | 29 Bendemeer Road, #01-86,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | HONG LIM CURRYPUFF @ ALBERT | 270 Queen Street, #01-108,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | MAXWELL DRINKS | 1 Kadayanallur Street, #01-34,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | YJ STEAMED FISH -302 | 302 Choa Chu Kang Avenue 4,  S680302; | <span title="1.38501654423548,103.743339409916">1.38502, 103.74334</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AA RAMEN FISH SOUP | <del>21 Hougang Street 51, MR1,  S538719;</del><br>Blk 118 Hougang, #01-1186,  S530118; | <del title="1.37924528796406,103.887832026893">1.37925, 103.88783</del><br><span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | <del>KREME CAFE</del><br>CHANG WANG CAKE SHOP | 154 Serangoon North Avenue 1, #01-404,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | <del>BA WANG CLAYPOT</del><br>HOMETOWN FLAVOURS | 21 Hougang Street 51, 01-02,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | JIU YE | <del>48A Tanglin Halt Road, #01-09,  S148813;</del><br>159 Mei Chin Road, #02-40,  S140159; | <del title="1.30054407507427,103.797737980247">1.30054, 103.79774</del><br><span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | LA PORPO | <del>29 Bendemeer Road, #01-76,  S330029;</del><br>Blk 85 Redhill Lane, #01-11,  S150085; | <del title="1.31921667890113,103.863020922593">1.31922, 103.86302</del><br><span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-06
 
 </summary>
