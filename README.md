@@ -13,6 +13,65 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-08
+
+</summary>
+
+Total locations: 25,923 → 25,956
+
+- <details><summary>Added (33)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AHJUMA ECON BEE HOON (OTH) | 51 Tampines Avenue 4, #01-31,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | AL AMEEN INDIAN MUSLIM FOOD (AP) | 678A Woodlands Avenue 6,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | AL BARAKAH BISTRO PTE LTD | 501 West Coast Drive Singapore 120501, #01-302,  S120501; | <span title="1.31231254760543,103.759312529215">1.31231, 103.75931</span> |
+  | AL FATIMAH PRATA CORNER | 69 Geylang Bahru, #01-75,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | CHA BEE HOON | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | ECONOMICAL BEE HOON . NASI LEMAK (447A JLN KAYU) | 447A Jalan Kayu,  S791447; | <span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | FRESHEN FRUIT RETAIL | 495 Jurong West Street 41 Hdb-jurong West Singapore 640495, #01-94,  S640495; | <span title="1.34969073793762,103.724362342467">1.34969, 103.72436</span> |
+  | GUO GUANG TEOCHEW BRAISED DUCK | 511 Hougang Avenue 10,  S530511; | <span title="1.37207420608508,103.888728981515">1.37207, 103.88873</span> |
+  | HAMIZAH BIRYANI | 110 Lengkong Tiga,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | HAU TIAN -BB | 324 Bukit Batok Street 33,  S650324; | <span title="1.36216472766267,103.747628122263">1.36216, 103.74763</span> |
+  | HAU TIAN SEAFOOD | 498 Jurong West Street 41,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | JOO CHIAT FEI FEI WANTON NOODLE HOUSE | 45 Joo Chiat Place Singapore 427769, #01-01,  S427769; | <span title="1.31355049262734,103.900802423098">1.31355, 103.90080</span> |
+  | JU BAO XUAN MALA HOTPOT | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | JUS PASTA! | 56 New Upper Changi Road,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | LAVENDER FISH SOUP | 462 Crawford Lane,  S190462; | <span title="1.30458618029941,103.860840750826">1.30459, 103.86084</span> |
+  | MANG CHENG XIANG CURRY RICE (OTH) | 51 Tampines Avenue 4, #01-64,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MARINE VILLA EXPRESS | 34 Marine Crescent Marine Crescent Ville Singapore 440034, #01-49,  S440034; | <span title="1.30414964002546,103.912123966699">1.30415, 103.91212</span> |
+  | MEAT HAVEN (POTONG PASIR) | 147 Potong Pasir Avenue 1,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+  | MKH CAFE - UPPER BOON KENG | 17 Upper Boon Keng Road, 01-28,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | MR DUCK | 29 Tai Thong Crescent Sennett Estate Singapore 347858, #01-01,  S347858; | <span title="1.32904437658519,103.869822580544">1.32904, 103.86982</span> |
+  | NENE CHICKEN 628 | 628 Senja Road,  S670628; | <span title="1.38509602471476,103.760218434373">1.38510, 103.76022</span> |
+  | OSR TAMPINES PTE LTD | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | P & W UNISEX SALON | 698 Hougang Street 61 Hougang Spring Singapore 530698, #01-02,  S530698; | <span title="1.3750613898604,103.886910503596">1.37506, 103.88691</span> |
+  | ROASTED DELIGHTS | 498 Jurong West Street 41,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | STYLE FUSION | 116 Aljunied Avenue 2 Hdb-geylang East Singapore 380116, #01-73,  S380116; | <span title="1.32124570546254,103.886700619832">1.32125, 103.88670</span> |
+  | TEOCHEW NOODLE | 29 Tai Thong Crescent Sennett Estate Singapore 347858, #01-02,  S347858; | <span title="1.32904437658519,103.869822580544">1.32904, 103.86982</span> |
+  | THIS SALON | 419 Tampines Street 41 Sun Plaza Gardens Singapore 520419, #01-102,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | TIAN TIAN YOU YU (STEAMED FISH) | 85 Redhill Lane, #01-59,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | WAGGING WONDERS PET SHOP | 162 Bukit Merah Central Singapore 150162, #02-3535,  S150162; | <span title="1.28383730148701,103.81746608298">1.28384, 103.81747</span> |
+  | WEI LEI MIXED VEG RICE | 323 Bukit Batok Street 33,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | XING HUA DELIGHT | 504A Serangoon North Avenue 4,  S555850; | <span title="1.37399768680103,103.875704727628">1.37400, 103.87570</span> |
+  | YU SHENG TANG TCM (509) BISHAN | 509 Bishan Street 11 Singapore 570509, #01-380,  S570509; | <span title="1.34862997302065,103.84957198305">1.34863, 103.84957</span> |
+  | ZU TAI TCM | 36 Beo Crescent Cs Montessori Kindergarten @ Tiong Bahru Singapore 160036, #01-35,  S160036; | <span title="1.28835977080873,103.827056911096">1.28836, 103.82706</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MINGWEI HAINANESE CHICKEN RICE</del><br>HEE KEE FULL HOUSE | 79 Circuit Road, #01-34,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | K&H PAPER TRADING (CHONG PANG BLK 106) | <del>106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-161a,  S760106;</del><br>106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-161,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-07
 
 </summary>
