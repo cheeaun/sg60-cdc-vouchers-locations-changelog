@@ -13,6 +13,65 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-09
+
+</summary>
+
+Total locations: 25,956 → 25,988
+
+- <details><summary>Added (32)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 162 HAINANESE CHICKEN RICE | 162 Ang Mo Kio Avenue 4, #01-20,  S560162; | <span title="1.3741075702016,103.838863921122">1.37411, 103.83886</span> |
+  | AH SIONG ROAST DUCK | 69 Bedok South Avenue 3, ST6,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | AL MADINA | 1 Changi Village Road Hdb-changi Village Rov Singapore 500001, #01-2016,  S500001; | <span title="1.38854656229022,103.987804503483">1.38855, 103.98780</span> |
+  | CHAN FAMILY CHIROPRACTIC LLP | 16 Jalan Masjid Kembangan Suites Singapore 418941, #01-01,  S418941; | <span title="1.32015257058639,103.912727083961">1.32015, 103.91273</span> |
+  | DA YAN ZAI YONGTOFU | 271 Onan Road, #02-15,  S424768; | <span title="1.30941788760759,103.901825408227">1.30942, 103.90183</span> |
+  | HE SHUN CHICKEN POT + HOTPLATE | 180 Ang Mo Kio Avenue 8, Nyp Blk E, 02,  S569830; | <span title="1.3778190310896,103.848423445403">1.37782, 103.84842</span> |
+  | HOE HUP VEGETABLES PTE LTD | 118 Rivervale Drive, ST33,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | HONG LOK FAN ZHUANG (TG61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | KAHTOHFOOK FISHBALL NOODLE (STALL 2) | 31 Woodlands Ave 9 01-01 South Food Court,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | KANGKAR MALA (TPY 94) | 94 Lorong 4 Toa Payoh,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | LAI FA ECONOMIC FOOD | 117 Aljunied Avenue 2, #01-09,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | LAZY LIZARD ( SIXTH AVENUE ) | 2 Sixth Avenue Singapore 276470, #01-02A,  S276470; | <span title="1.33120427826326,103.795147689722">1.33120, 103.79515</span> |
+  | MAKAN MELAKA (SENGKANG) | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | MEI HONG CREAMERY | 335 Smith Street, #02-61,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | MIXED RICE (395A) | 395A Bukit Batok West Avenue 5,  S651395; | <span title="1.36448974299463,103.751987145985">1.36449, 103.75199</span> |
+  | MIXED VEG RICE (STALL 1) | 31 Woodlands Ave 9 01-01 South Food Court,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | MOMMY RENDANG (OTH) | 51 Tampines Avenue 4, #01-61,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | OLLELLA TRADITIONAL KUEH & PASTRIES (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #B1-K16,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | PINSIN KOREAN (STALL 3) | 31 Woodlands Ave 9 01-01 South Food Court,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | PLANET BAKSO SAMBAL BAKAR | 160A Jalan Teck Whye,  S681160; | <span title="1.38049639723272,103.757079964941">1.38050, 103.75708</span> |
+  | QUEEN HAIR SALON | 825 Tampines Street 81 Dbs Tampines Street 81 Singapore 520825, #01-74,  S520825; | <span title="1.34943750941993,103.932787706747">1.34944, 103.93279</span> |
+  | SAN HUP (570) | 570A Woodlands Avenue 1,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | SINAR SEAFOOD  (SENGKANG) | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | SUNBO CHICKEN RICE & BBQ | 180 Ang Mo Kio Avenue 8, Nyp Blk E, 02,  S569830; | <span title="1.3778190310896,103.848423445403">1.37782, 103.84842</span> |
+  | TAJZ FOODZ | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-934,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | TAN LEE LOONG SOYA BEAN DRINK | 531A Upper Cross Street, #02-71,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | TEOCHEW LAO | 258 Pasir Ris Street 21,  S510258; | <span title="1.36706634197242,103.964635610477">1.36707, 103.96464</span> |
+  | THE ASLI MALAYSIA | 5 Changi Village Road Singapore 500005, #01-2051,  S500005; | <span title="1.38885339963623,103.986845986484">1.38885, 103.98685</span> |
+  | THE FRENCH LADLE | 2 Pandan Valley Pandan Valley, Acacia Court Singapore 597626, #02-206,  S597626; | <span title="1.32044171187429,103.778972458647">1.32044, 103.77897</span> |
+  | UMART@KATONG | 222 Tanjong Katong Road Singapore 437013, #01-222,  S437013; | <span title="1.30710473970095,103.895323513299">1.30710, 103.89532</span> |
+  | VIYO BEAUTY (AMK 720) | 720 Ang Mo Kio Avenue 6 Hdb-ang Mo Kio Singapore 560720, #01-4110,  S560720; | <span title="1.37180102410534,103.84699031799">1.37180, 103.84699</span> |
+  | XIANG MAN YUAN CATERER | 233 Lorong 8 Toa Payoh,  S310233; | <span title="1.33828365922679,103.858467966719">1.33828, 103.85847</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CLAYPOT HERBAL BAK KUT TEH | <del>291 Yishun St 22, #01-369,  S760291;</del><br>505 Ang Mo Kio Avenue 8, Cheng San Crest (aik Leong Foodcourt), #01-2688,  S560505; | <del title="1.43576080400467,103.8367238745">1.43576, 103.83672</del><br><span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | HONG YU SEAFOOD | <del>638A Jurong West Street 61, #01-22,  S641638;</del><br>820 Tampines Street 81, #01-506,  S520820; | <del title="1.34195861016793,103.697593081001">1.34196, 103.69759</del><br><span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | NATUREHEALTH (304 01-07A) | <del>304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-07,  S730304;</del><br>304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-107A,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-08
 
 </summary>
