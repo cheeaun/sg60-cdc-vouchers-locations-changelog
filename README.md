@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-10
+
+</summary>
+
+Total locations: 25,988 → 26,016
+
+- <details><summary>Added (28)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #06 #07 LATIFF 548 | 548 Woodlands Drive 44, 6,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | 31 PRAWN NOODLE | 4A Jalan Batu, #01-31,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | 3H FRUITS PTE LTD (105) | 105 Canberra Street Eastbrook @ Canberra Singapore 750105, #01-10,  S750105; | <span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | ASHFORD DENTAL CENTRE (UPPER THOMSON) | 215 Upper Thomson Road, #01-01,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | BERKSHIRE WALMART (TPY124) | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-475,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | BISMILLAH BITES INDIAN MUSLIM FOOD | 80 Redhill Lane,  S150080; | <span title="1.28780725542023,103.818781986583">1.28781, 103.81878</span> |
+  | FONG HUP KOKA NOODLE @ 293 YISHUN | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | FONG HUP KOKA NOODLE 417 | 417 Yishun Avenue 11, P,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | HAMUN NUR'S HALAL POULTRY & FROZEN GOODS | 31 Commonwealth Crescent, #01-55,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | HENG HENG FRUIT JUICE 96 | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-251,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HIANG SOON (OTAR) FOOD CATERING | 261 Jalan Kayu Jalan Kayu Estate Singapore 799490, #01-261,  S799490; | <span title="1.39690638619485,103.872892033098">1.39691, 103.87289</span> |
+  | IPOH ZAI HAKKA NOODLE | 301 Punggol Central, 3,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+  | JF SIGNATURE BEAUTY WELLNESS | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2497,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | K15 FOODPARK | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | KAFFE & TOAST (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #B1-K08,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MASTER TANG (377 HOUGANG) | 377 Hougang Street 32,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | MM TRADERS PTE LTD | 7 Everton Park Singapore 080007, #01-7,  S080007; | <span title="1.27692435153003,103.838679504443">1.27692, 103.83868</span> |
+  | MR AB ROJAK & MEE GORENG (BCHC) | 21 Canberra Link, 33,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | MUSANG KING | 494 Jurong West Street 41 Dbs Jurong West Street 41 Singapore 640494, #01-128,  S640494; | <span title="1.34950750219884,103.724914014154">1.34951, 103.72491</span> |
+  | NEIGHBOURLY | 2 Pandan Valley Pandan Valley, Acacia Court Singapore 597626, #01-213,  S597626; | <span title="1.32044171187429,103.778972458647">1.32044, 103.77897</span> |
+  | PENG GUAN BAKWA & BAN MIAN (TPY 177) | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | RONG CHENG DELIGHT JE254 | 254 Jurong East Street 24, #01-45,  S600254; | <span title="1.34348818520494,103.73773841183">1.34349, 103.73774</span> |
+  | SAAP SAAP THAI (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #01-100,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | SONG YANG MIXED VEG RICE (AMK 721) | 721 Ang Mo Kio Avenue 8,  S560721; | <span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | TASTY MIXED RICE PTE LTD | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | TURKISH KEBAB | 470 Lorong 6 Toa Payoh, ST 11,  S310470; | <span title="1.33203473928975,103.849338664495">1.33203, 103.84934</span> |
+  | WAN JIA XIANG (K31) | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | X-BOUNDARIES PTE LTD | 132 Jalan Bukit Merah Hdb-bukit Merah Singapore 160132, #01-1344,  S160132; | <span title="1.27873808127932,103.828304288385">1.27874, 103.82830</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ASIAN FASION GRILL</del><br>CHOPS & SEAR | <del>170A Sengkang East Drive, 01-07,  S541170;</del><br>170A Sengkang East Drive, 01-10,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | JWFTR BARBERSHOP | <del>Teban Gardens Road, #02-07C,  S600061;</del><br>326 Jurong East Street 31, #01-116,  S600326; | <del title="1.32213636287766,103.738292803395">1.32214, 103.73829</del><br><span title="1.3490218244111,103.729609271898">1.34902, 103.72961</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-09
 
 </summary>
