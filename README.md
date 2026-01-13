@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-13
+
+</summary>
+
+Total locations: 26,016 → 26,043
+
+- <details><summary>Added (27)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 3 STARS LOVE OF BEAUTY | 5 Eunos Crescent Singapore 400005, #01-2599A,  S400005; | <span title="1.32119096792976,103.903554516253">1.32119, 103.90355</span> |
+  | AAYSHA RESTAURANT | 63B Lengkok Bahru, #01-358,  S152063; | <span title="1.28907506834277,103.815318433481">1.28908, 103.81532</span> |
+  | AH FANG BAN MIAN. PORRIDGE (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | AL-BAHIYA | 428 Changi Road Hotel 81 - Changi Singapore 419871, #01-02,  S419871; | <span title="1.3186911641451,103.911729067553">1.31869, 103.91173</span> |
+  | ALINA EATING HOUSE PTE. LTD. | 73 Bedok South Avenue 3 Dbs Bedok South Avenue 3 Singapore 460073, #01-452,  S460073; | <span title="1.31983803117222,103.943971359147">1.31984, 103.94397</span> |
+  | CLAYPOT CURRY FISHHEAD 272 | 272 Bukit Batok East Avenue 4,  S650272; | <span title="1.34879030700149,103.757864718209">1.34879, 103.75786</span> |
+  | D RANUM NASI PADANG MALAY FOOD | 445 Fajar Road, 548,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+  | D&Y HAIR SALON (AMK 338) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1631,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | DAPUR SUMAYYAH | 182 Woodlands Street 13,  S730182; | <span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | DING WANG CHINESE CUISINE- TB12 | 12 Telok Blangah Crescent,  S090012; | <span title="1.27718546024846,103.819516181006">1.27719, 103.81952</span> |
+  | GUZZLE TG286 | 286E Toh Guan Road,  S605286; | <span title="1.33926892716701,103.745167769149">1.33927, 103.74517</span> |
+  | HAI NAN ZAI (105 YISHUN) | 105 Yishun Ring Road, #01-129,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | HAINANESE CHICKEN RICE.NOODLE | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | JIAN AI THERAPY | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-146,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | MABEL HAIR SALON | 30 Bendemeer Road Bendemeer Ville Singapore 330030, #01-875,  S330030; | <span title="1.319303367127,103.86404981515">1.31930, 103.86405</span> |
+  | MEET U HAIR SALON (JURONG) | 504 Jurong West Street 51 Hong Kah Point Singapore 640504, #01-219,  S640504; | <span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | MING LEE PAU DIAN | 46 Holland Drive,  S270046; | <span title="1.30878949399241,103.792695569227">1.30879, 103.79270</span> |
+  | MUM'Z TASTE | 665 Buffalo Road, #01-226,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | NORAS KITCHEN | 29 Bendemeer Road, #01-76,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | P.R. MART (239 YISHUN) | 239 Yishun Ring Road Dbs Ntuc Yishun Ring Road Singapore 760239, #01-1166,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | SHREE V MURUGAN STORE- REDHILL | 86 Redhill Close Hdb-bukit Merah Singapore 150086, #01-596,  S150086; | <span title="1.2869200622963,103.818673592235">1.28692, 103.81867</span> |
+  | SRI MURUGAN (374 GOMBAK) | 374 Bukit Batok Street 31 Dbs Bukit Batok Street 31 Singapore 650374, #01-238,  S650374; | <span title="1.35798291106742,103.750736425731">1.35798, 103.75074</span> |
+  | TASTY MIXED RICE (@795A YISHUN) | 795A Yishun Ring Road,  S761795; | <span title="1.41941184916032,103.832841344452">1.41941, 103.83284</span> |
+  | TRADITIONAL HERBAL BAK KUT TEH | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | U GOOD FRESH 275 BUKIT BATOK | 275 Bukit Batok East Avenue 4 Gombak Place Singapore 650275, #01-132,  S650275; | <span title="1.34813625297267,103.758314162332">1.34814, 103.75831</span> |
+  | YU KEE HOUSE OF BRAISED DUCK | 64 Joo Chiat Place Singapore 427786, #01-00,  S427786; | <span title="1.31340321741922,103.901867056583">1.31340, 103.90187</span> |
+  | ZAM HATIM INDIAN MUSLIM FOOD | 717 Yishun Street 71,  S760717; | <span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-10
 
 </summary>
