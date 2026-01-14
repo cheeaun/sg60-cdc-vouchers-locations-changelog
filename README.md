@@ -13,6 +13,69 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-14
+
+</summary>
+
+Total locations: 26,043 → 26,072
+
+- <details><summary>Added (30)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #1 NASI AYAM GORENG IN TOWN | 640 Bukit Batok Central,  S650640; | <span title="1.34930332956795,103.751664381942">1.34930, 103.75166</span> |
+  | 107 TAMPINES SEAFOOD CUISINE | 107 Tampines Street 11,  S521107; | <span title="1.34836421842072,103.948158723814">1.34836, 103.94816</span> |
+  | AURA BEAUTY | 712A Ang Mo Kio Avenue 6 Dbs Ang Mo Kio Central Branch Singapore 561712, #01-4062,  S561712; | <span title="1.37087284313191,103.846806941877">1.37087, 103.84681</span> |
+  | BAN MINAN & FISH SOUP (445 FAJAR) | 445 Fajar Road,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+  | BK VILLE DRINKS | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | BON BEAUTY HAIR SALON | 106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-197A,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+  | CITARASA NASI PADANG (SENGKANG 455) | 455 Sengkang West Ave,  S790455; | <span title="1.39183688254074,103.871190376558">1.39184, 103.87119</span> |
+  | FRESH SEAFOOD (AMK 628) | 628 Ang Mo Kio Avenue 4, #01-172,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | GOLD XIANG CURRY PUFF | 335 Smith Street, #02-127,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | HEARTY BEANS JE262 | 262 Jurong East Street 24 Hdb-jurong East Singapore 600262, #01-489,  S600262; | <span title="1.34412714311524,103.741112405413">1.34413, 103.74111</span> |
+  | HENG KEE 79 PORK | 13 Haig Road, #01-79,  S430013; | <span title="1.31510752106275,103.895587944619">1.31511, 103.89559</span> |
+  | HEY BAK CHOR MEE | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | HONG SHI CHICKEN RICE (510735) | 735 Pasir Ris Street 72, 08,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | HONG YUN BAN MIAN | 511 Hougang Avenue 10,  S530511; | <span title="1.37207420608508,103.888728981515">1.37207, 103.88873</span> |
+  | HUI GE FRESH FLOWER | 104 Yishun Ring Road, #01-97,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | JJ YONG TAU FOO 01-07 | 69 Geylang Bahru, #01-07,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | JO JU BANG - TANJONG PAGAR | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-15,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | KEONG KEE SEAFOOD | 406 Tampines Street 41,  S520406; | <span title="1.35783243904096,103.945773504554">1.35783, 103.94577</span> |
+  | KITCHEN NO.8 | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | LAVENDER PRAWN MEE | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | MEIPLUS DENTALCARE | 141 East Coast Road Singapore 428831, #01-141,  S428831; | <span title="1.30633858465238,103.905109827798">1.30634, 103.90511</span> |
+  | MUSANG KING (HONG LIM) | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #01-54B,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | OUR JURONG WEST FAMILY CLINIC | 216 Boon Lay Avenue Boon Lay View Singapore 640216, #01-03,  S640216; | <span title="1.34967446991628,103.711680539382">1.34967, 103.71168</span> |
+  | PROHEALTH MEDICAL GROUP @LRT FERNVALE | 437 Fernvale Road Fernvale Grove Singapore 790437, #01-04,  S790437; | <span title="1.39255040546533,103.876330394724">1.39255, 103.87633</span> |
+  | S GRILL HOUSE @OWEN | 44 Owen Road, St7,  S210044; | <span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | SHAQINA COLLECTION | 1 Geylang Serai, #02-29,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | SHU VEGETARIAN | Jurong West St 1, #01-462,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | TIAN TIAN XIAN | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | XIAO LA JIAO | Tampines Street 32,  S529286; | <span title="1.35436493607477,103.960042189097">1.35436, 103.96004</span> |
+  | ZHONG JI DANG GUI HK ROASTED DELIGHT | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+
+  </details>
+
+- <details><summary>Removed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | QLEAN NAILS | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-51,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHOP50S | <del>419 Tampines Street 41, #01-98,  S520419;</del><br>419 Tampines Street 41, #01-92A,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-13
 
 </summary>
