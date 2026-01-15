@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-15
+
+</summary>
+
+Total locations: 26,072 → 26,087
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 88 PRAWN NOODLES | 14 Haig Road, #01-56,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | AJMAL TRADING GROUP | 212 Pasir Ris Street 21 Hdb Public Shelters Singapore 510212, #01-10,  S510212; | <span title="1.3677785523953,103.960765697169">1.36778, 103.96077</span> |
+  | BERRIES FASHION HOUSE PTE LTD | 216 Bedok North Street 1, #01-164,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | BILLYS AND BROTHER NOODLE HOUSE | 64 Loyang Way,  S508754; | <span title="1.38387929997423,103.97396763261">1.38388, 103.97397</span> |
+  | DING WANG MA LA XIANG GUO (136) | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | FEI MAO FISH SOUP | 216 Bedok North Street 1, #01-48,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | GROUNDS ON A HILL | 106 Clementi Street 12 Sunset Way Residence Singapore 120106, #01-44A,  S120106; | <span title="1.32191467282846,103.769815226286">1.32191, 103.76982</span> |
+  | MAC PLUS | 432 Clementi Avenue 3 Hdb-clementi Singapore 120432, #01-276,  S120432; | <span title="1.31402057628905,103.762740587497">1.31402, 103.76274</span> |
+  | PENYET HOUSE (348 YISHUN) | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | SIDEWAY | 30 Seng Poh Road, #01-85,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | TO: YOU | 90 Jalan Senang Singapore 418461, #01-00,  S418461; | <span title="1.32627729294946,103.916447430489">1.32628, 103.91645</span> |
+  | WAN XIANG FISH SOUP | 120 Bukit Merah Lane 1, #01-32,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | WARONG EIDAH/NASI PADANG | 343 Yishun Avenue 11,  S760343; | <span title="1.42916540049288,103.843888875915">1.42917, 103.84389</span> |
+  | YAN LAI JU | 182 Woodlands Street 13,  S730182; | <span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | ZIN YAN HEALTH CENTER | 166 Woodlands Street 13 Singapore 730166, #01-541,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TASTY AVENUE (421C PUNGGOL)</del><br>FENG WEI HANDMADE NOODLE | 421C Northshore Drive,  S823421; | <span title="1.41921326140541,103.905299855658">1.41921, 103.90530</span> |
+  | HAO LE | <del>463 Sembawang Drive,  S750463;</del><br>542B Serangoon North Avenue 3,  S552542; | <del title="1.45555388401849,103.81464932384">1.45555, 103.81465</del><br><span title="1.37368393003779,103.871416978631">1.37368, 103.87142</span> |
+  | <del>HEY BAK CHOR MEE</del><br>HEY! BAK CHOR MEE | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | HONG KONG SOY SAUCE CHICKEN | <del>20 Ghim Moh Road, #01-12,  S270020;</del><br>Blk 85 Redhill Lane, #01-12,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | <del>TASTY MIXED RICE PTE LTD</del><br>TASTY RICE PTE LTD | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-14
 
 </summary>
