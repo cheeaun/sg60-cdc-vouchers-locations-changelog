@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-16
+
+</summary>
+
+Total locations: 26,087 → 26,102
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASHES BURNNIT JURONG WEST | 498 Jurong West Street 41,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | EAT BAR UPPER ALJUNIED | 375 Upper Aljunied Road Singapore 367860, #01-04,  S367860; | <span title="1.3327628987122,103.878921475689">1.33276, 103.87892</span> |
+  | FEI MAO FISH SOUP | 166 Jalan Besar, #02-47,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | FORTUNE FAMILY MART | 128 Bedok North Street 2 Hdb-bedok Singapore 460128, #01-14,  S460128; | <span title="1.327740236451,103.939005696963">1.32774, 103.93901</span> |
+  | FU ZHOU OYSTER CAKE (676 KA) | 676 Woodlands Drive 71, #02-29,  S730676; | <span title="1.43991699638813,103.800779709518">1.43992, 103.80078</span> |
+  | LEO SATAY CORNER | 209 Hougang Street 21, #01-48,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | MARI MAKAN | 17 Beach Road,  S190017; | <span title="1.30368952030975,103.863575539303">1.30369, 103.86358</span> |
+  | OCEAN MUSLIM SEAFOOD | 1220 East Coast Parkway, #01-49,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | POWER HUB 221 | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-110,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | PRETTY CARE (HL) PTE LTD | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #01-59,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | SINGFOOD HUB 318JE | 318 Jurong East Street 31,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | SUNNY HAIRCARE | 12 Haig Road Dbs Cheers Haig Road Singapore 430012, #01-345,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+  | THE FISHERBOY | 605 Yishun Street 61 Nee Soon Central Meadows Singapore 760605, #01-317A,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | YFM (TPY) PTE. LTD | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-481,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | YI HAIR STUDIO | 477 Tampines Street 43 Hdb-tampines Singapore 520477, #01-174,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-15
 
 </summary>
