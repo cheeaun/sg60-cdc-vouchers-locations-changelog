@@ -13,6 +13,31 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-17
+
+</summary>
+
+Total locations: 26,102 → 26,110
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DAPUR KAK EMA | 511 Bedok North Street 3, #01-14,  S460511; | <span title="1.33321993297265,103.930581522776">1.33322, 103.93058</span> |
+  | JIANG'S CAFE | 480 Tampines Street 44 Hdb-tampines Singapore 520480, #01-265,  S520480; | <span title="1.36189869546209,103.953613062449">1.36190, 103.95361</span> |
+  | L3 HAIR & BEAUTY SALON | 42 Holland Drive Hdb-queenstown Singapore 270042, #01-77,  S270042; | <span title="1.30790383303654,103.792961440964">1.30790, 103.79296</span> |
+  | LIU TIONG FISHERY | 93 Toa Payoh Lorong 4, #01-08,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | PAWBEANS GROOMING | 47 Tanglin Halt Road Singapore 141047, #01-325,  S141047; | <span title="1.30079276076265,103.798077052596">1.30079, 103.79808</span> |
+  | PRATA BOY | 590 Upper Thomson Road, #01-36,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | RIVERSIDE FISHBALL NOODLE | 70 Zion Road, #01-30,  S247792; | <span title="1.29231113322494,103.830973312857">1.29231, 103.83097</span> |
+  | TINA CRAFT NAILS | 176 Boon Lay Drive Boon Lay Green Singapore 640176, #01-360,  S640176; | <span title="1.34725100297379,103.710014454331">1.34725, 103.71001</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-16
 
 </summary>

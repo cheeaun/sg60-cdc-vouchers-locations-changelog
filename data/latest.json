@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 Jan 2026",
+  "lastUpdated": "17 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -115320,6 +115320,26 @@
         }
       },
       "lastResetDate": "2024-05-21"
+    },
+    {
+      "id": "merchant_99af3da7-d383-43ff-b255-4d06ce04cdca",
+      "entityId": "merchant_99af3da7-d383-43ff-b255-4d06ce04cdca",
+      "name": "DAPUR KAK EMA",
+      "address": "511 Bedok North Street 3, #01-14,  S460511;",
+      "postalCode": "460511",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33321993297265,
+      "LON": 103.930581522776,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_6fa0e9a8-84c5-4c6b-b56a-df111eaeb3b2",
@@ -237782,6 +237802,26 @@
       "lastResetDate": "2024-04-30"
     },
     {
+      "id": "merchant_ab1c6041-f617-4db6-9822-2c49bb648b52",
+      "entityId": "merchant_ab1c6041-f617-4db6-9822-2c49bb648b52",
+      "name": "JIANG'S CAFE",
+      "address": "480 Tampines Street 44 Hdb-tampines Singapore 520480, #01-265,  S520480;",
+      "postalCode": "520480",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36189869546209,
+      "LON": 103.953613062449,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
+    },
+    {
       "id": "merchant_3118b18d-a9ca-4745-970b-83897b8ae002",
       "entityId": "merchant_3118b18d-a9ca-4745-970b-83897b8ae002",
       "name": "JIAO CAI SEAFOOD",
@@ -247359,7 +247399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-19"
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_517d0af1-3d15-4598-896b-a1ed976acc09",
@@ -271642,6 +271682,26 @@
       "lastResetDate": "2025-04-10"
     },
     {
+      "id": "merchant_2d71a201-ec6a-49b8-a307-623c9a5fa7f9",
+      "entityId": "merchant_2d71a201-ec6a-49b8-a307-623c9a5fa7f9",
+      "name": "L3 HAIR & BEAUTY SALON",
+      "address": "42 Holland Drive Hdb-queenstown Singapore 270042, #01-77,  S270042;",
+      "postalCode": "270042",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30790383303654,
+      "LON": 103.792961440964,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
+    },
+    {
       "id": "merchant_a5d2d7c8-d8cd-4f01-93b8-f470f31963a8",
       "entityId": "merchant_a5d2d7c8-d8cd-4f01-93b8-f470f31963a8",
       "name": "L3 HOME PTE LTD",
@@ -288480,6 +288540,26 @@
         }
       },
       "lastResetDate": "2025-04-08"
+    },
+    {
+      "id": "merchant_36c51916-0939-4472-8a5a-5167f474ecc5",
+      "entityId": "merchant_36c51916-0939-4472-8a5a-5167f474ecc5",
+      "name": "LIU TIONG FISHERY",
+      "address": "93 Toa Payoh Lorong 4, #01-08,  S310093;",
+      "postalCode": "310093",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33847469611073,
+      "LON": 103.849513448853,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_5464dc17-6837-49cd-8bae-8f377b3e568b",
@@ -316379,7 +316459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-01"
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_9d123824-691b-4009-99ed-8b9aa1ab1fea",
@@ -351642,6 +351722,26 @@
       "lastResetDate": "2024-11-20"
     },
     {
+      "id": "merchant_d206ea38-b62b-4249-b82d-fadff6420b90",
+      "entityId": "merchant_d206ea38-b62b-4249-b82d-fadff6420b90",
+      "name": "PAWBEANS GROOMING",
+      "address": "47 Tanglin Halt Road Singapore 141047, #01-325,  S141047;",
+      "postalCode": "141047",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30079276076265,
+      "LON": 103.798077052596,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
+    },
+    {
       "id": "merchant_6a32d45c-b2e6-4738-bb63-6d5581e7b8a1",
       "entityId": "merchant_6a32d45c-b2e6-4738-bb63-6d5581e7b8a1",
       "name": "PAWDY HOUSE",
@@ -361560,6 +361660,26 @@
         }
       },
       "lastResetDate": "2024-07-17"
+    },
+    {
+      "id": "merchant_2e004e83-047d-4b09-971e-f8536467423f",
+      "entityId": "merchant_2e004e83-047d-4b09-971e-f8536467423f",
+      "name": "PRATA BOY",
+      "address": "590 Upper Thomson Road, #01-36,  S574419;",
+      "postalCode": "574419",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37231949296183,
+      "LON": 103.829018145089,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_42665bc7-c810-4801-93b9-1cc6d6fcd655",
@@ -376200,6 +376320,26 @@
         }
       },
       "lastResetDate": "2023-10-18"
+    },
+    {
+      "id": "merchant_9e4cd7e7-a038-4702-9e79-e7c26cb1dc25",
+      "entityId": "merchant_9e4cd7e7-a038-4702-9e79-e7c26cb1dc25",
+      "name": "RIVERSIDE FISHBALL NOODLE",
+      "address": "70 Zion Road, #01-30,  S247792;",
+      "postalCode": "247792",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29231113322494,
+      "LON": 103.830973312857,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_40f6adc4-0462-4fc6-abd3-471b0aa3bfb8",
@@ -442859,7 +442999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-11"
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_cab9339d-5097-4615-996f-78a3abcbd033",
@@ -455840,6 +455980,26 @@
         }
       },
       "lastResetDate": "2025-02-28"
+    },
+    {
+      "id": "merchant_83a18de2-d683-454e-8437-b4ebe2f5e8f7",
+      "entityId": "merchant_83a18de2-d683-454e-8437-b4ebe2f5e8f7",
+      "name": "TINA CRAFT NAILS",
+      "address": "176 Boon Lay Drive Boon Lay Green Singapore 640176, #01-360,  S640176;",
+      "postalCode": "640176",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34725100297379,
+      "LON": 103.710014454331,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_46f0142f-657b-4336-a63c-7c57e5d7edb0",
@@ -495459,7 +495619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-01"
+      "lastResetDate": "2026-01-16"
     },
     {
       "id": "merchant_f736b085-7829-4e91-9b80-65f10d3562a8",
