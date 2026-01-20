@@ -13,6 +13,34 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-20
+
+</summary>
+
+Total locations: 26,110 → 26,121
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANEW DENTAL | 24 Sin Ming Road Sin Ming Ville Singapore 570024, #01-31,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | BEO CRESCENT LOR MEE (LENGKOK BAHRU) | 55 Lengkok Bahru, ST7,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | CHAO YUAN NOODLE | 279 Bukit Batok East Avenue 3,  S650279; | <span title="1.3481605165343,103.757337287929">1.34816, 103.75734</span> |
+  | GAO SHUN HARDWARE BB347 | 347 Bukit Batok Street 34 Hdb-bukit Batok Singapore 650347, #01-254,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+  | HENRY GENTLEMEN'S BARBER | 31 Kelantan Lane Singapore 200031, #01-24,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | KING OF LAKSA | 118 Aljunied Ave 2, #02-100, MR3,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | MALAR'S KITCHEN | 289H Bukit Batok Street 25,  S657289; | <span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | POT YUMMY YUMMY (SIT FOODGLE) | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | RELAX SPA (293 YISHUN) | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-223,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | S3 SALAMATHU NISHA | 81 Joo Chiat Road Singapore 427725, #01-03,  S427725; | <span title="1.31431177577297,103.899129859948">1.31431, 103.89913</span> |
+  | THE COZY CUP | 333 Kreta Ayer Road Hdb-central Area Singapore 080333, #01-18A,  S080333; | <span title="1.28074833681274,103.84246340102">1.28075, 103.84246</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-17
 
 </summary>
