@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-21
+
+</summary>
+
+Total locations: 26,121 → 26,138
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 01-96 | 726 Clementi West Street 2, #01-96,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | 0183 POULTRY | 104 Yishun Ring Road, #01-83,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | ADVANCE VETCARE | 26 Jalan Pari Burong Picardy Gardens Singapore 488692, #01-26,  S488692; | <span title="1.33377268232329,103.948695691843">1.33377, 103.94870</span> |
+  | AIXIN WANTON NOODLE | 335 Smith Street, #02-149,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | CHANG KEE HAINANESE CHICKEN RICE | 14 Haig Road, #01-48,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | FRESH PORK | 630 Bedok Reservoir Road, #01-64,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | FRIED HOR FAN | 115 Bukit Merah View, #01-65,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | FRUITS STALL | 115 Bukit Merah View, #01-132,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | HOCK KEE PRAWN NOODLES | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | HONG XING HANDMADE FISHBALL MEATBALL NOODLE | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | MINISTRY OF FISHING | 103 Yishun Ring Road Singapore 760103, #01-59,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | MOON THAI KITCHEN | 638 Veerasamy Road,  S200638; | <span title="1.30723342621978,103.85534583569">1.30723, 103.85535</span> |
+  | SEAFOOD 630 | 630 Bedok Reservoir Road, #01-87,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | SHEN HOUSE | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-934E,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | THE SAIGON - 308C PUNGGOL WAY | 308C Punggol Walk,  S823308; | <span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | WAGYUYA | 335 Smith Street, #B1-39,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | YUPAN BOON KENG | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KOREAN CUISINE (AMK 151)</del><br>KOREAN CUISINE | <del>151 Ang Mo Kio Avenue 5,  S560151;</del><br>4 Woodlands Street 12, #01-20,  S738623; | <del title="1.37671105271454,103.841168190659">1.37671, 103.84117</del><br><span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | <del>YUM CHA RESTAURANT</del><br>YUM CHA (CHANGI) | 6 Changi Business Park Avenue 1 Ue Bizhub East Singapore 486017, #01-33,  S486017; | <span title="1.33535677709911,103.963892243026">1.33536, 103.96389</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-20
 
 </summary>
