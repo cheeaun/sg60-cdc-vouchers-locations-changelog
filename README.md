@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-22
+
+</summary>
+
+Total locations: 26,138 → 26,152
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AQUATIC CONNECTION AQUARIUM | 53 Sims Place Ocbc Sims Place Singapore 380053, #01-166,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | GENKI SHOKUDO | 339 Anchorvale Road, #02-15,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | INDIAN MUSLIM FOOD THAI SEAFOOD | 171 Yishun Avenue 7,  S760171; | <span title="1.43691621022976,103.832132015264">1.43692, 103.83213</span> |
+  | JAPANESE AND KOREA CUISINE | 171 Yishun Avenue 7,  S760171; | <span title="1.43691621022976,103.832132015264">1.43692, 103.83213</span> |
+  | JTC INDIAN MUSLIM FOOD | 19 Serangoon North Avenue 5,  S554913; | <span title="1.37563500157221,103.871996419103">1.37564, 103.87200</span> |
+  | KALEIDO OPTICAL | 51 Old Airport Road, #02-007,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | LAB 11 | 5 Tanjong Pagar Plaza Hdb-central Area Singapore 081005, #01-5,  S081005; | <span title="1.27624052001347,103.843006115698">1.27624, 103.84301</span> |
+  | LAD & DAD | 7 Tanjong Pagar Plaza Hdb-central Area Singapore 081007, #01-108,  S081007; | <span title="1.27712012183459,103.843117743777">1.27712, 103.84312</span> |
+  | LAO ZHANG GUI - HILLVIEW | 91 Hillview Link, K22,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | RIVER VALLEY KWAY CHAP | 717 Yishun Street 71,  S760717; | <span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+  | TEM TEM CURRY PUFF | 69 Geylang Bahru, #01-50,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | THAI YUAN MALA HOTPOT | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | THON THAI CUISINE - HILLVIEW | 91 Hillview Link,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | TONG HENG COFFEE SHOP | 166 Jalan Besar, #01-65,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | WARUNG WAK DIN | <del>785E Woodlands Rise, #01-16,  S735785;</del><br>568C Champions Way, #01-201,  S733568; | <del title="1.44679888115266,103.805489772817">1.44680, 103.80549</del><br><span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-21
 
 </summary>
