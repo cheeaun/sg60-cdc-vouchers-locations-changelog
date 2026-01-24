@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-24
+
+</summary>
+
+Total locations: 25,942 → 25,954
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 104 MUTTON STALL | 104 Yishun Ring Road, #01-71,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | 848 FISHBALL NOODLE AND FISH SOUP | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | APA 532 AMK | 532 Ang Mo Kio Avenue 10,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | ASM FROZEN CHICKEN 01-84 | 104 Yishun Ring Road, #01-84,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | CHEF LESLIE WESTERN CUISINE (678 AP) | 678A Woodlands Avenue 6,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | FU LIN JAPANESE & KOREAN FOOD (313A SBW) | 313A Sembawang Drive,  S751313; | <span title="1.44410704772453,103.821277851245">1.44411, 103.82128</span> |
+  | JOYIR FASHION | 2 Bukit Panjang Ring Road, #02-03,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | LUME BEAUTY | 5 Everton Park Everton Park Singapore 080005, #01-32,  S080005; | <span title="1.27668433818668,103.839459108754">1.27668, 103.83946</span> |
+  | MASALALAA (WOODLEIGH VILLAGE HAWKER CENTRE) | 202C Woodleigh Link, #01-12,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | RED APPLE VEGETARIAN(QS 269) | 269 Queen Street,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | STYLE FUSION HAIR AND BEAUTY SALON | 87 Whampoa Drive Singapore 320087, #01-871,  S320087; | <span title="1.32328917067445,103.855735557842">1.32329, 103.85574</span> |
+  | WENHAO TRADING 530 | 445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-530,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | INIBERAPA FISH & POULTRY | <del>2 Bukit Panjang Ring Road, #02-14/16,  S679947;</del><br>2 Bukit Panjang Ring Road, #02 - 10/11/12,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | <del>A THING OR TWO</del><br>THE MEETING PINT | 304 Serangoon Avenue 2 Chuan Village Singapore 550304, #01-02A,  S550304; | <span title="1.35381345296971,103.867773013876">1.35381, 103.86777</span> |
+  | <del>THE QUEENS GRILL ( SERANGOON)</del><br>THE QUEENS GRILL (SERANGOON) | <del>107 Serangoon North Avenue 1,  S550107;</del><br>107 Serangoon North Avenue 1, #01-671,  S550107; | <span title="1.36990040378361,103.870224884545">1.36990, 103.87022</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-23
 
 </summary>

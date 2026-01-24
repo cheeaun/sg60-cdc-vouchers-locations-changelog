@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 Jan 2026",
+  "lastUpdated": "24 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -5840,6 +5840,26 @@
         }
       },
       "lastResetDate": "2022-01-04"
+    },
+    {
+      "id": "merchant_eecf09bd-0521-42ba-957d-2749d980dab2",
+      "entityId": "merchant_eecf09bd-0521-42ba-957d-2749d980dab2",
+      "name": "104 MUTTON STALL",
+      "address": "104 Yishun Ring Road, #01-71,  S760104;",
+      "postalCode": "760104",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43144775158984,
+      "LON": 103.828537671885,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_4aecae74-3416-487d-a09a-223e923fad40",
@@ -22222,6 +22242,26 @@
       "lastResetDate": "2025-12-23"
     },
     {
+      "id": "merchant_8dd46f8c-1147-45b0-96f3-10074dcb765a",
+      "entityId": "merchant_8dd46f8c-1147-45b0-96f3-10074dcb765a",
+      "name": "848 FISHBALL NOODLE AND FISH SOUP",
+      "address": "848 Yishun Ring Road,  S760848;",
+      "postalCode": "760848",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41607676991811,
+      "LON": 103.835575802126,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_4d21de73-845a-423d-a8af-b21c53467295",
       "entityId": "merchant_4d21de73-845a-423d-a8af-b21c53467295",
       "name": "848 FISHBALL NOODLE AND FISH SOUP",
@@ -23279,7 +23319,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-05-26"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_2a9ec7dc-f961-47d8-8579-758e386c872a",
@@ -26140,26 +26180,6 @@
         }
       },
       "lastResetDate": "2025-09-10"
-    },
-    {
-      "id": "merchant_97f6b15b-4463-4212-a888-34bb271f0cc7",
-      "entityId": "merchant_97f6b15b-4463-4212-a888-34bb271f0cc7",
-      "name": "A THING OR TWO",
-      "address": "304 Serangoon Avenue 2 Chuan Village Singapore 550304, #01-02A,  S550304;",
-      "postalCode": "550304",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35381345296971,
-      "LON": 103.867773013876,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-10-29"
     },
     {
       "id": "merchant_e67fd881-6902-4ea2-a382-6eb82428b3d9",
@@ -40299,7 +40319,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-16"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_a0dd18d2-b538-4c85-b814-64738abeb98c",
@@ -51062,6 +51082,26 @@
       "lastResetDate": "2025-08-20"
     },
     {
+      "id": "merchant_cb92b5c7-1335-424a-af63-d35fba138aba",
+      "entityId": "merchant_cb92b5c7-1335-424a-af63-d35fba138aba",
+      "name": "APA 532 AMK",
+      "address": "532 Ang Mo Kio Avenue 10,  S560532;",
+      "postalCode": "560532",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37381204877253,
+      "LON": 103.854590377124,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_ed621f06-90f8-4843-ba09-3c3753275119",
       "entityId": "merchant_ed621f06-90f8-4843-ba09-3c3753275119",
       "name": "APAM BALIK POWER",
@@ -54100,6 +54140,26 @@
         }
       },
       "lastResetDate": "2022-03-21"
+    },
+    {
+      "id": "merchant_4c9a6ca1-3422-4664-ba7e-b014ef998cd1",
+      "entityId": "merchant_4c9a6ca1-3422-4664-ba7e-b014ef998cd1",
+      "name": "ASM FROZEN CHICKEN 01-84",
+      "address": "104 Yishun Ring Road, #01-84,  S760104;",
+      "postalCode": "760104",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43144775158984,
+      "LON": 103.828537671885,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_2a1c1fa4-000c-4b1b-860a-c67f84556667",
@@ -78599,7 +78659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-12"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_7b34e383-54b6-47ff-8c99-8447181ec422",
@@ -90600,6 +90660,26 @@
         }
       },
       "lastResetDate": "2025-12-29"
+    },
+    {
+      "id": "merchant_15c1ce16-b2cc-4cf9-8136-ef93c476c10f",
+      "entityId": "merchant_15c1ce16-b2cc-4cf9-8136-ef93c476c10f",
+      "name": "CHEF LESLIE WESTERN CUISINE (678 AP)",
+      "address": "678A Woodlands Avenue 6,  S731678;",
+      "postalCode": "731678",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44036367556377,
+      "LON": 103.801537354932,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_c3e21b20-d943-4d90-a52c-a579852f2e37",
@@ -133459,7 +133539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-07-09"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_77eca3ed-954a-471d-a244-e67f8cb45ea1",
@@ -164562,6 +164642,26 @@
       "lastResetDate": "2025-03-13"
     },
     {
+      "id": "merchant_8a4ceb9d-531c-4611-a894-23fb138dbca8",
+      "entityId": "merchant_8a4ceb9d-531c-4611-a894-23fb138dbca8",
+      "name": "FU LIN JAPANESE & KOREAN FOOD (313A SBW)",
+      "address": "313A Sembawang Drive,  S751313;",
+      "postalCode": "751313",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44410704772453,
+      "LON": 103.821277851245,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_6638118f-e833-421f-a6f2-230b50ef09f6",
       "entityId": "merchant_6638118f-e833-421f-a6f2-230b50ef09f6",
       "name": "FU LIN TOFU YUEN",
@@ -183759,7 +183859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-07-01"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_6271f08e-86d6-4e8c-badd-b1ae561c1e08",
@@ -207139,7 +207239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-16"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_d8687826-f804-4abd-8922-3365b9bad537",
@@ -223585,7 +223685,7 @@
       "id": "merchant_addb4f77-7bd8-4e9c-bf0c-185741ea1d1d",
       "entityId": "merchant_addb4f77-7bd8-4e9c-bf0c-185741ea1d1d",
       "name": "INIBERAPA FISH & POULTRY",
-      "address": "2 Bukit Panjang Ring Road, #02-14/16,  S679947;",
+      "address": "2 Bukit Panjang Ring Road, #02 - 10/11/12,  S679947;",
       "postalCode": "679947",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.37759742308947,
@@ -223599,7 +223699,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-03-28"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_0519c0fc-07a5-4b38-b05f-778c496b501b",
@@ -235939,7 +236039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-11"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_d0e6283f-5e42-47c7-99d7-ca4e54c91863",
@@ -243280,6 +243380,26 @@
         }
       },
       "lastResetDate": "2021-11-29"
+    },
+    {
+      "id": "merchant_913c3253-e5a4-4b4a-ba12-be3cba80f701",
+      "entityId": "merchant_913c3253-e5a4-4b4a-ba12-be3cba80f701",
+      "name": "JOYIR FASHION",
+      "address": "2 Bukit Panjang Ring Road, #02-03,  S679947;",
+      "postalCode": "679947",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37759742308947,
+      "LON": 103.772491526747,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_d7816f31-12aa-4f43-8fa9-91c79aa9fadd",
@@ -290782,6 +290902,26 @@
       "lastResetDate": "2021-12-09"
     },
     {
+      "id": "merchant_98c2cd37-b1b5-4e00-8326-8a2c3ee19e32",
+      "entityId": "merchant_98c2cd37-b1b5-4e00-8326-8a2c3ee19e32",
+      "name": "LUME BEAUTY",
+      "address": "5 Everton Park Everton Park Singapore 080005, #01-32,  S080005;",
+      "postalCode": "080005",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27668433818668,
+      "LON": 103.839459108754,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_2ca49686-f1c4-47d1-8313-09336560fd33",
       "entityId": "merchant_2ca49686-f1c4-47d1-8313-09336560fd33",
       "name": "LUMINOUS DENTAL CLINIC (821 TAMPINES)",
@@ -300060,6 +300200,26 @@
         }
       },
       "lastResetDate": "2025-08-12"
+    },
+    {
+      "id": "merchant_a917113c-5063-45f4-a5ad-81fd0b48e0d1",
+      "entityId": "merchant_a917113c-5063-45f4-a5ad-81fd0b48e0d1",
+      "name": "MASALALAA (WOODLEIGH VILLAGE HAWKER CENTRE)",
+      "address": "202C Woodleigh Link, #01-12,  S363202;",
+      "postalCode": "363202",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33979101407355,
+      "LON": 103.872013773148,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_db00512f-a088-4a39-98f7-d96a7f338d7f",
@@ -370102,6 +370262,26 @@
       "lastResetDate": "2024-03-27"
     },
     {
+      "id": "merchant_fd9afb8b-f614-488c-944e-457a106c6a86",
+      "entityId": "merchant_fd9afb8b-f614-488c-944e-457a106c6a86",
+      "name": "RED APPLE VEGETARIAN(QS 269)",
+      "address": "269 Queen Street,  S180269;",
+      "postalCode": "180269",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30048013687566,
+      "LON": 103.85391368667,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_e133848b-3df1-44d6-80b7-532b7ef8ee7a",
       "entityId": "merchant_e133848b-3df1-44d6-80b7-532b7ef8ee7a",
       "name": "RED BAKE",
@@ -422162,6 +422342,26 @@
       "lastResetDate": "2026-01-07"
     },
     {
+      "id": "merchant_7c1c0b93-ecb2-45ee-a751-6d7815e2c242",
+      "entityId": "merchant_7c1c0b93-ecb2-45ee-a751-6d7815e2c242",
+      "name": "STYLE FUSION HAIR AND BEAUTY SALON",
+      "address": "87 Whampoa Drive Singapore 320087, #01-871,  S320087;",
+      "postalCode": "320087",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32328917067445,
+      "LON": 103.855735557842,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_39870db9-03ef-46a0-9dec-cff6898e8c8d",
       "entityId": "merchant_39870db9-03ef-46a0-9dec-cff6898e8c8d",
       "name": "STYLE HIGH FASHION",
@@ -446062,6 +446262,26 @@
       "lastResetDate": "2025-06-04"
     },
     {
+      "id": "merchant_97f6b15b-4463-4212-a888-34bb271f0cc7",
+      "entityId": "merchant_97f6b15b-4463-4212-a888-34bb271f0cc7",
+      "name": "THE MEETING PINT",
+      "address": "304 Serangoon Avenue 2 Chuan Village Singapore 550304, #01-02A,  S550304;",
+      "postalCode": "550304",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35381345296971,
+      "LON": 103.867773013876,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
+    },
+    {
       "id": "merchant_b000a3a2-c687-4162-a920-c83a92ec4adf",
       "entityId": "merchant_b000a3a2-c687-4162-a920-c83a92ec4adf",
       "name": "THE MEETING PLACE",
@@ -447004,8 +447224,8 @@
     {
       "id": "merchant_12c33359-3652-45dd-8788-1630b057a3ee",
       "entityId": "merchant_12c33359-3652-45dd-8788-1630b057a3ee",
-      "name": "THE QUEENS GRILL ( SERANGOON)",
-      "address": "107 Serangoon North Avenue 1,  S550107;",
+      "name": "THE QUEENS GRILL (SERANGOON)",
+      "address": "107 Serangoon North Avenue 1, #01-671,  S550107;",
       "postalCode": "550107",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.36990040378361,
@@ -447019,7 +447239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-01"
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_53c02995-1f77-415b-944c-a564ba0febbe",
@@ -481340,6 +481560,26 @@
         }
       },
       "lastResetDate": "2022-02-03"
+    },
+    {
+      "id": "merchant_9d6b4e32-316c-499e-a8b2-814dbb7f191b",
+      "entityId": "merchant_9d6b4e32-316c-499e-a8b2-814dbb7f191b",
+      "name": "WENHAO TRADING 530",
+      "address": "445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-530,  S670445;",
+      "postalCode": "670445",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38339951629579,
+      "LON": 103.771086145173,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-23"
     },
     {
       "id": "merchant_9d0e0dc4-89bb-44ef-a431-354356d165f3",
