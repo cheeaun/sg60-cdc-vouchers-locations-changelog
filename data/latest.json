@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Jan 2026",
+  "lastUpdated": "25 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -83840,6 +83840,26 @@
         }
       },
       "lastResetDate": "2025-07-30"
+    },
+    {
+      "id": "merchant_87f1823b-3f46-4a85-bdc2-85a241134995",
+      "entityId": "merchant_87f1823b-3f46-4a85-bdc2-85a241134995",
+      "name": "CARVING BOARD JE252",
+      "address": "252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-107,  S600252;",
+      "postalCode": "600252",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34302026715262,
+      "LON": 103.738115504821,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-24"
     },
     {
       "id": "merchant_1bd48312-a48d-45d2-b026-4648c1494f0e",

@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-25
+
+</summary>
+
+Total locations: 25,954 → 25,955
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CARVING BOARD JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-107,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-24
 
 </summary>
