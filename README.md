@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-27
+
+</summary>
+
+Total locations: 25,955 → 25,969
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 6 LETTER COFFEE | 259 Tanjong Katong Road Singapore 437047, #01-00,  S437047; | <span title="1.30798293570975,103.895418522748">1.30798, 103.89542</span> |
+  | CROWN DISTRICT BARBERS HAIR SALON | 124 Lorong 1 Toa Payoh Toa Payoh View Singapore 310124, #01-475,  S310124; | <span title="1.33864876713615,103.844627302235">1.33865, 103.84463</span> |
+  | EMOI BEAUTY | 41 Holland Drive Hdb-queenstown Singapore 270041, #01-23,  S270041; | <span title="1.30762004852147,103.793463531218">1.30762, 103.79346</span> |
+  | ENGKEE CHICKEN WINGS (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HUAJIE MALA (91) | 91 Telok Blangah Street 31, ST 9,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | JAPANESE & KOREAN CUISINE (28 DC) | 28 Dover Crescent,  S130028; | <span title="1.30446092675742,103.781779696748">1.30446, 103.78178</span> |
+  | L8 218 COFFEE SHOP | 43 Lorong 27 Geylang Singapore 388176, #01-00,  S388176; | <span title="1.31540016726387,103.883548120464">1.31540, 103.88355</span> |
+  | L8 218 MUSLIM FOOD | 43 Lorong 27 Geylang Singapore 388176, #01-00,  S388176; | <span title="1.31540016726387,103.883548120464">1.31540, 103.88355</span> |
+  | NEWTON OLD MING KEE PRAWN NOODLE (291 YISHUN) | 291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-381,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | POPIAH QUEEN @ YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | SEAFOOD STALL (510443) | 443 Pasir Ris Drive 6, 09,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | TANJONG RHU WANTON NOODLE (91) | 91 Telok Blangah Street 31, St 6,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | TELOK BLANGAH FAMILY CLINIC (88A TBH) | 88A Telok Blangah Heights Multi Storey Car Park Singapore 101088, #01-02,  S101088; | <span title="1.27729328671257,103.807739865804">1.27729, 103.80774</span> |
+  | YISILAN MALA (JALAN KAYU) | 244 Jalan Kayu Jalan Kayu Estate Singapore 799468, #01-0,  S799468; | <span title="1.39777891974179,103.873365116211">1.39778, 103.87337</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FADE ZONE</del><br>FADE ZONE 201 | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-K1,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | <del>ZHEN JI BRAISED DELIGHTS</del><br>RONG JI BEE HOON | 105 Hougang Avenue 1, #02-14,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | VALU$ (417 YISHUN) | <del>Yishun Avenue 11, #01-327,  S760417;</del><br>Blk 698 Hougang Street 61, #01-06,  S530698; | <del title="1.42442095783169,103.846284488667">1.42442, 103.84628</del><br><span title="1.3750613898604,103.886910503596">1.37506, 103.88691</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-25
 
 </summary>
