@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Jan 2026",
+  "lastUpdated": "28 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -59282,6 +59282,26 @@
       "lastResetDate": "2023-10-09"
     },
     {
+      "id": "merchant_daf01829-57c0-40d0-be7b-86c6d5b98c0a",
+      "entityId": "merchant_daf01829-57c0-40d0-be7b-86c6d5b98c0a",
+      "name": "BAKECAKERY",
+      "address": "170A Sengkang East Drive,  S541170;",
+      "postalCode": "541170",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3864108050086,
+      "LON": 103.908822177398,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_73b4fdcf-f954-4bab-8dc9-5059a4b78d37",
       "entityId": "merchant_73b4fdcf-f954-4bab-8dc9-5059a4b78d37",
       "name": "BAKEINC",
@@ -105819,7 +105839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-02-14"
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_d8dea951-6f2f-41e9-aeef-40f6523c6e8c",
@@ -109080,6 +109100,26 @@
         }
       },
       "lastResetDate": "2025-03-26"
+    },
+    {
+      "id": "merchant_c22b6cd6-4549-4118-9035-19efc22e1291",
+      "entityId": "merchant_c22b6cd6-4549-4118-9035-19efc22e1291",
+      "name": "CROWN DISTRICT BARBERS",
+      "address": "443 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560443, #01-1241,  S560443;",
+      "postalCode": "560443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36604388871674,
+      "LON": 103.855368968681,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_cc830af7-570d-4936-aaa0-d7dde4be32d6",
@@ -155319,7 +155359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-14"
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_4e2a0b5d-b61c-45bf-a5ed-0ec3053defcf",
@@ -209499,7 +209539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-09"
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_f4f50750-ee2e-435c-b710-4557a33ac9d0",
@@ -228782,6 +228822,26 @@
       "lastResetDate": "2021-11-23"
     },
     {
+      "id": "merchant_7c9816e0-3cfb-47c8-aca8-b12dbd2ea081",
+      "entityId": "merchant_7c9816e0-3cfb-47c8-aca8-b12dbd2ea081",
+      "name": "JANET MOBILE 522",
+      "address": "445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-522,  S670445;",
+      "postalCode": "670445",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38339951629579,
+      "LON": 103.771086145173,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_c87802c1-336e-4972-b22d-28a144cef558",
       "entityId": "merchant_c87802c1-336e-4972-b22d-28a144cef558",
       "name": "JANET NAH GROCERIES #01-19",
@@ -236219,7 +236279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-26"
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_d6702fe3-0ecc-4366-bc30-05bc300d4344",
@@ -263942,6 +264002,26 @@
       "lastResetDate": "2025-02-05"
     },
     {
+      "id": "merchant_6e959887-b718-4646-8bae-9bc1f8cddf33",
+      "entityId": "merchant_6e959887-b718-4646-8bae-9bc1f8cddf33",
+      "name": "KOFFEE KOLLECTIVE - TANJONG PAGAR",
+      "address": "6 Tanjong Pagar Plaza, #02-51,  S081006;",
+      "postalCode": "081006",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27661464758769,
+      "LON": 103.843167023188,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_f13625f4-6cad-4a4b-bf59-a01d1f97b4d7",
       "entityId": "merchant_f13625f4-6cad-4a4b-bf59-a01d1f97b4d7",
       "name": "KOFFEE T:ME (28)",
@@ -265940,6 +266020,26 @@
         }
       },
       "lastResetDate": "2024-12-16"
+    },
+    {
+      "id": "merchant_f006ad72-e854-4f61-8d09-872c5e2c1740",
+      "entityId": "merchant_f006ad72-e854-4f61-8d09-872c5e2c1740",
+      "name": "KOPISTRY",
+      "address": "170A Sengkang East Drive,  S541170;",
+      "postalCode": "541170",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3864108050086,
+      "LON": 103.908822177398,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_5cc2b5be-4548-41dd-a29d-3c252025636a",
@@ -300262,6 +300362,26 @@
       "lastResetDate": "2025-11-03"
     },
     {
+      "id": "merchant_2758b886-a5fa-444a-9de3-f9a2391f72f1",
+      "entityId": "merchant_2758b886-a5fa-444a-9de3-f9a2391f72f1",
+      "name": "MAS FROZEN",
+      "address": "511 Bedok North Street 3, #01-113.,  S460511;",
+      "postalCode": "460511",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33321993297265,
+      "LON": 103.930581522776,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_8ba437d4-5d15-4559-bd4d-71aefe04e32d",
       "entityId": "merchant_8ba437d4-5d15-4559-bd4d-71aefe04e32d",
       "name": "MASAKAN KAMPUNG SHIOK SEDAP",
@@ -303520,6 +303640,26 @@
         }
       },
       "lastResetDate": "2021-12-02"
+    },
+    {
+      "id": "merchant_cef11c07-4fa8-475f-857a-3b140cdb92d4",
+      "entityId": "merchant_cef11c07-4fa8-475f-857a-3b140cdb92d4",
+      "name": "MEE CIK LING",
+      "address": "170A Sengkang East Drive,  S541170;",
+      "postalCode": "541170",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3864108050086,
+      "LON": 103.908822177398,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_fee2f37d-a0f4-4e99-a62a-73ceb9d56d86",
@@ -369502,6 +369642,26 @@
       "lastResetDate": "2024-09-26"
     },
     {
+      "id": "merchant_fb7b69dd-6403-4255-b4f1-f805cffad178",
+      "entityId": "merchant_fb7b69dd-6403-4255-b4f1-f805cffad178",
+      "name": "RASA BERJAYA",
+      "address": "510 Bedok North Street 3,  S460510;",
+      "postalCode": "460510",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3324467322696,
+      "LON": 103.930476688129,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_9bc323f2-1e4c-404f-a130-f0a420108ad2",
       "entityId": "merchant_9bc323f2-1e4c-404f-a130-f0a420108ad2",
       "name": "RASA CINTA NUSANTARA",
@@ -409222,6 +409382,26 @@
       "lastResetDate": "2021-11-12"
     },
     {
+      "id": "merchant_7cccb839-bb70-4a5b-8967-352c1570b2ab",
+      "entityId": "merchant_7cccb839-bb70-4a5b-8967-352c1570b2ab",
+      "name": "SLICED FISH SOUP BAN MIAN (T878C)",
+      "address": "878C Tampines Avenue 8,  S523878;",
+      "postalCode": "523878",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35126411286423,
+      "LON": 103.929363834798,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
+    },
+    {
       "id": "merchant_7218e76f-ac34-401c-91f5-5e16894217e3",
       "entityId": "merchant_7218e76f-ac34-401c-91f5-5e16894217e3",
       "name": "SLICK HAIR SALON",
@@ -424360,6 +424540,26 @@
         }
       },
       "lastResetDate": "2026-01-08"
+    },
+    {
+      "id": "merchant_88d376e6-cffb-42e8-bcaf-623bbd8fa566",
+      "entityId": "merchant_88d376e6-cffb-42e8-bcaf-623bbd8fa566",
+      "name": "SUNBO EXPRESS PENYET + BBQ",
+      "address": "500 Lorong 6 Toa Payoh,  S310500;",
+      "postalCode": "310500",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33296549735939,
+      "LON": 103.847050346651,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_71cba3f3-a675-40a6-859e-7025211d951b",
@@ -483100,6 +483300,26 @@
         }
       },
       "lastResetDate": "2024-05-15"
+    },
+    {
+      "id": "merchant_4c8b8b9a-a2a6-4776-8e91-37209ef9b1b4",
+      "entityId": "merchant_4c8b8b9a-a2a6-4776-8e91-37209ef9b1b4",
+      "name": "WESTERN GOURMET CDC",
+      "address": "445 Fajar Road,  S670445;",
+      "postalCode": "670445",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38339951629579,
+      "LON": 103.771086145173,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-27"
     },
     {
       "id": "merchant_b1e8251c-c947-4fb6-a5fb-5885508c9244",

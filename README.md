@@ -13,6 +13,34 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-28
+
+</summary>
+
+Total locations: 25,969 → 25,980
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAKECAKERY | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | CROWN DISTRICT BARBERS | 443 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560443, #01-1241,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | JANET MOBILE 522 | 445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-522,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+  | KOFFEE KOLLECTIVE - TANJONG PAGAR | 6 Tanjong Pagar Plaza, #02-51,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | KOPISTRY | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | MAS FROZEN | 511 Bedok North Street 3, #01-113.,  S460511; | <span title="1.33321993297265,103.930581522776">1.33322, 103.93058</span> |
+  | MEE CIK LING | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | RASA BERJAYA | 510 Bedok North Street 3,  S460510; | <span title="1.3324467322696,103.930476688129">1.33245, 103.93048</span> |
+  | SLICED FISH SOUP BAN MIAN (T878C) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | SUNBO EXPRESS PENYET + BBQ | 500 Lorong 6 Toa Payoh,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | WESTERN GOURMET CDC | 445 Fajar Road,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-27
 
 </summary>
