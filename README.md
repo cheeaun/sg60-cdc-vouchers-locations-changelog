@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-29
+
+</summary>
+
+Total locations: 25,980 → 26,004
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MEI YONG TAU FU - TANGLIN HALT | 48A Tanglin Halt Road, #01-21,  S148813; | <span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+  | AL FALAH RESTAURANT 302 | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+  | AWS MARKET | 267 Serangoon Avenue 3, M03,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | AYAM GEPOK ANAKMAK | 215 Ang Mo Kio Avenue 1,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | C&J FOODS | 267 Serangoon Avenue 3, M10,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | CHIP HUAT PORK SUPPLIER | 267 Serangoon Avenue 3, M11,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | FENG MING GRANDMA JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | FOO HING LOR MEE LAKSA (BENDEMEER) | 29 Bendemeer Road, #01-16,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | HAU LIAN TRADING | 17 Upper Boon Keng Road, #01-91,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | HELEN'S CLAYPOT 302 | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+  | HENRY GENTLEMEN'S BARBER | 84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-29,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | HONG HOCK HIANG | 267 Serangoon Avenue 3, 01-13,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | ISTANA ROYAL FRUITS | 41A Cambridge Road, #01-64,  S211041; | <span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+  | KARWAN IN HAWELI | 665 Buffalo Road, #01-284,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | KEY DENTAL BB153 | 153 Bukit Batok Street 11 Singapore 650153, #01-294,  S650153; | <span title="1.3474595188524,103.744128055848">1.34746, 103.74413</span> |
+  | KHOON KEE FRESH PORK | 29 Bendemeer Road, #01-172,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | NA NA HOMEMADE CURRY (TPY 480) | 480 Lorong 6 Toa Payoh, R03,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | NASI LEMAK AYAM TALIWANG (CP) | 133 Canberra View, 1,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | SENI SATTISORRU YISHUN 661 | 661 Yishun Avenue 4 Nee Soon Central View Singapore 760661, #01-431,  S760661; | <span title="1.42201523201179,103.840714295544">1.42202, 103.84071</span> |
+  | SOON FA ECONOMIC BEE HOON/ NASI LEMAK 19A | 19A Dover Crescent,  S131019; | <span title="1.30735380231593,103.78454843987">1.30735, 103.78455</span> |
+  | TAI SENG TURTLE SOUP | 2 Jalan Lokam Kensington Square Singapore 537846, #01-56,  S537846; | <span title="1.34560719747232,103.882695128109">1.34561, 103.88270</span> |
+  | THE DOORSTEP GROOMER | 11 Jalan Bukit Merah Hdb-bukit Merah Singapore 150011, #03-4460,  S150011; | <span title="1.28662190407489,103.808963346663">1.28662, 103.80896</span> |
+  | THYE GUAN YONG TAU FOO (TPY 470) | 470 Lorong 6 Toa Payoh, ST 6,  S310470; | <span title="1.33203473928975,103.849338664495">1.33203, 103.84934</span> |
+  | WONDERFOOT MASSAGE TCM | 740 Bedok Reservoir Road Reservoir Village Singapore 470740, #01-3179,  S470740; | <span title="1.3380258563727,103.922835001967">1.33803, 103.92284</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ZHOU JIN XING ROASTED PORK DUCK</del><br>ROASTED PORK DUCK | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-135,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | ZHENG YONG TAU FOO | <del>493 Jurong West Street 41, #01-02,  S640493;</del><br>48A Tanglin Halt Road, #01-03,  S148813; | <del title="1.34896996021593,103.724938358616">1.34897, 103.72494</del><br><span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-28
 
 </summary>
