@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29 Jan 2026",
+  "lastUpdated": "30 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -23380,26 +23380,6 @@
         }
       },
       "lastResetDate": "2022-03-22"
-    },
-    {
-      "id": "merchant_3f58a411-0694-4759-9d0f-18a128d41a30",
-      "entityId": "merchant_3f58a411-0694-4759-9d0f-18a128d41a30",
-      "name": "888 WOODLANDS DRIVE 50",
-      "address": "Woodlands Drive 50, #01-751,  S730888;",
-      "postalCode": "730888",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43712301500434,
-      "LON": 103.795314383823,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2021-11-17"
     },
     {
       "id": "merchant_24bc96d8-d0a8-4870-8dfc-4a608c5892da",
@@ -87779,7 +87759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-12"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_c0391cbf-d17c-4372-9685-01a14b042ac6",
@@ -93620,6 +93600,26 @@
         }
       },
       "lastResetDate": "2025-06-05"
+    },
+    {
+      "id": "merchant_8a660cb6-c660-425b-bd05-530ac3c1a965",
+      "entityId": "merchant_8a660cb6-c660-425b-bd05-530ac3c1a965",
+      "name": "CHIA KENG FRIED HOKKIEN PRAWN NOODLE",
+      "address": "20 Kensington Park Road, #01-02,  S557269;",
+      "postalCode": "557269",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36423252476886,
+      "LON": 103.86652701738,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_68871cbd-b370-40bd-b7fb-443c013f1cea",
@@ -136945,7 +136945,7 @@
       "id": "merchant_cdf77322-6873-4131-8ccd-a681bb48e8a9",
       "entityId": "merchant_cdf77322-6873-4131-8ccd-a681bb48e8a9",
       "name": "ELISA (FASHION)",
-      "address": "289 Marine Parade Road, #01-26,  S449289;",
+      "address": "5000F Marine Parade Road, #01-26,  S449289;",
       "postalCode": "449289",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.30958127085337,
@@ -136959,7 +136959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-31"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_0bba7c9b-380a-4cd5-8850-3a717692b82f",
@@ -140560,6 +140560,26 @@
         }
       },
       "lastResetDate": "2024-05-17"
+    },
+    {
+      "id": "merchant_39759660-b0ec-458c-aa0b-c15147c70318",
+      "entityId": "merchant_39759660-b0ec-458c-aa0b-c15147c70318",
+      "name": "EUNOS FLOWER SHOP",
+      "address": "4A Eunos Crescent, #01-64,  S402004;",
+      "postalCode": "402004",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32033126010096,
+      "LON": 103.904256478426,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_104d464d-1ffc-47c1-9f73-38eaf088419e",
@@ -158160,6 +158180,26 @@
         }
       },
       "lastResetDate": "2022-05-24"
+    },
+    {
+      "id": "merchant_3f58a411-0694-4759-9d0f-18a128d41a30",
+      "entityId": "merchant_3f58a411-0694-4759-9d0f-18a128d41a30",
+      "name": "FRAGRANCE BAKWA 888",
+      "address": "Woodlands Drive 50, #01-751,  S730888;",
+      "postalCode": "730888",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43712301500434,
+      "LON": 103.795314383823,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_0245b412-2ba8-4a0d-9914-cd5e286dfbf9",
@@ -193562,6 +193602,26 @@
       "lastResetDate": "2024-10-01"
     },
     {
+      "id": "merchant_fcc5660c-df82-4eb4-8ff9-e971ecae466a",
+      "entityId": "merchant_fcc5660c-df82-4eb4-8ff9-e971ecae466a",
+      "name": "HAY GELATO",
+      "address": "121 East Coast Road Singapore 428807, #01-121,  S428807;",
+      "postalCode": "428807",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30597759873689,
+      "LON": 103.904642063172,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
+    },
+    {
       "id": "merchant_e4e24239-cbdb-4fed-8e4f-eae38e639c76",
       "entityId": "merchant_e4e24239-cbdb-4fed-8e4f-eae38e639c76",
       "name": "HAZ LINA POULTRY",
@@ -205619,7 +205679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-04"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_50e54e73-c900-4f9e-9fab-ecca0a93075e",
@@ -240162,6 +240222,26 @@
       "lastResetDate": "2025-07-30"
     },
     {
+      "id": "merchant_7cf56150-64d8-4f41-8133-c48ef4cfd818",
+      "entityId": "merchant_7cf56150-64d8-4f41-8133-c48ef4cfd818",
+      "name": "JINLI FASHION (118)",
+      "address": "216 Bedok North Street 1, #01-118,  S460216;",
+      "postalCode": "460216",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32706274205746,
+      "LON": 103.933217970746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
+    },
+    {
       "id": "merchant_cf3752e1-0b87-4733-8915-25501551db53",
       "entityId": "merchant_cf3752e1-0b87-4733-8915-25501551db53",
       "name": "JINNA ROYALE (J276)",
@@ -244060,6 +244140,26 @@
         }
       },
       "lastResetDate": "2022-04-12"
+    },
+    {
+      "id": "merchant_9d6b07af-0bf9-4d8e-987b-02378db6689c",
+      "entityId": "merchant_9d6b07af-0bf9-4d8e-987b-02378db6689c",
+      "name": "JS HAIR & BEAUTY",
+      "address": "138 Tampines Street 11 Dbs Ntuc Tampines Street 11 Singapore 521138, #01-106,  S521138;",
+      "postalCode": "521138",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3455045062724,
+      "LON": 103.945588355383,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_b9d30a25-7c49-4093-90bc-c701be58542c",
@@ -270644,12 +270744,12 @@
     {
       "id": "merchant_1b6b696b-4690-434b-8bd3-cf362434bf4d",
       "entityId": "merchant_1b6b696b-4690-434b-8bd3-cf362434bf4d",
-      "name": "L&T ACC MOBILE PTE LTD (BLK 154 BUKIT BATOK ST 11)",
-      "address": "154 Bukit Batok Street 11 Singapore 650154, #01-312A,  S650154;",
-      "postalCode": "650154",
+      "name": "L&T ACC MOBILE PTE LTD (257 BANGKIT)",
+      "address": "257 Bangkit Road, #01-57B,  S670257;",
+      "postalCode": "670257",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34773558349504,
-      "LON": 103.743984048754,
+      "LAT": 1.37850873559017,
+      "LON": 103.773212348159,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -270659,7 +270759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-09-20"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_dfd13c08-a35e-43fc-a175-fbbba1adb3f8",
@@ -283640,6 +283740,26 @@
         }
       },
       "lastResetDate": "2022-02-04"
+    },
+    {
+      "id": "merchant_a4384188-da14-4c9e-8f5d-1b87473ab8a9",
+      "entityId": "merchant_a4384188-da14-4c9e-8f5d-1b87473ab8a9",
+      "name": "LIFEPLUS MEDICAL GROUP (BEDOK)",
+      "address": "219 Bedok Central Central 24-hr Clinic (bedok) Singapore 460219, #01-132,  S460219;",
+      "postalCode": "460219",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32500585270826,
+      "LON": 103.93295435009,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_abfb1bf6-22e0-450d-9ca9-88d5dc0158a0",
@@ -316885,11 +317005,11 @@
       "id": "merchant_8db4f3ed-1168-42ab-bb40-9e22619bb7d8",
       "entityId": "merchant_8db4f3ed-1168-42ab-bb40-9e22619bb7d8",
       "name": "MOON FASHION",
-      "address": "Blk 442, Clementi Ave 3, #01-89,  S120442;",
-      "postalCode": "120442",
+      "address": "441A Clement Avenue 3, #01-08,  S121441;",
+      "postalCode": "121441",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.31412254184755,
-      "LON": 103.764518594142,
+      "LAT": 1.31463913092205,
+      "LON": 103.764797687774,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -316899,7 +317019,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-04-02"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_34dff350-2639-4425-9a44-368f05a82339",
@@ -376799,7 +376919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-26"
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_39972964-40c0-4537-9a8f-2541a296903a",
@@ -478382,6 +478502,26 @@
       "lastResetDate": "2022-01-28"
     },
     {
+      "id": "merchant_2e6e6fb0-f579-4325-ad20-97f268bcaa9e",
+      "entityId": "merchant_2e6e6fb0-f579-4325-ad20-97f268bcaa9e",
+      "name": "WANG WANG YONG TAU FOO",
+      "address": "267 Serangoon Avenue 3, M14,  S550267;",
+      "postalCode": "550267",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35319405066769,
+      "LON": 103.870920824793,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
+    },
+    {
       "id": "merchant_2a591293-5cae-477a-9819-8b99da6c4376",
       "entityId": "merchant_2a591293-5cae-477a-9819-8b99da6c4376",
       "name": "WANG XIANG",
@@ -479180,6 +479320,26 @@
         }
       },
       "lastResetDate": "2025-04-22"
+    },
+    {
+      "id": "merchant_4d87cd08-c731-4572-a3fe-4e7dd4c49775",
+      "entityId": "merchant_4d87cd08-c731-4572-a3fe-4e7dd4c49775",
+      "name": "WAROENG SERAI",
+      "address": "44 Holland Drive, #02-44,  S270044;",
+      "postalCode": "270044",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30811780015992,
+      "LON": 103.792773769341,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-29"
     },
     {
       "id": "merchant_4dbdfd62-0843-47a2-84ae-f5901670972c",

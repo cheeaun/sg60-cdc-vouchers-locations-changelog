@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-30
+
+</summary>
+
+Total locations: 26,004 → 26,012
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHIA KENG FRIED HOKKIEN PRAWN NOODLE | 20 Kensington Park Road, #01-02,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | EUNOS FLOWER SHOP | 4A Eunos Crescent, #01-64,  S402004; | <span title="1.32033126010096,103.904256478426">1.32033, 103.90426</span> |
+  | HAY GELATO | 121 East Coast Road Singapore 428807, #01-121,  S428807; | <span title="1.30597759873689,103.904642063172">1.30598, 103.90464</span> |
+  | JINLI FASHION (118) | 216 Bedok North Street 1, #01-118,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | JS HAIR & BEAUTY | 138 Tampines Street 11 Dbs Ntuc Tampines Street 11 Singapore 521138, #01-106,  S521138; | <span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+  | LIFEPLUS MEDICAL GROUP (BEDOK) | 219 Bedok Central Central 24-hr Clinic (bedok) Singapore 460219, #01-132,  S460219; | <span title="1.32500585270826,103.93295435009">1.32501, 103.93295</span> |
+  | WANG WANG YONG TAU FOO | 267 Serangoon Avenue 3, M14,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | WAROENG SERAI | 44 Holland Drive, #02-44,  S270044; | <span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ELISA (FASHION) | <del>289 Marine Parade Road, #01-26,  S449289;</del><br>5000F Marine Parade Road, #01-26,  S449289; | <span title="1.30958127085337,103.930753958495">1.30958, 103.93075</span> |
+  | <del>888 WOODLANDS DRIVE 50</del><br>FRAGRANCE BAKWA 888 | Woodlands Drive 50, #01-751,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | <del>L&T ACC MOBILE PTE LTD (BLK 154 BUKIT BATOK ST 11)</del><br>L&T ACC MOBILE PTE LTD (257 BANGKIT) | <del>154 Bukit Batok Street 11 Singapore 650154, #01-312A,  S650154;</del><br>257 Bangkit Road, #01-57B,  S670257; | <del title="1.34773558349504,103.743984048754">1.34774, 103.74398</del><br><span title="1.37850873559017,103.773212348159">1.37851, 103.77321</span> |
+  | MOON FASHION | <del>Blk 442, Clementi Ave 3, #01-89,  S120442;</del><br>441A Clement Avenue 3, #01-08,  S121441; | <del title="1.31412254184755,103.764518594142">1.31412, 103.76452</del><br><span title="1.31463913092205,103.764797687774">1.31464, 103.76480</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-29
 
 </summary>
