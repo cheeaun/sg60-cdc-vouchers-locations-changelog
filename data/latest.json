@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Jan 2026",
+  "lastUpdated": "31 Jan 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -34420,6 +34420,26 @@
         }
       },
       "lastResetDate": "2024-11-21"
+    },
+    {
+      "id": "merchant_3a8a2536-a1e4-4861-b54e-e58fe58c4109",
+      "entityId": "merchant_3a8a2536-a1e4-4861-b54e-e58fe58c4109",
+      "name": "AH MA ROJAK",
+      "address": "146 Potong Pasir Avenue 1,  S350146;",
+      "postalCode": "350146",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3318007826539,
+      "LON": 103.867242849282,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
     },
     {
       "id": "merchant_d64d3bcb-2c87-483b-b9d6-9ccd30c196d6",
@@ -93982,6 +94002,26 @@
       "lastResetDate": "2025-04-08"
     },
     {
+      "id": "merchant_eae8de67-1294-493e-817c-86c4fed0c72a",
+      "entityId": "merchant_eae8de67-1294-493e-817c-86c4fed0c72a",
+      "name": "CHICKEN AND DUCK TALK HK ROASTED TED",
+      "address": "568C Champions Way, 1,  S733568;",
+      "postalCode": "733568",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42851879607184,
+      "LON": 103.789358881274,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_d6cca067-b302-43d3-baec-f7007565d8ae",
       "entityId": "merchant_d6cca067-b302-43d3-baec-f7007565d8ae",
       "name": "CHICKEN BOX",
@@ -100660,6 +100700,26 @@
         }
       },
       "lastResetDate": "2024-03-22"
+    },
+    {
+      "id": "merchant_cca40e47-337a-4284-b170-e407dbc06757",
+      "entityId": "merchant_cca40e47-337a-4284-b170-e407dbc06757",
+      "name": "CHUAN CHOON PORK SUPPLIER (510441)",
+      "address": "441 Pasir Ris Drive 6, #01-80,  S510441;",
+      "postalCode": "510441",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36922534298881,
+      "LON": 103.958173949924,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
     },
     {
       "id": "merchant_ae31c992-9704-4c39-b51b-55a789ec329c",
@@ -267002,6 +267062,26 @@
       "lastResetDate": "2022-06-03"
     },
     {
+      "id": "merchant_de39d7c7-3a3f-4933-af8b-857846514ea0",
+      "entityId": "merchant_de39d7c7-3a3f-4933-af8b-857846514ea0",
+      "name": "KOREAN CUISINE YEW TEE SQUARE",
+      "address": "624 Choa Chu Kang Street 62,  S680624;",
+      "postalCode": "680624",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3977814000738,
+      "LON": 103.74697404926,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_62e4bbfa-258b-449c-a3e3-baaf2624fd96",
       "entityId": "merchant_62e4bbfa-258b-449c-a3e3-baaf2624fd96",
       "name": "KOREAN DELIGHTS (KOUFU@NORTH SPINE LEVEL 2)",
@@ -340662,6 +340742,26 @@
       "lastResetDate": "2023-10-18"
     },
     {
+      "id": "merchant_084f2f8a-8db5-494d-8887-8f76ae8ea769",
+      "entityId": "merchant_084f2f8a-8db5-494d-8887-8f76ae8ea769",
+      "name": "OK CHICKEN RICE HUMFULL PRAWN LAKSA",
+      "address": "399 Yung Sheng Road,  S610399;",
+      "postalCode": "610399",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3350420286067,
+      "LON": 103.72026802061,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_398687ce-2d97-4868-9433-052e719b2b4f",
       "entityId": "merchant_398687ce-2d97-4868-9433-052e719b2b4f",
       "name": "OK CHICKEN/HUMFULL LAKSA (AMK)",
@@ -386402,6 +386502,26 @@
       "lastResetDate": "2022-07-25"
     },
     {
+      "id": "merchant_d94d09da-8a43-4ccf-9703-e4bc29419afa",
+      "entityId": "merchant_d94d09da-8a43-4ccf-9703-e4bc29419afa",
+      "name": "SARAWAK KOLO MEE",
+      "address": "5058 Ang Mo Kio Industrial Park 2,  S569561;",
+      "postalCode": "569561",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37493578950143,
+      "LON": 103.860304943757,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_271690c7-9656-496c-934b-2278145f9e4c",
       "entityId": "merchant_271690c7-9656-496c-934b-2278145f9e4c",
       "name": "SARAWAK KOLO MEE",
@@ -417642,6 +417762,26 @@
       "lastResetDate": "2022-05-20"
     },
     {
+      "id": "merchant_b8c131a3-5d5d-4f2e-a75a-c80b1982067e",
+      "entityId": "merchant_b8c131a3-5d5d-4f2e-a75a-c80b1982067e",
+      "name": "SPICY CORNER",
+      "address": "Kim Du Food Place, 302 Ubi Avenue 1, #01-71,  S400302;",
+      "postalCode": "400302",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33002586987709,
+      "LON": 103.900995405582,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_1e590f05-e9b5-4fa7-b319-74515abe7b25",
       "entityId": "merchant_1e590f05-e9b5-4fa7-b319-74515abe7b25",
       "name": "SPICY EXPRESS (678A ADMIRALTY PLACE)",
@@ -445922,6 +446062,26 @@
       "lastResetDate": "2021-11-18"
     },
     {
+      "id": "merchant_532651f2-e8a4-4ec3-9010-ca9980bf36e6",
+      "entityId": "merchant_532651f2-e8a4-4ec3-9010-ca9980bf36e6",
+      "name": "THE GLAM TOUCH",
+      "address": "716 Yishun Street 71 Aavc-animal & Avian Veterinary Clinic Singapore 760716, #01-274,  S760716;",
+      "postalCode": "760716",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42621096565013,
+      "LON": 103.827704108295,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_fb1d6718-576a-4dc1-a503-ef512150a11a",
       "entityId": "merchant_fb1d6718-576a-4dc1-a503-ef512150a11a",
       "name": "THE GLORIA FLORIST",
@@ -456880,6 +457040,26 @@
         }
       },
       "lastResetDate": "2024-12-27"
+    },
+    {
+      "id": "merchant_6795c630-461e-482b-8183-2f8e143c69a4",
+      "entityId": "merchant_6795c630-461e-482b-8183-2f8e143c69a4",
+      "name": "TOKO WARISAN HALAL FROZEN (507JW)",
+      "address": "507 Jurong West Street 52 Hong Kah Point Singapore 640507, #01-158,  S640507;",
+      "postalCode": "640507",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34902708903263,
+      "LON": 103.718429933971,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
     },
     {
       "id": "merchant_1b016e03-6fca-463a-aada-85cb9f66db83",
@@ -491102,6 +491282,26 @@
       "lastResetDate": "2022-01-26"
     },
     {
+      "id": "merchant_f094aea2-0253-4d3d-9642-dc5b089e93ce",
+      "entityId": "merchant_f094aea2-0253-4d3d-9642-dc5b089e93ce",
+      "name": "XIANG ZHI ZHUANG TRADING PTE LTD",
+      "address": "347 Jurong East Avenue 1, #01-72,  S600347;",
+      "postalCode": "600347",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3454164813804,
+      "LON": 103.73170393955,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_f677d34f-f652-47fc-b292-fd6c3d20e8ad",
       "entityId": "merchant_f677d34f-f652-47fc-b292-fd6c3d20e8ad",
       "name": "XIANGYU PAN-FRIED BUN",
@@ -499462,6 +499662,26 @@
       "lastResetDate": "2021-11-04"
     },
     {
+      "id": "merchant_dc93fdbb-6d84-4d5a-95af-fecb6e8faa5c",
+      "entityId": "merchant_dc93fdbb-6d84-4d5a-95af-fecb6e8faa5c",
+      "name": "YASAIYA CAFE",
+      "address": "1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-03,  S082001;",
+      "postalCode": "082001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2755961982077,
+      "LON": 103.842393171342,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
+    },
+    {
       "id": "merchant_d53e79a9-129a-49bb-8c9a-2f7809b3e65b",
       "entityId": "merchant_d53e79a9-129a-49bb-8c9a-2f7809b3e65b",
       "name": "YASASHII TRADING",
@@ -507442,26 +507662,6 @@
       "lastResetDate": "2025-09-23"
     },
     {
-      "id": "merchant_c42e67ce-b103-443b-bcca-29f2acba1cc1",
-      "entityId": "merchant_c42e67ce-b103-443b-bcca-29f2acba1cc1",
-      "name": "YONG TAU FOO (510443)",
-      "address": "443 Pasir Ris Drive 6, 7a,  S510443;",
-      "postalCode": "510443",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36940860628198,
-      "LON": 103.957395750219,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-06-16"
-    },
-    {
       "id": "merchant_96344f05-cefb-4651-af0a-bc69b24ad9e9",
       "entityId": "merchant_96344f05-cefb-4651-af0a-bc69b24ad9e9",
       "name": "YONG TAU FOO (510623)",
@@ -508800,6 +509000,26 @@
         }
       },
       "lastResetDate": "2021-11-22"
+    },
+    {
+      "id": "merchant_c42e67ce-b103-443b-bcca-29f2acba1cc1",
+      "entityId": "merchant_c42e67ce-b103-443b-bcca-29f2acba1cc1",
+      "name": "YOU MIAN ER NOODLE HOUSE",
+      "address": "443 Pasir Ris Drive 6, 7a,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
     },
     {
       "id": "merchant_04596b00-d907-4064-b1c5-9b60274bbdbd",
@@ -519620,6 +519840,26 @@
         }
       },
       "lastResetDate": "2025-06-24"
+    },
+    {
+      "id": "merchant_8b1306da-d505-4938-bab0-15711db9c5ae",
+      "entityId": "merchant_8b1306da-d505-4938-bab0-15711db9c5ae",
+      "name": "ZTP GINSENG BIRDNEST - TANJONG PAGAR",
+      "address": "1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-38,  S082001;",
+      "postalCode": "082001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2755961982077,
+      "LON": 103.842393171342,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-01-30"
     },
     {
       "id": "merchant_ec77c0d2-b77d-400b-9bf6-49b8ca10f3a0",

@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-01-31
+
+</summary>
+
+Total locations: 26,012 → 26,024
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA ROJAK | 146 Potong Pasir Avenue 1,  S350146; | <span title="1.3318007826539,103.867242849282">1.33180, 103.86724</span> |
+  | CHICKEN AND DUCK TALK HK ROASTED TED | 568C Champions Way, 1,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | CHUAN CHOON PORK SUPPLIER (510441) | 441 Pasir Ris Drive 6, #01-80,  S510441; | <span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+  | KOREAN CUISINE YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | OK CHICKEN RICE HUMFULL PRAWN LAKSA | 399 Yung Sheng Road,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | SARAWAK KOLO MEE | 5058 Ang Mo Kio Industrial Park 2,  S569561; | <span title="1.37493578950143,103.860304943757">1.37494, 103.86030</span> |
+  | SPICY CORNER | Kim Du Food Place, 302 Ubi Avenue 1, #01-71,  S400302; | <span title="1.33002586987709,103.900995405582">1.33003, 103.90100</span> |
+  | THE GLAM TOUCH | 716 Yishun Street 71 Aavc-animal & Avian Veterinary Clinic Singapore 760716, #01-274,  S760716; | <span title="1.42621096565013,103.827704108295">1.42621, 103.82770</span> |
+  | TOKO WARISAN HALAL FROZEN (507JW) | 507 Jurong West Street 52 Hong Kah Point Singapore 640507, #01-158,  S640507; | <span title="1.34902708903263,103.718429933971">1.34903, 103.71843</span> |
+  | XIANG ZHI ZHUANG TRADING PTE LTD | 347 Jurong East Avenue 1, #01-72,  S600347; | <span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
+  | YASAIYA CAFE | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-03,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | ZTP GINSENG BIRDNEST - TANJONG PAGAR | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-38,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>YONG TAU FOO (510443)</del><br>YOU MIAN ER NOODLE HOUSE | 443 Pasir Ris Drive 6, 7a,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-30
 
 </summary>
