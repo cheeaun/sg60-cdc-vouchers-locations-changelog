@@ -13,6 +13,23 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-01
+
+</summary>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 138 PRAWN NOODLE | <del>9008 Tampines Street 93,  S528843;</del><br>138 Tampines Street 11, #01-148,  S521138; | <del title="1.34171015240353,103.942585643036">1.34171, 103.94259</del><br><span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+  | TRIPLETS | <del>21 Tampines Ave 1,  S529757;</del><br>21 Temasek Avenue 1, #01-01, Temasek Polytechnic Blk 30B,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-01-31
 
 </summary>
