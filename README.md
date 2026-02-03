@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-03
+
+</summary>
+
+Total locations: 26,024 → 26,034
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 801 WEST COAST MIXED RICE | Blk 801 West Coast Crescent, 7,  S120801; | <span title="1.29971617660023,103.763834786591">1.29972, 103.76383</span> |
+  | 91 KWAY TEOW SOUP | 91 Telok Blangah Street 31,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | AL SARA'S PRATA HOUSE | 253 Jurong East Street 24 Yuhua Village Singapore 600253, #01-247,  S600253; | <span title="1.34318835786153,103.73678575382">1.34319, 103.73679</span> |
+  | CLAYPOT CURRY FISHHEAD 272 | 272 Bukit Batok East Avenue 4,  S650272; | <span title="1.34879030700149,103.757864718209">1.34879, 103.75786</span> |
+  | KEDAI MAMU PTE LTD (348 YISHUN) | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | MALA HOTPOT (510735) | 735 Pasir Ris Street 72, 09,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | NURAIN'S BBQ SEAFOOD | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | QUEEN BEAUTY | 101 Yishun Avenue 5 Chong Pang City Singapore 760101, #01-65,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | VALUE HAIR SALON (CROWN) | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-830,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | WOODLANDS MEDICAL CENTRE PTE. LTD. | 210 Marsiling Crescent Singapore 730210, #01-09A,  S730210; | <span title="1.44620708744186,103.7736803529">1.44621, 103.77368</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HOE YIN COFFEE POWDER</del><br>HOE YIN KEE COFFEE POWDER | 58 New Upper Changi Road, #01-117,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-01
 
 </summary>
