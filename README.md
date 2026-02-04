@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-04
+
+</summary>
+
+Total locations: 26,034 → 26,051
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 537 CHICKEN RICE | 537 Bukit Batok Street 52, 03,  S650537; | <span title="1.35511516448647,103.750877888291">1.35512, 103.75088</span> |
+  | A FISHY PLACE AQUARIUM | 6 Telok Blangah Crescent Dbs Telok Blangah Crescent Singapore 090006, #01-432,  S090006; | <span title="1.27814081311562,103.818484019328">1.27814, 103.81848</span> |
+  | BRIYANI CORNER BY CHEF SYED (537BB) | 537 Bukit Batok Street 52, MR1,  S650537; | <span title="1.35511516448647,103.750877888291">1.35512, 103.75088</span> |
+  | FEI MAO FISH SOUP | 14 Haig Road, #01-42,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | HENG KEE 267 CHICKEN | 267 Serangoon Avenue 3, M18,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | HENG KEE 267 SEAFOOD | 267 Serangoon Avenue 3, M9,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | LUCIDA DERMA | 443 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560443, #01-1245,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | LUCKY CAT FISH SOUP | 79 Circuit Road, #01-55,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | MARYS DRINKS ECONOMIC RICE (537BB) | 537 Bukit Batok Street 52, 05,  S650537; | <span title="1.35511516448647,103.750877888291">1.35512, 103.75088</span> |
+  | MEE BAGUS | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | MINCED PORK NOODLES (537BB) | 537 Bukit Batok Street 52, 04,  S650537; | <span title="1.35511516448647,103.750877888291">1.35512, 103.75088</span> |
+  | MUMBAI SALON | 58 Marine Terrace Marine Terrace Haven Singapore 440058, #01-57B,  S440058; | <span title="1.30611781253448,103.914026029355">1.30612, 103.91403</span> |
+  | NASI PADANG BY CHEF SYED (537BB) | 537 Bukit Batok Street 52, 02,  S650537; | <span title="1.35511516448647,103.750877888291">1.35512, 103.75088</span> |
+  | TASTE QUEST CCK | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | TOTOFISH (YISHUN 848) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | WANTON FU (AMK 107) | 107 Ang Mo Kio Avenue 4,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | WEENA FRIED DELIGHTS | 122 Ang Mo Kio Avenue 3,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+
+  </details>
+
+- <details><summary>Changed (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEAUTY AND GRACE | <del>3 Lorong Lew Lian, #01-58B,  S531003;</del><br>42 Holland Drive #01-85, #01-85,  S270042; | <del title="1.3504753599142,103.876132957211">1.35048, 103.87613</del><br><span title="1.30790383303654,103.792961440964">1.30790, 103.79296</span> |
+  | BEN BAKER PTE LTD | <del>260 Bukit Panjang Ring Road, #01-31,  S670260;</del><br>260 Bangkit Road, #01-31,  S670260; | <span title="1.37794056201072,103.773337848764">1.37794, 103.77334</span> |
+  | <del>DA ENG M.Y.</del><br>DA ENG M.Y MALAY FOOD | 80 Redhill Lane, ST6,  S150080; | <span title="1.28780725542023,103.818781986583">1.28781, 103.81878</span> |
+  | <del>MANNA DAILY FOOD, DAILY CHOICES</del><br>DONG JI | 270 Queen Street, #01-73,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>HAN ZAI LAI</del><br>JING HOUSE YONG TAU FOO | 38A Margaret Drive, #01-31,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | KELLY NAIL & SPA-BP | <del>260 Bangkit Road Bukit Panjang Neighbourhood Centre Singapore 670260, #01-37,  S670260;</del><br>258 Bukit Panjang Ring Road, #02-60B,  S670258; | <del title="1.37794056201072,103.773337848764">1.37794, 103.77334</del><br><span title="1.37789653537861,103.773153808687">1.37790, 103.77315</span> |
+  | <del>ZI TONG BEAUTY</del><br>ORTHBEIRA BEAUTY | 283 Bishan Street 22, #01-189,  S570283; | <span title="1.3589190712993,103.844748631736">1.35892, 103.84475</span> |
+  | PAINT & PLAY | <del>555 Ang Mo Kio Avenue 10 Cheng San Place Singapore 560555, #01-1946,  S560555;</del><br>265 Serangoon Central Drive, #03-269,  S550265; | <del title="1.37119666371478,103.85702400572">1.37120, 103.85702</del><br><span title="1.35296423374068,103.87147157124">1.35296, 103.87147</span> |
+  | <del>NEWTON 50</del><br>SG WOK | 500 Clemenceau Avenue North, #01-50,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | <del>BANH MI CHAO</del><br>SINGAPORE ROJAK | <del>232 Ang Mo Kio Avenue 3,  S560232;</del><br>338 Ang Mo Kio Ave 1, #01-1639,  S560338; | <del title="1.36834606813391,103.837196046409">1.36835, 103.83720</del><br><span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | <del>TECK EE MIXED  VEGETABLE RICE</del><br>TECK EE MIXED VEGETABLE RICE (AMK 226B) | 226B Ang Mo Kio Avenue 1, 1,  S562226; | <span title="1.36732624025946,103.83955157933">1.36733, 103.83955</span> |
+  | <del>LH KWAY CHAP</del><br>VIETNAM STREET FOOD | <del>159 Ang Mo Kio Avenue 4,  S560159;</del><br>500 Clemenceau Avenue North, #01-54,  S229495; | <del title="1.37479893193043,103.839858129785">1.37480, 103.83986</del><br><span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | <del>YUPAN BAN MIAN (REDHILL)</del><br>YU PAN FISH SOUP AND NOODLES | <del>75D Redhill Road,  S154075;</del><br>75D Redhill Road, #01-94,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-03
 
 </summary>
