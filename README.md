@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-05
+
+</summary>
+
+Total locations: 26,051 → 26,060
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 181 DRINKS STALL | 181 Ang Mo Kio Avenue 5, ST1,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | AL-AJWA RESTAURANT | 803 King George's Avenue Hdb-kallang/whampoa Singapore 200803, #01-180,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | ALIYAH RIZQ BUTCHERY | 277 Bukit Batok East Avenue 3, #01-367,  S650277; | <span title="1.34737713969744,103.758002985557">1.34738, 103.75800</span> |
+  | GOOD DAY BAKERY - TANJONG PAGAR | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-43A,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | NAZRIYAH INDIAN MUSLIM FOOD | 111A Whampoa Road,  S322111; | <span title="1.32612552903646,103.855672661254">1.32613, 103.85567</span> |
+  | PET BASKET | 122 Mcnair Road Mcnair Spring Singapore 320122, #01-43,  S320122; | <span title="1.3188425968422,103.856837677166">1.31884, 103.85684</span> |
+  | RESTAURANT TKR NASI KANDAR | 503 Tampines Central 1, 01-01,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | RHAJAA PRATA | 85 Redhill Lane, #01-16,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | VALUE DOLLAR 418 | 418 Yishun Avenue 11 Singapore 760418, #01-397,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DIAMOND BEAUTY & SPA | <del>252 Jurong East Street 24, #01-113,  S600252;</del><br>164 Bukit Batok Street 11, #01-138,  S650164; | <del title="1.34302026715262,103.738115504821">1.34302, 103.73812</del><br><span title="1.34771697477219,103.742831711054">1.34772, 103.74283</span> |
+  | ELECTRON MOBILE & TRADING | <del>Jurong West Street 75, #02-254A,  S640762;</del><br>624 Chua Chu Kang Street 62, #01-222A,  S680624; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | <del>MEE BAGUS</del><br>MEE BAGUS 170 | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | UNA MINIMART | <del>762 Jurong West Street 75 Dbs Gek Poh Shopping Centre Singapore 640762, #01-312,  S640762;</del><br>825 Jurong West Street 81, #01-410,  S640825; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34619009117105,103.693228518914">1.34619, 103.69323</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-04
 
 </summary>
