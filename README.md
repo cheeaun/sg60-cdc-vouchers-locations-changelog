@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-06
+
+</summary>
+
+Total locations: 26,060 → 26,068
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | (261) CLAYPOT CURRY FISHHEAD  PTE LTD | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | BELFIELD MEDICAL CLINIC | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-179,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+  | BOON HENG ROASTED DELIGHTS 768 | 768 Woodlands Avenue 6, 05,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | LEGACY OF PRAWN W PTE LTD | 450 Clementi Avenue 3,  S120450; | <span title="1.31353886128,103.765476305204">1.31354, 103.76548</span> |
+  | SWITCH 2 VEGETARIAN | 480 Lorong 6 Toa Payoh, ST17,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | TAWAKKAL - 380 CLEMENTI | 380 Clementi Avenue 5,  S120380; | <span title="1.31834429050422,103.767572030573">1.31834, 103.76757</span> |
+  | THE SNOOPY SPOT PET GROOMING SALON | 603 Clementi West Street 1 Hdb-clementi Singapore 120603, #01-38,  S120603; | <span title="1.3047886514707,103.767329303088">1.30479, 103.76733</span> |
+  | YI PIN XIANG MALA FRAGRANT HOTPOT | 19 Serangoon North Avenue 5,  S554913; | <span title="1.37563500157221,103.871996419103">1.37564, 103.87200</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DELI SNACKS | <del>150 Bishan Street 11,  S570150;</del><br>13 Old Airport Road, 01-149,  S390013; | <del title="1.34452706951365,103.855213610381">1.34453, 103.85521</del><br><span title="1.30707415731033,103.883582973686">1.30707, 103.88358</span> |
+  | <del>FLAVOR BORN NOODLES</del><br>FLAVORBORN NOODLES 304 | 304 Serangoon Avenue 2,  S550304; | <span title="1.35381345296971,103.867773013876">1.35381, 103.86777</span> |
+  | INDONESIAN CUISINE | <del>6 Tanjong Pagar Plaza, #02-06,  S081006;</del><br>6 Tanjong Pagar Plaza, #02-49,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | T-LUCK HOME MART | <del>Jurong West Street 52, #01-158,  S640507;</del><br>417 Fernvale Link, #01-07,  S790417; | <del title="1.34902708903263,103.718429933971">1.34903, 103.71843</del><br><span title="1.39158622983505,103.879874611419">1.39159, 103.87987</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-05
 
 </summary>
