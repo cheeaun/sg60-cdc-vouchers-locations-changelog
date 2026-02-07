@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-07
+
+</summary>
+
+Total locations: 26,068 → 26,081
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A K CYCLESPORTS | 710 Clementi West Street 2 Hdb-clementi Singapore 120710, #01-265,  S120710; | <span title="1.30628911866015,103.76151810816">1.30629, 103.76152</span> |
+  | AL NOOR RESTAURANT 786 | 204 Serangoon Central,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | ARABIANO KEBAB | 51 Old Airport Road, #01-42,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | CHEN JI | 270 Queen Street, #01-115,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | FU CAI SHUI GUO (TBL 45) | 45 Telok Blangah Drive Blangah Court Singapore 100045, #01-169,  S100045; | <span title="1.27175707090153,103.809560438327">1.27176, 103.80956</span> |
+  | HONG LIM CURRY PUFF (AMK 340) | 340 Ang Mo Kio Avenue 1,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | MRL MART | 202 Ang Mo Kio Avenue 3 Ang Mo Kio View Singapore 560202, #01-1666,  S560202; | <span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | MUNEY MIX JUICE | 927 Yishun Central 1 Hdb-yishun Singapore 760927, #01-163,  S760927; | <span title="1.42767464529376,103.837731455467">1.42767, 103.83773</span> |
+  | PROVERBS FAMILY CLINIC | 204 Hougang Street 21 Dbs Hougang Branch Singapore 530204, #01-101,  S530204; | <span title="1.35881911554386,103.884988426671">1.35882, 103.88499</span> |
+  | SHAN YUAN VEGETARIAN | 105 Hougang Avenue 1, #02-03,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | THE BLESSINGS HAIR SALON PTE LTD | 502 Bishan Street 11 Hdb-bishan Singapore 570502, #01-352,  S570502; | <span title="1.34857905320066,103.848348015837">1.34858, 103.84835</span> |
+  | WELCOME 151 MINIMART | 151 Ang Mo Kio Avenue 5 Yio Chu Kang Grove Singapore 560151, #01-3034,  S560151; | <span title="1.37671105271454,103.841168190659">1.37671, 103.84117</span> |
+  | YI SHENG TEOCHEW PORRIDGE RICE | 85 Dawson Road,  S141085; | <span title="1.29531966312622,103.809758591447">1.29532, 103.80976</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FRUITS STALL</del><br>HENG CHUN FRUITS TRADING | <del>341 Ang Mo Kio Ave 1, #01-72,  S560341;</del><br>267 Serangoon Ave 3, #01-01 M7/M8,  S550267; | <del title="1.36384516921846,103.84806729788">1.36385, 103.84807</del><br><span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | <del>FACTORY OUTLET SALES (201E TAMPINES)</del><br>JIN FU LING TRADING | 513 Tampines Central 1, #01-160,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+  | <del>KUCING ORIGINAL KOLO NOODLES LAKSA</del><br>SARAWAK KOLO NOODLE | 84 Marine Parade Central, #01-05,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | <del>SHUN LI YONG TAU FOO</del><br>SHUN LI ECONOMIC BEE HOON | 51 Yishun Avenue 11, #01-38,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-06
 
 </summary>
