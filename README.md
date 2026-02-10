@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-10
+
+</summary>
+
+Total locations: 26,081 → 26,097
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 55 PORK STALL | 58 New Upper Changi Road, #01-55,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | BIG MOUTH BAKEHOUSE | 1 Engku Aman Turn, 01-06,  S408528; | <span title="1.31645017621367,103.896596943037">1.31645, 103.89660</span> |
+  | BOKTANIC (TC) | 8 Tampines Central 1 Eastlink Mall Singapore 529543, #01-12,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | CRUNCH & CUPS | 260 Ang Mo Kio Street 21 Kebun Baru Court Singapore 560260, #01-04,  S560260; | <span title="1.36891617080101,103.834499516963">1.36892, 103.83450</span> |
+  | D' PLANET TIME | 8 Tampines Central 1 Eastlink Mall Singapore 529543, #01-01,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | DAO XIANG CLAYPOT | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | DELIGHT H K ROASTER STYLE | 123 Yishun Street 11, K,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | HERBAL PHARM (304) | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-103C,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | HUNG HENG RICE HOUSE | 304 Ubi Avenue 1,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | JIAOCAI SEAFOOD 0214 | 2 Senja Close, 02-14,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+  | OLD AIRPORT RD WANTON NOODLE | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | RI JI ROASTER | 120 Bukit Merah Lane 1, #01-79,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | ROSIE KITCHEN | 3 Changi Village Road, #01-84,  S500003; | <span title="1.38965834308064,103.988091826679">1.38966, 103.98809</span> |
+  | SABANA COFFEEHOUSE | 159 Mei Chin Road, #02-07,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | XIAO HONG CHICKEN RICE | 2 Bukit Panjang Ring Road, #01-21,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | YU GUO CHINESE PHYSICIAN | 742 Bedok Reservoir Road Kidskingdom @ Bedok Reservoir Llp Singapore 470742, #01-3085,  S470742; | <span title="1.33808524960901,103.922090734567">1.33809, 103.92209</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MOHAMED NAUFAL DRINK STALL</del><br>HAJI MOHD NOORDDIN TEA STALL | 14 Haig Road, #01-27,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-07
 
 </summary>
