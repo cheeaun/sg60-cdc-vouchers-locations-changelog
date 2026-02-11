@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-11
+
+</summary>
+
+Total locations: 26,097 → 26,106
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 2BRO RESTAURANTS & BISTRO | 166 Jalan Besar, #01-10,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | DEZU AESTHETICS | 91 Jalan Satu Dakota Breeze Singapore 390091, #01-04A,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | ECONOMICAL BEEHOON & NASI LEMAK | 122 Ang Mo Kio Avenue 3, 03,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+  | FRONTIER MEDICAL (CIRCUIT ROAD) | 64 Circuit Road Hdb-macpherson Singapore 370064, #01-339,  S370064; | <span title="1.32698404492367,103.887148432844">1.32698, 103.88715</span> |
+  | MRM IMPEX PTE LTD | 64 Circuit Road Hdb-macpherson Singapore 370064, #01-349,  S370064; | <span title="1.32698404492367,103.887148432844">1.32698, 103.88715</span> |
+  | NASI LEMAK YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | TAJZ HALALICIOUS EATS | 79A Circuit Road, #01-79.,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | YOU YI MINCED MEAT NOODLE | 115 Bukit Merah View, #01-84,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | YUMMY | 137 Tampines Street 11, #01-24,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DELIGHT HK ROASTED STYLE | <del>121 Geylang East Central,  S380121;</del><br>121 Geylang East Central, #01-90,  S380121; | <span title="1.3179301794665,103.885314531751">1.31793, 103.88531</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-10
 
 </summary>
