@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-12
+
+</summary>
+
+Total locations: 26,106 → 26,117
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMBIANCE PARADISE | 1 Geylang Serai Dbs Geylang Serai Market And Food Centre Singapore 402001, #01-209,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | DING FENG HANDMADE FISHBALL NOODLE | 107 Ang Mo Kio Avenue 4,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | FRESH FISH SOUP B1-41 | 505 Beach Road, #B1-41,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | HOCK KEE PRAWN NOODLES (280 BISHAN) | 280 Bishan Street 24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | HOCK KEE PRAWN NOODLES (AMK) | 608 Ang Mo Kio Avenue 5,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | HONG YU SEAFOOD | 118 Hougang Avenue 1,  S530118; | <span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | IBEAUTY WELLNESS | 8 Tampines Central 1 Eastlink Mall Singapore 529543, #01-17,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | MAN FENG | 118 Hougang Avenue 1,  S530118; | <span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | MAWAR MERAH | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | OMSAKTHI GROCERY PTE LTD | 139 Teck Whye Lane Singapore 680139, #01-333,  S680139; | <span title="1.38022680750527,103.752577308156">1.38023, 103.75258</span> |
+  | THE YOUTH CODE (SIPIMO) | 214 Bedok North Street 1 Bedok Town Centre Singapore 460214, #01-183,  S460214; | <span title="1.32587565122354,103.932493035074">1.32588, 103.93249</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MASTER YE ROAST DUCK ( 120603 )</del><br>MASTER YE ROAST DUCK - ST GEORGE | <del>603 Clementi West Street 1,  S120603;</del><br>3 St George's Road, #01-67,  S320003; | <del title="1.3047886514707,103.767329303088">1.30479, 103.76733</del><br><span title="1.3225873518737,103.861107276991">1.32259, 103.86111</span> |
+  | <del>QUAN SHENG MUSHROOM MINED MEAT NOODLE</del><br>QUAN SHENG MUSHROOM MINCED MEAT NOODLE | 84 Marine Parade Central, #01-29,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | TUNGSAN FOOD INDUSTRIES PTE LTD - BEDOK | <del>Bedok North Street 3, #01-477A,  S461539;</del><br>Bedok North Street 3, #01-475,  S461539; | <span title="1.33240506627893,103.925501255318">1.33241, 103.92550</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-11
 
 </summary>
