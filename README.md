@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-13
+
+</summary>
+
+Total locations: 26,117 → 26,132
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 119 MIXED CURRY RICE | 119 Bukit Merah Lane 1, ST08,  S151119; | <span title="1.28593893475633,103.804715808324">1.28594, 103.80472</span> |
+  | 359 BUKIT BATOK MIXED RICE | 359 Bukit Batok Street 31,  S650359; | <span title="1.36134370379955,103.75123068355">1.36134, 103.75123</span> |
+  | DADDY CUISINE | 1220 East Coast Parkway, #01-047,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | HAN TCM MEDICAL - BEDOK | 211 New Upper Changi Road Bedok Town Centre Singapore 460211, #01-747,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | HENG SUAY EATING HOUSE | 608 Ang Mo Kio Avenue 5 Yio Chu Kang Green Singapore 560608, #01-2793,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | JWS GRILLE FACTORY 650347 | 347 Bukit Batok Street 34,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+  | LUCKY STAR BAN MIAN (BEDOK 136) | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | M PATH WESTERN  FOOD | 170A Sengkang East Drive,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | MAY'S ROJAK | 232 Ang Mo Kio Avenue 3,  S560232; | <span title="1.36834606813391,103.837196046409">1.36835, 103.83720</span> |
+  | NOODLE HOUSE (BEDOK 136) | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | SAN XIANG BAK CHOR MEE | 412 Bedok North Avenue 2,  S460412; | <span title="1.32929126082802,103.931090689284">1.32929, 103.93109</span> |
+  | TANAKA VEGETARIAN 253 CCK | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | YAM MEE TEOCHEW FISHBALL MEE | 511 Bedok North Street 3, #01-24,  S460511; | <span title="1.33321993297265,103.930581522776">1.33322, 103.93058</span> |
+  | YANGS NASI LEMAK & ECONOMY BEE HOON | 161 Bukit Merah Central,  S150161; | <span title="1.28391229397444,103.816006111441">1.28391, 103.81601</span> |
+  | YUANLAISHINISG | 209 Hougang Street 21, #01-77.,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ROSIE KITCHEN</del><br>SALMAH'S KITCHEN | 1 Geylang Serai, #02-167,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | SNIP AVENUE - YISHUN 418 | <del>418 Yishun Avenue 11 Singapore 760418, #01-391,  S760418;</del><br>418 Yishun Avenue 11, #01-409,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-12
 
 </summary>
