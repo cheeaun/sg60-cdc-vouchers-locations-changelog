@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-14
+
+</summary>
+
+Total locations: 26,132 → 26,139
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHEN FAMILY CLINIC | 153 Serangoon North Avenue 1 Dbs Serangoon North Avenue 1 Singapore 550153, #01-490,  S550153; | <span title="1.36995099685808,103.872312298412">1.36995, 103.87231</span> |
+  | KL WANTON NOODLE | 186 Toa Payoh Central,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | MD FAMILY CLINIC BB | 213 Bukit Batok Street 21 Hdb-bukit Batok Singapore 650213, #01-209,  S650213; | <span title="1.34681845451426,103.752496875347">1.34682, 103.75250</span> |
+  | MUKESH MART PTE LTD | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-123A,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | PAN'S FINE CUTS (AMK 341) | 341 Ang Mo Kio Avenue 1, #01-105,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | SUNBO EXPRESS CHICKEN RICE | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | VANBABY VIETNAM MINIMART | 304 Ubi Avenue 1 Singapore 400304, #01-125,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH NIAN FISHBALL NOODLE . YONG TAU FOO (KELANTAN) | <del>31 Kelantan Lane,  S200031;</del><br>123 Bedok North St 2, #01-168,  S460123; | <del title="1.30630368530972,103.856826784017">1.30630, 103.85683</del><br><span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | AL JAMAL RESTAURANT | <del>269 Queen Street,  S180269;</del><br>116 Bukit Merah View, #01-253 ST8,  S151116; | <del title="1.30048013687566,103.85391368667">1.30048, 103.85391</del><br><span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | BAN MIAN FISH SOUP | <del>9 Toa Payoh Industrial Park, #01-1209,  S319061;</del><br>210 Toa Payoh Lor 8, #01-73,  S310210; | <del title="1.33674506157381,103.860127995999">1.33675, 103.86013</del><br><span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | <del>GRILLZ</del><br>MAKANSHIOK VENTURES | 49 Teban Gardens Road, #01-583,  S600049; | <span title="1.32098928416148,103.738180684101">1.32099, 103.73818</span> |
+  | <del>MEADOWBREW</del><br>MEADOW BREW | <del>532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2473,  S560532;</del><br>6 Ang Mo Kio St 53, #01-03,  S569205; | <del title="1.37381204877253,103.854590377124">1.37381, 103.85459</del><br><span title="1.37191523463477,103.849375024665">1.37192, 103.84938</span> |
+  | <del>DUMPLING</del><br>RONG XING XIAO LONG BAO | 85 Redhill Lane, #01-77,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-13
 
 </summary>
