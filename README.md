@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-15
+
+</summary>
+
+Total locations: 26,139 → 26,140
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MEET MEAT @ 818 CCK | 818 Choa Chu Kang Avenue 1,  S680818; | <span title="1.37802616177265,103.748826770919">1.37803, 103.74883</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>VISHAGAM INDIAN FOOD</del><br>AL BARAKAH INDIAN MUSLIM FOOD | 118 Hougang Avenue 1,  S530118; | <span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | <del>MABO LOR MEE (216 BEDOK NORTH)</del><br>FOO HING TEOCHEW NOODLES | 216 Bedok North Street 1, #01-76,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | <del>GOLDEN MILLION BEAUTY GENTS HAIRDRESSING AND PERM</del><br>GM SALON | 58 Marine Terrace, #01-55,  S440058; | <span title="1.30611781253448,103.914026029355">1.30612, 103.91403</span> |
+  | <del>OPTICAL</del><br>MING OPTIQUE | 58 Marine Terrace, #01-45,  S440058; | <span title="1.30611781253448,103.914026029355">1.30612, 103.91403</span> |
+  | <del>SILVOTINO STUDIO (57 MARINE TERRACE)</del><br>SILVOTINO SALON (57 MARINE TERRACE) | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-107,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | UNION MEDICAL CLINIC & SURGERY | <del>152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-330,  S550152;</del><br>152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-308,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+  | <del>YELLOW TOPAZ</del><br>YELLOW TOPAZ HAIR & BEAUTY SALON | 57 Marine Terrace, #01-127B,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-14
 
 </summary>

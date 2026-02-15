@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 Feb 2026",
+  "lastUpdated": "15 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -39620,6 +39620,26 @@
         }
       },
       "lastResetDate": "2022-03-01"
+    },
+    {
+      "id": "merchant_941eb634-3271-43d1-be2a-bf80696dbfc5",
+      "entityId": "merchant_941eb634-3271-43d1-be2a-bf80696dbfc5",
+      "name": "AL BARAKAH INDIAN MUSLIM FOOD",
+      "address": "118 Hougang Avenue 1,  S530118;",
+      "postalCode": "530118",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35345957179709,
+      "LON": 103.887488043611,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-14"
     },
     {
       "id": "merchant_e0de16bf-ea06-45e2-94df-9c4e1caeadc0",
@@ -156362,6 +156382,26 @@
       "lastResetDate": "2025-07-18"
     },
     {
+      "id": "merchant_c79ce59f-f9af-456c-9550-f77ff7bc7888",
+      "entityId": "merchant_c79ce59f-f9af-456c-9550-f77ff7bc7888",
+      "name": "FOO HING TEOCHEW NOODLES",
+      "address": "216 Bedok North Street 1, #01-76,  S460216;",
+      "postalCode": "460216",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32706274205746,
+      "LON": 103.933217970746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-14"
+    },
+    {
       "id": "merchant_51d295ed-4fab-4020-a4b4-217bf513c38f",
       "entityId": "merchant_51d295ed-4fab-4020-a4b4-217bf513c38f",
       "name": "FOO HING TEOCHEW NOODLES _BP",
@@ -173222,6 +173262,26 @@
       "lastResetDate": "2023-12-12"
     },
     {
+      "id": "merchant_fe4ca540-2b12-461d-9722-a03a998d2847",
+      "entityId": "merchant_fe4ca540-2b12-461d-9722-a03a998d2847",
+      "name": "GM SALON",
+      "address": "58 Marine Terrace, #01-55,  S440058;",
+      "postalCode": "440058",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30611781253448,
+      "LON": 103.914026029355,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-14"
+    },
+    {
       "id": "merchant_a5678103-ac38-48d6-87f6-5bb5548b989f",
       "entityId": "merchant_a5678103-ac38-48d6-87f6-5bb5548b989f",
       "name": "GM SPA",
@@ -174680,26 +174740,6 @@
         }
       },
       "lastResetDate": "2021-10-22"
-    },
-    {
-      "id": "merchant_fe4ca540-2b12-461d-9722-a03a998d2847",
-      "entityId": "merchant_fe4ca540-2b12-461d-9722-a03a998d2847",
-      "name": "GOLDEN MILLION BEAUTY GENTS HAIRDRESSING AND PERM",
-      "address": "58 Marine Terrace, #01-55,  S440058;",
-      "postalCode": "440058",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30611781253448,
-      "LON": 103.914026029355,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-01-27"
     },
     {
       "id": "merchant_568890a9-946f-42ac-859c-5280ab135719",
@@ -295262,26 +295302,6 @@
       "lastResetDate": "2026-01-12"
     },
     {
-      "id": "merchant_c79ce59f-f9af-456c-9550-f77ff7bc7888",
-      "entityId": "merchant_c79ce59f-f9af-456c-9550-f77ff7bc7888",
-      "name": "MABO LOR MEE (216 BEDOK NORTH)",
-      "address": "216 Bedok North Street 1, #01-76,  S460216;",
-      "postalCode": "460216",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32706274205746,
-      "LON": 103.933217970746,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-01-21"
-    },
-    {
       "id": "merchant_c200051f-f79a-434d-9b60-6cc587cab2ba",
       "entityId": "merchant_c200051f-f79a-434d-9b60-6cc587cab2ba",
       "name": "MAC PLUS",
@@ -305662,6 +305682,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_c5048146-9b65-4a50-b6f0-16893a38a5bb",
+      "entityId": "merchant_c5048146-9b65-4a50-b6f0-16893a38a5bb",
+      "name": "MEET MEAT @ 818 CCK",
+      "address": "818 Choa Chu Kang Avenue 1,  S680818;",
+      "postalCode": "680818",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37802616177265,
+      "LON": 103.748826770919,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-14"
+    },
+    {
       "id": "merchant_ea1493f8-4504-4132-9bd4-229be4af039b",
       "entityId": "merchant_ea1493f8-4504-4132-9bd4-229be4af039b",
       "name": "MEET PAUL",
@@ -312400,6 +312440,26 @@
         }
       },
       "lastResetDate": "2025-07-29"
+    },
+    {
+      "id": "merchant_8c07e8cd-6bae-43bd-99e3-4bc15bf878e9",
+      "entityId": "merchant_8c07e8cd-6bae-43bd-99e3-4bc15bf878e9",
+      "name": "MING OPTIQUE",
+      "address": "58 Marine Terrace, #01-45,  S440058;",
+      "postalCode": "440058",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30611781253448,
+      "LON": 103.914026029355,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-14"
     },
     {
       "id": "merchant_c27b94d0-ec49-43db-90e8-5893e3e6c290",
@@ -346470,26 +346530,6 @@
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35816293570102,
       "LON": 103.884400266646,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-01-27"
-    },
-    {
-      "id": "merchant_8c07e8cd-6bae-43bd-99e3-4bc15bf878e9",
-      "entityId": "merchant_8c07e8cd-6bae-43bd-99e3-4bc15bf878e9",
-      "name": "OPTICAL",
-      "address": "58 Marine Terrace, #01-45,  S440058;",
-      "postalCode": "440058",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30611781253448,
-      "LON": 103.914026029355,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -404524,7 +404564,7 @@
     {
       "id": "merchant_ef48d44d-1f37-4ddd-943b-62e750abe631",
       "entityId": "merchant_ef48d44d-1f37-4ddd-943b-62e750abe631",
-      "name": "SILVOTINO STUDIO (57 MARINE TERRACE)",
+      "name": "SILVOTINO SALON (57 MARINE TERRACE)",
       "address": "57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-107,  S440057;",
       "postalCode": "440057",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -404539,7 +404579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-24"
+      "lastResetDate": "2026-02-14"
     },
     {
       "id": "merchant_dabf0402-20ef-46e7-bc7f-304c4fca4512",
@@ -469365,7 +469405,7 @@
       "id": "merchant_7c21d645-8a15-4fad-a6ec-d77b1e8d0bc5",
       "entityId": "merchant_7c21d645-8a15-4fad-a6ec-d77b1e8d0bc5",
       "name": "UNION MEDICAL CLINIC & SURGERY",
-      "address": "152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-330,  S550152;",
+      "address": "152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-308,  S550152;",
       "postalCode": "550152",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.36934726797811,
@@ -469379,7 +469419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-01-08"
+      "lastResetDate": "2026-02-14"
     },
     {
       "id": "merchant_10734f65-a6c6-4c81-9a86-f86cdd2c8315",
@@ -476460,26 +476500,6 @@
         }
       },
       "lastResetDate": "2024-01-09"
-    },
-    {
-      "id": "merchant_941eb634-3271-43d1-be2a-bf80696dbfc5",
-      "entityId": "merchant_941eb634-3271-43d1-be2a-bf80696dbfc5",
-      "name": "VISHAGAM INDIAN FOOD",
-      "address": "118 Hougang Avenue 1,  S530118;",
-      "postalCode": "530118",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35345957179709,
-      "LON": 103.887488043611,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-06-12"
     },
     {
       "id": "merchant_67afdbf4-876d-4a8c-9c6b-1161a62aed0d",
@@ -502564,7 +502584,7 @@
     {
       "id": "merchant_c4156b9a-3ee8-41b8-8b66-6111ccc086be",
       "entityId": "merchant_c4156b9a-3ee8-41b8-8b66-6111ccc086be",
-      "name": "YELLOW TOPAZ",
+      "name": "YELLOW TOPAZ HAIR & BEAUTY SALON",
       "address": "57 Marine Terrace, #01-127B,  S440057;",
       "postalCode": "440057",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -502579,7 +502599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-03-07"
+      "lastResetDate": "2026-02-14"
     },
     {
       "id": "merchant_0494ddc8-6685-42ec-a83c-e775bfb83782",
