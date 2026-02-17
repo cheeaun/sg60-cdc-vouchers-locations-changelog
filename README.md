@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-17
+
+</summary>
+
+Total locations: 26,140 → 26,146
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A&J BEAUTY NAIL PTE LTD | 67 Kallang Bahru Geylang Bahru Ville Singapore 330067, #01-471B,  S330067; | <span title="1.32139446427243,103.869336174701">1.32139, 103.86934</span> |
+  | AH FANG FISH SOUP BAN MIAN | 123 Bedok North Street 2,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | HOUSE OF FROZEN | 538 Bedok North Street 3, #01-27,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | JSA TRADING PTE LTD | 78B Strathmore Avenue Dawson Vista Singapore 143078, #01-02,  S143078; | <span title="1.29410699961945,103.809540875876">1.29411, 103.80954</span> |
+  | MEGA CUTZ BUTCHERY | 414 Yishun Ring Road, #01-1833,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | SONGYANG CMPB | 91 Hillview Link,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AH NIAN FISHBALL NOODLE . YONG TAU FOO (KELANTAN)</del><br>FANG LIM AH NIAN YONG TAU FOO | 123 Bedok North St 2, #01-168,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | HOUSEHOLD & KITCHEN SUPPLIES | <del>160 Ang Mo Kio Avenue 4, #01-53,  S560160;</del><br>160 Ang Mo Kio Avenue 4, #01-44,  S560160; | <span title="1.37452773784115,103.839176060905">1.37453, 103.83918</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-15
 
 </summary>

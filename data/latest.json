@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 Feb 2026",
+  "lastUpdated": "17 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -26762,6 +26762,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_41012ebb-1a1c-4b7c-aead-fb6616f8c6e9",
+      "entityId": "merchant_41012ebb-1a1c-4b7c-aead-fb6616f8c6e9",
+      "name": "A&J BEAUTY NAIL PTE LTD",
+      "address": "67 Kallang Bahru Geylang Bahru Ville Singapore 330067, #01-471B,  S330067;",
+      "postalCode": "330067",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32139446427243,
+      "LON": 103.869336174701,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
+    },
+    {
       "id": "merchant_efc9cf7c-e1a3-4d29-97cc-c1f4f94bf156",
       "entityId": "merchant_efc9cf7c-e1a3-4d29-97cc-c1f4f94bf156",
       "name": "A&K BEAUTY SALON",
@@ -32182,6 +32202,26 @@
       "lastResetDate": "2025-06-19"
     },
     {
+      "id": "merchant_e942ea66-0380-4b07-95f2-3d0075fb39a4",
+      "entityId": "merchant_e942ea66-0380-4b07-95f2-3d0075fb39a4",
+      "name": "AH FANG FISH SOUP BAN MIAN",
+      "address": "123 Bedok North Street 2,  S460123;",
+      "postalCode": "460123",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32919868667839,
+      "LON": 103.937343347878,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
+    },
+    {
       "id": "merchant_77b28e2c-9db8-4db6-9386-1b83e8da79c8",
       "entityId": "merchant_77b28e2c-9db8-4db6-9386-1b83e8da79c8",
       "name": "AH FANG FISH SOUP BAN MIAN",
@@ -35040,26 +35080,6 @@
         }
       },
       "lastResetDate": "2024-01-12"
-    },
-    {
-      "id": "merchant_c99bc624-dd2d-4b07-973f-1afec6579a0f",
-      "entityId": "merchant_c99bc624-dd2d-4b07-973f-1afec6579a0f",
-      "name": "AH NIAN FISHBALL NOODLE . YONG TAU FOO (KELANTAN)",
-      "address": "123 Bedok North St 2, #01-168,  S460123;",
-      "postalCode": "460123",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32919868667839,
-      "LON": 103.937343347878,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-02-13"
     },
     {
       "id": "merchant_b7037b0c-8f3a-4791-a38c-457c7c836a23",
@@ -146782,6 +146802,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_c99bc624-dd2d-4b07-973f-1afec6579a0f",
+      "entityId": "merchant_c99bc624-dd2d-4b07-973f-1afec6579a0f",
+      "name": "FANG LIM AH NIAN YONG TAU FOO",
+      "address": "123 Bedok North St 2, #01-168,  S460123;",
+      "postalCode": "460123",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32919868667839,
+      "LON": 103.937343347878,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
+    },
+    {
       "id": "merchant_040de99e-fd96-47a2-9f39-9a5340ec54ea",
       "entityId": "merchant_040de99e-fd96-47a2-9f39-9a5340ec54ea",
       "name": "FANG LIN VEGETARIAN",
@@ -214562,6 +214602,26 @@
       "lastResetDate": "2022-05-24"
     },
     {
+      "id": "merchant_9f79ce57-1ac2-4e1d-827b-e0b6c7c81110",
+      "entityId": "merchant_9f79ce57-1ac2-4e1d-827b-e0b6c7c81110",
+      "name": "HOUSE OF FROZEN",
+      "address": "538 Bedok North Street 3, #01-27,  S460538;",
+      "postalCode": "460538",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3320672771228,
+      "LON": 103.924621314971,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
+    },
+    {
       "id": "merchant_dde90269-0fa4-4571-93fe-962b425302e8",
       "entityId": "merchant_dde90269-0fa4-4571-93fe-962b425302e8",
       "name": "HOUSE OF FRUITS",
@@ -215005,7 +215065,7 @@
       "id": "merchant_570870b9-d727-4e2f-b75b-107de297f31b",
       "entityId": "merchant_570870b9-d727-4e2f-b75b-107de297f31b",
       "name": "HOUSEHOLD & KITCHEN SUPPLIES",
-      "address": "160 Ang Mo Kio Avenue 4, #01-53,  S560160;",
+      "address": "160 Ang Mo Kio Avenue 4, #01-44,  S560160;",
       "postalCode": "560160",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.37452773784115,
@@ -215019,7 +215079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-21"
+      "lastResetDate": "2026-02-16"
     },
     {
       "id": "merchant_42b20818-fe39-4e5f-9a6f-e255058a90c3",
@@ -245300,6 +245360,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_e49aeb7c-30da-484e-b739-7cbee428126d",
+      "entityId": "merchant_e49aeb7c-30da-484e-b739-7cbee428126d",
+      "name": "JSA TRADING PTE LTD",
+      "address": "78B Strathmore Avenue Dawson Vista Singapore 143078, #01-02,  S143078;",
+      "postalCode": "143078",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29410699961945,
+      "LON": 103.809540875876,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
     },
     {
       "id": "merchant_3b674171-3d1b-420c-a1d7-7cf447321343",
@@ -306060,6 +306140,26 @@
         }
       },
       "lastResetDate": "2025-02-05"
+    },
+    {
+      "id": "merchant_95f4a30d-c386-4a7a-a328-ef070416d5e9",
+      "entityId": "merchant_95f4a30d-c386-4a7a-a328-ef070416d5e9",
+      "name": "MEGA CUTZ BUTCHERY",
+      "address": "414 Yishun Ring Road, #01-1833,  S760414;",
+      "postalCode": "760414",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42452849741737,
+      "LON": 103.846595546746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
     },
     {
       "id": "merchant_61c733ce-709f-45ea-aef4-7bbe0c3cde6b",
@@ -415360,6 +415460,26 @@
         }
       },
       "lastResetDate": "2025-10-10"
+    },
+    {
+      "id": "merchant_0c047f88-0609-4880-aab1-dbf0faa7db1b",
+      "entityId": "merchant_0c047f88-0609-4880-aab1-dbf0faa7db1b",
+      "name": "SONGYANG CMPB",
+      "address": "91 Hillview Link,  S669723;",
+      "postalCode": "669723",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36762825300103,
+      "LON": 103.764025830065,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-16"
     },
     {
       "id": "merchant_6ec14347-9b0a-4496-b92e-d4e591ab21dd",
