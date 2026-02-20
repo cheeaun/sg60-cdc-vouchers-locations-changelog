@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Feb 2026",
+  "lastUpdated": "20 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -52420,6 +52420,26 @@
         }
       },
       "lastResetDate": "2024-11-22"
+    },
+    {
+      "id": "merchant_d21eb32b-3052-4180-8d9f-e3656594323b",
+      "entityId": "merchant_d21eb32b-3052-4180-8d9f-e3656594323b",
+      "name": "ARABIAAAA ARABIC CUISINE INDIAN FUSION",
+      "address": "51 Hougang Avenue 9, #01-42,  S538776;",
+      "postalCode": "538776",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37532253773567,
+      "LON": 103.88293193004,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-19"
     },
     {
       "id": "merchant_ed711c0d-3526-4a16-ac72-28ab0c1820b3",
@@ -137580,6 +137600,26 @@
         }
       },
       "lastResetDate": "2021-12-23"
+    },
+    {
+      "id": "merchant_e181ecc0-dad5-42a8-9c5c-8b7393ea28c5",
+      "entityId": "merchant_e181ecc0-dad5-42a8-9c5c-8b7393ea28c5",
+      "name": "ELIAS DENTAL SURGERY (510625)",
+      "address": "625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-324,  S510625;",
+      "postalCode": "510625",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37860717882538,
+      "LON": 103.941916363447,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-19"
     },
     {
       "id": "merchant_3ecab7da-d869-4405-83e3-eb2288476770",
@@ -279860,6 +279900,26 @@
         }
       },
       "lastResetDate": "2022-01-28"
+    },
+    {
+      "id": "merchant_22b5efd3-2c17-4386-837c-6187e7f855a0",
+      "entityId": "merchant_22b5efd3-2c17-4386-837c-6187e7f855a0",
+      "name": "LEGEND HAIR SALON PTE LTD - 441A CLEMENTI",
+      "address": "441A Clementi Avenue 3 Clementi Towers Singapore 121441, #01-06,  S121441;",
+      "postalCode": "121441",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31463913092205,
+      "LON": 103.764797687774,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-19"
     },
     {
       "id": "merchant_f2ae2e1a-a249-4673-a863-e6d551a6e13b",

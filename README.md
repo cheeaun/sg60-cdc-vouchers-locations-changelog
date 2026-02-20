@@ -13,6 +13,26 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-20
+
+</summary>
+
+Total locations: 26,146 → 26,149
+
+- <details><summary>Added (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ARABIAAAA ARABIC CUISINE INDIAN FUSION | 51 Hougang Avenue 9, #01-42,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | ELIAS DENTAL SURGERY (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-324,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | LEGEND HAIR SALON PTE LTD - 441A CLEMENTI | 441A Clementi Avenue 3 Clementi Towers Singapore 121441, #01-06,  S121441; | <span title="1.31463913092205,103.764797687774">1.31464, 103.76480</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-17
 
 </summary>
