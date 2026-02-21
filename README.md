@@ -13,6 +13,25 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-21
+
+</summary>
+
+Total locations: 26,149 → 26,151
+
+- <details><summary>Added (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BETTER CALL BHAI | 136 Marsiling Road Hdb-woodlands Singapore 730136, #01-2172,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | PM03 SEABAY WOK DELIGHT | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-20
 
 </summary>

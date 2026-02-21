@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20 Feb 2026",
+  "lastUpdated": "21 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -70820,6 +70820,26 @@
         }
       },
       "lastResetDate": "2024-03-05"
+    },
+    {
+      "id": "merchant_54e66ba6-149b-43b6-b624-504964746f08",
+      "entityId": "merchant_54e66ba6-149b-43b6-b624-504964746f08",
+      "name": "BETTER CALL BHAI",
+      "address": "136 Marsiling Road Hdb-woodlands Singapore 730136, #01-2172,  S730136;",
+      "postalCode": "730136",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43832145748732,
+      "LON": 103.777752029807,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-20"
     },
     {
       "id": "merchant_fb39ed1d-8656-4463-b2bd-82b4a624d12a",
@@ -358680,6 +358700,26 @@
         }
       },
       "lastResetDate": "2022-11-18"
+    },
+    {
+      "id": "merchant_e2ac285c-7b53-495e-a365-261284fc6972",
+      "entityId": "merchant_e2ac285c-7b53-495e-a365-261284fc6972",
+      "name": "PM03 SEABAY WOK DELIGHT",
+      "address": "638A Jurong West Street 61,  S641638;",
+      "postalCode": "641638",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34195861016793,
+      "LON": 103.697593081001,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-20"
     },
     {
       "id": "merchant_7910e191-f539-4065-b8c9-5788068a6a58",
