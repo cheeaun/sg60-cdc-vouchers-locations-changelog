@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-24
+
+</summary>
+
+Total locations: 26,151 → 26,165
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAN MIAN FISH SOUP | 352 Clementi Avenue 2, ST5,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | FU YUAN NOODLE | 501 West Coast Drive,  S120501; | <span title="1.31231254760543,103.759312529215">1.31231, 103.75931</span> |
+  | FU YUAN RESTAURANT | 501 West Coast Drive,  S120501; | <span title="1.31231254760543,103.759312529215">1.31231, 103.75931</span> |
+  | HAPPY CRISP | 352 Clementi Avenue 2,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | HAPPY CRISP | 352 Clementi Avenue 2,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | HONG LIM CURRY PUFF (MARINE PARADE) | 84 Marine Parade Central, #01-081,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | JUWEL SUPERMARKET | 2 Balestier Road Balestier Hill Shopping Centre Singapore 320002, #01-653,  S320002; | <span title="1.32589620218837,103.842935480003">1.32590, 103.84294</span> |
+  | LUNAR BEAUTY | 18 Jalan Membina Singapore 164018, #02-09,  S164018; | <span title="1.28569742883225,103.826785448095">1.28570, 103.82679</span> |
+  | NASI LEMAK 418 | 418 Bedok North Avenue 2, 55,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | NEMU HIGHWAY | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2473,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | NEW CENTURY ORGANIC | 428 Jurong West Avenue 1 Hdb-jurong West Singapore 640428, #01-254,  S640428; | <span title="1.35159913494273,103.725287626291">1.35160, 103.72529</span> |
+  | SALMAH'S KITCHEN | 1 Geylang Serai, 167,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | SHIKE KL CHILLI BAN MIAN | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | VALUE HAIR SALON | 38 Beo Crescent The Beo Crescent Singapore 160038, #01-36,  S160038; | <span title="1.28855393184563,103.827290023383">1.28855, 103.82729</span> |
+
+  </details>
+
+- <details><summary>Changed (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>EIGHT NINE FOOD</del><br>CARROT CAKE EIGHT NINE FOOD | 85 Redhill Lane, #01-18,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>DUMPLINGS</del><br>CHINA STYLE ZICHAR | 85 Redhill Lane, #01-68,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>MA LA XIANG GUO</del><br>DA TANG MA LA XIANG GUO | 85 Redhill Lane, #01-86,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>HONG LIM CURRY PUFF</del><br>HERITAGE TANGLIN PUFF- REDHILL | 85 Redhill Lane, #01-67,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>CHANG CHENG SEAFOOD (59 MARINE TERRACE)</del><br>MING KITCHEN (59 MARINE TERRACE) | 59 Marine Terrace, #01-105,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | NINE FORTUNE TCM CLINIC | <del>Jalan Bukit Merah, #01-1514,  S160133;</del><br>131 Jalan Bukit Merah, #01-1581,  S160130; | <del title="1.27955093259631,103.82740093837">1.27955, 103.82740</del><br><span title="1.28040157426854,103.829278570017">1.28040, 103.82928</span> |
+  | <del>DELICACY</del><br>RED HILL CURRY FISH HEAD | 85 Redhill Lane, #01-88,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>CHANG CHENG ROASTED DELIGHT (59 MARINE TERRACE)</del><br>RONG KEE HK ROASTED DELIGHT (59 MARINE TERRACE) | 59 Marine Terrace, #01-105,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | <del>SALMAH'S KITCHEN</del><br>ROSIE'S KITCHEN | 1 Geylang Serai, #02-167,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | <del>FONG GUAN VEGETARIAN FOOD</del><br>SINWANG XIANG | 861 North Bridge Road, #01-96,  S198783; | <span title="1.30563433652207,103.863909336656">1.30563, 103.86391</span> |
+  | <del>MIXED RICE</del><br>VEGETARIAN FOOD - SIMS PLACE | <del>49 Sims Place, #01-02,  S380049;</del><br>49 Sims Place, #01-58,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | <del>WOW CHICKEN RICE JE134</del><br>WOW CHICKEN RICE (447A JALAN KAYU) | <del>134 Jurong Gateway Road,  S600134;</del><br>447A Jalan Kayu, #01-01,  S791447; | <del title="1.33399413849743,103.738819152518">1.33399, 103.73882</del><br><span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-21
 
 </summary>
