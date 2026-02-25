@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Feb 2026",
+  "lastUpdated": "25 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -5600,6 +5600,26 @@
         }
       },
       "lastResetDate": "2024-01-16"
+    },
+    {
+      "id": "merchant_672b0292-edd6-44ed-a251-29073cee769c",
+      "entityId": "merchant_672b0292-edd6-44ed-a251-29073cee769c",
+      "name": "101 COCO DELIGHT",
+      "address": "79A Circuit Road, #01-101,  S371079;",
+      "postalCode": "371079",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32550687163075,
+      "LON": 103.884919772828,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_fe930650-fac7-4eab-9ac4-5c9ea0f55bd9",
@@ -74580,6 +74600,26 @@
         }
       },
       "lastResetDate": "2022-11-23"
+    },
+    {
+      "id": "merchant_7f4c1ad1-8b69-4c12-91df-968ec1fa9f89",
+      "entityId": "merchant_7f4c1ad1-8b69-4c12-91df-968ec1fa9f89",
+      "name": "BLOB",
+      "address": "129 Kim Tian Road Kim Tian Vista Singapore 160129, #01-135,  S160129;",
+      "postalCode": "160129",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2811530312289,
+      "LON": 103.828856188305,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_6d2b3ece-80c0-41ab-8533-1af099057cb6",
@@ -153385,11 +153425,11 @@
       "id": "merchant_7efd3b8b-429a-4b05-b2f6-6515d1e69f1b",
       "entityId": "merchant_7efd3b8b-429a-4b05-b2f6-6515d1e69f1b",
       "name": "FISHLIFE FISH SOUP",
-      "address": "79A Circuit Road, #01-102,  S371079;",
-      "postalCode": "371079",
+      "address": "79, Circuit Road, #01-42,  S370079;",
+      "postalCode": "370079",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32550687163075,
-      "LON": 103.884919772828,
+      "LAT": 1.3265970672963,
+      "LON": 103.885052285736,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -153399,7 +153439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-26"
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_f5facc0c-8430-41e2-83f2-f27423185d10",
@@ -210522,6 +210562,26 @@
       "lastResetDate": "2025-07-10"
     },
     {
+      "id": "merchant_98a39543-be8b-4ef3-a9bf-f235587be07c",
+      "entityId": "merchant_98a39543-be8b-4ef3-a9bf-f235587be07c",
+      "name": "HONG KONG STREET CHENG JI",
+      "address": "19 Ghim Moh Road,  S270019;",
+      "postalCode": "270019",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31143852315951,
+      "LON": 103.788298892377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
+    },
+    {
       "id": "merchant_45cf8758-c306-49b1-afd2-ac061bd89304",
       "entityId": "merchant_45cf8758-c306-49b1-afd2-ac061bd89304",
       "name": "HONG KONG STREET CHUN KEE RESTAURANT",
@@ -235180,6 +235240,26 @@
         }
       },
       "lastResetDate": "2022-01-25"
+    },
+    {
+      "id": "merchant_0fa36066-947e-4106-a245-81a6422512a2",
+      "entityId": "merchant_0fa36066-947e-4106-a245-81a6422512a2",
+      "name": "JIA JIA MORNING DELIGHTS",
+      "address": "79 Circuit Road, #01-51,  S370079;",
+      "postalCode": "370079",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3265970672963,
+      "LON": 103.885052285736,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_20e9f793-00a3-4f2f-8707-239803293d6d",
@@ -302340,6 +302420,26 @@
         }
       },
       "lastResetDate": "2025-09-04"
+    },
+    {
+      "id": "merchant_b2735eb0-b91a-4bd3-86bb-c0638baa5458",
+      "entityId": "merchant_b2735eb0-b91a-4bd3-86bb-c0638baa5458",
+      "name": "MASAKAN PANAS",
+      "address": "278D Compassvale Bow,  S544278;",
+      "postalCode": "544278",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38269271730514,
+      "LON": 103.89105712565,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_0c7d3004-b3e5-4a39-ad81-bd30a29ea403",
@@ -382142,6 +382242,26 @@
       "lastResetDate": "2025-03-28"
     },
     {
+      "id": "merchant_16b55f31-4771-454d-acf5-6251be69f32a",
+      "entityId": "merchant_16b55f31-4771-454d-acf5-6251be69f32a",
+      "name": "RUYI DESSERTS",
+      "address": "590 Upper Thomson Road, #01-34,  S574419;",
+      "postalCode": "574419",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37231949296183,
+      "LON": 103.829018145089,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
+    },
+    {
       "id": "merchant_2c414c64-45db-488b-9614-0bc46549ea67",
       "entityId": "merchant_2c414c64-45db-488b-9614-0bc46549ea67",
       "name": "RUYI TANJONG RHU WANTON NOODLE",
@@ -416740,6 +416860,26 @@
         }
       },
       "lastResetDate": "2023-02-03"
+    },
+    {
+      "id": "merchant_b354359c-7a09-467e-9b6c-f7ef78803f8e",
+      "entityId": "merchant_b354359c-7a09-467e-9b6c-f7ef78803f8e",
+      "name": "SOON HUAT COOKED FOOD",
+      "address": "448 Clementi Avenue 3, #01-14,  S120448;",
+      "postalCode": "120448",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31331969319644,
+      "LON": 103.764517192874,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_a28dc9f0-f385-4389-9be7-a55b48a47ab6",
@@ -458284,7 +458424,7 @@
     {
       "id": "merchant_2404105e-5ee9-45f1-9333-3979a0b6ea30",
       "entityId": "merchant_2404105e-5ee9-45f1-9333-3979a0b6ea30",
-      "name": "TIP TOP SIMPLY CURRY",
+      "name": "TIP TOP VEGETARIAN",
       "address": "84 Marine Parade Central, #01-24,  S440084;",
       "postalCode": "440084",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -458299,7 +458439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-04"
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_3ccf021a-bc11-48e5-976c-f10e03d7a68a",
@@ -477980,6 +478120,26 @@
         }
       },
       "lastResetDate": "2025-05-21"
+    },
+    {
+      "id": "merchant_1ce9a77c-4a64-45d0-af46-e398f85aec95",
+      "entityId": "merchant_1ce9a77c-4a64-45d0-af46-e398f85aec95",
+      "name": "VS COFFEE",
+      "address": "89 Circuit Road, #01-110,  S370089;",
+      "postalCode": "370089",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32357971400582,
+      "LON": 103.885438842474,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-24"
     },
     {
       "id": "merchant_ced17418-20bc-465a-be3f-b8400b4f1ae8",

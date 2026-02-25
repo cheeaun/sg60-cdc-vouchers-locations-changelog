@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-25
+
+</summary>
+
+Total locations: 26,165 → 26,173
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 101 COCO DELIGHT | 79A Circuit Road, #01-101,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | BLOB | 129 Kim Tian Road Kim Tian Vista Singapore 160129, #01-135,  S160129; | <span title="1.2811530312289,103.828856188305">1.28115, 103.82886</span> |
+  | HONG KONG STREET CHENG JI | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | JIA JIA MORNING DELIGHTS | 79 Circuit Road, #01-51,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | MASAKAN PANAS | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | RUYI DESSERTS | 590 Upper Thomson Road, #01-34,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | SOON HUAT COOKED FOOD | 448 Clementi Avenue 3, #01-14,  S120448; | <span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | VS COFFEE | 89 Circuit Road, #01-110,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FISHLIFE FISH SOUP | <del>79A Circuit Road, #01-102,  S371079;</del><br>79, Circuit Road, #01-42,  S370079; | <del title="1.32550687163075,103.884919772828">1.32551, 103.88492</del><br><span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | <del>TIP TOP SIMPLY CURRY</del><br>TIP TOP VEGETARIAN | 84 Marine Parade Central, #01-24,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-24
 
 </summary>
