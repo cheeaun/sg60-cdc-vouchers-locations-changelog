@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-26
+
+</summary>
+
+Total locations: 26,173 → 26,183
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 630 WLD KOREAN | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | ABANG ADIK YISHUN 925 | Kedai Kopi At 925 Yishun Central,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | CO HAI BANH MI & PHO | 1 Kadayanallur Street, #01-98,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | HAINANESE CHICKEN RICE | 643 Senja Close, 3,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | INAYA INDIAN MUSLIM FOOD | 309 Choa Chu Kang Avenue 4,  S680309; | <span title="1.3851008010905,103.745553838786">1.38510, 103.74555</span> |
+  | RINGOS WESTERN | 55 Lengkok Bahru, ST02,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | SAM KEE HAINANESE BONELESS CHICKEN RICE | 628 Ang Mo Kio Avenue 4, #01-82,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | SUNSHINE SNIPPERS | 475 Choa Chu Kang Avenue 3 Dbs Sunshine Place Singapore 680475, #02-16,  S680475; | <span title="1.37805614752086,103.738931794069">1.37806, 103.73893</span> |
+  | UNODOSE COFFEE | 38A Beo Crescent, #01-90,  S169982; | <span title="1.28883089150258,103.827353892228">1.28883, 103.82735</span> |
+  | YAN RUMAN | 399 Yung Sheng Road,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ZHENG ZHONG KOU KOU XIANG MALA HOT POT</del><br>ZHENG ZHONG KOU KOU XIANG MA LA HOT POT | <del>59 Marine Terrace, #01-71,  S440059;</del><br>50A Marine Terrace, #01-279,  S441050; | <del title="1.30585648473163,103.914729886792">1.30586, 103.91473</del><br><span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-25
 
 </summary>
