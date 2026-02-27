@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Feb 2026",
+  "lastUpdated": "27 Feb 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -20119,7 +20119,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-17"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_6257b5a2-94a9-4055-a0e6-fc42a4362196",
@@ -134285,7 +134285,7 @@
       "id": "merchant_c1c34546-e5c9-4d0b-8d27-2c49ca39221a",
       "entityId": "merchant_c1c34546-e5c9-4d0b-8d27-2c49ca39221a",
       "name": "EAT BAR",
-      "address": "651A Jalan Tenaga,  S411651;",
+      "address": "651A Jalan Tenaga, 01-01,  S411651;",
       "postalCode": "411651",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3325145605132,
@@ -134299,7 +134299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-01"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_67a801b0-cc59-4598-84c4-fd8271b25911",
@@ -134319,7 +134319,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-16"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_b8c9de95-e797-4d49-9dae-f2b6f8e0ca65",
@@ -189819,7 +189819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-02-12"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_7b575b16-95a7-4083-9c58-91807130e3ba",
@@ -208180,6 +208180,26 @@
         }
       },
       "lastResetDate": "2025-07-15"
+    },
+    {
+      "id": "merchant_9532b15a-14ee-4f68-9678-556a3ad1ea3e",
+      "entityId": "merchant_9532b15a-14ee-4f68-9678-556a3ad1ea3e",
+      "name": "HOMELY HOMEY MINIMART",
+      "address": "844 Sims Avenue Singapore 400844, #01-718,  S400844;",
+      "postalCode": "400844",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31818343943101,
+      "LON": 103.901311204958,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_d956568a-e9bb-46fa-872e-e10c24617717",
@@ -235002,6 +235022,26 @@
       "lastResetDate": "2024-12-13"
     },
     {
+      "id": "merchant_1ec63bf1-e806-4a3c-aace-7d6d553d4cde",
+      "entityId": "merchant_1ec63bf1-e806-4a3c-aace-7d6d553d4cde",
+      "name": "JIA HAKKA YONG TAU FOO (519641)",
+      "address": "110 Pasir Ris Central, #01-20,  S519641;",
+      "postalCode": "519641",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37347252064326,
+      "LON": 103.951571342467,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-26"
+    },
+    {
       "id": "merchant_654e7872-c60e-4b52-a38c-557bfc4ae945",
       "entityId": "merchant_654e7872-c60e-4b52-a38c-557bfc4ae945",
       "name": "JIA HONG MIXED VEG RICE",
@@ -242540,6 +242580,26 @@
         }
       },
       "lastResetDate": "2025-12-26"
+    },
+    {
+      "id": "merchant_0cdfb949-2705-40f2-a775-69fd958d8d7d",
+      "entityId": "merchant_0cdfb949-2705-40f2-a775-69fd958d8d7d",
+      "name": "JK SUPER MART PTE LTD",
+      "address": "23 Hougang Avenue 3 Dbs Hougang Avenue 3 Singapore 530023, #01-287,  S530023;",
+      "postalCode": "530023",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36485740076853,
+      "LON": 103.890728400886,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_0ff0750c-2d61-46cd-b9ca-9b85d9301429",
@@ -253639,7 +253699,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-21"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_55552e51-a3bb-446c-9b35-3296f9c660c6",
@@ -310339,7 +310399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-05-03"
+      "lastResetDate": "2026-02-26"
     },
     {
       "id": "merchant_a902cfa7-9510-4485-ad1b-fb04270ea1ba",

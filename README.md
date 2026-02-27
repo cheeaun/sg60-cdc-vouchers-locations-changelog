@@ -13,6 +13,34 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-27
+
+</summary>
+
+Total locations: 26,183 → 26,186
+
+- <details><summary>Added (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HOMELY HOMEY MINIMART | 844 Sims Avenue Singapore 400844, #01-718,  S400844; | <span title="1.31818343943101,103.901311204958">1.31818, 103.90131</span> |
+  | JIA HAKKA YONG TAU FOO (519641) | 110 Pasir Ris Central, #01-20,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | JK SUPER MART PTE LTD | 23 Hougang Avenue 3 Dbs Hougang Avenue 3 Singapore 530023, #01-287,  S530023; | <span title="1.36485740076853,103.890728400886">1.36486, 103.89073</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | EAT BAR | <del>651A Jalan Tenaga,  S411651;</del><br>651A Jalan Tenaga, 01-01,  S411651; | <span title="1.3325145605132,103.906989989433">1.33251, 103.90699</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-26
 
 </summary>
