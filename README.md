@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-02-28
+
+</summary>
+
+Total locations: 26,186 → 26,199
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABC MART | Tampines Street 32,  S529285; | <span title="1.35436493799094,103.960042188281">1.35436, 103.96004</span> |
+  | CHAO YUAN NOODLE (TOWNER) | 150 Towner Road,  S320150; | <span title="1.31800847616118,103.859901482293">1.31801, 103.85990</span> |
+  | CLEAR-CUT BARBER SHOP@668 CHANDER | 668 Chander Road Hdb-central Area Singapore 210668, #01-02,  S210668; | <span title="1.30758124026887,103.851478219734">1.30758, 103.85148</span> |
+  | COLEURSPACE BY INCOLEUR | 25 Jalan Berseh Singapore 200025, #01-128,  S200025; | <span title="1.30621516435429,103.858221510521">1.30622, 103.85822</span> |
+  | EAT BAR | 123 Bedok North Street 2,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | FRIENDLY VEGETARIAN PTE. LTD. | 421 Ang Mo Kio Avenue 10 Teck Ghee Heartlands Singapore 560421, #01-1165,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | HONG LIM CURRY PUFF (BEDOK 216) | 216 Bedok North Street 1, #01-73,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | HONG LOK FAN ZHUANG (61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | JOYFUL SEAFOOD 643 | 643 Senja Close, MRO2,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | LIM'S DENTAL | 2 Lorong Lew Lian Dbs Lorong Lew Lian Singapore 531002, #01-32,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | NURUL DELIGHTS 630 | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | THB THAI HAWKER BITES | 665 Buffalo Road, #01-313,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | YUAN JIA | Blk 9 Lorong 8 Toa Payoh Industrial Park, #01-1209,  S319061; | <span title="1.33674506157381,103.860127995999">1.33675, 103.86013</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | IMAGE MAKER'S HAIR STUDIO | <del>75D Redhill Road, #01-104,  S154074;</del><br>75D Redhill Road, #01-104,  S154075; | N/A<br><span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-02-27
 
 </summary>
