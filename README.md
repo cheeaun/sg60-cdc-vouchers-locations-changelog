@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-04
+
+</summary>
+
+Total locations: 25,556 → 25,566
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABANG JIAK ! (233 YISHUN) | 233 Yishun Street 21,  S760233; | <span title="1.43494883445469,103.83815958338">1.43495, 103.83816</span> |
+  | CHUBS MINI | 462 Crawford Lane,  S190462; | <span title="1.30458618029941,103.860840750826">1.30459, 103.86084</span> |
+  | ENG SENG RESTAURANT | 9007 Tampines Street 93,  S528841; | <span title="1.33871119758635,103.941038540662">1.33871, 103.94104</span> |
+  | ETRONIN HOME ( TP820) | 820 Tampines Street 81 Tampines Polyview Singapore 520820, #01-530,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | LELE HAINANESE CHICKEN RICE YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | TEOCHEW LAO YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | THATSMYPIZZA | 20 Kensington Park Road, #01-13,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | TRADITIONAL TEOCHEW KWAY CHAP (AMK) | 628 Ang Mo Kio Avenue 4, #01-52,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | VIN HAIR SALON | 106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-183,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+  | XIAO HEI TZE CHAR | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BEO CRESCENT LOR MEE</del><br>BEO CRESCENT LOR MEE SINCE 1962 | 216 Bedok North Street 1, #01-44,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | GLORY FRIED BANANA | <del>2 Changi Village Road, #01-49,  S500002;</del><br>2 Changi Village Road, #01-41,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | <del>SHRIMP PRAWN HOTPOT (233 YISHUN)</del><br>TIONG THAI CUISINE HOUSE (233 YISHUN) | <del>233 Yishun Street 21,  S760233;</del><br>233 Yishun Street 21, #01-472,  S760233; | <span title="1.43494883445469,103.83815958338">1.43495, 103.83816</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-03
 
 </summary>
