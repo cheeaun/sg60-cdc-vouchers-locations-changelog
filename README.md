@@ -13,6 +13,73 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-05
+
+</summary>
+
+Total locations: 25,566 → 25,587
+
+- <details><summary>Added (21)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 587 SEAFOOD KITCHEN (510587) | 587 Pasir Ris Drive 3, 09,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | A DUNG HANDMADE NOODLE & PORRIDGE | 1 Beach Road,  S190001; | <span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | CHANNLYN BEAUTY WELLNESS (BB372) | 372 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650372, #01-368D,  S650372; | <span title="1.35866916706906,103.751213742148">1.35867, 103.75121</span> |
+  | DINGXIANG ROASTED DELIGHTS (510587) | 587 Pasir Ris Drive 3, 06,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | FENG KOPI HOUSE - DRINKS | 223 River Valley Road,  S238281; | <span title="1.29369115397883,103.842309381861">1.29369, 103.84231</span> |
+  | FENG KOPI HOUSE - MIX RICE | 223 River Valley Road,  S238281; | <span title="1.29369115397883,103.842309381861">1.29369, 103.84231</span> |
+  | FONG HUP - KOKA NOODLE (510587) | 587 Pasir Ris Drive 3, 07,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | KABAR KYAW TRADING (807 YISHUN) | 807 Yishun Ring Road Khatib Gardens Singapore 760807, #01-4207,  S760807; | <span title="1.41649875808134,103.831578419935">1.41650, 103.83158</span> |
+  | KING OMAR RESTAURANT (510587) | 587 Pasir Ris Drive 3, 03,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | LAU CHI MIAN TPY116 | 116 Lorong 2 Toa Payoh,  S310116; | <span title="1.34047287241805,103.846142516335">1.34047, 103.84614</span> |
+  | M/A MCC ADELEA | 1 Joo Chiat Road Joo Chiat Complex Singapore 420001, #03-1027,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | MAWAR MERAH KITCHEN | 165 Bukit Merah Central,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | MUTHU MINI MART PTE. LTD. | 732 Yishun Avenue 5 Nee Soon Central Vista Singapore 760732, #01-382,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | OMG OH MY GOAL FRIED CHICKEN | 542B Serangoon North Avenue 3, R1,  S552542; | <span title="1.37368393003779,103.871416978631">1.37368, 103.87142</span> |
+  | PAO FAN PAO MIAN BAN MIAN | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | SARAWAK PORK | 89 Circuit Road, #01-08,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | THIS N THAT CAI FAN & ECONOMIC BEE HOON | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | TIAN FU FRIED DELIGHTS | 119 Aljunied Avenue 2,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | WEI ZHUANG STEW SOUP.BRAISED PORK | Block 163 Bukit Merah Central, 02-32,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | YUM KITCHEN- BUKIT MERAH | 163 Bukit Merah Central Singapore 150163, #02-3599,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | ZIJIA YONG TAU FOO (510587) | 587 Pasir Ris Drive 3, 08,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+
+  </details>
+
+- <details><summary>Changed (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AH RONG</del><br>AH RONG TRADITIONAL SOUP | 85 Redhill Lane, #01-52,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>ALHAMDULILLAH DRINKS HOUES</del><br>ALHAMDULILLAH DRINKS HOUSE | 115 Bukit Merah View, #01-74,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | ALLAUDDIN'S BRIYANI TEKKA | <del>665 Buffalo Road, #01-229,  S210665;</del><br>665 Buffalo Road, #01-232,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | AYAH DIMSUM | <del>260 Ang Mo Kio Street 21,  S560260;</del><br>505 Ang Mo Kio Ave 8, #01-2688,  S560505; | <del title="1.36891617080101,103.834499516963">1.36892, 103.83450</del><br><span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | <del>BUBBLICIOUS BITES PTE LTD</del><br>BUBBLE STREET | 68 Geylang Bahru Geylang Bahru Ville Singapore 330068, #01-3233B,  S330068; | <span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | <del>CHENG TENG</del><br>CHEE KONG CHENG TNG | 1 Geylang Serai, #02-149,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | <del>SUNRISE CHICKEN RICE (AMK 151)</del><br>CHENG JI HAINANESE CHICKEN RICE (AMK 215) | <del>151 Ang Mo Kio Avenue 5,  S560151;</del><br>215 Ang Mo Kio Ave 1, #01-877,  S560215; | <del title="1.37671105271454,103.841168190659">1.37671, 103.84117</del><br><span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | <del>192 TOA PAYOH LOR 4</del><br>FRAGRANCE BAK KWA (TPY 192) | Lorong 4 Toa Payoh, #01-674,  S310192; | <span title="1.33161683347176,103.850623695196">1.33162, 103.85062</span> |
+  | <del>HANNAN</del><br>GEYLANG BRIYANI STALL | 1 Geylang Serai, #02-146,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | <del>HAJIJAH</del><br>GORENG PISANG & KUEH MUEH | 1 Geylang Serai, #02-152,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | <del>HIAP HOE</del><br>HIAP HOE VEGETARIAN FOOD PRODUCTS | Redhill Lane, #01-352,  S150084; | <span title="1.28708575062296,103.818851050403">1.28709, 103.81885</span> |
+  | HONG WEN MUTTON SOUP | <del>1 Kadayanallur Street, #01-25,  S069184;</del><br>20 Ghim Moh Road, #01-67,  S270020; | <del title="1.28033142727315,103.844747227479">1.28033, 103.84475</del><br><span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | <del>HOUSE OF PEPPER RICE - AMK 108</del><br>HOUSE OF PEPPER RICE | <del>108 Ang Mo Kio Avenue 4,  S560108;</del><br>380 Clementi Ave 5, #01-376,  S120380; | <del title="1.37094273993861,103.837974822369">1.37094, 103.83797</del><br><span title="1.31834429050422,103.767572030573">1.31834, 103.76757</span> |
+  | HUP LEE STIR FRY | <del>628 Amk Avenue 4, #01-48,  S560628;</del><br>86 Whampoa Drive, #01-919,  S320086; | <del title="1.38098761665454,103.840628087484">1.38099, 103.84063</del><br><span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | JAZZ BIKES SHOP | <del>Ang Mo Kio Avenue 4, #01-1293,  S560607;</del><br>157 Ang Mo Kio Avenue 4, #01-550,  S560157; | <del title="1.38046758670091,103.838816721629">1.38047, 103.83882</del><br><span title="1.37530562109722,103.839395071769">1.37531, 103.83940</span> |
+  | NASI PADANG MAMI FITA | <del>335 Smith Street, #02-222,  S050335;</del><br>335 Smith Street, #02-221,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>NEW TRENDY</del><br>NEW TRENDY HAIR SALON | Redhill Lane, #01-356,  S150084; | <span title="1.28708575062296,103.818851050403">1.28709, 103.81885</span> |
+  | <del>NEWRISE MINIMART</del><br>ORO BURMESE MART | Telok Blangah Rise, #01-325,  S090038; | <span title="1.27233260622825,103.822210318088">1.27233, 103.82221</span> |
+  | <del>BRAISSERS RICE BOWLS</del><br>PRAWNHUBSG | 6 Tanjong Pagar Plaza, #02-44,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | <del>HI FRIED HI FRIED</del><br>SENG KEE SAUERKRAUT FISH | 201C Tampines Street 21,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | XIANG RUI MEI SHI | <del>1 Tanjong Pagar Plaza, #02-28,  S081006;</del><br>6 Tanjong Pagar Plaza, #02-28,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | <del>SPREADFORBREAD</del><br>YA LE SPREAD FOR BREAD & KUEHS | 85 Redhill Lane, #01-34,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-04
 
 </summary>
