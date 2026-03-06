@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-06
+
+</summary>
+
+Total locations: 25,587 → 25,595
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AURA BEAUTY YISHUN | 928 Yishun Central 1 Hdb-yishun Singapore 760928, #01-135,  S760928; | <span title="1.4272080784162,103.837377109933">1.42721, 103.83738</span> |
+  | BA FANG LU CAI TOA PAYOH PTE. LTD. | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | BOON LUX | 85 Bedok North Street 4, #01-175,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | EVERYDAY NASI PADANG | 1 Lorong Mambong, #01-37,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | IMPERIAL BIO-TECH PTE. LTD. | 635 Ang Mo Kio Avenue 6 Yio Chu Kang Heights Singapore 560635, #01-5115,  S560635; | <span title="1.38076896104696,103.842378423538">1.38077, 103.84238</span> |
+  | LENS HUB BY EYES CREAM LUNETIER | 88 Tanglin Halt Road Care Corner Family Service Centre (queenstown) Singapore 141088, #01-5,  S141088; | <span title="1.30178506364186,103.798226442608">1.30179, 103.79823</span> |
+  | PU TIAN HENG HWA CUISINE (OTH) | 51 Tampines Avenue 4, #01-44,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | VEGE BEAR@212 BDD | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ABANG GEMUK (BLK 171 YISHUN AVE 7)</del><br>ABANG GEMUK (233 TPY) | <del>233 Toa Payoh Lor 8, #01-283,  S310233;</del><br>233 Toa Payoh Lor 8, #01-268,  S310233; | <span title="1.33828365922679,103.858467966719">1.33828, 103.85847</span> |
+  | <del>HONG LENG TITBITS (WM)</del><br>BITZ & BEANZ | 628 Ang Mo Kio Avenue 4, #01-45,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | DAILY FRESH CHICKEN | <del>409 Ang Mo Kio Avenue 10, #01-85,  S560409;</del><br>409 Ang Mo Kio Avenue 10, #01-138,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | <del>ART EYEWEAR</del><br>FRAMEWERKS OPTICAL ALJUNIED | 119 Aljunied Avenue 2, #01-38,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | <del>YONG ZHEN LOR MEE PRAWN MEE</del><br>HELLO STEAM FISH (ABC) | 6 Jalan Bukit Merah, #01-40,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-05
 
 </summary>
