@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-07
+
+</summary>
+
+Total locations: 25,595 → 25,604
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BA WEI CHICKEN POT HOUGANG | 107 Hougang Avenue 1,  S530107; | <span title="1.35343419106776,103.890669732271">1.35343, 103.89067</span> |
+  | BEAUTY NUTRITIOUS SOUP (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | E8TWO FISH SOUP | 106 Hougang Avenue 1,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+  | HOCK KEE PRAWN NOODLES | 80 Marine Parade Central, #01-770,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | HUA DEE HONG KONG STYLE ROASTED DELIGHT | 123 Bedok North Street 2, S6,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | SHIFA VEGETABLES & FRUITS SUPPLIER | 262 Serangoon Central Drive Hdb-serangoon Estate Singapore 550262, #01-117,  S550262; | <span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+  | SRI OSAIMANI MINIMART | 622 Choa Chu Kang Street 62, 01,  S680622; | <span title="1.39827719583769,103.74718245127">1.39828, 103.74718</span> |
+  | TANJONG RHU WANTON NOODLE 347 | 347 Bukit Batok Street 34,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+  | YU PAN FISH SOUP (AMK 630) | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANG HUP HANG | <del>574 Ang Mo Kio Ave 10, #01-1843,  S560573;</del><br>574 Ang Mo Kio Ave 10, #01-1843,  S560574; | <del title="1.37056143999067,103.854823102785">1.37056, 103.85482</del><br><span title="1.37089456931834,103.856396509138">1.37089, 103.85640</span> |
+  | COFFEE PLUS (4 QUEEN'S ROAD) | <del>Queen's Road, #02-108,  S260004;</del><br>Queen's Road, #02-117,  S260004; | <span title="1.31883225284458,103.808061967625">1.31883, 103.80806</span> |
+  | <del>TIAN TIAN YOU YU (293 YISHUN)</del><br>FEI MAO FISH SOUP (293 YISHUN) | <del>293 Yishun Street 22,  S760293;</del><br>293 Yishun Street 22, #01-261,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | <del>151 TEOCHEW FISH SOUP BAN MIAN ( SERANGOON NORTH)</del><br>FENG JI YONG TAU FOO | <del>151 Serangoon North Avenue 2,  S550151;</del><br>4 Defu Lane 10,  S539185; | <del title="1.36934535015796,103.873778334096">1.36935, 103.87378</del><br><span title="1.35963371506222,103.89510319719">1.35963, 103.89510</span> |
+  | <del>NG GEOK HIOK</del><br>FROZEN MEAT 102 | 84 Marine Parade Central, #01-102,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | GE BI LAO WANG BAK KUT TEH | <del>121 Geylang East Central,  S380121;</del><br>80 Marine Parade Central, #01-770,  S440080; | <del title="1.3179301794665,103.885314531751">1.31793, 103.88531</del><br><span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | JIANG XIANG WEI VEG RICE | <del>80 Marine Parade Central,  S440080;</del><br>80 Marine Parade Central, #01-770,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | ROSIE ONIE | <del>928 Yishun Central 1 Hdb-yishun Singapore 760928, #01-147,  S760928;</del><br>928 Yishun Central 1 Hdb-yishun Singapore 760928, #01-151,  S760928; | <span title="1.4272080784162,103.837377109933">1.42721, 103.83738</span> |
+  | UBI 350 TAI JIE CHILLI MEE POK | <del>80 Marine Parade Central,  S440080;</del><br>80 Marine Parade Central, #01-770,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-06
 
 </summary>
