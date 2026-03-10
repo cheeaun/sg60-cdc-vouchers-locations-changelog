@@ -13,6 +13,35 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-10
+
+</summary>
+
+Total locations: 25,604 → 25,616
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | EAT BAR - 31 HOLLAND CLOSE | 31 Holland Close,  S270031; | <span title="1.30697526832762,103.797080329252">1.30698, 103.79708</span> |
+  | HANGOUT LAUNDRY | 531 Bedok North Street 3 Hdb-bedok Singapore 460531, #01-706A,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | HI-LITE@44 OWEN | 44 Owen Road Hdb-kallang/whampoa Singapore 210044, #01-313,  S210044; | <span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | JINDIAN PIG ORGAN SOUP 304 | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | JOY STEAK - HOLLAND CLOSE | 31 Holland Close,  S270031; | <span title="1.30697526832762,103.797080329252">1.30698, 103.79708</span> |
+  | LAO DI FANG HANDMADE NOODLE.LOR MEE | 4A Jalan Batu, #01-10,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | NENEK HOME TASTE CUISINE@PEK KIO MARKET | 41A Cambridge Road, #01-22,  S211041; | <span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+  | NUR MEAT SUPPLY 532CCK | 532 Choa Chu Kang Street 51, 01-15,  S680532; | <span title="1.39222033136152,103.743611063324">1.39222, 103.74361</span> |
+  | PAVI MART | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-563B,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | SHIOK HOKKIEN MEE 304 | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | SHREE TRADERS | 306 Ubi Avenue 1 Singapore 400306, #01-205,  S400306; | <span title="1.32987219692115,103.901929745036">1.32987, 103.90193</span> |
+  | VILLA CREAMERY - HOLLAND | 42 Holland Drive Hdb-queenstown Singapore 270042, #01-83,  S270042; | <span title="1.30790383303654,103.792961440964">1.30790, 103.79296</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-07
 
 </summary>
