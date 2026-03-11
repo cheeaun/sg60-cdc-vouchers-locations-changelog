@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-11
+
+</summary>
+
+Total locations: 25,616 → 25,631
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CENTRAL MEDICAL GROUP PTE LTD | 11 Jalan Bukit Merah Hdb-bukit Merah Singapore 150011, #01-4442,  S150011; | <span title="1.28662190407489,103.808963346663">1.28662, 103.80896</span> |
+  | CORAL FANATICS @ YISHUN | 236 Yishun Ring Road After School Adventure Club (yishun) Singapore 760236, #01-1016,  S760236; | <span title="1.43403211971292,103.83882419471">1.43403, 103.83882</span> |
+  | DACHU SOYA BEAN | 16 Bedok South Road, #01-54,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | EVITA BEAUTY CENTRE | 247 Hougang Avenue 3 Brainy Bunch International Montessori Singapore 530247, #01-458,  S530247; | <span title="1.35916575005657,103.891524293017">1.35917, 103.89152</span> |
+  | FARZ PREMIUM MEATS | 665 Buffalo Road, #01-140,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | JIN FU LING | 8 Tampines Central 1 Eastlink Mall Singapore 529543, #01-19,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | KNM INDIAN MUSLIM FOOD | 137 Potong Pasir Avenue 3,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | MEAT N SEAFOOD TRADING PTE. LTD. | 115 Bukit Merah View, #01-167,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | MINMED DENTAL CLINIC (TENGAH) | 126A Tengah Drive Plantation Village Singapore 691126, #01-315,  S691126; | <span title="1.359286277941959,103.7359918440329">1.35929, 103.73599</span> |
+  | PENGCHENG MUTTON NOODLE | 115 Bukit Merah View, #01-58,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | SOON YOKE FRUIT TRADING | 531 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560531, #01-2442,  S560531; | <span title="1.37332712966953,103.854382572609">1.37333, 103.85438</span> |
+  | STR JAPAN (360212) | 212 Bidadari Park Drive Woodleigh Hillside Singapore 360212, #03-09,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | TEA DOT | 236B Tengah Garden Walk, #01-03,  S692236; | <span title="1.36085163912016,103.732448347154">1.36085, 103.73245</span> |
+  | WHY PAY MORE SHOES | 79 Redhill Lane, #01-61,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | XIAO CHU NIANG CAN YIN | 349 Jurong East Avenue 1,  S600349; | <span title="1.34446375047917,103.731445785743">1.34446, 103.73145</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HAIRWORKZ 2</del><br>HAIRWORKZ 1 | Toa Payoh Central, #01-322,  S310185; | <span title="1.33272795858038,103.849994231509">1.33273, 103.84999</span> |
+  | <del>HANNAH NAILS & BEAUTY</del><br>HANNAH BEAUTY & NAILS | 304 Ubi Avenue 1, #01-121A,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | <del>HIN FRIED HOR FUN</del><br>HIN FRIED HOR FUN WITH PRAWN.BEEF.SLICED FISH | 51 Old Airport Road, #01-163,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>MENG KEE 103</del><br>MENG KEE MINCED MEAT NOODLE & FOO CHOW FISH BALL | 51 Old Airport Road, #01-103,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | ZU KANG REFLEXOLOGY & HEALTHY CARE CENTRE | <del>84 Bedok North Street 4, #01-37B,  S460084;</del><br>122 Mcnair Road, #01-41,  S320122; | <del title="1.33178245077456,103.939208398976">1.33178, 103.93921</del><br><span title="1.3188425968422,103.856837677166">1.31884, 103.85684</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-10
 
 </summary>
