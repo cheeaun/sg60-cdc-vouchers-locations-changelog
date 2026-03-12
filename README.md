@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-12
+
+</summary>
+
+Total locations: 25,631 → 25,646
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1030 BREAKFAST SHOP | 335 Smith Street, #02-219,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | BROWSTUDIO - CLEMENTI | 450 Clementi Avenue 3 Central 24-hr Clinic (clementi) Singapore 120450, #01-297,  S120450; | <span title="1.31353886128,103.765476305204">1.31354, 103.76548</span> |
+  | DPF MART@45TBD | 45 Telok Blangah Drive Blangah Court Singapore 100045, #01-165,  S100045; | <span title="1.27175707090153,103.809560438327">1.27176, 103.80956</span> |
+  | FRESH PORK 098 | 49 Sims Place, #01-98,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | HOME CAFE | 76 Circuit Road Macpherson Blossom Singapore 370076, #01-01,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+  | JIANG JIANG BAKERY (7JBM) | 7 Jalan Bukit Merah Hdb-bukit Merah Singapore 150007, #01-4434A,  S150007; | <span title="1.28730052130543,103.807988268738">1.28730, 103.80799</span> |
+  | LIDI | 166 Jalan Besar, #01-18,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | MAN LI SEAFOOD (187C MARSILING) | 187C Marsiling,  S733187; | <span title="1.43809211633155,103.774587399697">1.43809, 103.77459</span> |
+  | MISS GRILL | 442 Clementi Avenue 3,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | MR BEAN - TANJONG PAGAR PLAZA | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-44A,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | RONG SHENG BEE HOON (201 TAMPINES) | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+  | SEETHAS MART | 51 Lorong 6 Toa Payoh East Payoh Palm Singapore 310051, #01-86,  S310051; | <span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+  | SEYON @ WOODLANDS  PTE.LTD. (306) | 306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-35,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | TASTY MIXED RICE (546A) | 546A Serangoon North Avenue 3,  S551546; | <span title="1.37404886396678,103.870134120792">1.37405, 103.87013</span> |
+  | XING LONG FISH SOUP (BISHAN 280) | 280 Bishan Street 24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | PINSIN KOREAN (STALL 3) | <del>31 Woodlands Ave 9 01-01 South Food Court,  S738964;</del><br>9 Woodlands Ave 9 738964, South Food Court, #03-01,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-11
 
 </summary>
