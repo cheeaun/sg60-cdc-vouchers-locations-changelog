@@ -13,6 +13,28 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-13
+
+</summary>
+
+Total locations: 25,646 → 25,651
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL TAJ MAMAK FOOD (510443) | 443 Pasir Ris Drive 6, 15a,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | NASI LEMAK/FRY BEE HOON | 105 Yishun Ring Road, #01-133,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | TECK A BREAK | 172 Yishun Avenue 7 Hdb-yishun Singapore 760172, #01-785,  S760172; | <span title="1.43660111000642,103.83109095206">1.43660, 103.83109</span> |
+  | TONG LE WANTON NOODLE | 120 Bukit Merah Lane 1, #01-87,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | WANTON NOODLE (510443) | 443 Pasir Ris Drive 6, 8A,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-12
 
 </summary>

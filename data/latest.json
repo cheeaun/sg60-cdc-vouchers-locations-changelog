@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12 Mar 2026",
+  "lastUpdated": "13 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -41240,6 +41240,26 @@
         }
       },
       "lastResetDate": "2024-11-21"
+    },
+    {
+      "id": "merchant_d82c85ff-ed67-46d2-bd29-a1ebd0a4bde9",
+      "entityId": "merchant_d82c85ff-ed67-46d2-bd29-a1ebd0a4bde9",
+      "name": "AL TAJ MAMAK FOOD (510443)",
+      "address": "443 Pasir Ris Drive 6, 15a,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_97f52c49-2098-4ce6-8d5c-a6599dcd1ad9",
@@ -160319,7 +160339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-06"
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_510349f5-0123-46f2-b52a-3f2186527270",
@@ -198119,7 +198139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-02-23"
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_fc9acd75-4742-425a-b495-96a22c535ab9",
@@ -323162,6 +323182,26 @@
       "lastResetDate": "2024-05-20"
     },
     {
+      "id": "merchant_a2ae0963-d66a-49a4-be2a-351614206b69",
+      "entityId": "merchant_a2ae0963-d66a-49a4-be2a-351614206b69",
+      "name": "NASI LEMAK/FRY BEE HOON",
+      "address": "105 Yishun Ring Road, #01-133,  S760105;",
+      "postalCode": "760105",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43171836662838,
+      "LON": 103.828114256975,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-12"
+    },
+    {
       "id": "merchant_6fa1ea5a-cdb1-460a-a1cc-82246f93cfc3",
       "entityId": "merchant_6fa1ea5a-cdb1-460a-a1cc-82246f93cfc3",
       "name": "NASI PADANG",
@@ -413799,7 +413839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-23"
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_b2fbddc8-b30f-4180-88be-57049a34367a",
@@ -431320,6 +431360,26 @@
         }
       },
       "lastResetDate": "2025-06-30"
+    },
+    {
+      "id": "merchant_2ba7cd65-684d-49a4-ad64-da963b8b3d6d",
+      "entityId": "merchant_2ba7cd65-684d-49a4-ad64-da963b8b3d6d",
+      "name": "TECK A BREAK",
+      "address": "172 Yishun Avenue 7 Hdb-yishun Singapore 760172, #01-785,  S760172;",
+      "postalCode": "760172",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43660111000642,
+      "LON": 103.83109095206,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_56dbe309-1066-4580-ba50-4b8053a4302f",
@@ -451940,6 +452000,26 @@
         }
       },
       "lastResetDate": "2021-11-10"
+    },
+    {
+      "id": "merchant_b482a1ea-705a-4f40-8ac3-49913257c913",
+      "entityId": "merchant_b482a1ea-705a-4f40-8ac3-49913257c913",
+      "name": "TONG LE WANTON NOODLE",
+      "address": "120 Bukit Merah Lane 1, #01-87,  S150120;",
+      "postalCode": "150120",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28630594274136,
+      "LON": 103.804492637648,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_f252e09e-196c-45ac-87bf-f05095f7de35",
@@ -472622,6 +472702,26 @@
       "lastResetDate": "2025-06-17"
     },
     {
+      "id": "merchant_88be37fc-70de-4238-bad9-6dcf1d100129",
+      "entityId": "merchant_88be37fc-70de-4238-bad9-6dcf1d100129",
+      "name": "WANTON NOODLE (510443)",
+      "address": "443 Pasir Ris Drive 6, 8A,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-12"
+    },
+    {
       "id": "merchant_3af1a4c7-4203-45cf-bbdf-4128be057b4d",
       "entityId": "merchant_3af1a4c7-4203-45cf-bbdf-4128be057b4d",
       "name": "WANTON NOODLE & PRAWN NOODLE (510623)",
@@ -478499,7 +478599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-18"
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_031237b4-e0ba-43b9-8ea0-0df808c6ff78",
@@ -505319,7 +505419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-02-24"
+      "lastResetDate": "2026-03-12"
     },
     {
       "id": "merchant_0ad59f2e-bc79-4a0b-bc79-83989f0fe12c",
