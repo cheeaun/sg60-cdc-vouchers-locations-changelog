@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-14
+
+</summary>
+
+Total locations: 25,651 → 25,665
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 304 HK ST EATING HOUSE | 304 Ubi Avenue 1, 01,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | CHUAN KEE HK ROASTED RICE NOODLES | 261 Serangoon Central Drive,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | FISHMONGER 01-72 | 209 Hougang Street 21, #01-72,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | MATCHAYA - TIONG BAHRU | 82 Tiong Poh Road Tiong Bahru Estate Singapore 160082, #01-5,  S160082; | <span title="1.28323471543259,103.833681074961">1.28323, 103.83368</span> |
+  | MERRY WHISK (510587) | 587 Pasir Ris Drive 3, #01-02,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | NUR REZKI | 50A Marine Terrace, #01-305,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | RED DRAGON ROASTED DELIGHTS | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | SG NEUTRAL FARMS | 325 Ubi Avenue 1 Kampung Ubi Estate Singapore 400325, #01-699,  S400325; | <span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+  | SIN LIAN HO 656 | 6 Jalan Bukit Merah, #01-83,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | THE MEAT HOUSE | 538 Bedok North Street 3, #01-07,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | TIAN TIAN FA | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | TWO SISTERS SMOOTHIE | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-121B,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | WANGLAI ROJAK | 50 Jurong West Street 61, #02-01,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | XIN SHAN MIAO | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+
+  </details>
+
+- <details><summary>Changed (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>212 TEOCHEW UISINE PTE LTD</del><br>212 TEOCHEW CUISINE PTE LTD | 212 Lorong 8 Toa Payoh,  S310212; | <span title="1.34065219732116,103.854334496927">1.34065, 103.85433</span> |
+  | <del>AH XIANG</del><br>AH XIANG GROCERIES STALL | 79 Redhill Lane, #01-79,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | COMPFIX COMPUTER | <del>84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-29B,  S460084;</del><br>926 Yishun Central 1, #01-191,  S760926; | <del title="1.33178245077456,103.939208398976">1.33178, 103.93921</del><br><span title="1.42789934801239,103.837908520837">1.42790, 103.83791</span> |
+  | EN JI FISH BALL NOODLE & LAKSA | <del>111 Jalan Bukit Merah, #01-13,  S160111;</del><br>112 Jalan Bukit Merah, #01-13,  S160112; | <del title="1.2803211411457,103.826185854436">1.28032, 103.82619</del><br><span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+  | <del>GIMEE FACE NOODLE HOUSE (AMK 339)</del><br>GIMEE FACE NOODLE HOUSE (AMK 340) | <del>339 Ang Mo Kio Avenue 1,  S560339;</del><br>340 Ang Mo Kio Ave 1, 01-1697,  S560340; | <del title="1.36506492207366,103.849115819192">1.36506, 103.84912</del><br><span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | <del>GUAN BEE</del><br>GUAN BEE ELECTRICAL & ELECTRONICS SERVICE CENTRE- REDHILL | 79 Redhill Lane, #01-55,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | <del>HAIRWORKZ 1</del><br>HAIRWORKZ L | Toa Payoh Central, #01-322,  S310185; | <span title="1.33272795858038,103.849994231509">1.33273, 103.84999</span> |
+  | <del>HOCK SENG NOODLE STALL</del><br>HOCK HENG RICE & NOODLES | 163 Bukit Merah Central, #02-47,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | KOREAN & JAPANESE FOOD | <del>261 Waterloo Street, 07,  S180261;</del><br>335 Smith Street, 02-185,  S050335; | <del title="1.29878752559509,103.851967011645">1.29879, 103.85197</del><br><span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>REDHILL 92</del><br>REDHILL 92 TIDBITS | 79 Redhill Lane, #01-92,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | YONG BAN MIAN | <del>44 Owen Road, #01-321,  S210044;</del><br>462 Crawford Lane, #01-29,  S190462; | <del title="1.31551162976199,103.850377879064">1.31551, 103.85038</del><br><span title="1.30458618029941,103.860840750826">1.30459, 103.86084</span> |
+  | YONG TAU FU | <del>861 North Bridge Rd, #01-91,  S198783;</del><br>89 Circuit Road, #01-95,  S370089; | <del title="1.30563433652207,103.863909336656">1.30563, 103.86391</del><br><span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-13
 
 </summary>
