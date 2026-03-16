@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15 Mar 2026",
+  "lastUpdated": "16 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -97979,7 +97979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-15"
+      "lastResetDate": "2026-03-15"
     },
     {
       "id": "merchant_f75e9374-c402-4358-9941-0d40eb576f46",
@@ -105245,11 +105245,11 @@
       "id": "merchant_5bc02244-235d-409d-8a61-3c0d6c4967fa",
       "entityId": "merchant_5bc02244-235d-409d-8a61-3c0d6c4967fa",
       "name": "COMPFIX COMPUTER",
-      "address": "926 Yishun Central 1, #01-191,  S760926;",
-      "postalCode": "760926",
+      "address": "84 Bedok North Street 4, #01-29B,  S460084;",
+      "postalCode": "460084",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.42789934801239,
-      "LON": 103.837908520837,
+      "LAT": 1.33178245077456,
+      "LON": 103.939208398976,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -105259,7 +105259,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-13"
+      "lastResetDate": "2026-03-16"
     },
     {
       "id": "merchant_be600afc-f042-4701-baa0-7655dd9b1547",

@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-16
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | COMPFIX COMPUTER | <del>926 Yishun Central 1, #01-191,  S760926;</del><br>84 Bedok North Street 4, #01-29B,  S460084; | <del title="1.42789934801239,103.837908520837">1.42790, 103.83791</del><br><span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-14
 
 </summary>
