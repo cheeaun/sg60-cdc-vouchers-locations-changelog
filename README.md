@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-17
+
+</summary>
+
+Total locations: 25,665 → 25,679
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABC VEGETARIAN FOOD | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | BEDOK 216 FISH BALL | 216 Bedok North Street 1, #01-104,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | BRADLEY'S GRILL 326 WOODLAND | 326 Woodlands Street 32,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | CAY STORE | 125 Yishun Street 11 Chong Pang View Singapore 760125, #01-K1,  S760125; | <span title="1.4339506942268,103.830439843368">1.43395, 103.83044</span> |
+  | CHARCOAL ROASTED DELIGHTS (AMK 721) | 721 Ang Mo Kio Avenue 8,  S560721; | <span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | CHENG LONG BAN MIAN | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | DELI DELIGHT 925 | 925 Yishun Central 1,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | DK & KHAN INDIAN MUSLIM FOOD | 34 Cassia Crescent,  S390034; | <span title="1.30964078422608,103.884471779925">1.30964, 103.88447</span> |
+  | FROZEN FOOD STALL | 216 Bedok North Street 1, #01-106,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | LASTBITE WESTERN @5DC | 5 Dover Crescent,  S130005; | <span title="1.30406012764311,103.782637200936">1.30406, 103.78264</span> |
+  | MIXED VEGETABLE RICE | 301 Punggol Central,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+  | QIU YUAN FISHBALL NOODLES (TAMP CTRL) | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | SHUI LIAN FISH SOUP | 57 Geylang Bahru,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | WASOOKA! | 166 Jalan Besar, #01-53,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | KALLANG MEDICAL CENTRE PTE. LTD. | <del>Jalan Tiga, #01-01,  S390039;</del><br>Jalan Tiga, #01-02,  S390039; | <span title="1.30782060282339,103.885092299552">1.30782, 103.88509</span> |
+  | PROFESSOR BRAWN CAFE (TAMPINES) | <del>4 Tampines Street 91 Singapore 528907, #01-01,  S528907;</del><br>4 Tampines Street 91 Singapore 528907, #A1-05,  S528907; | <span title="1.34711275884527,103.939451879381">1.34711, 103.93945</span> |
+  | SUKHOTHAI GRILL | <del>533 Choa Chu Kang Street 51,  S680533;</del><br>533 Choa Chu Kang Street 51, #01-15,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | THE ART FACULTY | <del>4 Tampines Street 91 Singapore 528907, #01-01,  S528907;</del><br>4 Tampines Street 91 Singapore 528907, #A1-05,  S528907; | <span title="1.34711275884527,103.939451879381">1.34711, 103.93945</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-16
 
 </summary>
