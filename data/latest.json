@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "17 Mar 2026",
+  "lastUpdated": "18 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -21919,7 +21919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-23"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_8dd46f8c-1147-45b0-96f3-10074dcb765a",
@@ -24600,6 +24600,26 @@
         }
       },
       "lastResetDate": "2024-12-31"
+    },
+    {
+      "id": "merchant_30fdcbbe-dc59-4850-b298-ab6bd8372e5a",
+      "entityId": "merchant_30fdcbbe-dc59-4850-b298-ab6bd8372e5a",
+      "name": "99NJ WDL",
+      "address": "768 Woodlands Avenue 6 Central 24-hr Clinic (woodlands) Singapore 730768, #01-25,  S730768;",
+      "postalCode": "730768",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44562289926402,
+      "LON": 103.798140996611,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_d333cdd6-9e6c-471c-a66f-fc5047ea2ca1",
@@ -148102,6 +148122,26 @@
       "lastResetDate": "2024-08-14"
     },
     {
+      "id": "merchant_d8da461a-f009-4b66-b550-dff6f6486f7e",
+      "entityId": "merchant_d8da461a-f009-4b66-b550-dff6f6486f7e",
+      "name": "FIERY CHICKS 273 BBE",
+      "address": "273 Bukit Batok East Avenue 4,  S650273;",
+      "postalCode": "650273",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34842264529984,
+      "LON": 103.757579232268,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
+    },
+    {
       "id": "merchant_9078fbcd-6c3d-40db-b728-942a4a450193",
       "entityId": "merchant_9078fbcd-6c3d-40db-b728-942a4a450193",
       "name": "FIERY CHICKS WESTERN",
@@ -153399,7 +153439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-09-27"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_3fa2c13b-7f60-4398-99cd-9905bad634c6",
@@ -159760,6 +159800,26 @@
         }
       },
       "lastResetDate": "2021-12-20"
+    },
+    {
+      "id": "merchant_a1a05ac2-1c63-48a8-960e-25cec7f6f01f",
+      "entityId": "merchant_a1a05ac2-1c63-48a8-960e-25cec7f6f01f",
+      "name": "FRIED HOKKIEN NOODLES",
+      "address": "70 Compassvale Bow,  S544692;",
+      "postalCode": "544692",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38389417561466,
+      "LON": 103.892418758836,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_30e4bf99-7d1d-47bd-aeb3-6dab1388adf1",
@@ -172202,6 +172262,26 @@
       "lastResetDate": "2021-11-30"
     },
     {
+      "id": "merchant_721b84d7-d91b-4b27-8938-36fb46707649",
+      "entityId": "merchant_721b84d7-d91b-4b27-8938-36fb46707649",
+      "name": "GOMARTGO TRADING",
+      "address": "Jalan Batu, #01-101,  S431007;",
+      "postalCode": "431007",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30237002555566,
+      "LON": 103.88359641393,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
+    },
+    {
       "id": "merchant_16144134-e363-447c-aa6c-c28321e14942",
       "entityId": "merchant_16144134-e363-447c-aa6c-c28321e14942",
       "name": "GOMEZ SPICE PTE LTD",
@@ -176819,7 +176899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-27"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_ecab99fd-0167-4e16-b199-18e7c4ddb5ef",
@@ -187259,7 +187339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-10"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_262cdf33-9092-4381-a9fa-1e35935d69bf",
@@ -295782,6 +295862,26 @@
       "lastResetDate": "2026-01-15"
     },
     {
+      "id": "merchant_a118bd85-63a7-40ae-8a75-a8d146627ef9",
+      "entityId": "merchant_a118bd85-63a7-40ae-8a75-a8d146627ef9",
+      "name": "MARI MAKAN 693",
+      "address": "693 Woodlands Avenue 6,  S730693;",
+      "postalCode": "730693",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43808788056635,
+      "LON": 103.803764959272,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
+    },
+    {
       "id": "merchant_c1b8c811-283a-40ff-bb4a-ac3996abdc82",
       "entityId": "merchant_c1b8c811-283a-40ff-bb4a-ac3996abdc82",
       "name": "MARIA QI HENG COFFEE",
@@ -339599,7 +339699,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-28"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_4455f564-ffb8-4be6-afa8-9e7352874f84",
@@ -342619,7 +342719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-07"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_9467ebd6-26b6-4b45-a042-3b30890e34d2",
@@ -344600,6 +344700,26 @@
         }
       },
       "lastResetDate": "2021-12-27"
+    },
+    {
+      "id": "merchant_ccec9e79-95ee-44f6-9c8d-1553d0e989c8",
+      "entityId": "merchant_ccec9e79-95ee-44f6-9c8d-1553d0e989c8",
+      "name": "PANS KOPI",
+      "address": "National Development Building, Annex B, Telok Ayer Street, #02-98,  S069111;",
+      "postalCode": "069111",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2793398636571,
+      "LON": 103.846652482254,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_68e297b5-83ab-4716-a910-28756b351306",
@@ -364219,7 +364339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-04-02"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_d5fb9048-bcc9-4979-b875-00d847d2535e",
@@ -389399,7 +389519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-03"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_5f21240e-29a0-4023-a211-bb63850c0982",
@@ -404202,26 +404322,6 @@
       "lastResetDate": "2021-12-27"
     },
     {
-      "id": "merchant_721b84d7-d91b-4b27-8938-36fb46707649",
-      "entityId": "merchant_721b84d7-d91b-4b27-8938-36fb46707649",
-      "name": "SKY BLUE TRADING",
-      "address": "Jalan Batu, #01-101,  S431007;",
-      "postalCode": "431007",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30237002555566,
-      "LON": 103.88359641393,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2021-12-03"
-    },
-    {
       "id": "merchant_f2288b4f-ddc4-4807-b806-06bd5b5c4cd9",
       "entityId": "merchant_f2288b4f-ddc4-4807-b806-06bd5b5c4cd9",
       "name": "SKY BUBBLE TEA",
@@ -405999,7 +406099,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-18"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_9ad9cc8b-ca1b-40c9-9860-55ef81e947e1",
@@ -422120,6 +422220,26 @@
         }
       },
       "lastResetDate": "2022-04-29"
+    },
+    {
+      "id": "merchant_f82a87e7-a109-49a8-9639-db41212d4945",
+      "entityId": "merchant_f82a87e7-a109-49a8-9639-db41212d4945",
+      "name": "SWEE HAUS THE BUBBLE TEA SHOP",
+      "address": "546 Serangoon North Avenue 3 Hdb Public Shelters Singapore 550546, #01-230,  S550546;",
+      "postalCode": "550546",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37482523313127,
+      "LON": 103.870146844732,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_beaa1c2d-ab49-40d7-92a3-0c44523293b3",
@@ -440859,7 +440979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-02-04"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_2101ab0c-ca9d-47c9-b649-3d76b4465fbf",
@@ -445360,6 +445480,26 @@
         }
       },
       "lastResetDate": "2022-02-03"
+    },
+    {
+      "id": "merchant_e129fba0-d53e-4153-b9fe-bbbc56624a19",
+      "entityId": "merchant_e129fba0-d53e-4153-b9fe-bbbc56624a19",
+      "name": "THYE GUAN MALA FRAGRANT",
+      "address": "8 Tampines Central 1,  S529543;",
+      "postalCode": "529543",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35435719591377,
+      "LON": 103.944305344915,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_12df272a-3d59-4a2b-a861-798450506f01",
@@ -469702,6 +469842,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_b909a3dd-6c1f-479a-a62a-b3da045821f8",
+      "entityId": "merchant_b909a3dd-6c1f-479a-a62a-b3da045821f8",
+      "name": "W768 ALI FRY & GRILL",
+      "address": "768 Woodlands Avenue 6, ST02,  S730768;",
+      "postalCode": "730768",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44562289926402,
+      "LON": 103.798140996611,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
+    },
+    {
       "id": "merchant_dde62231-9b27-41f0-8bbe-517769442644",
       "entityId": "merchant_dde62231-9b27-41f0-8bbe-517769442644",
       "name": "W801 COFFEE HOUSE PTE LTD",
@@ -485279,7 +485439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-01-15"
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_54d9f0b2-2254-4487-a524-3a6b82889aad",
@@ -485580,6 +485740,26 @@
         }
       },
       "lastResetDate": "2023-10-10"
+    },
+    {
+      "id": "merchant_2aaada06-3bd7-407c-99d8-00b209b3fd31",
+      "entityId": "merchant_2aaada06-3bd7-407c-99d8-00b209b3fd31",
+      "name": "XIAO PANG NIU @ EASTLINK KOUFU",
+      "address": "8 Tampines Central 1,  S529543;",
+      "postalCode": "529543",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35435719591377,
+      "LON": 103.944305344915,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_c857f364-820c-4f13-8ced-30d05fe870dc",
@@ -506462,6 +506642,26 @@
       "lastResetDate": "2025-02-11"
     },
     {
+      "id": "merchant_f29d3f13-0286-4a3a-b081-d6691f2f1bbf",
+      "entityId": "merchant_f29d3f13-0286-4a3a-b081-d6691f2f1bbf",
+      "name": "YUM YUM YONG TAU FOO",
+      "address": "8 Tampines Central 1,  S529543;",
+      "postalCode": "529543",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35435719591377,
+      "LON": 103.944305344915,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
+    },
+    {
       "id": "merchant_22ff598b-fb80-4cb4-ab8d-30b65eb76ea1",
       "entityId": "merchant_22ff598b-fb80-4cb4-ab8d-30b65eb76ea1",
       "name": "YUM YUM YUMMY VEGETARIAN",
@@ -513440,6 +513640,26 @@
         }
       },
       "lastResetDate": "2025-12-03"
+    },
+    {
+      "id": "merchant_d7911970-3cdd-4592-9d4c-fa3c157993c1",
+      "entityId": "merchant_d7911970-3cdd-4592-9d4c-fa3c157993c1",
+      "name": "ZUIZUIXIAN PAN-FRIED BUN",
+      "address": "711 Ang Mo Kio Avenue 8,  S560711;",
+      "postalCode": "560711",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37155030598577,
+      "LON": 103.848079014416,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-17"
     },
     {
       "id": "merchant_eabae700-e3c4-42d8-8a19-ec0f6f34accb",

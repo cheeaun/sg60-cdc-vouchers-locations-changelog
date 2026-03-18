@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-18
+
+</summary>
+
+Total locations: 25,679 → 25,690
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 99NJ WDL | 768 Woodlands Avenue 6 Central 24-hr Clinic (woodlands) Singapore 730768, #01-25,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | FIERY CHICKS 273 BBE | 273 Bukit Batok East Avenue 4,  S650273; | <span title="1.34842264529984,103.757579232268">1.34842, 103.75758</span> |
+  | FRIED HOKKIEN NOODLES | 70 Compassvale Bow,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | MARI MAKAN 693 | 693 Woodlands Avenue 6,  S730693; | <span title="1.43808788056635,103.803764959272">1.43809, 103.80376</span> |
+  | PANS KOPI | National Development Building, Annex B, Telok Ayer Street, #02-98,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | SWEE HAUS THE BUBBLE TEA SHOP | 546 Serangoon North Avenue 3 Hdb Public Shelters Singapore 550546, #01-230,  S550546; | <span title="1.37482523313127,103.870146844732">1.37483, 103.87015</span> |
+  | THYE GUAN MALA FRAGRANT | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | W768 ALI FRY & GRILL | 768 Woodlands Avenue 6, ST02,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | XIAO PANG NIU @ EASTLINK KOUFU | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | YUM YUM YONG TAU FOO | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | ZUIZUIXIAN PAN-FRIED BUN | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SKY BLUE TRADING</del><br>GOMARTGO TRADING | Jalan Batu, #01-101,  S431007; | <span title="1.30237002555566,103.88359641393">1.30237, 103.88360</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-17
 
 </summary>
