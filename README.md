@@ -13,6 +13,37 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-19
+
+</summary>
+
+Total locations: 25,690 → 25,696
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ABANG UTARA PTE LTD | 53 Sims Place Ocbc Sims Place Singapore 380053, #01-160,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | BEEF NOODLE DELIGHTS (AMK 711) | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | BERKSHIRE WALMART (TPY 85) | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-364,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | PRINCE'S JUICE | 475 Tampines Street 44 Singapore 520475, #01-135C,  S520475; | <span title="1.36032331939995,103.953129640464">1.36032, 103.95313</span> |
+  | WEST MEAL (TPY 480) | 480 Lorong 6 Toa Payoh, ST07,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | YJH FISH SOUP | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | YONG HUAT DELIGHT | <del>50A Marine Terrace, #01-297,  S441050;</del><br>50A Marine Terrace, #01-287,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-18
 
 </summary>

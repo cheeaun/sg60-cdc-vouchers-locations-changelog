@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18 Mar 2026",
+  "lastUpdated": "19 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -27480,6 +27480,26 @@
         }
       },
       "lastResetDate": "2022-07-23"
+    },
+    {
+      "id": "merchant_638f4f33-3fe1-4f52-98c2-fb88a0e11aca",
+      "entityId": "merchant_638f4f33-3fe1-4f52-98c2-fb88a0e11aca",
+      "name": "ABANG UTARA PTE LTD",
+      "address": "53 Sims Place Ocbc Sims Place Singapore 380053, #01-160,  S380053;",
+      "postalCode": "380053",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31782374680828,
+      "LON": 103.88007758537,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
     },
     {
       "id": "merchant_d8abb9a3-6ffb-49c9-8cca-a4afa867b809",
@@ -66662,6 +66682,26 @@
       "lastResetDate": "2025-06-11"
     },
     {
+      "id": "merchant_f09d4e7c-b07f-4646-a9f1-ff022c1c8c9f",
+      "entityId": "merchant_f09d4e7c-b07f-4646-a9f1-ff022c1c8c9f",
+      "name": "BEEF NOODLE DELIGHTS (AMK 711)",
+      "address": "711 Ang Mo Kio Avenue 8,  S560711;",
+      "postalCode": "560711",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37155030598577,
+      "LON": 103.848079014416,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
+    },
+    {
       "id": "merchant_b5547f15-5127-4d5e-87f4-0dec728d106e",
       "entityId": "merchant_b5547f15-5127-4d5e-87f4-0dec728d106e",
       "name": "BEELIVES AGRO PRODUCTS PTE LTD",
@@ -68200,6 +68240,26 @@
         }
       },
       "lastResetDate": "2021-12-14"
+    },
+    {
+      "id": "merchant_969f03f6-6c29-4cf8-8ded-beca5d446e36",
+      "entityId": "merchant_969f03f6-6c29-4cf8-8ded-beca5d446e36",
+      "name": "BERKSHIRE WALMART (TPY 85)",
+      "address": "85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-364,  S310085;",
+      "postalCode": "310085",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33628536216028,
+      "LON": 103.848428644103,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
     },
     {
       "id": "merchant_ae0e0994-78d3-4b76-8a42-4ef8003ce428",
@@ -313339,7 +313399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-17"
+      "lastResetDate": "2026-03-18"
     },
     {
       "id": "merchant_fe23f16f-dfef-47b3-a08d-7c8df2310451",
@@ -356980,6 +357040,26 @@
         }
       },
       "lastResetDate": "2024-10-22"
+    },
+    {
+      "id": "merchant_a3e98fe5-726f-4d9e-9e71-129a1e187174",
+      "entityId": "merchant_a3e98fe5-726f-4d9e-9e71-129a1e187174",
+      "name": "PRINCE'S JUICE",
+      "address": "475 Tampines Street 44 Singapore 520475, #01-135C,  S520475;",
+      "postalCode": "520475",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36032331939995,
+      "LON": 103.953129640464,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
     },
     {
       "id": "merchant_87d41847-25f2-4b14-8016-46c2cd863b51",
@@ -477222,6 +477302,26 @@
       "lastResetDate": "2024-02-21"
     },
     {
+      "id": "merchant_b296dd30-e7be-496f-bd40-fc2e9cfe58b7",
+      "entityId": "merchant_b296dd30-e7be-496f-bd40-fc2e9cfe58b7",
+      "name": "WEST MEAL (TPY 480)",
+      "address": "480 Lorong 6 Toa Payoh, ST07,  S310480;",
+      "postalCode": "310480",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33202548854255,
+      "LON": 103.848335264381,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
+    },
+    {
       "id": "merchant_1cacf548-6faa-40d0-8bfc-a51bb546ca5d",
       "entityId": "merchant_1cacf548-6faa-40d0-8bfc-a51bb546ca5d",
       "name": "WEST POINT OPTOMETRIST LLP",
@@ -499142,6 +499242,26 @@
       "lastResetDate": "2026-01-06"
     },
     {
+      "id": "merchant_e737b78e-bc18-43a0-a710-ba78652ce965",
+      "entityId": "merchant_e737b78e-bc18-43a0-a710-ba78652ce965",
+      "name": "YJH FISH SOUP",
+      "address": "116 Bukit Merah View,  S151116;",
+      "postalCode": "151116",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28513427067055,
+      "LON": 103.821532226321,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-18"
+    },
+    {
       "id": "merchant_ef23fc8e-6b5f-4955-b4e4-1d5da18c4376",
       "entityId": "merchant_ef23fc8e-6b5f-4955-b4e4-1d5da18c4376",
       "name": "YJT TCM",
@@ -500005,7 +500125,7 @@
       "id": "merchant_01e31dc6-d66f-4547-90e4-20996ef6c414",
       "entityId": "merchant_01e31dc6-d66f-4547-90e4-20996ef6c414",
       "name": "YONG HUAT DELIGHT",
-      "address": "50A Marine Terrace, #01-297,  S441050;",
+      "address": "50A Marine Terrace, #01-287,  S441050;",
       "postalCode": "441050",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.30572973591916,
@@ -500019,7 +500139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-29"
+      "lastResetDate": "2026-03-18"
     },
     {
       "id": "merchant_95e0757d-dbe6-41a3-96f0-040fcb2ad283",
