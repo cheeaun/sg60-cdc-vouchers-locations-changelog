@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-20
+
+</summary>
+
+Total locations: 25,696 → 25,701
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 664 CHICKEN RICE | 664 Yishun Avenue 4,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | CANTONESE SEAFOOD (628 SENJA) | 628 Senja Road,  S670628; | <span title="1.38509602471476,103.760218434373">1.38510, 103.76022</span> |
+  | GUANG DONG ZAI BEST FOOD 883 | 883 Woodlands Street 82,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | JIN BAO RELIGIOUS TRADING | 347 Jurong East Avenue 1, #01-66,  S600347; | <span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
+  | PU TIEN XIAO ZHEN | 3014 Ubi Road 1,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MOST BEAUTY BROW HOUSE</del><br>ARABELLA SKIN LAB | 83 Marine Parade Central, #01-590,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | FISHBALL NOODLE (KOUFU RP) | <del>31 Woodlands Ave 9 01-01 South Food Court, 02,  S738964;</del><br>31 Woodlands Ave 9 Foodgle Foodcourt, 03-01,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | POPULAR FOOD 925 | <del>925 Yishun Central 1,  S760925;</del><br>Blk 152A Bedok South Road, #01-01,  S461152; | <del title="1.42750549654333,103.837125284539">1.42751, 103.83713</del><br><span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-19
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Mar 2026",
+  "lastUpdated": "20 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -19580,6 +19580,26 @@
         }
       },
       "lastResetDate": "2022-01-26"
+    },
+    {
+      "id": "merchant_59bd4b12-4684-4229-9b90-67b1d1540cfb",
+      "entityId": "merchant_59bd4b12-4684-4229-9b90-67b1d1540cfb",
+      "name": "664 CHICKEN RICE",
+      "address": "664 Yishun Avenue 4,  S760664;",
+      "postalCode": "760664",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42019986585643,
+      "LON": 103.841074643136,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_e92e3aa1-afdd-4753-8f19-2ec68a061b26",
@@ -51362,6 +51382,26 @@
       "lastResetDate": "2025-10-06"
     },
     {
+      "id": "merchant_2109c552-93d1-4d70-972a-8016637f2399",
+      "entityId": "merchant_2109c552-93d1-4d70-972a-8016637f2399",
+      "name": "ARABELLA SKIN LAB",
+      "address": "83 Marine Parade Central, #01-590,  S440083;",
+      "postalCode": "440083",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30255976878216,
+      "LON": 103.90607458727,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
+    },
+    {
       "id": "merchant_16b0a144-5d1c-40fd-b19c-d85f3dd0b54d",
       "entityId": "merchant_16b0a144-5d1c-40fd-b19c-d85f3dd0b54d",
       "name": "ARABEST",
@@ -81960,6 +82000,26 @@
         }
       },
       "lastResetDate": "2022-03-30"
+    },
+    {
+      "id": "merchant_9011ea26-7001-44e2-87d9-2ca6d2a9e970",
+      "entityId": "merchant_9011ea26-7001-44e2-87d9-2ca6d2a9e970",
+      "name": "CANTONESE SEAFOOD (628 SENJA)",
+      "address": "628 Senja Road,  S670628;",
+      "postalCode": "670628",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38509602471476,
+      "LON": 103.760218434373,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_8168ce03-8610-4c00-b8b1-a5c0a90bd275",
@@ -150445,7 +150505,7 @@
       "id": "merchant_87614853-fbb0-4dc6-b509-db1e651117af",
       "entityId": "merchant_87614853-fbb0-4dc6-b509-db1e651117af",
       "name": "FISHBALL NOODLE (KOUFU RP)",
-      "address": "31 Woodlands Ave 9 01-01 South Food Court, 02,  S738964;",
+      "address": "31 Woodlands Ave 9 Foodgle Foodcourt, 03-01,  S738964;",
       "postalCode": "738964",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.44627225348279,
@@ -150459,7 +150519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-28"
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_51589e4b-5dbf-4326-aa44-e4297944d096",
@@ -178760,6 +178820,26 @@
         }
       },
       "lastResetDate": "2021-12-03"
+    },
+    {
+      "id": "merchant_c4516683-e4c9-4619-ad74-a58130d34a3e",
+      "entityId": "merchant_c4516683-e4c9-4619-ad74-a58130d34a3e",
+      "name": "GUANG DONG ZAI BEST FOOD 883",
+      "address": "883 Woodlands Street 82,  S730883;",
+      "postalCode": "730883",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44283592110679,
+      "LON": 103.790770766025,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_b795e599-2077-4354-910d-9756b7e7aa87",
@@ -234540,6 +234620,26 @@
         }
       },
       "lastResetDate": "2022-05-11"
+    },
+    {
+      "id": "merchant_27d76cf3-9bd8-4430-98ce-05936608d3a5",
+      "entityId": "merchant_27d76cf3-9bd8-4430-98ce-05936608d3a5",
+      "name": "JIN BAO RELIGIOUS TRADING",
+      "address": "347 Jurong East Avenue 1, #01-66,  S600347;",
+      "postalCode": "600347",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3454164813804,
+      "LON": 103.73170393955,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_910df49d-388e-46c5-9ce2-4f98e32e6e4a",
@@ -313382,26 +313482,6 @@
       "lastResetDate": "2022-07-14"
     },
     {
-      "id": "merchant_2109c552-93d1-4d70-972a-8016637f2399",
-      "entityId": "merchant_2109c552-93d1-4d70-972a-8016637f2399",
-      "name": "MOST BEAUTY BROW HOUSE",
-      "address": "83 Marine Parade Central, #01-590,  S440083;",
-      "postalCode": "440083",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30255976878216,
-      "LON": 103.90607458727,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-03-18"
-    },
-    {
       "id": "merchant_fe23f16f-dfef-47b3-a08d-7c8df2310451",
       "entityId": "merchant_fe23f16f-dfef-47b3-a08d-7c8df2310451",
       "name": "MOTZ CONVENIENCE STORE",
@@ -354525,11 +354605,11 @@
       "id": "merchant_b7260e10-db90-45b2-9748-65c5fe9de04e",
       "entityId": "merchant_b7260e10-db90-45b2-9748-65c5fe9de04e",
       "name": "POPULAR FOOD 925",
-      "address": "925 Yishun Central 1,  S760925;",
-      "postalCode": "760925",
+      "address": "Blk 152A Bedok South Road, #01-01,  S461152;",
+      "postalCode": "461152",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.42750549654333,
-      "LON": 103.837125284539,
+      "LAT": 1.31767817684758,
+      "LON": 103.947397456277,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -354539,7 +354619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-09-23"
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_cbf86f4b-d01b-44dd-a30f-6f41e2447edf",
@@ -358480,6 +358560,26 @@
         }
       },
       "lastResetDate": "2021-10-21"
+    },
+    {
+      "id": "merchant_04403efa-0041-4e9e-9cb5-b90f296d38b4",
+      "entityId": "merchant_04403efa-0041-4e9e-9cb5-b90f296d38b4",
+      "name": "PU TIEN XIAO ZHEN",
+      "address": "3014 Ubi Road 1,  S408702;",
+      "postalCode": "408702",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3302851056327,
+      "LON": 103.894276496981,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-19"
     },
     {
       "id": "merchant_7910cb2b-012d-4e2c-9d32-e1e75d345f95",
