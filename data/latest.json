@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20 Mar 2026",
+  "lastUpdated": "21 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -24365,11 +24365,11 @@
       "id": "merchant_06962af7-2792-4e32-8091-57a99c3880da",
       "entityId": "merchant_06962af7-2792-4e32-8091-57a99c3880da",
       "name": "99 CONNECTION PTE. LTD.",
-      "address": "Toa Payoh Central, #01-350,  S310184;",
-      "postalCode": "310184",
+      "address": "Toa Payoh Central, #01-350,  S310183;",
+      "postalCode": "310183",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33259000918315,
-      "LON": 103.849677717253,
+      "LAT": 1.33335596212429,
+      "LON": 103.848865687447,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -24379,7 +24379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-29"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_48a3b709-8496-4963-9a94-9990b00e4508",
@@ -26100,6 +26100,26 @@
         }
       },
       "lastResetDate": "2025-06-12"
+    },
+    {
+      "id": "merchant_1854925c-0210-418b-8887-a1152bca27b0",
+      "entityId": "merchant_1854925c-0210-418b-8887-a1152bca27b0",
+      "name": "A.M. MOHAMED TEH TARIK TEH HALIA SPECIALIST",
+      "address": "120 Bukit Merah Lane 1, #01-54,  S150120;",
+      "postalCode": "150120",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28630594274136,
+      "LON": 103.804492637648,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_9f58fe3e-4fe9-4e91-a05b-d0ecd3571e51",
@@ -82002,6 +82022,26 @@
       "lastResetDate": "2022-03-30"
     },
     {
+      "id": "merchant_199f6b7d-a3a3-4992-9e9e-336a885ef899",
+      "entityId": "merchant_199f6b7d-a3a3-4992-9e9e-336a885ef899",
+      "name": "CANTONESE SEAFOOD (524AJELAPANG)",
+      "address": "524A Jelapang Road, 5,  S671524;",
+      "postalCode": "671524",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38529556252963,
+      "LON": 103.766170532051,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
+    },
+    {
       "id": "merchant_9011ea26-7001-44e2-87d9-2ca6d2a9e970",
       "entityId": "merchant_9011ea26-7001-44e2-87d9-2ca6d2a9e970",
       "name": "CANTONESE SEAFOOD (628 SENJA)",
@@ -103982,6 +104022,26 @@
       "lastResetDate": "2025-12-31"
     },
     {
+      "id": "merchant_dc75ba4b-17d6-48eb-8732-7f52235827e6",
+      "entityId": "merchant_dc75ba4b-17d6-48eb-8732-7f52235827e6",
+      "name": "COCO FWENS",
+      "address": "151 Serangoon North Avenue 2 Edmond Tan Veterinary Surgery Singapore 550151, #01-73E,  S550151;",
+      "postalCode": "550151",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36934535015796,
+      "LON": 103.873778334096,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
+    },
+    {
       "id": "merchant_7f1c9c1c-76bd-4603-93a4-c07d97b7d87d",
       "entityId": "merchant_7f1c9c1c-76bd-4603-93a4-c07d97b7d87d",
       "name": "COCO LADIES HAIR SALON",
@@ -117565,11 +117625,11 @@
       "id": "merchant_6c90e0b5-0242-4383-be9e-2a780f272c5d",
       "entityId": "merchant_6c90e0b5-0242-4383-be9e-2a780f272c5d",
       "name": "DESHON TRADING COMPANY",
-      "address": "Sin Ming Road, #01-21,  S570024;",
-      "postalCode": "570024",
+      "address": "23 Sin Ming Road, #01-21,  S570023;",
+      "postalCode": "570023",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35518696986305,
-      "LON": 103.836337992513,
+      "LAT": 1.3543527093097,
+      "LON": 103.835823721667,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -117579,7 +117639,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-10-10"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_dbe6c5d3-baa5-4053-8ee8-8b6d17c9669d",
@@ -140905,11 +140965,11 @@
       "id": "merchant_3d4dccf4-366a-4d67-aa4d-99b2e13e6b8a",
       "entityId": "merchant_3d4dccf4-366a-4d67-aa4d-99b2e13e6b8a",
       "name": "EYE ZONE OPTICAL PTE LTD (TOA PAYOH CENTRAL)",
-      "address": "178 Toa Payoh Central, #01-208,  S310177;",
-      "postalCode": "310177",
+      "address": "178 Toa Payoh Central, #01-208,  S310178;",
+      "postalCode": "310178",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33390034057387,
-      "LON": 103.848854818382,
+      "LAT": 1.33358025794591,
+      "LON": 103.84926452128,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -140919,7 +140979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-11-21"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_0738bcf0-e204-42bd-8d99-c4f4133d3d2e",
@@ -177005,11 +177065,11 @@
       "id": "merchant_970ef716-f5de-4b74-a0d8-40b6b5573d72",
       "entityId": "merchant_970ef716-f5de-4b74-a0d8-40b6b5573d72",
       "name": "GRIN AFFAIR",
-      "address": "Bishan Street 11, #01-408,  S570505;",
-      "postalCode": "570505",
+      "address": "Bishan Street 11, #01-408,  S574505;",
+      "postalCode": "574505",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34891429352184,
-      "LON": 103.848662286791,
+      "LAT": 1.34906863713679,
+      "LON": 103.848979846234,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -177019,7 +177079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-17"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_ecab99fd-0167-4e16-b199-18e7c4ddb5ef",
@@ -180525,11 +180585,11 @@
       "id": "merchant_a438e66f-0c74-46cb-ad21-0587c5e365e6",
       "entityId": "merchant_a438e66f-0c74-46cb-ad21-0587c5e365e6",
       "name": "H2HAND WELLNESS",
-      "address": "5 Thomson Ridge, #01-01,  S574633;",
-      "postalCode": "574633",
+      "address": "5 Thomson Ridge, #01-01,  S574635;",
+      "postalCode": "574635",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35302401961244,
-      "LON": 103.834060952273,
+      "LAT": 1.35291655321989,
+      "LON": 103.833918767165,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -180539,7 +180599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-04-04"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_d61934a1-648f-41ed-a9a5-b4d04fce302c",
@@ -182925,11 +182985,11 @@
       "id": "merchant_d96c901f-c898-4307-bb16-8fbbaff65e43",
       "entityId": "merchant_d96c901f-c898-4307-bb16-8fbbaff65e43",
       "name": "HAIR BLISS & BEAUTY",
-      "address": "Lorong 1 Toa Payoh, #01-533,  S310125;",
-      "postalCode": "310125",
+      "address": "123 Lorong 1 Toa Payoh, #01-513,  S310123;",
+      "postalCode": "310123",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833133395207,
-      "LON": 103.845737117132,
+      "LAT": 1.33864901784911,
+      "LON": 103.845703844955,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -182939,7 +182999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-10"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_a42dec6a-a017-409d-b576-9f8bed50075e",
@@ -242920,6 +242980,26 @@
         }
       },
       "lastResetDate": "2023-10-03"
+    },
+    {
+      "id": "merchant_9f7201de-7bb4-4b7a-ab5a-0a61b7ec1195",
+      "entityId": "merchant_9f7201de-7bb4-4b7a-ab5a-0a61b7ec1195",
+      "name": "JUNE PET HOUSE SERVICES",
+      "address": "5 Eng Kong Terrace Eng Kong Park Singapore 598977, #01-05,  S598977;",
+      "postalCode": "598977",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33640845602361,
+      "LON": 103.768727433692,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_12ae5d50-b0db-4f5c-84fc-2f54edabdd76",
@@ -336959,7 +337039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-12-27"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_4d358502-4871-4d71-a2a3-6554adf24430",
@@ -344025,11 +344105,11 @@
       "id": "merchant_12c78251-85a0-42d3-afe4-ffd352c8e054",
       "entityId": "merchant_12c78251-85a0-42d3-afe4-ffd352c8e054",
       "name": "PANACEA BEAUTY HOUSE - TPY",
-      "address": "21 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310021, #01-292,  S310021;",
-      "postalCode": "310021",
+      "address": "184 Toa Payoh Central, #01-352,  S310184;",
+      "postalCode": "310184",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33544818177957,
-      "LON": 103.857495922448,
+      "LAT": 1.33259000918315,
+      "LON": 103.849677717253,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -344039,7 +344119,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-30"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_ee083473-68ae-46d2-aba7-88a1e6397916",
@@ -351962,6 +352042,26 @@
       "lastResetDate": "2026-01-08"
     },
     {
+      "id": "merchant_40d8d236-5f4f-4ac3-8121-a6330027a42e",
+      "entityId": "merchant_40d8d236-5f4f-4ac3-8121-a6330027a42e",
+      "name": "PLANT AMORE",
+      "address": "4A Jalan Batu, #02-023,  S432004;",
+      "postalCode": "432004",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30236034827101,
+      "LON": 103.883909473726,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
+    },
+    {
       "id": "merchant_6feb67da-67d1-4570-ba17-88a4de1e56e2",
       "entityId": "merchant_6feb67da-67d1-4570-ba17-88a4de1e56e2",
       "name": "PLANT IDEA (AMK 712A)",
@@ -358642,6 +358742,26 @@
       "lastResetDate": "2024-11-28"
     },
     {
+      "id": "merchant_4c9daf03-4a32-4a2b-9511-faee2fcd33f5",
+      "entityId": "merchant_4c9daf03-4a32-4a2b-9511-faee2fcd33f5",
+      "name": "PUFF & SPOON",
+      "address": "203 Toa Payoh North,  S310203;",
+      "postalCode": "310203",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34205287411841,
+      "LON": 103.84939599719,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
+    },
+    {
       "id": "merchant_3b50636d-784b-4436-bfc4-703dec4143a7",
       "entityId": "merchant_3b50636d-784b-4436-bfc4-703dec4143a7",
       "name": "PUFFS & PEAKS (TCCC)",
@@ -362099,7 +362219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-14"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_a457978f-d97d-4e1f-8a6e-0163ed9c3466",
@@ -393279,7 +393399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-07-03"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_836b3d3d-5bc4-4a22-8233-18465d801c33",
@@ -456382,6 +456502,26 @@
       "lastResetDate": "2025-07-28"
     },
     {
+      "id": "merchant_23b7f340-ea50-4b93-a363-e60ff31843ab",
+      "entityId": "merchant_23b7f340-ea50-4b93-a363-e60ff31843ab",
+      "name": "TRIPLE K FRUIT",
+      "address": "529 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560529, #01-2345,  S560529;",
+      "postalCode": "560529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37234358233883,
+      "LON": 103.855455428073,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
+    },
+    {
       "id": "merchant_f5903ad4-9d82-4bf7-b195-cb93f08717d7",
       "entityId": "merchant_f5903ad4-9d82-4bf7-b195-cb93f08717d7",
       "name": "TRIPLE K FRUITS",
@@ -457440,6 +457580,26 @@
         }
       },
       "lastResetDate": "2025-06-18"
+    },
+    {
+      "id": "merchant_d50c3244-dadd-4d53-a8cf-89b20464d6e0",
+      "entityId": "merchant_d50c3244-dadd-4d53-a8cf-89b20464d6e0",
+      "name": "TT GLOBAL MOBILE",
+      "address": "66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-493,  S330066;",
+      "postalCode": "330066",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32053917107956,
+      "LON": 103.86969083666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_5f6e618d-d843-4c4f-8a2d-f560295fcd74",
@@ -498459,7 +498619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-10"
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_4df80100-e34e-44ec-8d8c-9cb19764e6c5",
@@ -506000,6 +506160,26 @@
         }
       },
       "lastResetDate": "2022-08-18"
+    },
+    {
+      "id": "merchant_0e58ef0a-7775-43d6-af87-49d7a470ce3c",
+      "entityId": "merchant_0e58ef0a-7775-43d6-af87-49d7a470ce3c",
+      "name": "YUAN YUMMY",
+      "address": "151A Serangoon North Avenue 2,  S551151;",
+      "postalCode": "551151",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36953424620889,
+      "LON": 103.873492369263,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-20"
     },
     {
       "id": "merchant_77b2da9f-6541-4081-a9a8-4b1a0287d6e4",

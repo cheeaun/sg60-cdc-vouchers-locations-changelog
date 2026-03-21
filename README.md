@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-21
+
+</summary>
+
+Total locations: 25,701 → 25,710
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A.M. MOHAMED TEH TARIK TEH HALIA SPECIALIST | 120 Bukit Merah Lane 1, #01-54,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | CANTONESE SEAFOOD (524AJELAPANG) | 524A Jelapang Road, 5,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | COCO FWENS | 151 Serangoon North Avenue 2 Edmond Tan Veterinary Surgery Singapore 550151, #01-73E,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | JUNE PET HOUSE SERVICES | 5 Eng Kong Terrace Eng Kong Park Singapore 598977, #01-05,  S598977; | <span title="1.33640845602361,103.768727433692">1.33641, 103.76873</span> |
+  | PLANT AMORE | 4A Jalan Batu, #02-023,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | PUFF & SPOON | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | TRIPLE K FRUIT | 529 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560529, #01-2345,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+  | TT GLOBAL MOBILE | 66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-493,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | YUAN YUMMY | 151A Serangoon North Avenue 2,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 99 CONNECTION PTE. LTD. | <del>Toa Payoh Central, #01-350,  S310184;</del><br>Toa Payoh Central, #01-350,  S310183; | <del title="1.33259000918315,103.849677717253">1.33259, 103.84968</del><br><span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | DESHON TRADING COMPANY | <del>Sin Ming Road, #01-21,  S570024;</del><br>23 Sin Ming Road, #01-21,  S570023; | <del title="1.35518696986305,103.836337992513">1.35519, 103.83634</del><br><span title="1.3543527093097,103.835823721667">1.35435, 103.83582</span> |
+  | EYE ZONE OPTICAL PTE LTD (TOA PAYOH CENTRAL) | <del>178 Toa Payoh Central, #01-208,  S310177;</del><br>178 Toa Payoh Central, #01-208,  S310178; | <del title="1.33390034057387,103.848854818382">1.33390, 103.84885</del><br><span title="1.33358025794591,103.84926452128">1.33358, 103.84926</span> |
+  | GRIN AFFAIR | <del>Bishan Street 11, #01-408,  S570505;</del><br>Bishan Street 11, #01-408,  S574505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34906863713679,103.848979846234">1.34907, 103.84898</span> |
+  | H2HAND WELLNESS | <del>5 Thomson Ridge, #01-01,  S574633;</del><br>5 Thomson Ridge, #01-01,  S574635; | <del title="1.35302401961244,103.834060952273">1.35302, 103.83406</del><br><span title="1.35291655321989,103.833918767165">1.35292, 103.83392</span> |
+  | HAIR BLISS & BEAUTY | <del>Lorong 1 Toa Payoh, #01-533,  S310125;</del><br>123 Lorong 1 Toa Payoh, #01-513,  S310123; | <del title="1.33833133395207,103.845737117132">1.33833, 103.84574</del><br><span title="1.33864901784911,103.845703844955">1.33865, 103.84570</span> |
+  | PANACEA BEAUTY HOUSE - TPY | <del>21 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310021, #01-292,  S310021;</del><br>184 Toa Payoh Central, #01-352,  S310184; | <del title="1.33544818177957,103.857495922448">1.33545, 103.85750</del><br><span title="1.33259000918315,103.849677717253">1.33259, 103.84968</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-20
 
 </summary>
