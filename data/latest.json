@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21 Mar 2026",
+  "lastUpdated": "22 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -197880,6 +197880,26 @@
         }
       },
       "lastResetDate": "2025-12-10"
+    },
+    {
+      "id": "merchant_454bd5f4-3338-4cc6-95f7-660646ac1c41",
+      "entityId": "merchant_454bd5f4-3338-4cc6-95f7-660646ac1c41",
+      "name": "HENG YI FENG ROASTED DELIGHTS",
+      "address": "406 Tampines Street 41,  S520406;",
+      "postalCode": "520406",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35783243904096,
+      "LON": 103.945773504554,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-21"
     },
     {
       "id": "merchant_354d9d09-9802-4be0-8dc0-9d2b0fe208bb",

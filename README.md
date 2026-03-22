@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-22
+
+</summary>
+
+Total locations: 25,710 → 25,711
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HENG YI FENG ROASTED DELIGHTS | 406 Tampines Street 41,  S520406; | <span title="1.35783243904096,103.945773504554">1.35783, 103.94577</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-21
 
 </summary>
