@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-24
+
+</summary>
+
+Total locations: 25,711 → 25,717
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BREWTOPIA | 748 Yishun Street 72 Nee Soon Central Green Singapore 760748, #01-222,  S760748; | <span title="1.42751898239053,103.83345047935">1.42752, 103.83345</span> |
+  | FITRA HAINANESE CHICKEN RICE & AYAM PENYET | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | HENG HENG STALL 9 SATAY OTAH SAUSAGE | 1220 East Coast Parkway, #01-09,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | MR BLADE HAIR SALON | 4 Changi Village Road Hdb-changi Village Rov Singapore 500004, #01-2056A,  S500004; | <span title="1.38909635615366,103.98746284567">1.38910, 103.98746</span> |
+  | THAI SISTER MINCED MEAT NOODLES (UBI 350) | 168 Bedok South Avenue 3,  S460168; | <span title="1.32003554111515,103.944570078049">1.32004, 103.94457</span> |
+  | WOK QI FRIED RICE | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>PIG VISCERA SOUP(460510)</del><br>85 PIG VISCERA SOUP | <del>510 Bedok North Street 3,  S460510;</del><br>85 Bedok North Street 4, #01-26,  S460085; | <del title="1.3324467322696,103.930476688129">1.33245, 103.93048</del><br><span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | <del>MAN LI SEAFOOD ( HOUGANG 681)</del><br>MAN LI SEAFOOD | <del>681 Hougang Avenue 8,  S530681;</del><br>292 Bukit Batok East Avenue 6, #01-01,  S650292; | <del title="1.37297840284804,103.88567915953">1.37298, 103.88568</del><br><span title="1.34447136304156,103.755394615486">1.34447, 103.75539</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-22
 
 </summary>

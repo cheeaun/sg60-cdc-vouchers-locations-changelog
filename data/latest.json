@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "23 Mar 2026",
+  "lastUpdated": "24 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -22280,6 +22280,26 @@
         }
       },
       "lastResetDate": "2025-06-18"
+    },
+    {
+      "id": "merchant_8e96ee45-01f5-4b6c-8a04-a4343ccc4f20",
+      "entityId": "merchant_8e96ee45-01f5-4b6c-8a04-a4343ccc4f20",
+      "name": "85 PIG VISCERA SOUP",
+      "address": "85 Bedok North Street 4, #01-26,  S460085;",
+      "postalCode": "460085",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33200482399436,
+      "LON": 103.93876843919,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_d519c5ec-0a96-4f5f-9c96-48aa2d5e6bfc",
@@ -77180,6 +77200,26 @@
         }
       },
       "lastResetDate": "2025-12-04"
+    },
+    {
+      "id": "merchant_2a1007e4-892e-4465-8093-e343dadac0d2",
+      "entityId": "merchant_2a1007e4-892e-4465-8093-e343dadac0d2",
+      "name": "BREWTOPIA",
+      "address": "748 Yishun Street 72 Nee Soon Central Green Singapore 760748, #01-222,  S760748;",
+      "postalCode": "760748",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42751898239053,
+      "LON": 103.83345047935,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_eb37e1a6-5069-41fb-8d45-4773025cafc2",
@@ -151162,6 +151202,26 @@
       "lastResetDate": "2024-10-07"
     },
     {
+      "id": "merchant_fccd58c5-f8a6-47ad-8837-f122c3e51a19",
+      "entityId": "merchant_fccd58c5-f8a6-47ad-8837-f122c3e51a19",
+      "name": "FITRA HAINANESE CHICKEN RICE & AYAM PENYET",
+      "address": "728 Ang Mo Kio Avenue 6,  S560728;",
+      "postalCode": "560728",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37262841608628,
+      "LON": 103.845682928938,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
+    },
+    {
       "id": "merchant_22ea8298-9886-4a02-99d1-ac64883ae30b",
       "entityId": "merchant_22ea8298-9886-4a02-99d1-ac64883ae30b",
       "name": "FITRI CREATIONS PTE LTD SEMBAWANG",
@@ -196440,6 +196500,26 @@
         }
       },
       "lastResetDate": "2023-02-24"
+    },
+    {
+      "id": "merchant_149c91ce-c86f-49e0-8ac2-3f68a8ef5b9f",
+      "entityId": "merchant_149c91ce-c86f-49e0-8ac2-3f68a8ef5b9f",
+      "name": "HENG HENG STALL 9 SATAY OTAH SAUSAGE",
+      "address": "1220 East Coast Parkway, #01-09,  S468960;",
+      "postalCode": "468960",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30690573552745,
+      "LON": 103.935137935777,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_88b62714-6488-4475-b25a-cd0d70744a43",
@@ -294424,12 +294504,12 @@
     {
       "id": "merchant_638cd736-e959-4119-bbb3-d5c31b767f9b",
       "entityId": "merchant_638cd736-e959-4119-bbb3-d5c31b767f9b",
-      "name": "MAN LI SEAFOOD ( HOUGANG 681)",
-      "address": "681 Hougang Avenue 8,  S530681;",
-      "postalCode": "530681",
+      "name": "MAN LI SEAFOOD",
+      "address": "292 Bukit Batok East Avenue 6, #01-01,  S650292;",
+      "postalCode": "650292",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37297840284804,
-      "LON": 103.88567915953,
+      "LAT": 1.34447136304156,
+      "LON": 103.755394615486,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -294439,7 +294519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-09-05"
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_8a0ee5c2-8337-4d8d-8e71-c5e97ea67ad3",
@@ -314160,6 +314240,26 @@
         }
       },
       "lastResetDate": "2025-05-28"
+    },
+    {
+      "id": "merchant_fc02b922-56e4-42ba-b11a-bba042c31ffe",
+      "entityId": "merchant_fc02b922-56e4-42ba-b11a-bba042c31ffe",
+      "name": "MR BLADE HAIR SALON",
+      "address": "4 Changi Village Road Hdb-changi Village Rov Singapore 500004, #01-2056A,  S500004;",
+      "postalCode": "500004",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38909635615366,
+      "LON": 103.98746284567,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_eea98123-9dde-4093-b214-9a3ebc0d1b6b",
@@ -350420,26 +350520,6 @@
         }
       },
       "lastResetDate": "2025-07-25"
-    },
-    {
-      "id": "merchant_8e96ee45-01f5-4b6c-8a04-a4343ccc4f20",
-      "entityId": "merchant_8e96ee45-01f5-4b6c-8a04-a4343ccc4f20",
-      "name": "PIG VISCERA SOUP(460510)",
-      "address": "510 Bedok North Street 3,  S460510;",
-      "postalCode": "460510",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.3324467322696,
-      "LON": 103.930476688129,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-01-20"
     },
     {
       "id": "merchant_9c960983-b2b5-4567-adc4-6a80e1f1ad61",
@@ -437302,6 +437382,26 @@
       "lastResetDate": "2025-12-08"
     },
     {
+      "id": "merchant_002593b2-702e-4316-a329-3344dfd656b6",
+      "entityId": "merchant_002593b2-702e-4316-a329-3344dfd656b6",
+      "name": "THAI SISTER MINCED MEAT NOODLES (UBI 350)",
+      "address": "168 Bedok South Avenue 3,  S460168;",
+      "postalCode": "460168",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32003554111515,
+      "LON": 103.944570078049,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
+    },
+    {
       "id": "merchant_262b3de7-8a4f-4d6f-addc-4283d5a2a6b8",
       "entityId": "merchant_262b3de7-8a4f-4d6f-addc-4283d5a2a6b8",
       "name": "THAI TEE DET",
@@ -465099,7 +465199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-10"
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_db6f94d5-a991-4028-a5e8-327babf76652",
@@ -480480,6 +480580,26 @@
         }
       },
       "lastResetDate": "2025-12-26"
+    },
+    {
+      "id": "merchant_c44c12b8-4c43-49c9-bd29-ab622e9cc4e9",
+      "entityId": "merchant_c44c12b8-4c43-49c9-bd29-ab622e9cc4e9",
+      "name": "WOK QI FRIED RICE",
+      "address": "728 Ang Mo Kio Avenue 6,  S560728;",
+      "postalCode": "560728",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37262841608628,
+      "LON": 103.845682928938,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-23"
     },
     {
       "id": "merchant_f99aeeef-b095-4026-b5e1-e617a0163b70",
