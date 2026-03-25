@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-25
+
+</summary>
+
+Total locations: 25,717 → 25,729
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DEALHAVEN | 205 Bedok North Street 1 Bedok Town Centre Singapore 460205, #01-381B,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | GUAN FOOD | 156 Bukit Batok Street 11 Singapore 650156, #01-03,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | HELLO BREW BAR (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-14B,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | JIAN KANG FOOT MASSAGE & BEAUTY | 217 Bukit Batok Street 21 Hdb-bukit Batok Singapore 650217, #01-363,  S650217; | <span title="1.34673392184416,103.754727840299">1.34673, 103.75473</span> |
+  | JIANZAO CURRY NOODLE 503 | 503 Jurong West Avenue 1,  S640503; | <span title="1.34995541462242,103.71770480961">1.34996, 103.71770</span> |
+  | LIN SALON | 465 North Bridge Road Singapore 191465, #01-5075,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | MANKOU XIANG HERBAL BAK KUT TEH | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | S&S TASTY FOOD | 557 Jurong West Street 42,  S640557; | <span title="1.35399275101832,103.718567124767">1.35399, 103.71857</span> |
+  | TAI SENG FISH SOUP YISHUN 470B | 470B Yishun Street 42,  S762470; | <span title="1.42584619116894,103.852260998106">1.42585, 103.85226</span> |
+  | TEOCHEW FISH SOUP. NOODLES | 332 Ang Mo Kio Avenue 1, 6,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | WESTERN BOY EXPRESS | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | YONG KEE HIANANESE CHICKEN RICE | 22 Toa Payoh Lorong 7, #01-18,  S310022; | <span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DORIS ALTERATION OF CLOTHINGS | <del>4A Jalan Batu, #02-28,  S432004;</del><br>4A Jalan Batu, #02-29,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | JOY LAKSA | <del>87 Bedok North Street 4,  S460087;</del><br>416 Bedok North Street 4, #01-53,  S460416; | <del title="1.33250261426447,103.938587125421">1.33250, 103.93859</del><br><span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | <del>SANTE WELLNESS</del><br>SANTE WELLNESS TCM PTE LTD | 121 Hougang Avenue 1, #01-1344,  S530121; | <span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+  | THE DAILY CATCH | <del>127 Toa Payoh Lorong 1, #01-86/88,  S310127;</del><br>Blk 22 Lorong 7 Toa Payoh, #01-84,  S310022; | <del title="1.33804625287728,103.844733922883">1.33805, 103.84473</del><br><span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | THE FLAME TREE MEDICAL CENTRE PTE LTD | <del>225 Upper Thomson Road, 225,  S574356;</del><br>225 Upper Thomson Road, 225,  S574357; | <del title="1.35294729216207,103.835276639921">1.35295, 103.83528</del><br><span title="1.35276828480712,103.834434648624">1.35277, 103.83443</span> |
+  | <del>THE MEAT HOUSE</del><br>THE MEAT BROTHERS | 538 Bedok North Street 3, #01-07,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | <del>WANG ZAI KITCHEN</del><br>WANG ZAI MALA HOT POT | 4A Jalan Batu, #01-03,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-24
 
 </summary>
