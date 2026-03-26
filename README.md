@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-26
+
+</summary>
+
+Total locations: 25,729 → 25,739
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACE MARKETPLACE | 88 Circuit Road Hdb-geylang Singapore 370088, #01-967,  S370088; | <span title="1.32354065999154,103.885851746701">1.32354, 103.88585</span> |
+  | BOND FAMILY CLINIC PRIVATE LIMITED (510587) | 587 Pasir Ris Drive 3, #01-04,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | HOME NEEDS MART (PARC ROSEWOOD) | 83 Rosewood Drive Parc Rosewood Singapore 737789, #01-70B,  S737789; | <span title="1.42792939226842,103.785438307076">1.42793, 103.78544</span> |
+  | HONG KONG ROASTED CHICKEN RICE 892 | 892C Woodlands Drive 50,  S732892; | <span title="1.43678473589244,103.789409620559">1.43678, 103.78941</span> |
+  | MAKAN WEST WESTERN CUISINE | 678A Woodlands Avenue 6,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | MEADOWS MART (KITCHENER) | 2 Kitchener Road Singapore 200002, #01-83,  S200002; | <span title="1.30776919700619,103.859237823349">1.30777, 103.85924</span> |
+  | THREE TREASURES ROAST DUCK | 79 Circuit Road, #01-22,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | THYJOY FRUITS & DRINKS | 500 Clemenceau Avenue North, #01-81,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | TOA PAYOH LOR 7 POPIAH | 22 Toa Payoh Lorong 7, #01-52,  S310022; | <span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | WANG DA YE MALA (AMK 181) | 181 Ang Mo Kio Avenue 5,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL BROTHERS INDIAN MUSLIM FOOD | <del>412 Bedok North Avenue 2, #01-114,  S460412;</del><br>111 Lorong 1 Toa Payoh, #01-366,  S310111; | <del title="1.32929126082802,103.931090689284">1.32929, 103.93109</del><br><span title="1.34121955722461,103.84549278032">1.34122, 103.84549</span> |
+  | CHE KITCHEN | <del>1008 Toa Payoh North Singapore 318996, #01-01,  S318996;</del><br>1008A Toa Payoh North Singapore 318996, #01-01,  S318998; | <del title="1.34325226770196,103.846158376123">1.34325, 103.84616</del><br><span title="1.34329291247585,103.846448400562">1.34329, 103.84645</span> |
+  | <del>COMBO NASI LAMEK</del><br>GRILLEFACTORY 218 SUMANG WALK | 218 Sumang Walk, ST6,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+  | <del>KING NASI LEMAK (211 BEDOK NORTH)</del><br>KIM NASI LEMAK (211 BEDOK NORTH) | <del>211 New Upper Changi Road,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | MACPHERSON MINCED MEAT NOODLES | <del>95 Lorong 4 Toa Payoh,  S310095;</del><br>127 Lorong 1 Toa Payoh, #02-25,  S310127; | <del title="1.338974038346,103.849002148998">1.33897, 103.84900</del><br><span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | YI JIA BAKERY HOUSE CAFE | <del>229 Upper Thomson Road, 229,  S574360;</del><br>229 Upper Thomson Road, 229,  S574361; | <del title="1.35301106158957,103.835187966142">1.35301, 103.83519</del><br><span title="1.35285518161354,103.834362539884">1.35286, 103.83436</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-25
 
 </summary>
