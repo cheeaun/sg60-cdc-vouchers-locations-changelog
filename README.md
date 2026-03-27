@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-27
+
+</summary>
+
+Total locations: 25,739 → 25,744
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMCM EXPRESS (BEDOK 418) | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | CHOON GUAN DRINK STALL | 21 Old Airport Road,  S390021; | <span title="1.30758613944429,103.884413042642">1.30759, 103.88441</span> |
+  | HENG HUA KEE 21 WANTON NOODLES | 21 Old Airport Road,  S390021; | <span title="1.30758613944429,103.884413042642">1.30759, 103.88441</span> |
+  | KARAKED THAI FOOD | 590 Upper Thomson Road, #01-22,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | LAHAHA | 3 St. George's Road,  S320003; | <span title="1.3225873518737,103.861107276991">1.32259, 103.86111</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HANDMADE FISHBALL NOODLE</del><br>21 FISHBALL NOODLES | 21 Old Airport Road, #01-111,  S390021; | <span title="1.30758613944429,103.884413042642">1.30759, 103.88441</span> |
+  | <del>BEST HAWA WESTERN & SEAFOOD</del><br>BEST HAWA SEAFOOD & WESTERN | 56 Jalan Kembangan,  S419120; | <span title="1.32242214665541,103.913997633143">1.32242, 103.91400</span> |
+  | DING FENG SEAFOOD (510623) | <del>623 Elias Road, 01-13,  S510623;</del><br>739 Bedok Reservoir Road, #01-3139,  S470739; | <del title="1.37790533095468,103.94233582068">1.37791, 103.94234</del><br><span title="1.33788663735454,103.922648407766">1.33789, 103.92265</span> |
+  | E8TWO FISH SOUP | <del>106 Hougang Avenue 1,  S530106;</del><br>106 Hougang Avenue 1, #01-1239,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-26
 
 </summary>

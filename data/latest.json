@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Mar 2026",
+  "lastUpdated": "27 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -11480,6 +11480,26 @@
         }
       },
       "lastResetDate": "2025-04-17"
+    },
+    {
+      "id": "merchant_a0a73b77-a32b-4279-8571-c0183e9e78c5",
+      "entityId": "merchant_a0a73b77-a32b-4279-8571-c0183e9e78c5",
+      "name": "21 FISHBALL NOODLES",
+      "address": "21 Old Airport Road, #01-111,  S390021;",
+      "postalCode": "390021",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30758613944429,
+      "LON": 103.884413042642,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_a6be95dd-0dd2-4da7-9a5d-fdcd1a66dc0b",
@@ -39959,7 +39979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-27"
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_d092927a-e0aa-4285-b349-801c0c2361dc",
@@ -45780,6 +45800,26 @@
         }
       },
       "lastResetDate": "2025-09-03"
+    },
+    {
+      "id": "merchant_81378fc3-f714-4459-8172-e0165e9471f0",
+      "entityId": "merchant_81378fc3-f714-4459-8172-e0165e9471f0",
+      "name": "AMCM EXPRESS (BEDOK 418)",
+      "address": "418 Bedok North Avenue 2,  S460418;",
+      "postalCode": "460418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32856421177174,
+      "LON": 103.930036524233,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_29b37330-0147-4ad5-b20e-1a9de5c5d9a3",
@@ -69004,7 +69044,7 @@
     {
       "id": "merchant_e6b351a3-7f65-43d9-9b39-62fea52a27fa",
       "entityId": "merchant_e6b351a3-7f65-43d9-9b39-62fea52a27fa",
-      "name": "BEST HAWA WESTERN & SEAFOOD",
+      "name": "BEST HAWA SEAFOOD & WESTERN",
       "address": "56 Jalan Kembangan,  S419120;",
       "postalCode": "419120",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -69019,7 +69059,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-10"
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_3c43ea93-d594-4ffc-8323-342fcfdb44d9",
@@ -97542,6 +97582,26 @@
       "lastResetDate": "2021-12-02"
     },
     {
+      "id": "merchant_426ce4a4-c74b-41cb-adcf-0dab1a2cccb3",
+      "entityId": "merchant_426ce4a4-c74b-41cb-adcf-0dab1a2cccb3",
+      "name": "CHOON GUAN DRINK STALL",
+      "address": "21 Old Airport Road,  S390021;",
+      "postalCode": "390021",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30758613944429,
+      "LON": 103.884413042642,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
+    },
+    {
       "id": "merchant_69bfe6f6-201a-4921-954f-0d84e6073d3d",
       "entityId": "merchant_69bfe6f6-201a-4921-954f-0d84e6073d3d",
       "name": "CHOON HEE FOOD TRADING",
@@ -119585,11 +119645,11 @@
       "id": "merchant_fca5e871-393c-4590-95c6-fa4afd8887e1",
       "entityId": "merchant_fca5e871-393c-4590-95c6-fa4afd8887e1",
       "name": "DING FENG SEAFOOD (510623)",
-      "address": "623 Elias Road, 01-13,  S510623;",
-      "postalCode": "510623",
+      "address": "739 Bedok Reservoir Road, #01-3139,  S470739;",
+      "postalCode": "470739",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37790533095468,
-      "LON": 103.94233582068,
+      "LAT": 1.33788663735454,
+      "LON": 103.922648407766,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -119599,7 +119659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-29"
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_9b759869-09aa-4302-bb9d-5150ef619669",
@@ -130605,7 +130665,7 @@
       "id": "merchant_2f0b2176-3a78-4cae-a2ab-f0f9a21d6a1e",
       "entityId": "merchant_2f0b2176-3a78-4cae-a2ab-f0f9a21d6a1e",
       "name": "E8TWO FISH SOUP",
-      "address": "106 Hougang Avenue 1,  S530106;",
+      "address": "106 Hougang Avenue 1, #01-1239,  S530106;",
       "postalCode": "530106",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3537029714401,
@@ -130619,7 +130679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-06"
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_f64c219a-7738-455f-b0bd-82affdbdd9c9",
@@ -132419,7 +132479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-07-16"
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_7b1af1e0-67f3-4c1d-a9a0-5af5d122367e",
@@ -187242,26 +187302,6 @@
       "lastResetDate": "2023-01-12"
     },
     {
-      "id": "merchant_a0a73b77-a32b-4279-8571-c0183e9e78c5",
-      "entityId": "merchant_a0a73b77-a32b-4279-8571-c0183e9e78c5",
-      "name": "HANDMADE FISHBALL NOODLE",
-      "address": "21 Old Airport Road, #01-111,  S390021;",
-      "postalCode": "390021",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30758613944429,
-      "LON": 103.884413042642,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2021-12-22"
-    },
-    {
       "id": "merchant_f0d8d9fb-b2d1-463e-bc16-65d90f00b2ec",
       "entityId": "merchant_f0d8d9fb-b2d1-463e-bc16-65d90f00b2ec",
       "name": "HANDMADE FISHBALL NOODLE",
@@ -196760,6 +196800,26 @@
         }
       },
       "lastResetDate": "2022-03-14"
+    },
+    {
+      "id": "merchant_b54f2059-9ea0-4a4e-897c-55659bf7f18a",
+      "entityId": "merchant_b54f2059-9ea0-4a4e-897c-55659bf7f18a",
+      "name": "HENG HUA KEE 21 WANTON NOODLES",
+      "address": "21 Old Airport Road,  S390021;",
+      "postalCode": "390021",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30758613944429,
+      "LON": 103.884413042642,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_1b7e59c0-6cb0-4cd8-b525-f05871538661",
@@ -248242,6 +248302,26 @@
       "lastResetDate": "2024-10-08"
     },
     {
+      "id": "merchant_213050a3-f78d-43e6-9775-68d3ceefb2a0",
+      "entityId": "merchant_213050a3-f78d-43e6-9775-68d3ceefb2a0",
+      "name": "KARAKED THAI FOOD",
+      "address": "590 Upper Thomson Road, #01-22,  S574419;",
+      "postalCode": "574419",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37231949296183,
+      "LON": 103.829018145089,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
+    },
+    {
       "id": "merchant_d3d8888d-40c7-46ed-8a0a-3fca2236e052",
       "entityId": "merchant_d3d8888d-40c7-46ed-8a0a-3fca2236e052",
       "name": "KARE SKIN & BROW (BMC)",
@@ -268800,6 +268880,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_052b246a-1e5e-455f-9bbd-3b6e8b3fd132",
+      "entityId": "merchant_052b246a-1e5e-455f-9bbd-3b6e8b3fd132",
+      "name": "LAHAHA",
+      "address": "3 St. George's Road,  S320003;",
+      "postalCode": "320003",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3225873518737,
+      "LON": 103.861107276991,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-26"
     },
     {
       "id": "merchant_01f8d738-6e09-46b8-b7da-dd96f38c0f29",
