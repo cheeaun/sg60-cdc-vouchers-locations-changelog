@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-28
+
+</summary>
+
+Total locations: 25,744 → 25,761
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 505 FRIED WHITE CARROT CAKE | 6 Jalan Bukit Merah, #01-128,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | AH MA TASTE (848 YISHUN) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | DRINK STALL | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | EAT.SG (SG-GROWN PRODUCE) | 341 Ang Mo Kio Avenue 1, #01-71,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | GETS SEA (T610) | 610 Tampines North Drive 1 Tampines Greenweave Singapore 520610, #01-09,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | IPOH HENG HAKKA NOODLE (510735) | 735 Pasir Ris Street 72, MR 1,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | KINGS FISH SOUP & BAN MIAN | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | MEYER FAMILY CLINIC | 203 Hougang Street 21 Kovan City Singapore 530203, #01-85,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | MINAZS | 203 Hougang Street 21 Kovan City Singapore 530203, #01-51,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | MISS THAI CHEF | 128 Lorong 1 Toa Payoh,  S310128; | <span title="1.33781295353996,103.844331928876">1.33781, 103.84433</span> |
+  | RRR CUTS & STYLES (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-16,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | RUAI RUAI THAI FOOD | 40 Beo Crescent, ST1,  S160040; | <span title="1.28905634657056,103.827502108439">1.28906, 103.82750</span> |
+  | SAN XIANG BAK CHOR MEE | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+  | SUPERMAN NASI LEMAK (417FV) | 417 Fernvale Link,  S790417; | <span title="1.39158622983505,103.879874611419">1.39159, 103.87987</span> |
+  | T.E MOOKATA BUFFET | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | TAI SENG FISH SOUP (259 BUKIT PANJANG) | 259 Bukit Panjang Ring Road,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | THE NOODLE CRAFTERS | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | NING KANG TCM CLINIC | <del>21 Ghim Moh Road Ghim Moh Estate Post Office Singapore 270021, #01-147,  S270021;</del><br>21 Ghim Moh Road, #01-155,  S270021; | <span title="1.31010302594118,103.788545950724">1.31010, 103.78855</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-27
 
 </summary>
