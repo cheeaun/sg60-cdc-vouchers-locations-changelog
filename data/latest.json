@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28 Mar 2026",
+  "lastUpdated": "29 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -115579,7 +115579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-24"
+      "lastResetDate": "2026-03-28"
     },
     {
       "id": "merchant_26c67f65-8b2f-4b06-920f-731948192060",
@@ -393285,11 +393285,11 @@
       "id": "merchant_46b2a49d-c39c-4161-9e42-2712e302b251",
       "entityId": "merchant_46b2a49d-c39c-4161-9e42-2712e302b251",
       "name": "SHI DAI FENG WEI (JLN BATU)",
-      "address": "4A Jalan Batu, #01-12,  S432004;",
-      "postalCode": "432004",
+      "address": "58 New Upper Changi Road, #01-191,  S461058;",
+      "postalCode": "461058",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30236034827101,
-      "LON": 103.883909473726,
+      "LAT": 1.32420087334002,
+      "LON": 103.941125277547,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -393299,7 +393299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-28"
+      "lastResetDate": "2026-03-28"
     },
     {
       "id": "merchant_e54e8161-0edb-495a-be46-d1abcc24b87e",

@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-29
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SHI DAI FENG WEI (JLN BATU) | <del>4A Jalan Batu, #01-12,  S432004;</del><br>58 New Upper Changi Road, #01-191,  S461058; | <del title="1.30236034827101,103.883909473726">1.30236, 103.88391</del><br><span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-28
 
 </summary>
