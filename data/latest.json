@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Mar 2026",
+  "lastUpdated": "31 Mar 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -11265,11 +11265,11 @@
       "id": "merchant_b7892309-f2be-4e08-a100-dd5d787340e4",
       "entityId": "merchant_b7892309-f2be-4e08-a100-dd5d787340e4",
       "name": "201D PORRIDGE & MIXED VEG RICE (TAMPINES)",
-      "address": "201D Tampines Street 21,  S524201;",
-      "postalCode": "524201",
+      "address": "Blk 728 Ang Mo Kio Avenue 6,  S560728;",
+      "postalCode": "560728",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35226231425316,
-      "LON": 103.953586491358,
+      "LAT": 1.37262841608628,
+      "LON": 103.845682928938,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -11279,7 +11279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-27"
+      "lastResetDate": "2026-03-30"
     },
     {
       "id": "merchant_2b7461e1-db23-44c1-a76a-64963ec0b732",
@@ -14640,6 +14640,26 @@
         }
       },
       "lastResetDate": "2023-05-23"
+    },
+    {
+      "id": "merchant_e6884d5c-f9fc-4274-887b-9654bf38c387",
+      "entityId": "merchant_e6884d5c-f9fc-4274-887b-9654bf38c387",
+      "name": "350 FRIED HOKKIEN NOODLE",
+      "address": "350 Ubi Avenue 1, #01-947,  S400350;",
+      "postalCode": "400350",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32580408523453,
+      "LON": 103.901292368319,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-30"
     },
     {
       "id": "merchant_f53859b4-c88e-41ac-8e18-11eb5ee5cac9",
@@ -56840,6 +56860,26 @@
         }
       },
       "lastResetDate": "2023-06-12"
+    },
+    {
+      "id": "merchant_97b01f1d-1c37-4663-a4e4-d9310352c735",
+      "entityId": "merchant_97b01f1d-1c37-4663-a4e4-d9310352c735",
+      "name": "B1 HONG KONG STYLE CHARCOAL ROASTED DELIGHT (239 YISHUN)",
+      "address": "239 Yishun Ring Road,  S760239;",
+      "postalCode": "760239",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43359453113734,
+      "LON": 103.839686662816,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-30"
     },
     {
       "id": "merchant_d5ab4fd7-6c59-4fb3-adef-5f5625a49a46",
@@ -160202,26 +160242,6 @@
       "lastResetDate": "2024-09-05"
     },
     {
-      "id": "merchant_e6884d5c-f9fc-4274-887b-9654bf38c387",
-      "entityId": "merchant_e6884d5c-f9fc-4274-887b-9654bf38c387",
-      "name": "FRIED HOKKIEN MEE",
-      "address": "350 Ubi Avenue 1, #01-947,  S400350;",
-      "postalCode": "400350",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32580408523453,
-      "LON": 103.901292368319,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2021-12-20"
-    },
-    {
       "id": "merchant_a1a05ac2-1c63-48a8-960e-25cec7f6f01f",
       "entityId": "merchant_a1a05ac2-1c63-48a8-960e-25cec7f6f01f",
       "name": "FRIED HOKKIEN NOODLES",
@@ -244980,6 +245000,26 @@
         }
       },
       "lastResetDate": "2024-02-26"
+    },
+    {
+      "id": "merchant_3bf6ebd5-9a79-4cb0-97ca-885b2333257f",
+      "entityId": "merchant_3bf6ebd5-9a79-4cb0-97ca-885b2333257f",
+      "name": "JWS GRILLE FACTORY (AMK 340)",
+      "address": "340 Ang Mo Kio Avenue 1,  S560340;",
+      "postalCode": "560340",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36445049628782,
+      "LON": 103.849464020848,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-30"
     },
     {
       "id": "merchant_2602ef19-ea47-47d9-8067-bf5a881ff21a",
@@ -438122,6 +438162,26 @@
       "lastResetDate": "2025-12-08"
     },
     {
+      "id": "merchant_ab587a7e-34ca-475e-beb1-10884dfd9b93",
+      "entityId": "merchant_ab587a7e-34ca-475e-beb1-10884dfd9b93",
+      "name": "THAI SISTER MINCED MEAT NOODLES (239 YISHUN)",
+      "address": "239 Yishun Ring Road,  S760239;",
+      "postalCode": "760239",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43359453113734,
+      "LON": 103.839686662816,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-30"
+    },
+    {
       "id": "merchant_002593b2-702e-4316-a329-3344dfd656b6",
       "entityId": "merchant_002593b2-702e-4316-a329-3344dfd656b6",
       "name": "THAI SISTER MINCED MEAT NOODLES (UBI 350)",
@@ -440200,6 +440260,26 @@
         }
       },
       "lastResetDate": "2025-11-27"
+    },
+    {
+      "id": "merchant_476d3ccb-7943-41e0-8278-63affb58335f",
+      "entityId": "merchant_476d3ccb-7943-41e0-8278-63affb58335f",
+      "name": "THE COFFEE EDITION",
+      "address": "14 Haig Road, #01-54,  S430014;",
+      "postalCode": "430014",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31542509324914,
+      "LON": 103.895479253328,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-03-30"
     },
     {
       "id": "merchant_1bc71059-f7d6-42f6-8f94-8f9b054c9182",

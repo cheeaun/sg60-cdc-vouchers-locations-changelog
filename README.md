@@ -13,6 +13,36 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-03-31
+
+</summary>
+
+Total locations: 25,761 → 25,765
+
+- <details><summary>Added (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | B1 HONG KONG STYLE CHARCOAL ROASTED DELIGHT (239 YISHUN) | 239 Yishun Ring Road,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | JWS GRILLE FACTORY (AMK 340) | 340 Ang Mo Kio Avenue 1,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | THAI SISTER MINCED MEAT NOODLES (239 YISHUN) | 239 Yishun Ring Road,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | THE COFFEE EDITION | 14 Haig Road, #01-54,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 201D PORRIDGE & MIXED VEG RICE (TAMPINES) | <del>201D Tampines Street 21,  S524201;</del><br>Blk 728 Ang Mo Kio Avenue 6,  S560728; | <del title="1.35226231425316,103.953586491358">1.35226, 103.95359</del><br><span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | <del>FRIED HOKKIEN MEE</del><br>350 FRIED HOKKIEN NOODLE | 350 Ubi Avenue 1, #01-947,  S400350; | <span title="1.32580408523453,103.901292368319">1.32580, 103.90129</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-29
 
 </summary>
