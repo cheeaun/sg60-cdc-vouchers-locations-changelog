@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-01
+
+</summary>
+
+Total locations: 25,765 → 25,781
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASHES BURNNIT SENGKANG | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | D'S FAMILY CRISPY CHICKEN RICE | 17 Upper Boon Keng Road, #01-02,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | GU ZHAO WEI NOODLE HOUSE | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | GU ZHAO WEI NOODLE HOUSE | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | JIA XIANG JW496 | 496 Jurong West Street 41,  S640496; | <span title="1.34998960720747,103.723836476095">1.34999, 103.72384</span> |
+  | KK ROASTED DELIGHT | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+  | MAN CUN CHENG (CHARCOAL ROASTED) BONELESS HAINANESE CHICKEN RICE (795A YISHUN) | 795A Yishun Ring Road,  S761795; | <span title="1.41941184916032,103.832841344452">1.41941, 103.83284</span> |
+  | MAN LI SEAFOOD (TPY 78C) | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+  | NKS INDIAN MUSLIM FOOD | 123 Bedok North Street 2, S2,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | OUR HOME CHICKEN RICE | 10 Marsiling Industrial Estate,  S739276; | <span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+  | S GRILL HOUSE (T742A) | 742A Tampines Street 72,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | SMART CAT HAIR AI+ | 523 Hougang Avenue 6 Hdb-hougang Singapore 530523, #01-121,  S530523; | <span title="1.37372091177119,103.890706989878">1.37372, 103.89071</span> |
+  | TOTOFISH (TP829) | 829 Tampines Street 81,  S520829; | <span title="1.34922419580696,103.934912515373">1.34922, 103.93491</span> |
+  | VIRTUE FAMILY CLINIC -168 PUNGGOL PLAZA | 168 Punggol Field Dbs Ntuc Punggol Plaza Singapore 820168, #02-08A,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | WAN XI GE | 8 Jalan Legundi Victory 8 Singapore 759274, #01-07,  S759274; | <span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | YONG HUAT ZA HUO DIAN | 209 Hougang Street 21, #01-151,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FOREST SALON | <del>89 Bedok North Street 4 Dbs Ntuc Bedok North Street 4 Singapore 460089, #01-89B,  S460089;</del><br>537 Bedok North St 3, #01-563B,  S460537; | <del title="1.33233468349262,103.938051284737">1.33233, 103.93805</del><br><span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | HOUGANG HAINANESE CURRY RICE/ ECONOMIC MEE HOON | <del>209 Hougang Street 21, #01-23,  S530209;</del><br>209 Hougang Street 21, #01-25,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | KALEIDO OPTICAL | <del>51 Old Airport Road, #02-007,  S390051;</del><br>51 Old Airport Road, #02-53,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | LONG JI WANTON NOODLE | <del>128 Bedok North Street 2, #01-02,  S460128;</del><br>728 Ang Mo Kio Ave 6, #01-4200,  S560728; | <del title="1.327740236451,103.939005696963">1.32774, 103.93901</del><br><span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-03-31
 
 </summary>
