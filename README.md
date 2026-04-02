@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-02
+
+</summary>
+
+Total locations: 25,781 → 25,794
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DRIED FRUIT EMPORIUM (JLN BT MERAH) | 7 Jalan Bukit Merah Hdb-bukit Merah Singapore 150007, #01-4434,  S150007; | <span title="1.28730052130543,103.807988268738">1.28730, 103.80799</span> |
+  | HIN SHENG COFFEE HOUSE | 346 Geylang Road Geylang Conservation Area Singapore 389367, #01-01,  S389367; | <span title="1.31259608523612,103.880683827354">1.31260, 103.88068</span> |
+  | HONG WAN KEI HAINANESE CHICKEN RICE | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | HOTPLATE WANGI | 470 Lorong 6 Toa Payoh,  S310470; | <span title="1.33203473928975,103.849338664495">1.33203, 103.84934</span> |
+  | HU WEI ZHAI | 47 Tanglin Halt Road,  S141047; | <span title="1.30079276076265,103.798077052596">1.30079, 103.79808</span> |
+  | L18 CHICKEN RICE | 346 Geylang Road Geylang Conservation Area Singapore 389367, #01-01,  S389367; | <span title="1.31259608523612,103.880683827354">1.31260, 103.88068</span> |
+  | PENIWERN | 118 Rivervale Drive Dbs Ntuc Rivervale Plaza Singapore 540118, #01-19,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | PUNG PUNG KITCHEN 632 | 632 Yishun Street 61,  S760632; | <span title="1.41856736783462,103.839186937262">1.41857, 103.83919</span> |
+  | SINGAPORE TEOCHEW BAK KUT TEH | 49 Sims Place, #01-34,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | TOP BEAUTY SALON SHANG CAI YI | 513 Tampines Central 1 Singapore 520513, #01-162,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+  | WANG LI XIANG | 118 Rivervale Drive,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | YAJIN THAI CUISINE 673B (CCK ) | 673B Choa Chu Kang Crescent,  S682673; | <span title="1.40097318180287,103.747961271519">1.40097, 103.74796</span> |
+  | ZARAH MALAY STALL | 47 Tanglin Halt Road,  S141047; | <span title="1.30079276076265,103.798077052596">1.30079, 103.79808</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FISHBALL NOODLE | <del>762 Jurong West Street 75, #01-300,  S640762;</del><br>638A Jurong West St 61, #01-22,  S641638; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | <del>HONG LIM CURRY PUFF @ BLK 101 CHONG PANG</del><br>HONG LIM CURRY PUFF @ BLK 105 CHONG PANG | <del>101 Yishun Avenue 5,  S760101;</del><br>105 Yishun Ring Road, #01-134,  S760105; | <del title="1.4305357538408,103.827667722074">1.43054, 103.82767</del><br><span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | LA MIU FASHION | <del>Jurong West Street 75, #01-254,  S640762;</del><br>249 Jurong East Street 24, #01-100,  S600249; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34256242291848,103.739259690369">1.34256, 103.73926</span> |
+  | <del>OLD WORLD BAK KUT TEH & FRIED PORRIDGE (YEWTEE)</del><br>THE CHEF'S PLACE 673B (CCK) | <del>673B Choa Chu Kang Crescent,  S682673;</del><br>673B Choa Chu Kang Crescent, #01-01,  S682673; | <span title="1.40097318180287,103.747961271519">1.40097, 103.74796</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-01
 
 </summary>
