@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-03
+
+</summary>
+
+Total locations: 25,794 → 25,806
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEREMPAH BROS (BUKIT CANBERRA) | 21 Canberra Link, 01-25,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | BISMILLAH STORE | 878 Tampines Avenue 8 Abc Children's Place Singapore 520878, #01-318,  S520878; | <span title="1.35221187065647,103.931382253216">1.35221, 103.93138</span> |
+  | CREMA CLOUD | 205 Bedok North Street 1 Bedok Town Centre Singapore 460205, #01-377,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | GRANNY PRAWN MEE | 70 Compassvale Bow,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | JAPANESE & KOREAN CUISINE | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | JIN HE HUI INDOOR PLANTS | 11 Telok Blangah Crescent, #01-28,  S090011; | <span title="1.27736813225761,103.818651524334">1.27737, 103.81865</span> |
+  | JIU YI CURRY CHICKEN RICE | 4 Woodlands Street 12, #01-046,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | POWER PADANG | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | QUEENS TCM CLINIC PTE LTD | 162 Mei Ling Street Mei Ling Vista Singapore 140162, #01-363,  S140162; | <span title="1.29225467139033,103.802856952057">1.29225, 103.80286</span> |
+  | REZEKI FOOD@91 TBL | 91 Telok Blangah Street 31, ST8,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | THE HAPPY CRUNCH | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | TRUE CHIROPRACTIC GROUP AMK | 727 Ang Mo Kio Avenue 6 Ang Mo Kio Central Post Office Singapore 560727, #01-4268,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>LOK LOK DYNASTY</del><br>GRILL DYNASTY | 267 Compassvale Link,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | MENG KITCHEN | <del>212 Hougang Street 21,  S530212;</del><br>722 Clementi West Street 2, #01-150,  S120722; | <del title="1.35952087347427,103.888340028762">1.35952, 103.88834</del><br><span title="1.30297959881951,103.76371403028">1.30298, 103.76371</span> |
+  | ONECARE TAMPINES | <del>827 Tampines Street 81, #01-142,  S520827;</del><br>827 Tampines Street 81, #01-140,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | OWN BKT PIG'S ORGAN SOUP | <del>51 Tampines Avenue 4, #01-70,  S528523;</del><br>1 Tampines Walk, Our Tampines Hub, #01-70,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-02
 
 </summary>
