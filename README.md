@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-07
+
+</summary>
+
+Total locations: 25,806 → 25,817
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 115 RYCE PTE LTD | 115 Canberra Walk, ST01,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | 5 10 F&B MANAGEMENT (115 WESTERN FOOD) | 115 Canberra Walk,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | COFFEE & TEA | 660A Edgedale Plains,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | D RANUM NASI PADANG | Blk 209B Clementi Avenue 6,  S122209; | <span title="1.32307183298737,103.763858722838">1.32307, 103.76386</span> |
+  | FRESHLY STEAMED AND SERVED | 739 Bedok Reservoir Road,  S470739; | <span title="1.33788663735454,103.922648407766">1.33789, 103.92265</span> |
+  | HJH SALBIAH | 2 Changi Village Road, #01-04,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | HUNG HENG RICE HOUSE - TPY 78C | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+  | JASMINE INDIAN MUSLIM FOOD | 2 Changi Village Road, #01-11,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | TECK HUAT COFFEE ROTI | 69 Geylang Bahru, #01-38,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | THAI SISTER MINCED MEAT NOODLES ( 678ACCK ) | 678A Choa Chu Kang Crescent,  S681678; | <span title="1.40194926829714,103.744856521894">1.40195, 103.74486</span> |
+  | THE PENANG BOWL - SILAT AVE | 148 Silat Avenue,  S160148; | <span title="1.27688315064164,103.830883904963">1.27688, 103.83088</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GUAN KEE COOKED FOOD</del><br>GOLDEN DELICIOUS BEE HOON | 51 Old Airport Road, #01-66,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>FATTY WANTON MEE</del><br>JAPANESE & KOREAN CUISINE | <del>36 Sin Ming Drive, #01-371,  S575710;</del><br>Blk 19 Ghim Moh Road, #01-263,  S270019; | <del title="1.35884114756586,103.836938065119">1.35884, 103.83694</del><br><span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | <del>OHANA BB271</del><br>OHANA OPTICS | 271 Bukit Batok East Avenue 4 Gombak Place Singapore 650271, #01-156A,  S650271; | <span title="1.34817263842498,103.758893085449">1.34817, 103.75889</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-03
 
 </summary>

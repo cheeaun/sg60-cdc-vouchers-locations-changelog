@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06 Apr 2026",
+  "lastUpdated": "07 Apr 2026",
   "locations": [
     {
       "id": "merchant_53c266c6-361e-47ae-a56e-a853160adbee",
@@ -6620,6 +6620,26 @@
         }
       },
       "lastResetDate": "2023-08-16"
+    },
+    {
+      "id": "merchant_629aaece-674c-4085-a05a-ea93e5520942",
+      "entityId": "merchant_629aaece-674c-4085-a05a-ea93e5520942",
+      "name": "115 RYCE PTE LTD",
+      "address": "115 Canberra Walk, ST01,  S750115;",
+      "postalCode": "750115",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44608188224858,
+      "LON": 103.828739863564,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_89b8c289-8e7c-4ef7-84b6-140b25a79199",
@@ -16980,6 +17000,26 @@
         }
       },
       "lastResetDate": "2022-06-07"
+    },
+    {
+      "id": "merchant_199fe483-8e01-4af0-b1f8-442c103d720b",
+      "entityId": "merchant_199fe483-8e01-4af0-b1f8-442c103d720b",
+      "name": "5 10 F&B MANAGEMENT (115 WESTERN FOOD)",
+      "address": "115 Canberra Walk,  S750115;",
+      "postalCode": "750115",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44608188224858,
+      "LON": 103.828739863564,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_08d72a4a-d78a-4be9-831b-e600f2ee7cf2",
@@ -104522,6 +104562,26 @@
       "lastResetDate": "2024-01-16"
     },
     {
+      "id": "merchant_d78b42ed-bd71-412a-90de-100b10d0bd7c",
+      "entityId": "merchant_d78b42ed-bd71-412a-90de-100b10d0bd7c",
+      "name": "COFFEE & TEA",
+      "address": "660A Edgedale Plains,  S821660;",
+      "postalCode": "821660",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40262197348865,
+      "LON": 103.916519598298,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_f8babbd7-594c-4ba3-b8a5-fec8e06f426e",
       "entityId": "merchant_f8babbd7-594c-4ba3-b8a5-fec8e06f426e",
       "name": "COFFEE & TEA",
@@ -110020,6 +110080,26 @@
         }
       },
       "lastResetDate": "2025-10-06"
+    },
+    {
+      "id": "merchant_6ea044de-0eea-4095-bfe6-c6dea7062d6a",
+      "entityId": "merchant_6ea044de-0eea-4095-bfe6-c6dea7062d6a",
+      "name": "D RANUM NASI PADANG",
+      "address": "Blk 209B Clementi Avenue 6,  S122209;",
+      "postalCode": "122209",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32307183298737,
+      "LON": 103.763858722838,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_4fc5bb2d-735a-4f63-8d21-53ed4e69b143",
@@ -146702,26 +146782,6 @@
       "lastResetDate": "2023-04-14"
     },
     {
-      "id": "merchant_d0d9a1ba-b4ae-4aa6-b934-861e78e9e9ca",
-      "entityId": "merchant_d0d9a1ba-b4ae-4aa6-b934-861e78e9e9ca",
-      "name": "FATTY WANTON MEE",
-      "address": "36 Sin Ming Drive, #01-371,  S575710;",
-      "postalCode": "575710",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35884114756586,
-      "LON": 103.836938065119,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-11-21"
-    },
-    {
       "id": "merchant_e04d6500-bff7-407d-bac6-05cea3096455",
       "entityId": "merchant_e04d6500-bff7-407d-bac6-05cea3096455",
       "name": "FATTY WENG ROASTED",
@@ -160042,6 +160102,26 @@
       "lastResetDate": "2023-02-17"
     },
     {
+      "id": "merchant_8f161db7-9097-46ee-ab3b-11e389c10522",
+      "entityId": "merchant_8f161db7-9097-46ee-ab3b-11e389c10522",
+      "name": "FRESHLY STEAMED AND SERVED",
+      "address": "739 Bedok Reservoir Road,  S470739;",
+      "postalCode": "470739",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33788663735454,
+      "LON": 103.922648407766,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_f2a589c2-edfe-4198-9e77-12c814f24511",
       "entityId": "merchant_f2a589c2-edfe-4198-9e77-12c814f24511",
       "name": "FRESHLY STEAMED FOOD",
@@ -172182,6 +172262,26 @@
       "lastResetDate": "2021-11-05"
     },
     {
+      "id": "merchant_dd61e148-5633-49c2-b875-bf8b42b31b5c",
+      "entityId": "merchant_dd61e148-5633-49c2-b875-bf8b42b31b5c",
+      "name": "GOLDEN DELICIOUS BEE HOON",
+      "address": "51 Old Airport Road, #01-66,  S390051;",
+      "postalCode": "390051",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3082518471287,
+      "LON": 103.88580870609,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_1bf1c608-19cd-48d2-a78a-23ba5f17fda8",
       "entityId": "merchant_1bf1c608-19cd-48d2-a78a-23ba5f17fda8",
       "name": "GOLDEN EXPRESS TAILORING",
@@ -178860,26 +178960,6 @@
         }
       },
       "lastResetDate": "2021-10-20"
-    },
-    {
-      "id": "merchant_dd61e148-5633-49c2-b875-bf8b42b31b5c",
-      "entityId": "merchant_dd61e148-5633-49c2-b875-bf8b42b31b5c",
-      "name": "GUAN KEE COOKED FOOD",
-      "address": "51 Old Airport Road, #01-66,  S390051;",
-      "postalCode": "390051",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.3082518471287,
-      "LON": 103.88580870609,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-05-27"
     },
     {
       "id": "merchant_8345a093-3fad-4c58-9f7b-64170f4c921a",
@@ -201022,6 +201102,26 @@
       "lastResetDate": "2023-04-05"
     },
     {
+      "id": "merchant_22f2ea9c-ddf8-4344-82d7-fc74cfa76402",
+      "entityId": "merchant_22f2ea9c-ddf8-4344-82d7-fc74cfa76402",
+      "name": "HJH SALBIAH",
+      "address": "2 Changi Village Road, #01-04,  S500002;",
+      "postalCode": "500002",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38915166172556,
+      "LON": 103.988245236848,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_17c3f73c-d3bd-433c-9ee6-36015ac2520d",
       "entityId": "merchant_17c3f73c-d3bd-433c-9ee6-36015ac2520d",
       "name": "HK FAMILY CLINIC & SURGERY (AMK 410)",
@@ -215902,6 +216002,26 @@
       "lastResetDate": "2025-10-06"
     },
     {
+      "id": "merchant_75ff508b-3cc6-4506-959b-af95720b8f9d",
+      "entityId": "merchant_75ff508b-3cc6-4506-959b-af95720b8f9d",
+      "name": "HUNG HENG RICE HOUSE - TPY 78C",
+      "address": "78C Toa Payoh Central,  S313078;",
+      "postalCode": "313078",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3344922010528,
+      "LON": 103.849799119942,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_e63e460c-1ece-4cb6-b43d-4dfac3575942",
       "entityId": "merchant_e63e460c-1ece-4cb6-b43d-4dfac3575942",
       "name": "HUNG HERBAL BEAUTY",
@@ -227842,6 +227962,26 @@
       "lastResetDate": "2022-08-16"
     },
     {
+      "id": "merchant_d0d9a1ba-b4ae-4aa6-b934-861e78e9e9ca",
+      "entityId": "merchant_d0d9a1ba-b4ae-4aa6-b934-861e78e9e9ca",
+      "name": "JAPANESE & KOREAN CUISINE",
+      "address": "Blk 19 Ghim Moh Road, #01-263,  S270019;",
+      "postalCode": "270019",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31143852315951,
+      "LON": 103.788298892377,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_857bae9b-44c5-4317-8e2c-c21248bf9322",
       "entityId": "merchant_857bae9b-44c5-4317-8e2c-c21248bf9322",
       "name": "JAPANESE & KOREAN CUISINE",
@@ -228880,6 +229020,26 @@
         }
       },
       "lastResetDate": "2021-10-29"
+    },
+    {
+      "id": "merchant_c3150d89-d640-4c0e-8955-5d30b38867c5",
+      "entityId": "merchant_c3150d89-d640-4c0e-8955-5d30b38867c5",
+      "name": "JASMINE INDIAN MUSLIM FOOD",
+      "address": "2 Changi Village Road, #01-11,  S500002;",
+      "postalCode": "500002",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38915166172556,
+      "LON": 103.988245236848,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_8339694c-bc7b-429d-b059-ccc36c52c41c",
@@ -337224,7 +337384,7 @@
     {
       "id": "merchant_1309a98b-5975-4d1e-afb8-8b1ab4ab7604",
       "entityId": "merchant_1309a98b-5975-4d1e-afb8-8b1ab4ab7604",
-      "name": "OHANA BB271",
+      "name": "OHANA OPTICS",
       "address": "271 Bukit Batok East Avenue 4 Gombak Place Singapore 650271, #01-156A,  S650271;",
       "postalCode": "650271",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -337239,7 +337399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-04-30"
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_5ae32ce1-aa8e-4454-8e33-700f9995638b",
@@ -434182,6 +434342,26 @@
       "lastResetDate": "2024-12-10"
     },
     {
+      "id": "merchant_ce8191a1-b8e6-4980-b0f5-e196e90d0f80",
+      "entityId": "merchant_ce8191a1-b8e6-4980-b0f5-e196e90d0f80",
+      "name": "TECK HUAT COFFEE ROTI",
+      "address": "69 Geylang Bahru, #01-38,  S330069;",
+      "postalCode": "330069",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32146311046779,
+      "LON": 103.870005014547,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
+    },
+    {
       "id": "merchant_1a2840de-2e41-4a05-bd17-1759bcdb25fb",
       "entityId": "merchant_1a2840de-2e41-4a05-bd17-1759bcdb25fb",
       "name": "TECK HUAT COFFEE ROTI (AMK 453A)",
@@ -438760,6 +438940,26 @@
         }
       },
       "lastResetDate": "2025-12-08"
+    },
+    {
+      "id": "merchant_1c944882-81c9-4f7d-a656-e2d268299f54",
+      "entityId": "merchant_1c944882-81c9-4f7d-a656-e2d268299f54",
+      "name": "THAI SISTER MINCED MEAT NOODLES ( 678ACCK )",
+      "address": "678A Choa Chu Kang Crescent,  S681678;",
+      "postalCode": "681678",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40194926829714,
+      "LON": 103.744856521894,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_ab587a7e-34ca-475e-beb1-10884dfd9b93",
@@ -444440,6 +444640,26 @@
         }
       },
       "lastResetDate": "2025-07-21"
+    },
+    {
+      "id": "merchant_bc827ccc-afbd-4f83-b963-ec6be194a9ba",
+      "entityId": "merchant_bc827ccc-afbd-4f83-b963-ec6be194a9ba",
+      "name": "THE PENANG BOWL - SILAT AVE",
+      "address": "148 Silat Avenue,  S160148;",
+      "postalCode": "160148",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27688315064164,
+      "LON": 103.830883904963,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-06"
     },
     {
       "id": "merchant_3881aa5c-572a-4774-a422-66a149dc4032",
