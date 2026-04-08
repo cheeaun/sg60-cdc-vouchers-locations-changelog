@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-08
+
+</summary>
+
+Total locations: 25,817 → 25,833
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AALIYAH'S CAFE@121 PASIR PANJANG | 121 Pasir Panjang Road, #01-37,  S118543; | <span title="1.27569879325348,103.791619964293">1.27570, 103.79162</span> |
+  | EVERTON CHIROPRACTIC | 4 Everton Park Everton Park Singapore 080004, #01-50,  S080004; | <span title="1.27688307363768,103.840085627903">1.27688, 103.84009</span> |
+  | FRESH 1 PTE LTD | 447 Clementi Avenue 3 Singapore 120447, #01-199,  S120447; | <span title="1.31287039829397,103.76482165678">1.31287, 103.76482</span> |
+  | FRESH PORK 1162 | 115 Bukit Merah View, #01-162,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | JI ZAI JI HAINANESE BONELESS CHICKEN RICE | 1 Tanjong Pagar Plaza,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | LAI KEE STORE | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | LUCKY CHICKEN POT | National Development Building, Annex B, Telok Ayer Street, #01-54,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | MOCHI STUDIO | 3 Queen's Road Farrer Gardens Singapore 260003, #02-163B,  S260003; | <span title="1.31833337221312,103.808097181789">1.31833, 103.80810</span> |
+  | PIRATES'S SEAFOOD @56 NEWTON | 500 Clemenceau Avenue North, #01-56,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | RESTAURANT BT HO SWEE 1961 | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | RICK'S WESTERN( LIMBANG ) | 532 Choa Chu Kang Street 51,  S680532; | <span title="1.39222033136152,103.743611063324">1.39222, 103.74361</span> |
+  | TAI WAH PORK NOODLE | 671 Edgefield Plains,  S820671; | <span title="1.40566048045603,103.911991277154">1.40566, 103.91199</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT (AMK 122) | 122 Ang Mo Kio Avenue 3,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+  | WUMING HAINANESE CHICKEN RICE (AMK 338) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1677,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | XIDELI (MT59) | 59 Marine Terrace,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | YUAN JI CHICKEN RICE | 929 Tampines Street 91,  S520929; | <span title="1.34639172413315,103.93961398508">1.34639, 103.93961</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | STRICT CUTZ | <del>37 Circuit Road Brighton Connection Student Care Centre Singapore 370037, #01-417,  S370037;</del><br>Blk 150A Bishan St 11, #01-163,  S571150; | <del title="1.32817782909926,103.88647835429">1.32818, 103.88648</del><br><span title="1.34455983329518,103.855737419596">1.34456, 103.85574</span> |
+  | <del>LEATHER CRAFT</del><br>WABI SABI HANDMADE LEATHER & MORE.. | 51 Old Airport Road, #02-47,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-07
 
 </summary>
