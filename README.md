@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-09
+
+</summary>
+
+Total locations: 25,833 → 25,854
+
+- <details><summary>Added (21)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 18 IPOH SEAFOOD | 18 Bedok South Road,  S460018; | <span title="1.32062504871279,103.934734222428">1.32063, 103.93473</span> |
+  | ALI'S FRY & GRILL - 57 DAWSON | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | BAKEAWAY | 302 Choa Chu Kang Avenue 4 Singapore 680302, #01-717,  S680302; | <span title="1.38501654423548,103.743339409916">1.38502, 103.74334</span> |
+  | CLOUDMART PTE LTD | 216 Lorong 8 Toa Payoh Hdb-toa Payoh Singapore 310216, #01-607,  S310216; | <span title="1.3424720602594,103.854178690288">1.34247, 103.85418</span> |
+  | DALCA | 1 Geylang Serai, 124,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | DING FENG HANDMADE FISHBALL NOODLE | 267 Serangoon Avenue 3, 09,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | ELIAS 623 (DRINK STALL 510623) | 623 Elias Road, 14,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | FIRST FRUITS CHIROPRACTIC SINGAPORE @ 45 TELOK BLANGAH | 45 Telok Blangah Drive Blangah Court Singapore 100045, #01-167,  S100045; | <span title="1.27175707090153,103.809560438327">1.27176, 103.80956</span> |
+  | FLOWER 86 | 505 Jurong West Street 52, #01-86,  S640505; | <span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+  | HABIBI BRIYANI | 162 Ang Mo Kio Avenue 4, #01-09,  S560162; | <span title="1.3741075702016,103.838863921122">1.37411, 103.83886</span> |
+  | HAO JIA BAN MIAN YEW TEE SQUARE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | HOU MEN SHAN REN PTE. LTD. | 501 Jurong West Street 51 Dbs Jurong West Branch Singapore 640501, #01-259,  S640501; | <span title="1.35038413736599,103.719025555996">1.35038, 103.71903</span> |
+  | J LIGHTING (BALESTIER RD) | 371 Balestier Road Singapore 329788, #01-00,  S329788; | <span title="1.3249548635785,103.850383246597">1.32495, 103.85038</span> |
+  | KAMRAI TONG THAI CUISINE | 33A Tampines Ave 1,  S529769; | <span title="1.34668096797526,103.930266639617">1.34668, 103.93027</span> |
+  | KING OF PAO FAN | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | KINZO JAPANESE CUISINE | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | LITE MOBILE | 339 Anchorvale Road Anchorvale Village Singapore 540339, #B1-11,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | MEI WEI FISH SOUP/BAN MIAN/PORRIDGE | 267 Serangoon Avenue 3, 04,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | MISS C NAILS & BEAUTY | 684 Hougang Avenue 8 Hdb-hougang Singapore 530684, #01-953,  S530684; | <span title="1.3739584050047,103.886898456705">1.37396, 103.88690</span> |
+  | WAFFLE AUNTY (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #01-K8,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | WOW WOW WEST FOOD - REDHILL | 85 Redhill Lane, #01-57,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>YAN CHUAN ROASTED PEKING DUCK (TG KATONG)</del><br>YAN CHUAN ROASTED PEKING DUCK (FRENCH ROAD) | <del>262 Tanjong Katong Road Singapore 437049, #01-262,  S437049;</del><br>809 French Road Kitchener Complex, #01-43,  S200809; | <del title="1.30597892408624,103.895759080584">1.30598, 103.89576</del><br><span title="1.30832700516352,103.862005870884">1.30833, 103.86201</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-08
 
 </summary>
