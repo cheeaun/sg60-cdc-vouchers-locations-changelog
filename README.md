@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-10
+
+</summary>
+
+Total locations: 25,854 → 25,867
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1168 FRESH FRUITS TRADING | 84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-45,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | ADIGUNS CURRY CLAYPOT | 1220 East Coast Parkway, #01-019,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | AH FANG FISH SOUP BAN MIAN | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | AL-IMAN RESTAURANT | 136 Marsiling Road Hdb-woodlands Singapore 730136, #01-2184A,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | GOODLUCK PROVISION SHOP | 37 Circuit Road Brighton Connection Student Care Centre Singapore 370037, #01-405,  S370037; | <span title="1.32817782909926,103.88647835429">1.32818, 103.88648</span> |
+  | INDIAN FOOD STALL ( 306 ) | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-01A,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | JX YONG TAU FU JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | KANGPO TCM CLINIC | 333 Kreta Ayer Road Hdb-central Area Singapore 080333, #02-12,  S080333; | <span title="1.28074833681274,103.84246340102">1.28075, 103.84246</span> |
+  | KHALIFA'S EXPRESS | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | KOPI AND TARTS AP 678A | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #01-30,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | MAN LI SEAFOOD 292 | 292 Bukit Batok East Avenue 6,  S650292; | <span title="1.34447136304156,103.755394615486">1.34447, 103.75539</span> |
+  | REBEKAH PEH | 306 Woodlands Street 31 Hdb-woodlands Singapore 730306, #01-31B2,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | U & ME THAI FOOD | 2 Senja Close, 02-05,  S677632; | <span title="1.38719400415283,103.761083976377">1.38719, 103.76108</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>JOYFUL SEAFOOD NORTH</del><br>BOON KEE SEAFOOD | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | <del>GIOVEN KELVIN (GK-YISHAN BLK 101)</del><br>BRANDS OUTLET | Yishun Avenue 5, #01-79,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | JIA CHENG NOODLE HOUSE | <del>19 Ghim Moh Road, 01-229,  S270019;</del><br>233 Lorong 8 Toa Payoh, 01-268,  S310233; | <del title="1.31143852315951,103.788298892377">1.31144, 103.78830</del><br><span title="1.33828365922679,103.858467966719">1.33828, 103.85847</span> |
+  | <del>QIAN WEI</del><br>KIM KITCHEN | <del>208B New Upper Changi Road, #01-42,  S462208;</del><br>51 Old Airport Road, #01-94,  S390051; | <del title="1.32481816551889,103.930544296289">1.32482, 103.93054</del><br><span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>THYE GUAN MALA FRAGRANT</del><br>THYE GUAN MALA FRAGRANT HOTPOT (008) | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-09
 
 </summary>
