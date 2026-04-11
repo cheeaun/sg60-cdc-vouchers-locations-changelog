@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-11
+
+</summary>
+
+Total locations: 25,867 → 25,884
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL FATTHAH FOOD EXPO (AMK 332) | 332 Ang Mo Kio Avenue 1 Teck Ghee View Singapore 560332, #01-1881,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | CHARCOAL ROASTED DELIGHT - 339 AMK | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | DURIAN LAH! JE132 | 132 Jurong Gateway Road Jurong Gateway Singapore 600132, #01-279B,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | FENG SHENG SEAFOOD 233 PTE LTD (YISHUN) | 233 Yishun Street 21,  S760233; | <span title="1.43494883445469,103.83815958338">1.43495, 103.83816</span> |
+  | FRESH FISH 304-145 | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-145B,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | FU XIANG SEAFOOD | 907 Jurong West Street 91,  S640907; | <span title="1.34114017250984,103.685930810656">1.34114, 103.68593</span> |
+  | KEBAB BHAI (TOA PAYOH) | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | LIANG YUAN FOOD | 2 Lorong Lew Lian,  S531002; | <span title="1.35060795612848,103.875680063863">1.35061, 103.87568</span> |
+  | MAJHA MINIMART | 149 Silat Avenue Hdb-bukit Merah Singapore 160149, #01-46,  S160149; | <span title="1.27736066510423,103.831600213349">1.27736, 103.83160</span> |
+  | MIND-BODY CHIROPRACTIC PTE LTD | 43 Holland Drive Dbs Buona Vista Branch Singapore 270043, #01-53,  S270043; | <span title="1.30743411126247,103.792897574712">1.30743, 103.79290</span> |
+  | PAPA NOODLES | 338 Ang Mo Kio Avenue 1,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | QUEEN MUSE | 30 Seng Poh Road, #01-228,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | S GRILL KITCHEN (T61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | SHIOK HOKKIEN NOODLE JE130 | 130 Jurong Gateway Road,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | THE PANCAKE HOUSE | 631 Ang Mo Kio Avenue 4,  S560631; | <span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+  | TIAN TIAN NASI LEMAK JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | WANG NASI LEMAK & ECONOMIC BEE HOON | 285 Yishun Avenue 6,  S760285; | <span title="1.43993982621554,103.839382313028">1.43994, 103.83938</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MOBILE EMPIRE | <del>Bukit Batok Street 31, #01-368,  S650372;</del><br>Bukit Batok Street 31, #01-366,  S650372; | <span title="1.35866916706906,103.751213742148">1.35867, 103.75121</span> |
+  | <del>MODU HAIR ZONE  BEDOK BRANCH</del><br>MODU HAIR PRO (SERANGOON) | <del>208 New Upper Changi Road Bedok Town Centre Singapore 460208, #02-667,  S460208;</del><br>Blk 254 Serangoon Central Drive, #01-201,  S550254; | <del title="1.32569973464369,103.931074627428">1.32570, 103.93107</del><br><span title="1.35406229913885,103.871216925982">1.35406, 103.87122</span> |
+  | PASSION VETERINARY CLINIC | <del>Woodlands Street 13, #01-86,  S730111;</del><br>136 Marsiling Road, #01-2180,  S730136; | <del title="1.43794381732231,103.782059433742">1.43794, 103.78206</del><br><span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | RAYEESA'S INDIAN MUSLIM FOOD | <del>505 Canberra Link,  S750505;</del><br>285 Yishun Avenue 6, #01-10,  S760285; | <del title="1.45026201889682,103.822534715231">1.45026, 103.82253</del><br><span title="1.43993982621554,103.839382313028">1.43994, 103.83938</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-10
 
 </summary>
