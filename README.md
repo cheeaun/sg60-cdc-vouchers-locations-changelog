@@ -13,6 +13,114 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-14
+
+</summary>
+
+Total locations: 25,884 → 25,912
+
+- <details><summary>Added (28)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 2COOL ROOT & REMEDY 271 | 271 Bukit Batok East Avenue 4 Gombak Place Singapore 650271, #01-142,  S650271; | <span title="1.34817263842498,103.758893085449">1.34817, 103.75889</span> |
+  | BLANCO COURT BEEF NOODLES | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | BURGERPREK #23 | 883 Woodlands Street 82, 23,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | CHONG PANG HUAT(OAR 51) | 51 Old Airport Road, #01-90,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | CINTA HAINANESE CHICKEN RICE 302 | 302 Tengah Park Avenue, S1,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | CYCLE ZONE @ 520419 | 419 Tampines Street 41 Sun Plaza Gardens Singapore 520419, #01-84C,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+  | EVAN'S OPTICS | 103 Yishun Ring Road Singapore 760103, #01-113A,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | FISH & KOPI LAVENDER | 809 French Road Kitchener Complex Singapore 200809, #01-42,  S200809; | <span title="1.30832700516352,103.862005870884">1.30833, 103.86201</span> |
+  | FONG HUP KOKA NOODLE (510623) | 623 Elias Road, 2,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | FONG HUP KOKA NOODLE (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | HAKKA YONG TAU FOO 302 | 302 Tengah Park Avenue, S2,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | HARMONY FAMILY CLINIC | 235 Choa Chu Kang Central Hdb Public Shelters Singapore 680235, #B1-25,  S680235; | <span title="1.37975664367524,103.748749195334">1.37976, 103.74875</span> |
+  | JIA JIA VEGETARIAN (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | JIA ZHI WEI BAN MIAN FISH SOUP - DAWSON | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | KOPI TOAST 302 | 302 Tengah Park Avenue,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | MALA HOTPOT 302 | 302 Tengah Park Avenue, S7,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | MONSTER WESTERN 302 | 302 Tengah Park Avenue, MR1,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | MR FIX (803 KGA) | 803 King George's Avenue Hdb-kallang/whampoa Singapore 200803, #01-160,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | OHDANG. | 10 Marsiling Industrial Estate,  S739276; | <span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+  | QI JI (WOODLEIGH) | 202C Woodleigh Link, #01-37,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | RADEN LINA NASI PADANG 302 | 302 Tengah Park Avenue, S6,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | SANCHON JAP KOREAN CUISINE 302 | 302 Tengah Park Avenue, S5,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | SONGYANG BAK KUT TEH 302 | 302 Tengah Park Avenue, S8,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | THE GULA LAB | 147 Potong Pasir Avenue 1, #01-87,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+  | WEN WEN CHEE CHEONG FUN (BLK111) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | WILD PASTA & GRILL | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+  | YUEN KEE DUMPLINGS 302 | 302 Tengah Park Avenue, MR2,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | ZHENG HENG ROASTED DELIGHT 302 | 302 Tengah Park Avenue, S11,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+
+  </details>
+
+- <details><summary>Changed (56)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FRIED BEE HOON & CARROT CAKE</del><br>844 WU XIANG PRAWN CRACKER/ FRIED BEE HOON | 844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | 85 FOODIE MINIMART | <del>842 Tampines Street 82 Tampines Ville Singapore 520842, #01-K1,  S520842;</del><br>842 Tampines Street 82, #01-K1,  S520842; | <span title="1.35173850943011,103.935952386296">1.35174, 103.93595</span> |
+  | AL MADINA | <del>844 Tampines Street 82,  S520844;</del><br>844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | AL MATEEN FOOD HUB | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-04,  S520835;</del><br>835 Tampines Street 83, #01-04,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>AMIGO</del><br>AMIGO'S | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>BISMILLAH STORE</del><br>BISMILLAH MINIMART | <del>878 Tampines Avenue 8 Abc Children's Place Singapore 520878, #01-318,  S520878;</del><br>878 Tampines Avenue 8, #01-318,  S520878; | <span title="1.35221187065647,103.931382253216">1.35221, 103.93138</span> |
+  | <del>CASTLE MENG</del><br>CASTLE MENG PHOTOCOPY CENTRE | 835 Tampines Street 83, #01-08,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>CHANG CHENG DRINK STALL (TAMPINES 866A)</del><br>CHANG CHENG BEVERAGES | 866A Tampines Street 83, #02-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>CHANG CHENG MIXED RICE (TAMPINES 866A)</del><br>CHANG CHENG MIXED VEG RICE | 866A Tampines Street 83, #02-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>D &LEE MINIMART</del><br>D & LEE MINIMART | 841 Tampines Street 83, #01-K1,  S520841; | <span title="1.35160924133047,103.934497019359">1.35161, 103.93450</span> |
+  | <del>D NAIL (523872)</del><br>D' NAIL | <del>872C Tampines Street 86 Singapore 523872, #01-05,  S523872;</del><br>872C Tampines Street 86, #01-05A,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | <del>D'SNACK STATION</del><br>D' SNACK STATION | <del>Tampines Street 83, #01-16,  S520835;</del><br>835 Tampines Street 83, #01-16A,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>DAN'S BARBER SHOP</del><br>DAN'S BARBER | 835 Tampines Street 83, #01-14,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>DIAO LAO ER TRADITIONAL CLAYPOT DELIGHT (742A TAMPINES)</del><br>DIAO LAO ER TRADITIONAL CLAYPOT DELIGHT | 742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>DING JI (T 742A)</del><br>DING JI | 742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | DR+ MEDICAL & PAINCARE TAMPINES | <del>844 Tampines Street 82 Dbs Tampines Street 82 Singapore 520844, #01-135,  S520844;</del><br>844 Tampines Street 82, #01-135,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | FENG FENG HAINANESE BONELESS CHICKEN RICE | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | FUNG YI DELIGHTS | <del>844 Tampines Street 82,  S520844;</del><br>844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | <del>FUSION CUISINE PTE. LTD</del><br>FUSION WESTERN CUISINE | 844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | GREENFOREST FAMILY CLINIC | <del>878C Tampines Avenue 8 Tampines Greenforest Singapore 523878, #01-71,  S523878;</del><br>878C Tampines Avenue 8, #01-71,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>HAIR RE-MIX SALON (TAMPINES)</del><br>HAIR REMIX | <del>742A Tampines Street 72 Multi Storey Car Park Singapore 521742, #01-02,  S521742;</del><br>742A Tampines Street 72, #01-02,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>HAIR SHINE</del><br>HAIR SHINE STUDIO | 835 Tampines Street 83, #01-06,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>KOUFU DRINK (TAMP 872C)</del><br>HAPPY HAWKER BEVERAGES / DIM SUM | <del>872C Tampines Street 86,  S523872;</del><br>872C Tampines Street 86, #01-09,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | HAPPY HOUSE MALA HOTPOT | <del>866A Tampines Street 83,  S521866;</del><br>866A Tampines Street 83, #02-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>HEARTLAND HEALTH ( TP730)</del><br>HEARTLAND HEALTH | <del>730 Tampines Street 71 Hdb Public Shelters Singapore 520730, #01-51,  S520730;</del><br>730 Tampines Street 71, #01-51,  S520730; | <span title="1.35670606456443,103.933499178921">1.35671, 103.93350</span> |
+  | HOME HUB STORE PTE LTD | <del>878C Tampines Avenue 8 Tampines Greenforest Singapore 523878, #01-69,  S523878;</del><br>878C Tampines Avenue 8, #01-69,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>HONG KONG STREET SEAFOOD (872C)</del><br>HONG KONG STREET SEAFOOD | <del>872C Tampines Street 86,  S523872;</del><br>872C Tampines Street 86, #01-09,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | <del>HUA ZAI HK STYLE ROASTED DELIGHT (742A TAMPINES)</del><br>HUA ZAI HK STYLE ROASTED DELIGHT RICE / NOODLE | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>HUANGKEE FISHBALL NOODLE (T844)</del><br>HUANG KEE FISHBALL NOODLE | <del>844 Tampines Street 82, 131,  S520844;</del><br>844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | ILLUMINA SKINCARE | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-06,  S520835;</del><br>835 Tampines Street 83, #01-06,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>JIN KIMCHI EXPRESS (TAMPINES)</del><br>JIN KIMCHI EXPRESS | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>JOANNE HAIR SALOON</del><br>JOANNE HAIR SALON | <del>Tampines Street 82, #01-133,  S520844;</del><br>Blk 844 Tampines Street 82, #01-133,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | KEEP IT HANDSOME BARBERSHOP CENTRAL PARK | <del>856 Tampines Street 82 Pcf Sparkletots Preschool @ Tampines Central Blk 856 (kn) Singapore 520856, #01-K1,  S520856;</del><br>856 Tampines Street 82, #01-K1,  S520856; | <span title="1.35344324893831,103.936557632514">1.35344, 103.93656</span> |
+  | KIM HOCK SEAFOOD | <del>844 Tampines Street 82,  S520844;</del><br>844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | KIMLY BEVERAGES | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | KIMLY DIM SUM | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>KIMLY MIXED VEG RICE ( TP878C)</del><br>KIMLY MIXED VEG RICE | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>KIMLY SEAFOOD (TP742)</del><br>KIMLY SEAFOOD | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | KOPITIAM CORNER BEVERAGES | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>LONG JIN SHI ROASTED DELIGHTS</del><br>LONG JIN SHI ROASTED DELIGHT | <del>872C Tampines Street 86,  S523872;</del><br>872C Tampines Street 86, #01-09,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | <del>MERCE HAIR STUDIO(835 TAMPINES)</del><br>MERCE HAIR STUDIO | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-12,  S520835;</del><br>835 Tampines Street 83, #01-12,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | PONDOK TRADISI | <del>872C Tampines Street 86,  S523872;</del><br>872C Tampines Street 86, #01-09,  S523872; | <span title="1.3552264706361,103.931626253992">1.35523, 103.93163</span> |
+  | <del>PUFFS & PEAKS (TCCC)</del><br>PUFFS & PEAKS BAKERY | 866A Tampines Street 83, #03-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | RED APPLE VEGETARIAN | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-02,  S520835;</del><br>835 Tampines Street 83, #01-02,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | RUMAH MAKAN WAK MIN | <del>866A Tampines Street 83 Dbs Ntuc Tampines Central Community Club Singapore 521866, #02-02,  S521866;</del><br>866A Tampines Street 83, #02-02,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>S GRILL HOUSE (T742A)</del><br>S GRILL HOUSE | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>SAN HUP (742A TAMPINES)</del><br>SAN HUP ECONOMIC BEE HOON/ NASI LEMAK | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | SAZ BARBER | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-06,  S520835;</del><br>835 Tampines Street 83, #01-06,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | SIMPLY NAILS SALON | <del>835 Tampines Street 83 Tampines Palmwalk Singapore 520835, #01-08,  S520835;</del><br>835 Tampines Street 83, #01-08,  S520835; | <span title="1.35113833740958,103.933863132539">1.35114, 103.93386</span> |
+  | <del>SLICED FISH SOUP BAN MIAN (T878C)</del><br>SLICED FISH SOUP BAN MIAN | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>SAN YOU JAPANESE & KOREAN CUISINE</del><br>SUN YOU JAPANESE & KOREAN CUISINE | 866A Tampines Street 83, #02-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>THE DENTAL PRACTICE ( TAMPINES)</del><br>THE DENTAL PRACTICE (TAMPINES) | 878C Tampines Avenue 8 Tampines Greenforest Singapore 523878, #01-68,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | TIANLE BAN MIAN FISH SOUP | <del>742A Tampines Street 72,  S521742;</del><br>742A Tampines Street 72, #01-01,  S521742; | <span title="1.35996888173835,103.934143327405">1.35997, 103.93414</span> |
+  | <del>XIAO DI NOODLE HOUSE AND SHENG KEE (521866)</del><br>XIAO DI NOODLE HOUSE AND SHENG KEE | <del>866A Tampines Street 83,  S521866;</del><br>866A Tampines Street 83, #02-03,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | <del>XYCD SICHUAN CUISINE (523878)</del><br>XYCD SICHUAN CUISINE | <del>878C Tampines Avenue 8,  S523878;</del><br>878C Tampines Avenue 8, #01-66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | <del>YAO ZHEN ECOMICAL BEE HOON</del><br>YAO ZHEN ECONOMICAL BEE HOON | 844 Tampines Street 82, #01-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-11
 
 </summary>
