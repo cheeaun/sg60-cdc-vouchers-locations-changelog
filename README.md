@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-15
+
+</summary>
+
+Total locations: 25,912 → 25,931
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #6 HAIR & BEAUTY SALON | 146 Jalan Bukit Merah Dbs Jalan Bukit Merah Singapore 160146, #01-1078,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | 121 MOOKATA | 121 Geylang East Central,  S380121; | <span title="1.3179301794665,103.885314531751">1.31793, 103.88531</span> |
+  | BOWENS MONTREAL LINK B&B | 590 Montreal Link,  S750590; | <span title="1.45063212743043,103.826554055194">1.45063, 103.82655</span> |
+  | CHAO FISH SOUP | 23 Kallang Ave,  S339414; | <span title="1.31149300151441,103.865970973896">1.31149, 103.86597</span> |
+  | FU XIANG SEAFOOD | 18B Circuit Road,  S372018; | <span title="1.32918105126141,103.888248441219">1.32918, 103.88825</span> |
+  | KIMLY DIM SUM (510587) | 587 Pasir Ris Drive 3, 10,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | KIMLY DRINKS (510587) | 587 Pasir Ris Drive 3, 02,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | KIMLY MVR (510587) | 587 Pasir Ris Drive 3, 01,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | LAO GUAN JI CLAYPOT | 79 Circuit Road, #01-49,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | MANNA FISH HV | 91 Hillview Link, K4,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | MR DUCK | 146 Jalan Bukit Merah,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | OG KEBAB@SP | 500 Dover Road, St04,  S139651; | <span title="1.30787792644497,103.7795746708">1.30788, 103.77957</span> |
+  | ORANGE DEPARTMENT STORE (JURONG WEST) | 504 Jurong West Street 51 Hong Kah Point Singapore 640504, #01-235A,  S640504; | <span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | PEACHYTIPS NAIL STUDIO | 541 Jurong West Avenue 1 Hdb-jurong West Singapore 640541, #01-1046,  S640541; | <span title="1.35104299843383,103.715983002516">1.35104, 103.71598</span> |
+  | SG STREETSMART | 621 Bedok Reservoir Road Eunos Heights Singapore 470621, #01-K1,  S470621; | <span title="1.334527450026,103.916865046091">1.33453, 103.91687</span> |
+  | TAI HWA TRADITIONAL COFFEE | 335 Smith Street, #02-152,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | TENDERBEST (510587) | 587 Pasir Ris Drive 3, 4,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | UHAIR SALON | 806 Hougang Central Hdb-hougang Singapore 530806, #01-150,  S530806; | <span title="1.37107840264494,103.894100080287">1.37108, 103.89410</span> |
+  | WANTON NOODLE 308 | 308 Clementi Avenue 4,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TECK HUAT DRINK STALL (51 OLD AIRPORT RD)</del><br>TONG XIN COFFEE & ROTI | 51 Old Airport Road, #01-03,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-14
 
 </summary>
