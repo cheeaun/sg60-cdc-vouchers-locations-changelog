@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-16
+
+</summary>
+
+Total locations: 25,931 → 25,952
+
+- <details><summary>Added (21)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHEN ZHEN BRAISED DUCK (510623) | 623 Elias Road, 05,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | CRAZY SHOES (WHAMPOA) | 74 Whampoa Drive Whampoa Court Singapore 320074, #01-328,  S320074; | <span title="1.32471579654689,103.857752875203">1.32472, 103.85775</span> |
+  | ENG KEE CHICKEN WINGS (AMK) | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | FOOK WENG HARDWARE | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #02-1044,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | FRESH FRUITS STALL | 341 Ang Mo Kio Avenue 1, #01-72,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | JABO JAPANESE KOREAN CUISINE | 267 Serangoon Avenue 3, ST 3,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | JIA XIANG WEI MIXED RICE (510623) | 623 Elias Road, 011,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | JINLIANG PRAWN NOODLES- REDHILL | 85 Redhill Lane, #01-03,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | LAO BAN SOYA BEANCURD (TP) | 8 Tampines Central 1 Eastlink Mall Singapore 529543, #01-03,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | M & H STUDIO | 3 Lorong Lew Lian Lew Lian Gardens Singapore 531003, #01-58B,  S531003; | <span title="1.3504753599142,103.876132957211">1.35048, 103.87613</span> |
+  | MR DUCK (WHAMPOA) | 82 Whampoa Drive,  S320082; | <span title="1.32387379240679,103.856482753763">1.32387, 103.85648</span> |
+  | MR GRUMPY NASI AYAM GORENG(417 YISHUN) | 417 Yishun Avenue 11, T,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | MUHAMMAD AL JUFRI & HAJI PALARI FOOD STALL@121 PPJ | 121 Pasir Panjang Road, #01-22,  S118543; | <span title="1.27569879325348,103.791619964293">1.27570, 103.79162</span> |
+  | NEW YOU HAIR SALON | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-527,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | NGOC CHI VIETNAM FOOD | 312A Sumang Link,  S821312; | <span title="1.41081926900094,103.900371677782">1.41082, 103.90037</span> |
+  | NGUAN EXPRESS 88 156 | 156 Bukit Batok Street 11 Singapore 650156, #01-04,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE - YISHUN | 233 Yishun Street 21,  S760233; | <span title="1.43494883445469,103.83815958338">1.43495, 103.83816</span> |
+  | OMMA CHICKEN SOUP (AV) | 120 Bukit Merah Lane 1, #01-23,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | PRINCESS MART 159 | 159 Bukit Batok Street 11 Singapore 650159, #01-182,  S650159; | <span title="1.34857537953675,103.742708636413">1.34858, 103.74271</span> |
+  | RITUALS OF KORA | 5 Everton Park Everton Park Singapore 080005, #01-36,  S080005; | <span title="1.27668433818668,103.839459108754">1.27668, 103.83946</span> |
+  | SHELL & MORE SEAFOOD (510441) | 441 Pasir Ris Drive 6, #01-080,  S510441; | <span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MEIXI KITCHEN- 848 YISHUN</del><br>DOU YONG TAU FOO | <del>848 Yishun Street 81,  S760848;</del><br>Blk 623 Elias Road, Elias Mall, #01-02,  S510623; | <del title="1.41607676991811,103.835575802126">1.41608, 103.83558</del><br><span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-15
 
 </summary>
