@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-17
+
+</summary>
+
+Total locations: 25,952 → 25,976
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 769 SEAFOOD ZICHAR | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | AH MA MEE SUA. HANDMADE NOODLES | 724 Ang Mo Kio Avenue 6, #01-24,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | ANN TENG HENG | 761 Yishun Street 72 Hdb-yishun Singapore 760761, #01-344,  S760761; | <span title="1.42539842469037,103.833259035976">1.42540, 103.83326</span> |
+  | BAKER RST | 7 Empress Road, #01-73,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | BREAD FRESH SIGNATURES | 1 Upper Aljunied Lane,  S360001; | <span title="1.33429242412799,103.878746207181">1.33429, 103.87875</span> |
+  | ECONOMIC MIXED RICE | 21 Canberra Link, 20,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | EGF ISLAMIC FOOD | 301 Punggol Central,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+  | EGF ISLAMIC FOOD | 267 Compassvale Link, ST8,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | HENG HENG BBQ CHICKEN WINGS & SATAY (ECP) | 1220 East Coast Parkway, #01-24,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | JI DE LAI YISHUN | 105 Yishun Ring Road, #01-152,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | KEDAI MAMAK CURRY & TANDOORI BISTRO | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-902,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | LAO WANG HAINANESE BONELESS CHICKEN RICE (BEDOK 418) | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | MARSILING CLINIC & SURGERY (131) | 131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-0186,  S730131; | <span title="1.43847983955609,103.778613439344">1.43848, 103.77861</span> |
+  | MEAT PIE RICE(YISHUN) | 761 Yishun Street 72,  S760761; | <span title="1.42539842469037,103.833259035976">1.42540, 103.83326</span> |
+  | MING WANTON NOODLE | 32 Defu Lane 10, ST 9,  S539213; | <span title="1.35105565771311,103.89176877097">1.35106, 103.89177</span> |
+  | MP 84 MIXED VEGETABLES STALL (01-70) | 84 Marine Parade Central, #01-70,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | MP 84 MIXED VEGETABLES STALL (01-85) | 84 Marine Parade Central, #01-85,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | RICE PARADISE JAPANESE RICE BOWLS@73A ARC | 73A Ayer Rajah Crescent, ST25,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+  | SG MAMA PASTA | 30 Biopolis Street, St6,  S138671; | <span title="1.30323831850192,103.79256511685">1.30324, 103.79257</span> |
+  | SHAN DONG XIAO CHI 1 PRIVATE LTD | 40 Beo Crescent,  S160040; | <span title="1.28905634657056,103.827502108439">1.28906, 103.82750</span> |
+  | SIN CHIE TOKE HUAN HAINANESE CURRY RICE (BEO CRESCENT) | 40 Beo Crescent,  S160040; | <span title="1.28905634657056,103.827502108439">1.28906, 103.82750</span> |
+  | TAI PAI TONG WOK & CLAYPOT RICE | 527 Bedok North Street 3 Hdb-bedok Singapore 460527, #01-526,  S460527; | <span title="1.33391149180203,103.928158574193">1.33391, 103.92816</span> |
+  | VALUE DOLLAR 846 YISHUN | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3645,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | YUAN CHEN YONG TAU FU (BEDOK 216) | 216 Bedok North Street 1, #01-72,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP BAN MIAN | <del>301 Ubi Avenue 1,  S400301;</del><br>418 Bedok North Ave 2, #01-97,  S460418; | <del title="1.33068802490987,103.901953040703">1.33069, 103.90195</del><br><span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-16
 
 </summary>
