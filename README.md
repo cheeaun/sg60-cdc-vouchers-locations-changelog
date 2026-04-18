@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-18
+
+</summary>
+
+Total locations: 25,976 → 25,989
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 16 SPINACH SOUP (28 HOY FATT) | 28 Hoy Fatt Road,  S151028; | <span title="1.28675654367639,103.810121713045">1.28676, 103.81012</span> |
+  | 267 SERANGOON NANYANG DA PAI DANG | 267 Serangoon Avenue 3, ST 1,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | CROSSINGS CAFE | 55 Waterloo Street Catholic Centre Singapore 187954, #01-01,  S187954; | <span title="1.29826655510255,103.851514423722">1.29827, 103.85151</span> |
+  | JIA XIANG HAINANESE BONELESS CHICKEN RICE | 115 Bukit Merah View, #01-44,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | PASTA CRAFT & GRILL | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | QIAN ZI BEAUTY JE253 | 253 Jurong East Street 24 Yuhua Village Singapore 600253, #01-221A,  S600253; | <span title="1.34318835786153,103.73678575382">1.34319, 103.73679</span> |
+  | SALON DE LEX | 2 Beach Road Beach Road Gardens Singapore 190002, #01-4791,  S190002; | <span title="1.30403300585898,103.864928408355">1.30403, 103.86493</span> |
+  | SOON HUAT VEGETARIAN FOOD | 85 Redhill Lane, #01-45,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | SOY EU TUA (DRINK STALL) | 15 Upper East Coast Road,  S455207; | <span title="1.31294317376262,103.925775599679">1.31294, 103.92578</span> |
+  | THYE GUAN YONG TAU FOO - 57 | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | TWO GUYS | 6 Tanjong Pagar Plaza, #02-01,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | XIN HUI BAK CHOR MEE | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | YELLOWBOX WESTERN | 3 Yung Sheng Road, #02-67,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BIRYANI CONCEPTS SIGLAP</del><br>MR BIRYANI @ SIGLAP | 27A Upper East Coast Road,  S455211; | <span title="1.31312677921154,103.926329604095">1.31313, 103.92633</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-17
 
 </summary>
