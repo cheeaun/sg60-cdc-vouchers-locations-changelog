@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-21
+
+</summary>
+
+Total locations: 25,989 → 26,006
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BRAISED DUCK & KWAY CHAP | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | BREAD KINGDOM (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3643,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | CHENG JI HAINANESE CHICKEN RICE 420A | 420A Clementi Avenue 1,  S121420; | <span title="1.30979102116855,103.768657661297">1.30979, 103.76866</span> |
+  | CREST UNISEX HAIRSTYLING & BEAUTY SALON | 74 Whampoa Drive Whampoa Court Singapore 320074, #01-328,  S320074; | <span title="1.32471579654689,103.857752875203">1.32472, 103.85775</span> |
+  | ENAK ENAK RESTAURANT | 103 Yishun Ring Road Singapore 760103, #01-85,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | FEI E BANG BAN MIAN (630 YISHUN) | 630 Yishun Street 61,  S760630; | <span title="1.41801913333461,103.837784321062">1.41802, 103.83778</span> |
+  | GOLDEN LUCK CHICKEN RICE NOODLE ROAST | 69 Geylang Bahru, #01-17,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | GOOD DURIAN | 453 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560453, #01-1805,  S560453; | <span title="1.36858206013781,103.855983050439">1.36858, 103.85598</span> |
+  | MIXED RICE 323 | 323 Bukit Batok Street 33,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | NATURE CARFT | 527 Ang Mo Kio Avenue 10, #01-03,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | NEIGHBOURLY CAFE | 2 Pandan Valley Pandan Valley, Acacia Court Singapore 597626, #01-213,  S597626; | <span title="1.32044171187429,103.778972458647">1.32044, 103.77897</span> |
+  | ROLLIN BOWL @91TBL | 91 Telok Blangah Street 31, St3,  S100091; | <span title="1.27627970533812,103.806955809842">1.27628, 103.80696</span> |
+  | RONG XING PTE LTD | 19 Lorong 7 Toa Payoh Dbs Toa Payoh Lorong 6 Singapore 310019, #01-274B,  S310019; | <span title="1.33528228598942,103.856504185339">1.33528, 103.85650</span> |
+  | TEENOY THAI VEGETARIAN FOOD | 932 Hougang Avenue 9,  S530932; | <span title="1.37517548118185,103.881990913099">1.37518, 103.88199</span> |
+  | TIONG BAHRU YONG TAO HU (848 YISHUN) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | TONY'S TACKLE AND SERVICES | 354 Clementi Avenue 2 Clementi Avenue 2 Shopping Centre Singapore 120354, #01-177D,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | XING LE XING HAINANESE CHICKEN RICE - BS 504 | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AUDREY'S SALON 779086 | <del>56 Sembawang Road Hong Heng Mansions Singapore 779086, #01-04,  S779086;</del><br>7 Ang Mo Kio Street 66, #01-10,  S567708; | <del title="1.40296875554857,103.818312896668">1.40297, 103.81831</del><br><span title="1.39127591953143,103.850468725185">1.39128, 103.85047</span> |
+  | <del>644 HOUGANG TEOCHEW FISHBALL NOODLE</del><br>JIAK MEE YISHUN 414 | <del>414 Yishun Ring Road, E,  S760414;</del><br>414 Yishun Ring Road, #01-1871,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | <del>JIN MING MIAN JIA TEOCHEW NOODLE</del><br>JIN MING NOODLE HOUSE (CHAI CHEE) | 29B Chai Chee Avenue, #01-60,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | <del>STEVEN FRIED RICE 491 JW</del><br>STEVEN FRIED RICE (BEDOK 418) | <del>491 Jurong West Avenue 1,  S640491;</del><br>418 Bedok North Avenue 2, #01-97,  S460418; | <del title="1.34958656573247,103.72631531647">1.34959, 103.72632</del><br><span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | <del>ROAST DELIGHTS YS 414</del><br>WEN CHANG KEE HAINANESE CHICKEN RICE YISHUN 414 | <del>414 Yishun Ring Road, ST5,  S760414;</del><br>414 Yishun Ring Road, #01-1871,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-18
 
 </summary>
