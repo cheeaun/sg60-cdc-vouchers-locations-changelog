@@ -13,6 +13,108 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-22
+
+</summary>
+
+Total locations: 26,006 → 26,014
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASAM TREE NASI PADANG (510440) | 440 Pasir Ris Drive 4, 04,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | HOWLA (TOA PAYOH) | 127 Toa Payoh Lorong 1, #01-70,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | L&M SEAFOOD | 105 Canberra Street, ST4,  S750105; | <span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | PAK HASSAN FRESH BUTCHERY | 605 Yishun Street 61 Nee Soon Central Meadows Singapore 760605, #01-317,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | RAYLITE OPTICAL & EYE CARE PTE LTD | 201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1133,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | TOA PAYOH CURRY PUFF | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | TUAN TUAN YUAN YUAN DESSERTS | 335 Smith Street, #02-36,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | WEI HONG FISHBALL NOODLE (333C YISHUN) | 333C Yishun Street 31,  S763333; | <span title="1.43188998756065,103.845790190244">1.43189, 103.84579</span> |
+
+  </details>
+
+- <details><summary>Changed (70)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HE SHENG HONGKONG FLAVOR EXPERT BEEF (BENDEMEER)</del><br>168 MAO THAI | 29 Bendemeer Road, #01-86,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | AL HIKMAH CHICKEN RICE | <del>17 Upper Boon Keng Road, #01-02,  S380017;</del><br>17 Upper Boon Keng Road, #01-22,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | AMAN RESTAURANT PTE LTD | <del>505 Ang Mo Kio Avenue 8 Cheng San Crest Singapore 560505, #01-2678,  S560505;</del><br>9 Woodlands Avenue 9, #01-E6,  S738964; | <del title="1.3748597302123,103.850224901404">1.37486, 103.85022</del><br><span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | AUNTIE SAY TRADITIONAL (HAND-MADE) PAU & TIM SUM - TPY | <del>21 Lorong 7 Toa Payoh,  S310021;</del><br>267 Serangoon Ave, #01-01,  S550267; | <del title="1.33544818177957,103.857495922448">1.33545, 103.85750</del><br><span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | B & T BEAUTY | <del>403 Sin Ming Avenue Sin Ming Garden Singapore 570403, #02-307,  S570403;</del><br>403 Sin Ming Avenue Sin Ming Garden Singapore 570403, #01-307,  S570403; | <span title="1.3628703224303,103.833604034312">1.36287, 103.83360</span> |
+  | BISHAN BAO SHENG CEREMONIAL PRODUCTS | <del>151A Bishan Street 11, 26,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | CHENG KEK HUAN | <del>151A Bishan Street 11, ST30,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | <del>CHINATOWN ZONG ZONG FINE SPICE</del><br>CHINA TOWN ZHONG ZHONG FINE SPICE | 30 Seng Poh Road, #02-22,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | CURL & ME HAIR STUDIO | <del>Holland Drive, #01-87,  S270042;</del><br>42 Holland Drive, #01-85,  S270041; | <del title="1.30790383303654,103.792961440964">1.30790, 103.79296</del><br><span title="1.30762004852147,103.793463531218">1.30762, 103.79346</span> |
+  | DEKIA HOME FURNISHING | <del>Ang Mo Kio Avenue 10, #01-2345,  S560529;</del><br>529 Ang Mo Kio Avenue 10, #01-2347,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+  | DELI DELIGHT BM164 | <del>164 Bukit Merah Central, 1,  S150164;</del><br>161 Bukit Merah Central, 01-3749 ST2,  S150161; | <del title="1.28340675598635,103.816756914621">1.28341, 103.81676</del><br><span title="1.28391229397444,103.816006111441">1.28391, 103.81601</span> |
+  | DENNY BEAUTY | <del>503 Tampines Central 1, #01-307,  S520503;</del><br>Blk 915 Tampines St 91, #01-41,  S520915; | <del title="1.3558033565401,103.945102946956">1.35580, 103.94510</del><br><span title="1.3486056231626,103.939564083361">1.34861, 103.93956</span> |
+  | DIAN XIAN MIAN | <del>628 Ang Mo Kio Avenue 4, #01-124,  S560628;</del><br>628 Ang Mo Kio Avenue 4, #01-105,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | DINOBITES NOODLE DOODLE | <del>1 Tanjong Pagar Plaza,  S082001;</del><br>41A Cambridge Rd, #01-44,  S211041; | <del title="1.2755961982077,103.842393171342">1.27560, 103.84239</del><br><span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+  | E.B. BEAUTY & DESIGN PTE LTD | <del>Bishan Street 11, #01-414,  S570505;</del><br>505C Bishan Street 11, #01-414,  S573505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34864898715585,103.848761838957">1.34865, 103.84876</span> |
+  | EASAN MINI MART | <del>24 Sin Ming Road Sin Ming Ville Singapore 570024, #01-29,  S570024;</del><br>23 Sin Ming Road, #01-29,  S570023; | <del title="1.35518696986305,103.836337992513">1.35519, 103.83634</del><br><span title="1.3543527093097,103.835823721667">1.35435, 103.83582</span> |
+  | FACE BAN MIAN 339 | <del>339 Ang Mo Kio Avenue 1,  S560339;</del><br>724 Ang Mo Kio Ave 6, #01-39,  S560724; | <del title="1.36506492207366,103.849115819192">1.36506, 103.84912</del><br><span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | <del>134 FASHION</del><br>FASHION BOUTIQUE | 30 Seng Poh Road, #01-34,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | FISH STALL | <del>409 Ang Mo Kio Ave 10, #01-106,  S560409;</del><br>409 Ang Mo Kio Ave 10, #01-105,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | FRESH VEGETABLES | <del>159 Mei Chin Road, #01-59,  S140159;</del><br>159 Mei Chin Road, #01-60,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | <del>AMY CHNG</del><br>FRUIT | 6 Tanjong Pagar Plaza, #01-39,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | GAN TASTE VEGETARIAN | <del>18 Lorong 7 Toa Payoh, 03,  S310018;</del><br>20 Lorong 7 Toa Payoh, 01-758 ST4,  S310020; | <del title="1.33575723665506,103.856789628423">1.33576, 103.85679</del><br><span title="1.3349672085704,103.857205938309">1.33497, 103.85721</span> |
+  | GRIN AFFAIR | <del>Bishan Street 11, #01-408,  S574505;</del><br>505D Bishan Street 11, #01-408,  S574505; | <span title="1.34906863713679,103.848979846234">1.34907, 103.84898</span> |
+  | HAINANESE CHICKEN RICE QQ(QINGQUAN) | <del>505 Ang Mo Kio Avenue 8,  S560505;</del><br>506 Bukit Batok Street 52, #01-91,  S650506; | <del title="1.3748597302123,103.850224901404">1.37486, 103.85022</del><br><span title="1.3522483162653,103.754663779161">1.35225, 103.75466</span> |
+  | HAIRWORKZ L | <del>Toa Payoh Central, #01-322,  S310185;</del><br>185 Toa Payoh Central, #01-322,  S310185; | <span title="1.33272795858038,103.849994231509">1.33273, 103.84999</span> |
+  | HANDMADE YONG TAU FU | <del>Toa Payoh Lor 8, #01-70,  S310209;</del><br>210 Toa Payoh Lor 8, #01-70,  S310210; | <del title="1.34185348292638,103.84481468336">1.34185, 103.84481</del><br><span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | HARMONY HEALTH CLINIC & SURGERY | <del>24 Sin Ming Road Sin Ming Ville Singapore 570024, #01-27A,  S570024;</del><br>23 Sin Ming Road, #01-27,  S570023; | <del title="1.35518696986305,103.836337992513">1.35519, 103.83634</del><br><span title="1.3543527093097,103.835823721667">1.35435, 103.83582</span> |
+  | HAZEL EYECARE | <del>Bishan Street 11, #01-412,  S570505;</del><br>505C Bishan Street 11, #01-412,  S573505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34864898715585,103.848761838957">1.34865, 103.84876</span> |
+  | <del>BAI SHUN KAMPONG CHICKEN RICE</del><br>HE JI CHICKEN RICE & ROASTED DELIGHT | 22 Sin Ming Road, 258,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | HENG HENG MEATS | <del>151A Bishan Street 11, 13,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | HOCK HENG RICE & NOODLES | <del>163 Bukit Merah Central, #02-47,  S150163;</del><br>163 Bukit Merah Central, #01-47,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | <del>HONG LIM CURRY PUFF (AMK 340)</del><br>HONG LIM CURRY PUFF (AMK 628) | <del>340 Ang Mo Kio Avenue 1,  S560340;</del><br>628 Ang Mo Kio Ave 4, #01-61,  S560628; | <del title="1.36445049628782,103.849464020848">1.36445, 103.84946</del><br><span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | HOUSE OF FISH HEAD | <del>75 Toa Payoh Lorong 5, #01-34,  S310075;</del><br>270 Queen Street Albert Centre, #01-85,  S180270; | <del title="1.336020767662,103.852956988062">1.33602, 103.85296</del><br><span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>A1 JAMAL NORTH INDIAN CUISINE</del><br>INDIAN CURRY HOUSE | 500 Clemenceau Avenue North, #01-44,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | JIN MEN CHICKEN RICE | <del>590 Upper Thomson Road, #01-20,  S574419;</del><br>590 Upper Thomson Road, #01-29,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | JJ99 FASHION | <del>29 Bendemeer Road, #01-109,  S330029;</del><br>29 Bendemeer Road, #01-101,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | JOJO'S FLORAL | <del>151A Bishan Street 11, 01,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | <del>KIM SIEW STORE</del><br>KIM SWEE STORE | 57 Cairnhill Road Elizabeth Heights Singapore 229668, #01-01,  S229668; | <span title="1.30752558427329,103.836487890258">1.30753, 103.83649</span> |
+  | LA REINE DE BEAUTE | <del>Bishan Street 11, #01-412,  S570505;</del><br>505C Bishan Street 11, #01-412,  S573505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34864898715585,103.848761838957">1.34865, 103.84876</span> |
+  | LIAN HUAT YONG TAU FOO | <del>409 Ang Mo Kio Avenue 10, #01-90,  S560409;</del><br>409 Ang Mo Kio Avenue 10, #01-86,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | LIANG ZAI PRAWN NOODLE - 40 HOLLAND DRIVE | <del>40 Holland Drive,  S270040;</del><br>727 Clementi West Street 2, #01-232,  S120727; | <del title="1.30717590843196,103.793500328714">1.30718, 103.79350</del><br><span title="1.30462487668384,103.763817745572">1.30462, 103.76382</span> |
+  | LING JIA LIANG PI | <del>Bishan Street 11, #01-440,  S570505;</del><br>505A Bishan Street 11, #01-440,  S571505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34914325886185,103.848644928216">1.34914, 103.84864</span> |
+  | <del>-18 DEGREES FROZEN FOOD</del><br>NEIGHBOURHOOD FROZEN FOOD | 79 Redhill Lane, #01-46,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | NEW EASTERN FOOD INDUSTRIES PTE LTD | <del>151A Bishan Street 11, 23,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | NGH | <del>151A Bishan Street 11, 1,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | <del>SAN YI XUAN MALA HOTPOT</del><br>OLD STREET BRAISED DUCK.KWAP CHAP | 21 Sengkang West Avenue, 03-23,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | PANG & NG DENTAL SURGERY (BISHAN) | <del>Bishan Street 11, #01-177,  S570150;</del><br>150A Bishan Street 11, #01-177,  S571150; | <del title="1.34452706951365,103.855213610381">1.34453, 103.85521</del><br><span title="1.34455983329518,103.855737419596">1.34456, 103.85574</span> |
+  | <del>201D PORRIDGE & MIXED VEG RICE (TAMPINES)</del><br>PORRIDGE & MIXED VEG RICE (AMK 728) | Blk 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | RICK HAIRWORKS | <del>Bishan Street 11, #01-414,  S570505;</del><br>505C Bishan Street 11, #01-414,  S573505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34864898715585,103.848761838957">1.34865, 103.84876</span> |
+  | <del>WANG JI HAINANESE CHICKEN RICE</del><br>RUI MEI HAINESE(BONELESS) CHICKEN RICE | 210 Toa Payoh Lorong 8, #01-08,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | SAITO FISH MEAT | <del>79 Redhill Lane, #01-24,  S150079;</del><br>30 Seng Poh Road, #01-132,  S168898; | <del title="1.2878470282227,103.818349792057">1.28785, 103.81835</del><br><span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | SARAWAK TASTY KOLO MEE | <del>116 Lorong 2 Toa Payoh,  S310116;</del><br>121 Geylang East Central, 01-90,  S380121; | <del title="1.34047287241805,103.846142516335">1.34047, 103.84614</del><br><span title="1.3179301794665,103.885314531751">1.31793, 103.88531</span> |
+  | SHOPKEY TRADING | <del>51 Chin Swee Road Dbs Chin Swee Road/51 Singapore 160051, #01-83,  S160051;</del><br>399 Yung Sheng Road, #01-K4,  S610399; | <del title="1.2874030079153,103.842029778891">1.28740, 103.84203</del><br><span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | SKINNY CHEF | <del>211 Toa Payoh Lorong 8, #01-01,  S310211;</del><br>Blk 418 Bedok North Avenue 2, #01-97,  S460418; | <del title="1.34042178857688,103.853768900549">1.34042, 103.85377</del><br><span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | SWEE HENG BAKERY (SHB34) | <del>Geylang Bahru, #01-3277B,  S330068;</del><br>68 Geylang Bahru, #01-3227B,  S330068; | <span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | T & T DENTAL SURGERY | <del>Bishan Street 11, #01-418,  S570505;</del><br>505B Bishan Street 11, #01-418,  S572505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.348701369893196,103.8485267137478">1.34870, 103.84853</span> |
+  | TAKE A BAKE | <del>Bishan Street 11, #01-420,  S570505;</del><br>505B Bishan Street 11, #01-420,  S572505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.348701369893196,103.8485267137478">1.34870, 103.84853</span> |
+  | <del>DELI SOUP</del><br>TEKKA MIXED PORK SOUP | 665 Buffalo Road, #01-315,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | TEOCHEW FISH PORRIDGE (BS511) | <del>511 Bishan Street 13, 01-511,  S570511;</del><br>511 Bishan Street 13, 01-522,  S570511; | <span title="1.34923139396435,103.849896613395">1.34923, 103.84990</span> |
+  | <del>TECK HUAT 11 TBC COFFEE & ROTI</del><br>TONG XIN COFFEE & ROTI- 11 TELOK BLANGAH | 11 Telok Blangah Crescent, #01-102,  S090011; | <span title="1.27736813225761,103.818651524334">1.27737, 103.81865</span> |
+  | TOUCH SKIN & BODY CARE | <del>Bishan Street 11, #01-442,  S570505;</del><br>505A Bishan Street 11, #01-442,  S571505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34914325886185,103.848644928216">1.34914, 103.84864</span> |
+  | <del>VERA</del><br>VERA LIM TAILORING & CLOTHES ALTERATIONS | 79 Redhill Lane, #01-60,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | WANG KITCHEN | <del>339 Ang Mo Kio Avenue 1,  S560339;</del><br>339 Ang Mo Kio Avenue 1, 01-1565,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | WEI POH FRUITS | <del>151A Bishan Street 11, 29,  S570151;</del><br>151A Bishan Street 11, 01-01,  S571151; | <del title="1.34507321944682,103.855542321231">1.34507, 103.85554</del><br><span title="1.345482338935827,103.8551826356098">1.34548, 103.85518</span> |
+  | WEI ZHEN XIANG | <del>378 Clementi Avenue 5, 1,  S120378;</del><br>378 Clementi Avenue 5, 1-334,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | YONG JI HANDMADE PAU DIAN (AMK 339) | <del>339 Ang Mo Kio Avenue 1, 4,  S560339;</del><br>339 Ang Mo Kio Avenue 1, 01-1565,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | YONG TAU FOO | <del>115 Bukit Merah View, #01-163,  S151115;</del><br>115 Bukit Merah View, #01-175,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | YOSHI'S KITCHEN | <del>127 Toa Payoh Lorong 1, #02-01,  S310127;</del><br>127 Toa Payoh Lorong 1, #02-17,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | YOUR SENSES BEAUTY | <del>Bishan Street 11, #01-414B,  S570505;</del><br>505C Bishan Street 11, #01-414,  S573505; | <del title="1.34891429352184,103.848662286791">1.34891, 103.84866</del><br><span title="1.34864898715585,103.848761838957">1.34865, 103.84876</span> |
+  | ZAOWAN JIANMIAN | <del>148 Silat Avenue,  S160148;</del><br>335 Smith Street, #02-10,  S050335; | <del title="1.27688315064164,103.830883904963">1.27688, 103.83088</del><br><span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-21
 
 </summary>
