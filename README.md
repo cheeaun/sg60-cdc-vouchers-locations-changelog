@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-23
+
+</summary>
+
+Total locations: 26,014 → 26,028
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH HUAT HOKKIEN PRAWN MEE (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | AL IHSHAN JE130 | 130 Jurong Gateway Road,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | D FRUIT 259 | 259A Bangkit Road Bukit Panjang Neighbourhood Centre Singapore 670259, #01-09,  S670259; | <span title="1.37750727624619,103.77360557644">1.37751, 103.77361</span> |
+  | D&Y HAIR SALON | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-931,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | DRINK STALL (777 COFFEESHOP LB) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | HAO ZHOU PIN (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | JOYFUL SEAFOOD | 301 Punggol Central,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+  | JU FU YUAN VEGETARIAN (510623) | 623 Elias Road, 002,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | KKT KITCHEN | 17 Upper Boon Keng Road, #01-30,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | MAN LI KITCHEN @ 61 TBL | 61 Telok Blangah Hts,  S100061; | <span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | NUR TANDOOR & BIRYANI | 21 Sengkang West Avenue, 03-20,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | SANTAN & SPICE NASI LEMAK | 335 Smith Street, #02-64,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | TANG DYNASTY DESSERTS | 335 Smith Street, #02-33,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | XING MEI CONGEE | 628 Ang Mo Kio Avenue 4, #01-82,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+
+  </details>
+
+- <details><summary>Changed (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AUNTIE SAY TRADITIONAL (HAND-MADE) PAU & TIM SUM - TPY</del><br>AUNTIE SAY TRADITIONAL (HAND-MADE) PAU & TIM SUM - SERANGOON AVE | 267 Serangoon Ave, #01-01,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | CHONG SEAFOOD | <del>74 Toa Payoh Lorong 4, #01-15,  S310074;</del><br>74 Toa Payoh Lorong 4, #01-20,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | <del>EM HAIR BEAUTY</del><br>EM HERBAL HAIR TREATMENT | 416 Bedok North Avenue 2, #01-29A,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | <del>FIVE STAR WESTERN</del><br>HUA SOON WESTERN FOOD | 1 Lorong Mambong, #01-20,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | KUAYCHAP N MIX ORGAN SOUP | <del>Blk 226B Amk Ave 1, #01-645,  S562226;</del><br>Blk 226F Amk Ave 1, #01-697,  S566226; | <del title="1.36732624025946,103.83955157933">1.36733, 103.83955</del><br><span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | <del>YONG TOU FOO</del><br>MEI HENG YONG TOU FOO | 22 Toa Payoh Lorong 7, #01-22,  S310022; | <span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | <del>MEIXI'S KITCHEN (YONG TAU FOO)( BLK 630 AMK)</del><br>MEIXI'S KITCHEN (YONG TAU FOO) (339 AMK) | <del>630 Ang Mo Kio Avenue 4, #01-972,  S560630;</del><br>339 Ang Mo Kio Ave 1, #01-1601,  S560339; | <del title="1.38054138917049,103.841068277331">1.38054, 103.84107</del><br><span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | REDHILL PORK PORRIDGE | <del>85 Redhill Lane, #01-90,  S150085;</del><br>85 Redhill Lane, #01-46,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | REJUV FOOTWORK (AMK) | <del>339 Ang Mo Kio Avenue 1 Singapore 560339, #01-1591A,  S560339;</del><br>339 Ang Mo Kio Avenue 1 Singapore 560339, #01-1587,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | <del>#01-138</del><br>SEAFOOD 01-138 | 30 Seng Poh Road, #01-138,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | <del>HAO XIANG MIXED VEG RICE (AMK 339)</del><br>SOON SOON STEWED FISH.PORRIDGE.RICE | <del>339 Ang Mo Kio Avenue 1,  S560339;</del><br>43 Cambridge Road, #01-09,  S210043; | <del title="1.36506492207366,103.849115819192">1.36506, 103.84912</del><br><span title="1.31536302699791,103.849434501824">1.31536, 103.84943</span> |
+  | <del>KOREAN & JAPANESE FOOD</del><br>XIAN LA FANG THAI & WESTERN FOOD | 335 Smith Street, 02-185,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | YI XING BAN MIAN | <del>123 Bedok North Street 2, #01-168,  S460123;</del><br>87 Bedok North Street 4, #01-191,  S460087; | <del title="1.32919868667839,103.937343347878">1.32920, 103.93734</del><br><span title="1.33250261426447,103.938587125421">1.33250, 103.93859</span> |
+  | YU BAO TANG (YBT87) | <del>Blk 123 Bedok North Street 2, #01-168,  S460123;</del><br>85 Bedok North Street 4, #01-18,  S460085; | <del title="1.32919868667839,103.937343347878">1.32920, 103.93734</del><br><span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | <del>YU PAN (NOODLES & RICE) AMK 630</del><br>YU PAN (NOODLES & RICE) AMK 339 | <del>630 Ang Mo Kio Avenue 4, #01-972,  S560630;</del><br>339 Ang Mo Kio Ave 1, #01-1601,  S560339; | <del title="1.38054138917049,103.841068277331">1.38054, 103.84107</del><br><span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | YUM YUM CAFE | <del>107 Jalan Bukit Merah Tiong Bahru Orchid Singapore 160107, #01-1842,  S160107;</del><br>116 Bishan Street 12, #01-32,  S570116; | <del title="1.27983690191197,103.824757769108">1.27984, 103.82476</del><br><span title="1.3478007201456,103.849316086687">1.34780, 103.84932</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-22
 
 </summary>
