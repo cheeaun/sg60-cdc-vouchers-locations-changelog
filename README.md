@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-24
+
+</summary>
+
+Total locations: 26,028 → 26,039
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A1 MEDICAL CLINIC (TECK WHYE) | 137 Teck Whye Lane Teck Whye Shopping Centre Singapore 680137, #01-329B,  S680137; | <span title="1.38004752975397,103.752483841199">1.38005, 103.75248</span> |
+  | ACE MARKETPLACE | 59 New Upper Changi Road Dbs New Upper Changi Road Singapore 461059, #01-1274,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | AL YUSUF SUJI INDIAN MUSLIM CUISINE | 75 Toa Payoh Lorong 5, #01-26,  S310075; | <span title="1.336020767662,103.852956988062">1.33602, 103.85296</span> |
+  | FISHBALL NOODLE (510440) | 440 Pasir Ris Drive 4, 06,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | LONG HE JI HANDMADE PAU & DIM SUM (TPY 183) | 183 Toa Payoh Central,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | MARUHACHI - 40 HOLLAND DRIVE | 40 Holland Drive,  S270040; | <span title="1.30717590843196,103.793500328714">1.30718, 103.79350</span> |
+  | ROSMARINUS GB | 304 Ubi Avenue 1,  S400304; | <span title="1.32955256858874,103.90122860971">1.32955, 103.90123</span> |
+  | SALMON FISH SOUP | 480 Lorong 6 Toa Payoh, ST22,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | TRIO RASA | 210 Toa Payoh Lorong 8, #01-67,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | YUAN LI YOU TIAO | 115 Bukit Merah View, #01-70,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | ZHENG HAO WEI STEAMED FISH CUISINE | 665 Buffalo Road, #01-293,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>A & G VEGETABLES TRADING & PACKAGING PTE LTD</del><br>A & G VEGETABLE TRADING & PACKAGING PTE LTD | 504 Tampines Central 1, #01-327,  S520504; | <span title="1.35639771487849,103.945701729904">1.35640, 103.94570</span> |
+  | CHANGI AIRPORT T2 FAMOUS FRIED FISH SOUP (AMK 721) | <del>721 Ang Mo Kio Avenue 8,  S560721;</del><br>221 Jurong East Street 21, #01-875,  S600221; | <del title="1.37234984781557,103.847899479721">1.37235, 103.84790</del><br><span title="1.34084174986254,103.736918269895">1.34084, 103.73692</span> |
+  | <del>GUI SHU BRAISED MEAT (256 YISHUN)</del><br>GUI SHU BRAISED MEAT (293 YISHUN) | <del>256 Yishun Ring Road, #01-1005,  S760256;</del><br>293 Yishun Street 22, #01-261,  S760293; | <del title="1.43409342070863,103.839979155802">1.43409, 103.83998</del><br><span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | <del>LELE WANTON NOODLE ( GM )</del><br>LELE WANTON NOODLE | <del>25 Ghim Moh Link,  S270025;</del><br>440 Pasir Ris Drive 4, #01-13,  S510440; | <del title="1.3081474688469,103.786255228477">1.30815, 103.78626</del><br><span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | SWEETTALK-260 BANGKIT RD | <del>260 Bangkit Road Bukit Panjang Neighbourhood Centre Singapore 670260, #01-27,  S670260;</del><br>Hdb Bukit Panjang New Town, 260 Bangkit Road, #01-37,  S670260; | <span title="1.37794056201072,103.773337848764">1.37794, 103.77334</span> |
+  | THE MAKAN PLACE | <del>Ang Mo Kio Avenue 1, #01-1677,  S560338;</del><br>320 Shunfu Road, #02-23,  S570320; | <del title="1.36382298132967,103.848919382825">1.36382, 103.84892</del><br><span title="1.35200745374218,103.837031862103">1.35201, 103.83703</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-23
 
 </summary>
