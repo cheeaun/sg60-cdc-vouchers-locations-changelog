@@ -13,6 +13,71 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-25
+
+</summary>
+
+Total locations: 26,039 → 26,063
+
+- <details><summary>Added (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | A2B MINI MART- TELOK BLANGAH | 6 Telok Blangah Crescent Dbs Telok Blangah Crescent Singapore 090006, #01-422,  S090006; | <span title="1.27814081311562,103.818484019328">1.27814, 103.81848</span> |
+  | AH FANG FISH SOUP. BAN MIAN. PORRIDGE (807 YISHUN) | 807 Yishun Ring Road,  S760807; | <span title="1.41649875808134,103.831578419935">1.41650, 103.83158</span> |
+  | BAKEINC | 154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-404A,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | BARBERS ALLEY- BUKIT MERAH | 107 Jalan Bukit Merah Tiong Bahru Orchid Singapore 160107, #01-1802,  S160107; | <span title="1.27983690191197,103.824757769108">1.27984, 103.82476</span> |
+  | BARK GROOMING STUDIO | 620 Hougang Avenue 8 Hdb-hougang Singapore 530620, #01-274,  S530620; | <span title="1.3701440065551,103.883968140531">1.37014, 103.88397</span> |
+  | BASIL KING (JB27) | 27 Jalan Berseh,  S200027; | <span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | CHARCOAL MASTER - 570A WOODLANDS AVE 1 | 570A Woodlands Avenue 1,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | CHICKEN RICE (848 YISHUN) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | DAILY CHOICE | 205 Bedok North Street 1 Bedok Town Centre Singapore 460205, #01-367,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | FAITH CHEE CHEONG FUN | 151A Serangoon North Avenue 2, ST008,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+  | FAITH FRIED MEE HOON | 151A Serangoon North Avenue 2, ST07,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+  | HONG HU RAMEN | 273C Punggol Place,  S823273; | <span title="1.40230301367166,103.901262391698">1.40230, 103.90126</span> |
+  | HONG KONG STREET SEAFOOD | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | HOOKD FRESH FISH & SEAFOOD | 11 Telok Blangah Crescent, #01-37,  S090011; | <span title="1.27736813225761,103.818651524334">1.27737, 103.81865</span> |
+  | JJ HAIR DESIGN (JLN BERSEH) | 27 Jalan Berseh Singapore 200027, #01-110,  S200027; | <span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | LUCKY HEIGHTS WESTERN | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | M & L MOBILE COMMS -TPY 18 | 18 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310018, #01-242,  S310018; | <span title="1.33575723665506,103.856789628423">1.33576, 103.85679</span> |
+  | MAN-NA HOKKIEN MEE | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | MEDI CLINIC PEOPLE'S PARK | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #02-1038,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | RIVER VALLEY TEOCHEW KWAY CHAP | 147 Serangoon North Avenue 1, ST03,  S550147; | <span title="1.36851857390771,103.872804036824">1.36852, 103.87280</span> |
+  | SEAFOOD ZI CHAR 632 | 632 Bukit Batok Central,  S650632; | <span title="1.34929895794167,103.750830565891">1.34930, 103.75083</span> |
+  | SG 98 FRUIT TRADING (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-4,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | SNACK BITES | 335 Smith Street, #02-157,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | WELCOME SUPERMARKET | 419 Tampines Street 41 Sun Plaza Gardens Singapore 520419, #01-98,  S520419; | <span title="1.35783252178817,103.946726918914">1.35783, 103.94673</span> |
+
+  </details>
+
+- <details><summary>Changed (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DA TOP MART | <del>Blk 194 Kim Keat Avenue, #01-408,  S310193;</del><br>Blk 194 Kim Keat Avenue, #01-408,  S310194; | <del title="1.33159005591995,103.851295104405">1.33159, 103.85130</del><br><span title="1.33093933675526,103.858181909317">1.33094, 103.85818</span> |
+  | DRINK STALL | <del>110 Lengkong Tiga,  S410110;</del><br>110 Lengkong Tiga, #01-239,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | <del>FACE BAN MIAN 339</del><br>FACE BAN MIAN (AMK 724) | 724 Ang Mo Kio Ave 6, #01-39,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | HAMIZAH BIRYANI | <del>110 Lengkong Tiga,  S410110;</del><br>110 Lengkong Tiga, #01-239,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | <del>HOJIAK NASI LEMAK (417 FERNVALE)</del><br>HOJIAK NASI LEMAK (237 SERANGOON) | <del>417 Fernvale Link,  S790417;</del><br>Serangoon Avenue 3, #01-3130,  S550237; | <del title="1.39158622983505,103.879874611419">1.39159, 103.87987</del><br><span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | JAPANESE AND KOREAN CUISINE | <del>5 Upper Boon Keng Road,  S380005;</del><br>166 Woodlands Street 13, #01-553,  S730166; | <del title="1.31264014497827,103.872491873561">1.31264, 103.87249</del><br><span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | <del>UVII STORES</del><br>KRUTHIKA STORES | 510 Tampines Central 1, #01-250,  S520510; | <span title="1.35480107982353,103.944458085324">1.35480, 103.94446</span> |
+  | <del>XIANG CHI RUI JIA XIAO CHAO - SIMS DRIVE</del><br>LIN JIN SEAFOOD ZHU CHAO | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | LOK FU LALA POT | <del>38 Lorong 11 Geylang Road,  S388730;</del><br>1015 Geylang East Ave 3, #01-109,  S389730; | <del title="1.31369153395811,103.876922711561">1.31369, 103.87692</del><br><span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | MAGSON HAIR STUDIO | <del>81 Whampoa Drive Singapore 320081, #01-907,  S320081;</del><br>82 Whampoa Drive Singapore 320082, #01-961,  S320082; | <del title="1.32400427468755,103.85632640336">1.32400, 103.85633</del><br><span title="1.32387379240679,103.856482753763">1.32387, 103.85648</span> |
+  | <del>NELLY'S RETRO SNACKS (AMK 724)</del><br>NELLY'S RETRO SNACKS | <del>724 Ang Mo Kio Avenue 6, #01-53,  S560724;</del><br>92 Lorong 4 Toa Payoh, #01-282,  S310092; | <del title="1.37217258545171,103.846510310202">1.37217, 103.84651</del><br><span title="1.33807081646129,103.849457178811">1.33807, 103.84946</span> |
+  | PENNY CUT BY RAINBOW SALON | <del>Ang Mo Kio Avenue 1, #01-891,  S560215;</del><br>Ang Mo Kio Avenue 1, #01-887A,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | STEVEN FRIED RICE | <del>504A Serangoon North Avenue 4, #01-01,  S555850;</del><br>5 Upper Boon Keng Road, #01-22,  S380005; | <del title="1.37399768680103,103.875704727628">1.37400, 103.87570</del><br><span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | <del>OSCAR HEAD SPA (II) PTE LTD</del><br>T&C BEAUTY HOUSE | 208 New Upper Changi Road, #01-659,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | <del>UNITED EYE CARE (BOON KENG) LLP</del><br>UNITED EYE CARE (BOON KENG) PTE LTD | Bendemeer Road, #01-641,  S330027; | <span title="1.31883815362848,103.862815823199">1.31884, 103.86282</span> |
+  | ZEN DIGITAL | <del>2 Bukit Panjang Ring Road, #02-05,  S679947;</del><br>2 Bukit Panjang Ring Road, #02-08,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | ZTP GINSENG BIRDNEST (520 TOA PAYOH) | <del>520 Lorong 6 Toa Payoh, #01-55,  S310520;</del><br>520 Lorong 6 Toa Payoh, #01-62,  S310520; | <span title="1.33311013128172,103.847431763341">1.33311, 103.84743</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-24
 
 </summary>
