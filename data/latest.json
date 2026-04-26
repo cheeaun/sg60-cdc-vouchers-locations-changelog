@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 Apr 2026",
+  "lastUpdated": "26 Apr 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -272085,7 +272085,7 @@
       "id": "merchant_e342761e-942c-45fa-9b7b-ee62a8ab197d",
       "entityId": "merchant_e342761e-942c-45fa-9b7b-ee62a8ab197d",
       "name": "LAI CHI MIAN",
-      "address": "121 Hougang Avenue 1, 01,  S530121;",
+      "address": "121 Hougang Avenue 1, #01-1358,  S530121;",
       "postalCode": "530121",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3538605933002,
@@ -272099,7 +272099,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-03"
+      "lastResetDate": "2026-04-25"
     },
     {
       "id": "merchant_a4067b9a-1f8f-4942-b003-3ac208c2c055",
@@ -292885,11 +292885,11 @@
       "id": "merchant_682ca843-6d9a-4320-85eb-76f7eba97379",
       "entityId": "merchant_682ca843-6d9a-4320-85eb-76f7eba97379",
       "name": "M & S CHETTINADU CUISINE",
-      "address": "87 Bedok North Street 4,  S460087;",
-      "postalCode": "460087",
+      "address": "239 Boon Lay Drive, Stall MR 1,  S640239;",
+      "postalCode": "640239",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33250261426447,
-      "LON": 103.938587125421,
+      "LAT": 1.34152624240492,
+      "LON": 103.710957140208,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -292899,7 +292899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-06-26"
+      "lastResetDate": "2026-04-25"
     },
     {
       "id": "merchant_e8d62925-53b8-40af-95c1-44740194a88d",
@@ -432205,7 +432205,7 @@
       "id": "merchant_828ff13b-c7b4-4773-a506-54b2e69b9a72",
       "entityId": "merchant_828ff13b-c7b4-4773-a506-54b2e69b9a72",
       "name": "TAI SENG HERBAL TURTLE SOUP",
-      "address": "121 Hougang Avenue 1,  S530121;",
+      "address": "121 Hougang Avenue 1, #01-1358,  S530121;",
       "postalCode": "530121",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3538605933002,
@@ -432219,7 +432219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-07"
+      "lastResetDate": "2026-04-25"
     },
     {
       "id": "merchant_e0180b94-1f4d-4658-ad8e-1a4862e50df5",

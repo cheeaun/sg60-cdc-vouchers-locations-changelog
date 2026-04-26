@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-26
+
+</summary>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | LAI CHI MIAN | <del>121 Hougang Avenue 1, 01,  S530121;</del><br>121 Hougang Avenue 1, #01-1358,  S530121; | <span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+  | M & S CHETTINADU CUISINE | <del>87 Bedok North Street 4,  S460087;</del><br>239 Boon Lay Drive, Stall MR 1,  S640239; | <del title="1.33250261426447,103.938587125421">1.33250, 103.93859</del><br><span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | TAI SENG HERBAL TURTLE SOUP | <del>121 Hougang Avenue 1,  S530121;</del><br>121 Hougang Avenue 1, #01-1358,  S530121; | <span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-25
 
 </summary>
