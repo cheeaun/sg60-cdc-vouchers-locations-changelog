@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Apr 2026",
+  "lastUpdated": "28 Apr 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -59599,7 +59599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-02-03"
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_8525b56e-b2a1-46bf-b743-ab6db59b832f",
@@ -76360,6 +76360,26 @@
         }
       },
       "lastResetDate": "2024-10-09"
+    },
+    {
+      "id": "merchant_752c285d-6141-4ba5-bc79-eb634cdf4f10",
+      "entityId": "merchant_752c285d-6141-4ba5-bc79-eb634cdf4f10",
+      "name": "BOSS CHAIR DELICACIES",
+      "address": "127 Toa Payoh Lorong 1, #02-19,  S310127;",
+      "postalCode": "310127",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33804625287728,
+      "LON": 103.844733922883,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_bc5dc899-4a4c-40ef-a44b-cc684951e73e",
@@ -95880,6 +95900,26 @@
         }
       },
       "lastResetDate": "2025-11-06"
+    },
+    {
+      "id": "merchant_e9235627-f53e-4c50-aed3-f781dc7eb78a",
+      "entityId": "merchant_e9235627-f53e-4c50-aed3-f781dc7eb78a",
+      "name": "CHINATOWN CURRY CLAYPOT",
+      "address": "261 Waterloo Street,  S180261;",
+      "postalCode": "180261",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29878752559509,
+      "LON": 103.851967011645,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_477e3dc8-26f5-4a05-9dc8-6c1d98e223a9",
@@ -130705,11 +130745,11 @@
       "id": "merchant_b35a9f1d-bfba-4ad0-8e9e-209efb5392eb",
       "entityId": "merchant_b35a9f1d-bfba-4ad0-8e9e-209efb5392eb",
       "name": "DURIAN TEO FRUITS",
-      "address": "36 Sin Ming Drive, 11,  S575710;",
-      "postalCode": "575710",
+      "address": "24 Sin Ming Road, #01-43,  S570024;",
+      "postalCode": "570024",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35884114756586,
-      "LON": 103.836938065119,
+      "LAT": 1.35518696986305,
+      "LON": 103.836337992513,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -130719,7 +130759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-02-06"
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_b8b5f138-3eba-4a13-a740-022859bed5b2",
@@ -146340,26 +146380,6 @@
         }
       },
       "lastResetDate": "2021-12-22"
-    },
-    {
-      "id": "merchant_529262f9-3142-4ef5-9cab-f873bd6150c9",
-      "entityId": "merchant_529262f9-3142-4ef5-9cab-f873bd6150c9",
-      "name": "FANN ORIGINS BEAUTY WELLNESS",
-      "address": "214 Serangoon Avenue 4 Dbs Serangoon Avenue 4 Singapore 550214, #01-98,  S550214;",
-      "postalCode": "550214",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35732435176205,
-      "LON": 103.873633486803,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-08-12"
     },
     {
       "id": "merchant_c6e9e72a-6787-4c8f-9b68-7f2fe97306c8",
@@ -230765,11 +230785,11 @@
       "id": "merchant_83b6ab70-c0bc-4093-b748-dc2a42e92b38",
       "entityId": "merchant_83b6ab70-c0bc-4093-b748-dc2a42e92b38",
       "name": "JARIAH PTE LTD (INDIAN MUSLIM CUISINE)",
-      "address": "Blk 22 Toa Payoh, #01-56,  S310022;",
-      "postalCode": "310022",
+      "address": "59 Anchorvale Road, #02-25,  S544965;",
+      "postalCode": "544965",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33538261333779,
-      "LON": 103.857003709119,
+      "LAT": 1.39708329792574,
+      "LON": 103.886694240478,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -230779,7 +230799,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-09-26"
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_3a697cd5-486f-4aef-a6ec-d8894f654ddc",
@@ -250242,6 +250262,26 @@
       "lastResetDate": "2024-12-06"
     },
     {
+      "id": "merchant_bbcf0eae-81f3-4f81-9b76-8f5a2011cccb",
+      "entityId": "merchant_bbcf0eae-81f3-4f81-9b76-8f5a2011cccb",
+      "name": "KAMPONG HOUSE",
+      "address": "9 Jurong West Ave 5,  S649487;",
+      "postalCode": "649487",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34908075400694,
+      "LON": 103.702881301202,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
+    },
+    {
       "id": "merchant_57f25423-45f7-4062-ac10-e33c03ca4cee",
       "entityId": "merchant_57f25423-45f7-4062-ac10-e33c03ca4cee",
       "name": "KAMPONG KRAVINGS",
@@ -263920,6 +263960,26 @@
         }
       },
       "lastResetDate": "2022-06-15"
+    },
+    {
+      "id": "merchant_de17b53a-af8b-4085-870f-646ce25bd14e",
+      "entityId": "merchant_de17b53a-af8b-4085-870f-646ce25bd14e",
+      "name": "KL SENG KOR ZI CHAR",
+      "address": "206 Toa Payoh North,  S310206;",
+      "postalCode": "310206",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34231481416805,
+      "LON": 103.84650890023,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_17637f08-d784-4bd4-8e07-740ddde50037",
@@ -306445,7 +306505,7 @@
       "id": "merchant_d988b9a9-2f31-4242-b10c-aff22ca55445",
       "entityId": "merchant_d988b9a9-2f31-4242-b10c-aff22ca55445",
       "name": "MEI WEI FISH SOUP/BAN MIAN/PORRIDGE",
-      "address": "267 Serangoon Avenue 3, 04,  S550267;",
+      "address": "267 Serangoon Avenue 3, ST 04,  S550267;",
       "postalCode": "550267",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35319405066769,
@@ -306459,7 +306519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-08"
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_81d7700e-dc36-49fd-985a-480a5e769342",
@@ -346042,6 +346102,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_0bead07f-8502-4abb-a165-e32f8501cd3e",
+      "entityId": "merchant_0bead07f-8502-4abb-a165-e32f8501cd3e",
+      "name": "ORENDA STUDIO",
+      "address": "206 Toa Payoh North Ai Zi Learning Centre Singapore 310206, #01-1223,  S310206;",
+      "postalCode": "310206",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34231481416805,
+      "LON": 103.84650890023,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
+    },
+    {
       "id": "merchant_9b1e198f-005f-41de-97b4-7ab61f68304d",
       "entityId": "merchant_9b1e198f-005f-41de-97b4-7ab61f68304d",
       "name": "ORGANIC AND NATURE CHAIN",
@@ -360620,6 +360700,26 @@
         }
       },
       "lastResetDate": "2021-12-08"
+    },
+    {
+      "id": "merchant_a3806c11-4a91-4c97-b7c5-6297ecaef0f2",
+      "entityId": "merchant_a3806c11-4a91-4c97-b7c5-6297ecaef0f2",
+      "name": "PRABHAS SUPERMARKET",
+      "address": "632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-812,  S470632;",
+      "postalCode": "470632",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33205052569764,
+      "LON": 103.914146202298,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_61aef689-ac03-4604-b71d-a35858c937f2",
@@ -379499,7 +379599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-28"
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_32757f93-ba20-4108-97c2-b6f3ac04a7d7",
@@ -471182,6 +471282,26 @@
       "lastResetDate": "2025-05-19"
     },
     {
+      "id": "merchant_3fdfe874-6a50-412d-8c28-00b1def551f1",
+      "entityId": "merchant_3fdfe874-6a50-412d-8c28-00b1def551f1",
+      "name": "VALUE DOLLAR YISHUN 418",
+      "address": "418 Yishun Avenue 11 Singapore 760418, #01-397,  S760418;",
+      "postalCode": "760418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.4248993192219,
+      "LON": 103.847249789758,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
+    },
+    {
       "id": "merchant_6d523c8f-86af-45f3-b4b3-037c29610eef",
       "entityId": "merchant_6d523c8f-86af-45f3-b4b3-037c29610eef",
       "name": "VALUE HAIR SALON",
@@ -484822,6 +484942,26 @@
       "lastResetDate": "2024-06-14"
     },
     {
+      "id": "merchant_3a08bf0e-1709-4b25-be50-86938307c0cc",
+      "entityId": "merchant_3a08bf0e-1709-4b25-be50-86938307c0cc",
+      "name": "WESTERN CUISINE(BEDOK)",
+      "address": "11 Bedok North Street 1 Bedok Public Library Singapore 469662, #01-28,  S469662;",
+      "postalCode": "469662",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32662388643563,
+      "LON": 103.931806159881,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
+    },
+    {
       "id": "merchant_ef4da4f5-ce4a-4bee-8a1d-802df362057d",
       "entityId": "merchant_ef4da4f5-ce4a-4bee-8a1d-802df362057d",
       "name": "WESTERN DELIGHT (20 GHIM MOM ROAD)",
@@ -490682,6 +490822,26 @@
       "lastResetDate": "2025-04-23"
     },
     {
+      "id": "merchant_b5126105-f8df-4a0f-979f-04ec73419db4",
+      "entityId": "merchant_b5126105-f8df-4a0f-979f-04ec73419db4",
+      "name": "XIANG CHENG ROAST MEAT",
+      "address": "20 Marsiling Lane, #01-29,  S730020;",
+      "postalCode": "730020",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44339444325541,
+      "LON": 103.776967080069,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
+    },
+    {
       "id": "merchant_55d2d4e9-8436-4d5d-a886-1d87b32b08f4",
       "entityId": "merchant_55d2d4e9-8436-4d5d-a886-1d87b32b08f4",
       "name": "XIANG CHENG ROAST MEAT",
@@ -493380,6 +493540,26 @@
         }
       },
       "lastResetDate": "2022-01-19"
+    },
+    {
+      "id": "merchant_13be3cc0-8b27-4d8d-9c6c-bd3630ed01cf",
+      "entityId": "merchant_13be3cc0-8b27-4d8d-9c6c-bd3630ed01cf",
+      "name": "XIN CHENG YONG TAU FOO",
+      "address": "203 Toa Payoh North,  S310203;",
+      "postalCode": "310203",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34205287411841,
+      "LON": 103.84939599719,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_638a7aba-ffa1-4c37-a7b6-c058436b7bff",
@@ -516340,6 +516520,26 @@
         }
       },
       "lastResetDate": "2022-05-13"
+    },
+    {
+      "id": "merchant_529262f9-3142-4ef5-9cab-f873bd6150c9",
+      "entityId": "merchant_529262f9-3142-4ef5-9cab-f873bd6150c9",
+      "name": "ZEN MERIDIAN BEAUTY & WELLNESS",
+      "address": "214 Serangoon Avenue 4 Dbs Serangoon Avenue 4 Singapore 550214, #01-98,  S550214;",
+      "postalCode": "550214",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35732435176205,
+      "LON": 103.873633486803,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-27"
     },
     {
       "id": "merchant_1f3a0970-db08-48fd-a724-f83fde2bda07",

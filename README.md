@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-28
+
+</summary>
+
+Total locations: 26,063 → 26,073
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BOSS CHAIR DELICACIES | 127 Toa Payoh Lorong 1, #02-19,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | CHINATOWN CURRY CLAYPOT | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | KAMPONG HOUSE | 9 Jurong West Ave 5,  S649487; | <span title="1.34908075400694,103.702881301202">1.34908, 103.70288</span> |
+  | KL SENG KOR ZI CHAR | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | ORENDA STUDIO | 206 Toa Payoh North Ai Zi Learning Centre Singapore 310206, #01-1223,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | PRABHAS SUPERMARKET | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-812,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | VALUE DOLLAR YISHUN 418 | 418 Yishun Avenue 11 Singapore 760418, #01-397,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | WESTERN CUISINE(BEDOK) | 11 Bedok North Street 1 Bedok Public Library Singapore 469662, #01-28,  S469662; | <span title="1.32662388643563,103.931806159881">1.32662, 103.93181</span> |
+  | XIANG CHENG ROAST MEAT | 20 Marsiling Lane, #01-29,  S730020; | <span title="1.44339444325541,103.776967080069">1.44339, 103.77697</span> |
+  | XIN CHENG YONG TAU FOO | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DURIAN TEO FRUITS | <del>36 Sin Ming Drive, 11,  S575710;</del><br>24 Sin Ming Road, #01-43,  S570024; | <del title="1.35884114756586,103.836938065119">1.35884, 103.83694</del><br><span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | JARIAH PTE LTD (INDIAN MUSLIM CUISINE) | <del>Blk 22 Toa Payoh, #01-56,  S310022;</del><br>59 Anchorvale Road, #02-25,  S544965; | <del title="1.33538261333779,103.857003709119">1.33538, 103.85700</del><br><span title="1.39708329792574,103.886694240478">1.39708, 103.88669</span> |
+  | MEI WEI FISH SOUP/BAN MIAN/PORRIDGE | <del>267 Serangoon Avenue 3, 04,  S550267;</del><br>267 Serangoon Avenue 3, ST 04,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | <del>FANN ORIGINS BEAUTY WELLNESS</del><br>ZEN MERIDIAN BEAUTY & WELLNESS | 214 Serangoon Avenue 4 Dbs Serangoon Avenue 4 Singapore 550214, #01-98,  S550214; | <span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-26
 
 </summary>
