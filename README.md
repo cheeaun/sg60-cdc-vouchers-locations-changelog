@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-04-29
+
+</summary>
+
+Total locations: 26,073 → 26,091
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 215 JURONG MIXED VEG RICE JE215 | 215 Jurong East Street 21,  S600215; | <span title="1.33993327217519,103.738514477739">1.33993, 103.73851</span> |
+  | 5 FLAVORBORN | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | 5 SKILLET BOON KENG | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | A1 MEDICAL CLINIC (KOVAN) | 211 Hougang Street 21 Kovan City Singapore 530211, #01-287B,  S530211; | <span title="1.35925696781362,103.887676276425">1.35926, 103.88768</span> |
+  | FAMILY HAKATA | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | GYUDON MOO & MOO MOO TEA | 108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1323,  S530108; | <span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+  | HIGH KEE BBQ SEAFOOD | 1220 East Coast Parkway, #01-11,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | L18 HOCK PRAWN MEE | 346 Geylang Road Geylang Conservation Area Singapore 389367, #01-01,  S389367; | <span title="1.31259608523612,103.880683827354">1.31260, 103.88068</span> |
+  | LOOP MART | 226E Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 565226, #01-709,  S565226; | <span title="1.36649244691811,103.839794925007">1.36649, 103.83979</span> |
+  | MEDIVINE FAMILY CLINIC | 152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-346,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+  | NANDHA FRESH (510441) | 441 Pasir Ris Drive 6, #01-68,  S510441; | <span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+  | NKS RESTAURANT YISHUN 661 | 661 Yishun Avenue 4 Nee Soon Central View Singapore 760661, #01-431,  S760661; | <span title="1.42201523201179,103.840714295544">1.42202, 103.84071</span> |
+  | OMMA CHICKEN SOUP (BEDOK 216) | 216 Bedok North Street 1, #01-58,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | RINDU RASA WESTERN | 118 Rivervale Drive, RV1,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | SHAN QUAN CAFE | 1 Lorong Mambong, #01-28,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | SHWE KHIT MINIMART- TELOK BLANGAH | 10 Telok Blangah Crescent Hdb-bukit Merah Singapore 090010, #01-149,  S090010; | <span title="1.27773153190559,103.819769431353">1.27773, 103.81977</span> |
+  | TSUYOI | 108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1323,  S530108; | <span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+  | TWIST SALON DE BEAUTE (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-324,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CRYSTAL HAIR SALON | <del>106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-191,  S760106;</del><br>417 Yishun Avenue 11, #01-339,  S760417; | <del title="1.43147861432349,103.827452004212">1.43148, 103.82745</del><br><span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | <del>MUM&APOS;S NGOH HIANG</del><br>MUM'S NGOH HIANG | 154 Serangoon North Avenue 1, #01-442,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | <del>NAN BEI PIAO XIANG MALA HOTPOT</del><br>SHI XIANG GE MALA HOT POT | <del>56 New Upper Changi Road,  S461056;</del><br>826 Tampines Street 81, #01-05,  S520826; | <del title="1.32499379353322,103.941082588009">1.32499, 103.94108</del><br><span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | <del>WANG BAN MIAN</del><br>WANG JI NOODLE | <del>309 Hougang Avenue 5, ST 12,  S530309;</del><br>Blk 214 Serangoon North Ave 4, #01-88,  S550214; | <del title="1.36620554681345,103.895152424666">1.36621, 103.89515</del><br><span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+  | XIN PENG | <del>18B Circuit Road, 262,  S372018;</del><br>Clementi Ave 3 #01-121, 442,  S120442; | <del title="1.32918105126141,103.888248441219">1.32918, 103.88825</del><br><span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-28
 
 </summary>
