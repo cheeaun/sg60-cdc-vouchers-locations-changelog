@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-01
+
+</summary>
+
+Total locations: 25,399 → 25,410
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 203 TOA PAYOH XIAO WAN CAI | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | BEAN & BREW CO. | 21 Canberra Link,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | CHARCOAL DELIGHTS (TPY 95) | 95 Lorong 4 Toa Payoh,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | CHINESE DELIGHTS (RICE & NOODLES) | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | FIVE TEN WESTERN GRILL | 338 Anchorvale Crescent,  S540338; | <span title="1.39922772538912,103.88965593061">1.39923, 103.88966</span> |
+  | HONG KONG STYLE MINI WOK | 500 Lorong 6 Toa Payoh,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | HONG TAI TCM (111 TPY) | 111 Lorong 1 Toa Payoh Ocbc Toa Payoh Lorong 1 - 7 Eleven Singapore 310111, #01-356,  S310111; | <span title="1.34121955722461,103.84549278032">1.34122, 103.84549</span> |
+  | NO 1 BAN MIAN (AMK 226B) | 226B Ang Mo Kio Avenue 1,  S562226; | <span title="1.36732624025946,103.83955157933">1.36733, 103.83955</span> |
+  | OLD TONG KEE ROASTED DELIGHT (AMK 226B) | 226B Ang Mo Kio Avenue 1,  S562226; | <span title="1.36732624025946,103.83955157933">1.36733, 103.83955</span> |
+  | THE ESSENTIAL STORE | 6 Haig Road Haig View Singapore 430006, #01-447,  S430006; | <span title="1.313176188109881,103.8972149496028">1.31318, 103.89721</span> |
+  | VIC'S MINI LAVA CHEESE CAKE | 531A Upper Cross Street, #02-38,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>LEE BROTHER&APOS;S OTAH</del><br>LEE BROTHERS OTAH | 209 Hougang Street 21, #01-02,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-04-30
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Apr 2026",
+  "lastUpdated": "01 May 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -11100,6 +11100,26 @@
         }
       },
       "lastResetDate": "2025-01-17"
+    },
+    {
+      "id": "merchant_3b2f3bff-af03-41b5-86c3-0a4ae89b4398",
+      "entityId": "merchant_3b2f3bff-af03-41b5-86c3-0a4ae89b4398",
+      "name": "203 TOA PAYOH XIAO WAN CAI",
+      "address": "203 Toa Payoh North,  S310203;",
+      "postalCode": "310203",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34205287411841,
+      "LON": 103.84939599719,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_6f5e08b0-d2c7-4e95-8ea4-d672fb880206",
@@ -39319,7 +39339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-28"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_a0dd18d2-b538-4c85-b814-64738abeb98c",
@@ -57799,7 +57819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-27"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_8525b56e-b2a1-46bf-b743-ab6db59b832f",
@@ -62340,6 +62360,26 @@
         }
       },
       "lastResetDate": "2024-12-20"
+    },
+    {
+      "id": "merchant_30098946-3d43-4771-813b-ed708ada35c0",
+      "entityId": "merchant_30098946-3d43-4771-813b-ed708ada35c0",
+      "name": "BEAN & BREW CO.",
+      "address": "21 Canberra Link,  S756973;",
+      "postalCode": "756973",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44826336410158,
+      "LON": 103.82276363189,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_66a21f25-c5c8-4a5d-9261-ef5949a76c41",
@@ -86642,6 +86682,26 @@
       "lastResetDate": "2024-11-29"
     },
     {
+      "id": "merchant_1948db93-f713-46c2-b095-159e89d454ca",
+      "entityId": "merchant_1948db93-f713-46c2-b095-159e89d454ca",
+      "name": "CHARCOAL DELIGHTS (TPY 95)",
+      "address": "95 Lorong 4 Toa Payoh,  S310095;",
+      "postalCode": "310095",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.338974038346,
+      "LON": 103.849002148998,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
+    },
+    {
       "id": "merchant_99698f81-6e06-41ef-a7ed-0f10fb2ad600",
       "entityId": "merchant_99698f81-6e06-41ef-a7ed-0f10fb2ad600",
       "name": "CHARCOAL GRILLED",
@@ -93700,6 +93760,26 @@
         }
       },
       "lastResetDate": "2024-01-29"
+    },
+    {
+      "id": "merchant_dbf2e780-e911-4077-b36b-2902bcc2e500",
+      "entityId": "merchant_dbf2e780-e911-4077-b36b-2902bcc2e500",
+      "name": "CHINESE DELIGHTS (RICE & NOODLES)",
+      "address": "638A Jurong West Street 61,  S641638;",
+      "postalCode": "641638",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34195861016793,
+      "LON": 103.697593081001,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_2965f9f8-4c42-4033-b4bd-7d0df3b9b1bc",
@@ -149282,6 +149362,26 @@
       "lastResetDate": "2025-05-07"
     },
     {
+      "id": "merchant_5fbc1eba-4cd9-4d1a-b75a-d05c5b9e67c4",
+      "entityId": "merchant_5fbc1eba-4cd9-4d1a-b75a-d05c5b9e67c4",
+      "name": "FIVE TEN WESTERN GRILL",
+      "address": "338 Anchorvale Crescent,  S540338;",
+      "postalCode": "540338",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39922772538912,
+      "LON": 103.88965593061,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
+    },
+    {
       "id": "merchant_47494afe-69c2-487f-be9c-2007e896f0d6",
       "entityId": "merchant_47494afe-69c2-487f-be9c-2007e896f0d6",
       "name": "FIVE TEN WESTERN GRILL",
@@ -204062,6 +204162,26 @@
       "lastResetDate": "2022-06-03"
     },
     {
+      "id": "merchant_9805dbc9-14ce-4aa9-b037-970a50190d0f",
+      "entityId": "merchant_9805dbc9-14ce-4aa9-b037-970a50190d0f",
+      "name": "HONG KONG STYLE MINI WOK",
+      "address": "500 Lorong 6 Toa Payoh,  S310500;",
+      "postalCode": "310500",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33296549735939,
+      "LON": 103.847050346651,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
+    },
+    {
       "id": "merchant_30c47a0f-a660-4e21-9f5e-a1829601e4ed",
       "entityId": "merchant_30c47a0f-a660-4e21-9f5e-a1829601e4ed",
       "name": "HONG KONG STYLE STEWED SOUP & STEAMED RICE",
@@ -205420,6 +205540,26 @@
         }
       },
       "lastResetDate": "2025-05-06"
+    },
+    {
+      "id": "merchant_0c2305e2-b0c9-4d2e-8ee0-3c87f98993cb",
+      "entityId": "merchant_0c2305e2-b0c9-4d2e-8ee0-3c87f98993cb",
+      "name": "HONG TAI TCM (111 TPY)",
+      "address": "111 Lorong 1 Toa Payoh Ocbc Toa Payoh Lorong 1 - 7 Eleven Singapore 310111, #01-356,  S310111;",
+      "postalCode": "310111",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34121955722461,
+      "LON": 103.84549278032,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_0bc1125a-d2a9-4e2c-8ccb-4b6a1aa56e47",
@@ -269784,7 +269924,7 @@
     {
       "id": "merchant_c47034f7-72f5-4b02-ab84-2de7f4947bf9",
       "entityId": "merchant_c47034f7-72f5-4b02-ab84-2de7f4947bf9",
-      "name": "LEE BROTHER&APOS;S OTAH",
+      "name": "LEE BROTHERS OTAH",
       "address": "209 Hougang Street 21, #01-02,  S530209;",
       "postalCode": "530209",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -269799,7 +269939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-05"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_a905fa44-0ac9-4acc-af1d-6944e09cee9f",
@@ -326282,6 +326422,26 @@
       "lastResetDate": "2023-06-15"
     },
     {
+      "id": "merchant_0e07725c-6bf0-490b-9205-0943a5adf0b7",
+      "entityId": "merchant_0e07725c-6bf0-490b-9205-0943a5adf0b7",
+      "name": "NO 1 BAN MIAN (AMK 226B)",
+      "address": "226B Ang Mo Kio Avenue 1,  S562226;",
+      "postalCode": "562226",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36732624025946,
+      "LON": 103.83955157933,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
+    },
+    {
       "id": "merchant_9f621c8a-e2a0-4d90-8e84-1bfec528f1be",
       "entityId": "merchant_9f621c8a-e2a0-4d90-8e84-1bfec528f1be",
       "name": "NO 1 BEAUTY SALON (HOUGANG 682)",
@@ -332600,6 +332760,26 @@
         }
       },
       "lastResetDate": "2023-05-27"
+    },
+    {
+      "id": "merchant_96314e0f-7dc8-42cc-857e-3f627efb327d",
+      "entityId": "merchant_96314e0f-7dc8-42cc-857e-3f627efb327d",
+      "name": "OLD TONG KEE ROASTED DELIGHT (AMK 226B)",
+      "address": "226B Ang Mo Kio Avenue 1,  S562226;",
+      "postalCode": "562226",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36732624025946,
+      "LON": 103.83955157933,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_e49ae6c6-d20c-4c53-8a92-823cc28c25e3",
@@ -366019,7 +366199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-07"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_f5edd1c0-dba3-4007-af11-8d1adca0cc65",
@@ -408439,7 +408619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-02-25"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_b0ca1470-76e1-4c27-b2e3-8292e6a2f90d",
@@ -434480,6 +434660,26 @@
         }
       },
       "lastResetDate": "2024-08-30"
+    },
+    {
+      "id": "merchant_8a76128a-5a64-4599-b5f9-02e18c69efee",
+      "entityId": "merchant_8a76128a-5a64-4599-b5f9-02e18c69efee",
+      "name": "THE ESSENTIAL STORE",
+      "address": "6 Haig Road Haig View Singapore 430006, #01-447,  S430006;",
+      "postalCode": "430006",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.313176188109881,
+      "LON": 103.8972149496028,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_ee546555-11b5-4fd1-8ebb-96634c566634",
@@ -462000,6 +462200,26 @@
         }
       },
       "lastResetDate": "2024-08-26"
+    },
+    {
+      "id": "merchant_82b94622-a4b2-4457-9cf6-753f668c7b6a",
+      "entityId": "merchant_82b94622-a4b2-4457-9cf6-753f668c7b6a",
+      "name": "VIC'S MINI LAVA CHEESE CAKE",
+      "address": "531A Upper Cross Street, #02-38,  S051531;",
+      "postalCode": "051531",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28529907736773,
+      "LON": 103.845823802043,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_da311fd0-7f4c-4366-a940-8b878cd4265c",
@@ -503139,7 +503359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-27"
+      "lastResetDate": "2026-04-30"
     },
     {
       "id": "merchant_1f3a0970-db08-48fd-a724-f83fde2bda07",
