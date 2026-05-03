@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02 May 2026",
+  "lastUpdated": "03 May 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -241159,7 +241159,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-27"
+      "lastResetDate": "2026-05-02"
     },
     {
       "id": "merchant_9a5517d2-80fb-494b-8532-ed4ba237b2bd",
@@ -269459,7 +269459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-04-25"
+      "lastResetDate": "2026-05-02"
     },
     {
       "id": "merchant_66e87ffb-d5e6-468e-a16e-e6a1fa868a08",
