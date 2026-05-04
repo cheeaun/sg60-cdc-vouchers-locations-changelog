@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "03 May 2026",
+  "lastUpdated": "04 May 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -287285,7 +287285,7 @@
       "id": "merchant_2b6bcf39-55dc-45c9-a9ea-027b4cd0cad9",
       "entityId": "merchant_2b6bcf39-55dc-45c9-a9ea-027b4cd0cad9",
       "name": "MAI SHOP",
-      "address": "28 Haig Road,  S438736;",
+      "address": "28 Haig Road, #01-28,  S438736;",
       "postalCode": "438736",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.31325452531149,
@@ -287299,7 +287299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-16"
+      "lastResetDate": "2026-05-03"
     },
     {
       "id": "merchant_c4ec0b6b-1706-46a9-a8e5-6c372282e71e",

@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-04
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MAI SHOP | <del>28 Haig Road,  S438736;</del><br>28 Haig Road, #01-28,  S438736; | <span title="1.31325452531149,103.895714871924">1.31325, 103.89571</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-01
 
 </summary>
