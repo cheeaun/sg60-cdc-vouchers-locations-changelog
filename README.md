@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-05
+
+</summary>
+
+Total locations: 25,410 → 25,421
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AFTERTASTE | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | AH HENG DUCK RICE | 531A Upper Cross Street, #02-64,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | DESI FAVORS | 710 Clementi West Street 2 Hdb-clementi Singapore 120710, #01-255,  S120710; | <span title="1.30628911866015,103.76151810816">1.30629, 103.76152</span> |
+  | ECONOMY RICE | 1 Punggol Coast Road, 01,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | HEALING KNEADS FOOT REFLEXOLOGY (201E TAMPINES) | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-64,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | HOMELY DINER | 37 Chai Chee Avenue,  S461037; | <span title="1.32544200357037,103.926207634232">1.32544, 103.92621</span> |
+  | LONG JIN SHI (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | MAVELI ENTERPRISES PTE LTD | 503 Tampines Central 1 Tampines Heart Singapore 520503, #01-303,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | MOBILE CONCEPTZ (19) | 19 Marsiling Lane Singapore 730019, #01-295C,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | SHIRLEY JIE DESSERT | 1 Punggol Drive, #02-05,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | SHUN CI VEG FOOD (STALL K) | Jtc 1 North Coast Avenue, K,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 95 NAILS STUDIO | <del>95 Aljunied Crescent, #01-501,  S380095;</del><br>116 Aljunied Ave 2, #01-73A,  S380116; | <del title="1.32170329030889,103.886195689242">1.32170, 103.88620</del><br><span title="1.32124570546254,103.886700619832">1.32125, 103.88670</span> |
+  | DA TOP MART | <del>Blk 194 Kim Keat Avenue, #01-408,  S310194;</del><br>Blk 194 Kim Keat Avenue, #01-416,  S310194; | <span title="1.33093933675526,103.858181909317">1.33094, 103.85818</span> |
+  | OPTIC PRECISE OPTICAL | <del>203 Hougang Street 21, #01-73B,  S530203;</del><br>203 Hougang Street 21, #01-73,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | <del>SKP AMK 449</del><br>SKP AMK 453 | 453 Ang Mo Kio Avenue 10, #01-1799,  S560452; | <span title="1.36889751131378,103.856200835147">1.36890, 103.85620</span> |
+  | <del>TIAN LONG HONGKONG STYLE ROASTED DELIGHT</del><br>UNCLE LOUIS FAMOUS CHICKEN RICE | 86 Market Street, #03-04,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | VEDOL'S HAIR SALOON | <del>338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1665,  S560338;</del><br>338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1667,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | <del>XIN HAINANESE CHICKEN RICE (510446)</del><br>XIN HAINANESE CHICKEN RICE | <del>446 Pasir Ris Drive 6, 06,  S510446;</del><br>115 Canberra Walk, #01-01,  S750115; | <del title="1.37030619298608,103.95772686444">1.37031, 103.95773</del><br><span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | YELLOW TOPAZ HAIR & BEAUTY SALON | <del>57 Marine Terrace, #01-127B,  S440057;</del><br>55 Marine Terrace, #01-1452,  S440055; | <del title="1.30624749596698,103.915275474904">1.30625, 103.91528</del><br><span title="1.305423684837499,103.9140047548029">1.30542, 103.91400</span> |
+  | YUAN HOKKIEN FRIED PRAWN MEE | <del>20 Ghim Moh Road, #01-07,  S270020;</del><br>20 Ghim Moh Road, #01-72,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-04
 
 </summary>
