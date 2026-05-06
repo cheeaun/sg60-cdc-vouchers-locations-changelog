@@ -13,6 +13,64 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-06
+
+</summary>
+
+Total locations: 25,421 → 25,448
+
+- <details><summary>Added (27)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 178 SEAFOOD (AMK 632) | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | ANTHONY INDUSTRIES (294 YISHUN) | 294 Yishun Street 22, #01-335,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+  | ATE COOKIES | 505 Beach Road, #01-77,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | DE-ZOOM HAIR STUDIO- REDHILL | 84 Redhill Lane Singapore 150084, #01-366,  S150084; | <span title="1.28708575062296,103.818851050403">1.28709, 103.81885</span> |
+  | EXPRESS HAIR CUT SALON | 263 Serangoon Central Drive Hdb-serangoon Estate Singapore 550263, #01-81,  S550263; | <span title="1.35386322697735,103.871939623369">1.35386, 103.87194</span> |
+  | GIFT HOUSE | 292 Yishun Street 22 Hdb-yishun Singapore 760292, #01-273A,  S760292; | <span title="1.43672478418958,103.836966390282">1.43672, 103.83697</span> |
+  | HAI LI FANG SEAFOOD ZI CHAR-639 PG DRIVE | 639 Punggol Drive, 2,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | IPOH BEANSPROUTS CHICKEN | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | JIN SHENG MIXED VEG RICE . PORRIDGE 465FV | 465 Fernvale Road,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | JINMAN NOODLES SEAFOOD SOUP 304 | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | KANAZAWA JAPANESE RESTAURANT | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-18,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | KEDAI MAKAN BUKIT HO SWEE | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | KING AZLAN MUSLIM FOOD 371 | 371A Woodlands Avenue 1,  S731371; | <span title="1.43259451232642,103.786649334789">1.43259, 103.78665</span> |
+  | LAO FU JI (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | MIXED VEGETABLE RICE (KOUFU STALL 13) | 9 Woodlands Avenue 9 Dbs Republic Polytechnic Singapore 738964, #01-13,  S738964; | <span title="1.44627225348279,103.783228720741">1.44627, 103.78323</span> |
+  | MY DAILY MART | 55 Lengkok Bahru Singapore 151055, #01-397,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | P.R. MASALA HOUSE (239 YISHUN) | 239 Yishun Ring Road Dbs Ntuc Yishun Ring Road Singapore 760239, #01-1166,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | PORKIE MART | 118 Rivervale Drive, ST03,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | SKINOVA | 513 Tampines Central 1 Singapore 520513, #01-162,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+  | THE BARBER CLUB - EVERTON PARK | 7 Everton Park Singapore 080007, #01-5,  S080007; | <span title="1.27692435153003,103.838679504443">1.27692, 103.83868</span> |
+  | THE SASSY BOWL | 535 Clementi Road, Blk 51, Level 2,  S599489; | <span title="1.33378462302575,103.775294348014">1.33378, 103.77529</span> |
+  | WARUNG MEE SEDAP | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | Y AND Y BAN MIAN | 618 Yishun Ring Road,  S760618; | <span title="1.4187353006021,103.835703280669">1.41874, 103.83570</span> |
+  | YEK DELIGHT 888 | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | YU XIANG BCM | 628 Ang Mo Kio Avenue 4, #01-52,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | YUAN YUAN FRESH PORK | 21 Sengkang West Avenue, 03-30,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | ZHENG XIANG HERBAL BAK KUT TEH@78A | 78A Telok Blangah Street 32, St4,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CANADIAN 2 FOR 1 PIZZA | <del>369 Sembawang Road Sembawang Cottage Singapore 758382, #01-2,  S758382;</del><br>369 Sembawang Road Sembawang Cottage Singapore 758382, #01-02,  S758382; | <span title="1.42690781299771,103.826051896017">1.42691, 103.82605</span> |
+  | <del>JIA XIANG WEI 306 WOODLANDS</del><br>HAO XIANG WEI 306 WOODLANDS | <del>306 Woodlands Street 31,  S730306;</del><br>306 Woodlands Street 31, #01-19,  S730306; | <span title="1.42992991993554,103.774636554651">1.42993, 103.77464</span> |
+  | <del>JIA XIANG WEI MIXED RICE</del><br>HAO XIANG WEI MIXED RICE | <del>308 Clementi Avenue 4,  S120308;</del><br>308 Clementi Avenue 4, #01-335,  S120308; | <span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | MASSAGE MASTER PTE LTD | <del>341 Bedok Road Singapore 469522, #01-341,  S469522;</del><br>343 Bedok Road Singapore 469526,  S469526; | <del title="1.33122865325597,103.947301682671">1.33123, 103.94730</del><br><span title="1.331272339211917,103.947268283784">1.33127, 103.94727</span> |
+  | <del>RAINBOW SUPERMART (OHWELL PTE LTD)</del><br>OHWELL FAMILY STORE | 174 Hougang Avenue 1, #01-1615,  S539174; | <span title="1.34918475097231,103.888464914524">1.34918, 103.88846</span> |
+  | WEN WEN CHEE CHEONG FUN (BLK111) | <del>111 Woodlands Street 13,  S730111;</del><br>111 Woodlands Street 13, #01-74,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | <del>CHEONG LOK FOOD (445 FAJAR)</del><br>YU PAN NOODLE FISH SOUP | <del>445 Fajar Road,  S670445;</del><br>445 Fajar Road, #01-538,  S670445; | <span title="1.38339951629579,103.771086145173">1.38340, 103.77109</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-05
 
 </summary>
