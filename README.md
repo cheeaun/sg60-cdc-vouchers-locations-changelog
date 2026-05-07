@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-07
+
+</summary>
+
+Total locations: 25,448 → 25,460
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH YEE FRUITS HOUSE | 960 Jurong West Street 92 Singapore 640960, #01-174,  S640960; | <span title="1.34138531163603,103.691459639611">1.34139, 103.69146</span> |
+  | BEREMPAH BROS (SENGKANG) | 267 Compassvale Link, ST5,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | CITI NAILS | 156 Yishun Street 11 Hdb-yishun Singapore 760156, #01-118,  S760156; | <span title="1.43188761932588,103.833567756794">1.43189, 103.83357</span> |
+  | CLAYPOT KING 240 TENGAH | 240 Tengah Garden Walk,  S690240; | <span title="1.36061578677807,103.732199052701">1.36062, 103.73220</span> |
+  | HEALING KNEADS FOOT REFLEXOLOGY (TP 824) | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-02,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | HEALING KNEADS FOOT REFLEXOLOGY (TP821) | 821 Tampines Street 81 Hdb-tampines Singapore 520821, #01-218,  S520821; | <span title="1.34841976685509,103.934649103154">1.34842, 103.93465</span> |
+  | HUA DEE - 5 BOON KENG | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | J-VN KITCHEN | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | LIU SAN JIE | 267 Compassvale Link, ST4,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | RULAIZHAI | 24 Sin Ming Road,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | XIN HAO WEI SEAFOOD (510623) | 623 Elias Road, 1,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | XIONG KEE CHARCOAL ROASTED DELIGHTS | 465 North Bridge Road,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH GONG TEOCHEW NOODLE | <del>21 canberra link,, #01-15,  S756973;</del><br>81 Jalan Malu-malu,  S769689; | <del title="1.44826336410158,103.82276363189">1.44826, 103.82276</del><br><span title="1.44381831625272,103.825776599411">1.44382, 103.82578</span> |
+  | YELLOW TOPAZ HAIR & BEAUTY SALON | <del>55 Marine Terrace, #01-1452,  S440055;</del><br>55 New Upper Changi Road, #01-1452,  S461055; | <del title="1.305423684837499,103.9140047548029">1.30542, 103.91400</del><br><span title="1.325092556448924,103.942110168405">1.32509, 103.94211</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-06
 
 </summary>
