@@ -13,6 +13,57 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-08
+
+</summary>
+
+Total locations: 25,460 → 25,479
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AIR ORANG LAMA & BREAKFAST | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | AN TINH VEGETARIAN | 446 Ang Mo Kio Avenue 10,  S560446; | <span title="1.36776095130953,103.855357145908">1.36776, 103.85536</span> |
+  | BARAKAH MART | 546 Serangoon North Avenue 3 Hdb Public Shelters Singapore 550546, #01-230,  S550546; | <span title="1.37482523313127,103.870146844732">1.37483, 103.87015</span> |
+  | CHARRBO X ASHES BURNNIT | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | DING FENG MIXED RICE & STEWED SOUP (AMK 722) | 722 Ang Mo Kio Avenue 8,  S560722; | <span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | GO EAT MOOKATA JE262 | 262 Jurong East Street 24,  S600262; | <span title="1.34412714311524,103.741112405413">1.34413, 103.74111</span> |
+  | J&K STALL @ ALKAFF CRESCENT | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | JRPIZZERIA | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | MAMAK MIAA | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | MIREYA HAIR SALON | 86 Circuit Road Hdb-geylang Singapore 370086, #01-997,  S370086; | <span title="1.32292385706044,103.885358063443">1.32292, 103.88536</span> |
+  | NASI LEMAK PADANG | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | NINETY DEGREES HAIR STUDIO & SALON PTE LTD | 66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-491B,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | QY NOODLE 302 | 302 Tengah Park Avenue, S10,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | RASA THAI (STALL MR3) | Jtc 1 North Coast Avenue, MR3,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | SOON HONG COFFEE STALL | 79A Circuit Road, #01-88,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | TANJONG RHU WANTON NOODLE | 214 Serangoon Avenue 4, ST 6A,  S550214; | <span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+  | WOK TZE CHAR | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | YI SIN BONELESS CHICKEN RICE & SPECIALITY FISHBALL NOODLE | 267 Compassvale Link, ST7,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | YUMMY SEAFOOD | 23 Hougang Avenue 3,  S530023; | <span title="1.36485740076853,103.890728400886">1.36486, 103.89073</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASIA GHANI | <del>815 Jurong West Street 81, #01-210,  S640815;</del><br>959 Jurong West Street 91, #01-152,  S640959; | <del title="1.34533232392524,103.695850950525">1.34533, 103.69585</del><br><span title="1.34148123537153,103.690721731576">1.34148, 103.69072</span> |
+  | CHARCOAL MASTER - 570A WOODLANDS AVE 1 | <del>570A Woodlands Avenue 1,  S731570;</del><br>570A Woodlands Avenue 1, #01-01,  S731570; | <span title="1.43058343799569,103.790845778879">1.43058, 103.79085</span> |
+  | JOURNEY BEAUTY BROW WORK | <del>201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-78,  S527201;</del><br>Blk 205 Bedok North Street 1, #02-371, #01-78,  S460205; | <del title="1.35292162536007,103.953858335355">1.35292, 103.95386</del><br><span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | <del>MALA HOT POT ( EUNOS)</del><br>MALA HOT POT (EUNOS) | 7 Eunos Crescent,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+  | MR EGG FRIED RICE | <del>785E Woodlands Rise, #01-16,  S735785;</del><br>529 Hougang Ave 6, #01-245,  S530529; | <del title="1.44679888115266,103.805489772817">1.44680, 103.80549</del><br><span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | ORANGE ROASTER | <del>461 Yishun Ave 6, 16G,  S760461;</del><br>118 Hougang Avenue 1, #01-1183,  S530118; | <del title="1.42841338853064,103.84997365333">1.42841, 103.84997</del><br><span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | <del>COPRA NASI LEMAK</del><br>TOPPOT MALA, HOTPOT, GRILL FISH | 2 Joo Chiat Road,  S420002; | <span title="1.31553964446015,103.898764895693">1.31554, 103.89876</span> |
+  | <del>XING LONG FISH SOUP ( EUNOS )</del><br>XING LONG FISH SOUP (EUNOS) | 7 Eunos Crescent,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-07
 
 </summary>
