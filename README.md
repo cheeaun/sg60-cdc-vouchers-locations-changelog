@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-09
+
+</summary>
+
+Total locations: 25,479 → 25,491
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH PUI KARI PUFF | 80 Marine Parade Central,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | BOON CHIANG HAINANESE CHICKEN RICE (TPY 177) | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | BRANDS OUTLET (TEBAN GARDENS 38) | 38 Teban Gardens Road Dbs Teban Gardens Road Singapore 600038, #01-315,  S600038; | <span title="1.32107344137421,103.743006816858">1.32107, 103.74301</span> |
+  | HE JIA BIAN MIAN & FISH SOUP (2A EUNOS) | 2A Eunos Crescent,  S401002; | <span title="1.3202011052846,103.903193509829">1.32020, 103.90319</span> |
+  | HONG LIM CURRY PUFF (SIMS PLACE) | 49 Sims Place, #01-39,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | KAI XIN HAIRDRESSING | 266 Serangoon Central Drive Singapore 550266, #01-253.,  S550266; | <span title="1.35323212759899,103.871503595573">1.35323, 103.87150</span> |
+  | LEX ROJAK@46 OWEN | 46 Owen Road,  S210046; | <span title="1.31514019805556,103.850798372212">1.31514, 103.85080</span> |
+  | NAIN FOOD STALL | 49 Sims Place, #01-07,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | TONG CHEONG ROASTED MEAT AND RICE | 8 Lorong 7 Toa Payoh,  S310008; | <span title="1.3378805011388,103.856612802183">1.33788, 103.85661</span> |
+  | UNIQUE QQ FASHION | 49A Serangoon Garden Way, #01-51,  S555945; | <span title="1.36273680777483,103.866162163042">1.36274, 103.86616</span> |
+  | WHITE DRAGON NOODLES | 826 Tampines Street 81,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | YU XIANG FANG | 2A Eunos Crescent,  S401002; | <span title="1.3202011052846,103.903193509829">1.32020, 103.90319</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | EYECARE SPECIALIST | <del>83 Marine Parade Central, #01-562,  S440083;</del><br>85 Marine Parade Central, #01-662,  S440085; | <del title="1.30255976878216,103.90607458727">1.30256, 103.90607</del><br><span title="1.30213889373056,103.906749407665">1.30214, 103.90675</span> |
+  | JOURNEY BEAUTY BROW WORK | <del>Blk 205 Bedok North Street 1, #02-371, #01-78,  S460205;</del><br>Blk 205 Bedok North Street 1, #01-78,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | KATONG JAGO TEOCHEW MEE POK KWAY TEOW MEE | <del>84 Marine Parade Central, #01-55,  S440084;</del><br>84 Marine Parade Central, #01-09,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | KATONG JAGO TEOCHEW MEE POK KWAY TEOW MEE (936 EAST COAST ROAD) | <del>936 East Coast Road,  S459129;</del><br>84 Marine Parade Central, #01-09,  S440084; | <del title="1.3122852676271,103.925353651914">1.31229, 103.92535</del><br><span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | <del>SING HI NOODLES(117 PENDING ROAD)</del><br>SING HI NOODLES(322 HOUGANG) | <del>117 Pending Road,  S670117;</del><br>322 Hougang Ave 5, #01-86,  S530322; | <del title="1.37730128071547,103.767979335905">1.37730, 103.76798</del><br><span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-08
 
 </summary>
