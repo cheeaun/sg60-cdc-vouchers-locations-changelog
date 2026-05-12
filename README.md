@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-12
+
+</summary>
+
+Total locations: 25,491 → 25,509
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACHABOY | 258 Pasir Ris Street 21 Dbs Loyang Point Singapore 510258, #02-03,  S510258; | <span title="1.36706634197242,103.964635610477">1.36707, 103.96464</span> |
+  | AL INDIAN MUSLIM FOOD | 115 Canberra Walk,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | DA PAI DANG SEAFOOD | 115 Canberra Walk,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | DAPUR UMMA HANI MUSLIM FOOD | 3 Changi Village Road, #01-79,  S500003; | <span title="1.38965834308064,103.988091826679">1.38966, 103.98809</span> |
+  | ISLANDBITES | 131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-190B,  S730131; | <span title="1.43847983955609,103.778613439344">1.43848, 103.77861</span> |
+  | KEBAB BHAI - 378 CLEMENTI | 378 Clementi Avenue 5,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | LAI SENG FRESH PORK  (294 YISHUN) | 294 Yishun Street 22, #01-333,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+  | LE JI MIX VEG-RICE | 443 Ang Mo Kio Avenue 10,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | LE MAN SEAFOOD 470B | 470B Yishun Street 42,  S762470; | <span title="1.42584619116894,103.852260998106">1.42585, 103.85226</span> |
+  | LUCKY CLUCK FRIED CHICKEN | 590 Upper Thomson Road, #01-18,  S574419; | <span title="1.37231949296183,103.829018145089">1.37232, 103.82902</span> |
+  | MAN CUN CHENG BONELESS CHICKEN RICE@61 TELOK BLANGAH | 61 Telok Blangah Hts, St6,  S100061; | <span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | MANNA FISH | 511 Canberra Road, 4,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | MR. WESTERN 768 | 768 Woodlands Avenue 6, 12,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | NASI+ | 166 Jalan Besar, #01-19,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | SAY LOCK ELECTRICAL SEWING | 101 Yishun Avenue 5 Chong Pang City Singapore 760101, #01-51A,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | T-LUCK HOME JOY PRODUCTS (CANBERRA) | 120 Canberra Crescent Dbs 120 Canberra Crescent Singapore 750120, #01-03,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | TASTY WOK YISHUN | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | WEI JI MIXED VEGETABLE RICE | 115 Canberra Walk, ST10,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>CHUNQIONG NOODLE</del><br>JOY GARDEN | 538 Bedok North Street 3, #01-86,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-09
 
 </summary>
