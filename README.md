@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-13
+
+</summary>
+
+Total locations: 25,509 → 25,525
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BLACKLINE BARBERS | 731 Yishun Street 72 Nee Soon Central Vista Singapore 760731, #01-31,  S760731; | <span title="1.42834858574606,103.831116272448">1.42835, 103.83112</span> |
+  | CROWN DISTRICT BARBERS HAIR SALON | 34 Whampoa West Bendemeer Ville Singapore 330034, #01-63A,  S330034; | <span title="1.32050169556608,103.863341271367">1.32050, 103.86334</span> |
+  | DELI DELIGHT 308 | 308 Anchorvale Road,  S540308; | <span title="1.38955848510235,103.886426650492">1.38956, 103.88643</span> |
+  | DUAL DRAGON SEAFOOD | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | ELA'Z TRADERS PTE LTD | 465 North Bridge Road Singapore 191465, #01-5061,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | FAN YI TANG TCM CLINIC | 13 Old Airport Road Singapore 390013, #01-63A,  S390013; | <span title="1.30707415731033,103.883582973686">1.30707, 103.88358</span> |
+  | HONG KONG STREET SEAFOOD (T610) | 610 Tampines North Drive 1,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | JEFF FRIED KWAY TEOW & HOKKIEN MEE | 90 Whampoa Drive, #01-59,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | JOO CHIAT LANE WANTON NOODLE | 90 Whampoa Drive, #01-60,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | JUICECARE | 9007 Tampines Street 93,  S528841; | <span title="1.33871119758635,103.941038540662">1.33871, 103.94104</span> |
+  | MAGGIE PLACE KITCHEN | 79 Circuit Road, #01-31,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | MOON THAI KITCHEN | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | SENQIN PTD LTD | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #01-47,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | WOODPECKER STUDIO | 86 Bedok North Street 4 Hdb-bedok Singapore 460086, #01-173,  S460086; | <span title="1.33254084365722,103.93898934581">1.33254, 103.93899</span> |
+  | XI YUE SPA (TP 825) | 825 Tampines Street 81 Dbs Tampines Street 81 Singapore 520825, #01-54,  S520825; | <span title="1.34943750941993,103.932787706747">1.34944, 103.93279</span> |
+  | YU PAN KWAY TEOW SOUP (76) | 76 Circuit Road, ST1,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-12
 
 </summary>
