@@ -13,6 +13,59 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-14
+
+</summary>
+
+Total locations: 25,525 → 25,541
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 150 GREEN VEGETARIAN | 150 Bukit Batok Street 11,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | 453 FISH SOUP | 453A Ang Mo Kio Avenue 10, #01-16,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | AH FANG FISH SOUP BAN MIAN | 103 Gangsa Road,  S670103; | <span title="1.37867070821171,103.768538440957">1.37867, 103.76854</span> |
+  | AL RSAK INDIAN MUSLIM FOOD (293 YISHUN) | 293 Yishun Street 22, ST3,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | BODYWORK BY FOOT ARTISAN | 135 Jurong Gateway Road Dbs Ntuc Jurong East Street 13 Singapore 600135, #02-323A,  S600135; | <span title="1.33385165809403,103.739826358818">1.33385, 103.73983</span> |
+  | CHEN JI HAINANESE CHICKEN RICE@79 TBL | 79 Telok Blangah Drive, #01-23,  S100079; | <span title="1.27335597437747,103.807618048888">1.27336, 103.80762</span> |
+  | EH MEDICAL FAMILY CLINIC (HOUGANG) | 449 Hougang Avenue 10 Hdb Public Shelters Singapore 530449, #B1-509,  S530449; | <span title="1.378780982438945,103.8951536018629">1.37878, 103.89515</span> |
+  | FONG KEE (TIAN JIN) | 32 New Market Road, #01-1146,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | HERITAGE YONG TAU FOO | 335 Smith Street, #02-04,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | HI LESKMI WHAMPOA NASI LEMAK | 260 Kim Keat Avenue,  S310260; | <span title="1.33211277447272,103.857378073376">1.33211, 103.85738</span> |
+  | LAO WANG HAINANESE BONELESS CHICKEN RICE | 682 Hougang Avenue 4,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | LIAN HENG POULTRY SUPPLY | 3 Yung Sheng Road, #01-56,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | LIANG SHINY 02-140 | 505 Beach Road, #02-140,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | LINDA MIXED VEG RICE | 150 Bukit Batok Street 11, ST01,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | SHUN JIALE SEAFOOD | 18 Toh Yi Drive,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | YUMMY BAKERY (TPY 85) | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-304,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+
+  </details>
+
+- <details><summary>Changed (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DRAGON HEALTH CHINESE TREATMENT CENTRE | <del>Lorong 4 Toa Payoh, #01-24,  S310094;</del><br>Lorong 4 Toa Payoh, #01-44,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | HAIRBIZ | <del>162 Bukit Merah Central, #02-3745,  S150162;</del><br>162 Bukit Merah Central, #02-3545D,  S150162; | <span title="1.28383730148701,103.81746608298">1.28384, 103.81747</span> |
+  | HONG TAI GINSENG BIRDNEST PTE LTD | <del>Ang Mo Kio Avenue 10, #01-2457,  S560532;</del><br>Ang Mo Kio Avenue 10, #01-2457B,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | <del>JOYFUL SEAFOOD EAST</del><br>JI DE CHI SEAFOOD | 116 Aljunied Avenue 2, #01-55,  S380116; | <span title="1.32124570546254,103.886700619832">1.32125, 103.88670</span> |
+  | JIN HO JIAK FRIED KWAY TEOW | <del>529 Hougang Avenue 6,  S530529;</del><br>409 Ang Mo Kio Ave 10, 01-805,  S560408; | <del title="1.37546896487502,103.890729546346">1.37547, 103.89073</del><br><span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | <del>HUP KIM</del><br>LOW KIM CHOON | Lorong 4 Toa Payoh, #01-650,  S310191; | <span title="1.33189327620475,103.851025403234">1.33189, 103.85103</span> |
+  | LUCKY BAK KUT TEH | <del>North Bridge Road, #01-5041,  S191465;</del><br>1 Beach Road, #01-4757,  S190001; | <del title="1.30522426727313,103.863097963132">1.30522, 103.86310</del><br><span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | <del>E SPA AMK</del><br>LUSH MASSAGE | 226C Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 563226, #01-651,  S563226; | <span title="1.36714737685637,103.839256279218">1.36715, 103.83926</span> |
+  | <del>M DENTAL PRACTICE (510735)</del><br>M DENTAL (PASIR RIS) PTE LTD (510735) | 735 Pasir Ris Street 72 Dbs Ntuc Pasir Ris West Plaza Singapore 510735, #02-326,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | <del>SKINNY CHEF CHANGI RD</del><br>SKINNY CHEF (CHANGI RD) | 324T Changi Road,  S419799; | <span title="1.31786851894401,103.907753065671">1.31787, 103.90775</span> |
+  | <del>SU YUAN</del><br>THIS N THAT | 1 Tanjong Pagar Plaza,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | YI PING CHICKEN RICE | <del>22 Sin Ming Road,  S570022;</del><br>27 Jalan Berseh Kelantan Court, #01-100,  S200027; | <del title="1.3572844410824,103.839396679952">1.35728, 103.83940</del><br><span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | <del>REDHILL</del><br>YJ KITCHEN | 85 Redhill Lane, #01-73,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-13
 
 </summary>
