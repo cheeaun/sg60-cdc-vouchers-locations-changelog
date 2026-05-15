@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-15
+
+</summary>
+
+Total locations: 25,541 → 25,554
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CLAYPOT RICE JE318 | 318 Jurong East Street 31,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | COLA COLD AND HOT DESSERT | 90 Whampoa Drive, #01-58,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | KIMS ENTERPRISE | 963 Jurong West Street 91 Singapore 640963, #01-326,  S640963; | <span title="1.34185939994779,103.692089452412">1.34186, 103.69209</span> |
+  | MAMAA PAYAA BANANA LEAF RESTAURANT | 960 Jurong West Street 92 Singapore 640960, #01-170,  S640960; | <span title="1.34138531163603,103.691459639611">1.34139, 103.69146</span> |
+  | SENSE BEAUTY | 258 Bukit Panjang Ring Road Bukit Panjang Neighbourhood Centre Singapore 670258, #01-44D,  S670258; | <span title="1.37789653537861,103.773153808687">1.37790, 103.77315</span> |
+  | SOLARA MEDICAL PTE LTD | 153 Serangoon North Avenue 1 Dbs Serangoon North Avenue 1 Singapore 550153, #01-534,  S550153; | <span title="1.36995099685808,103.872312298412">1.36995, 103.87231</span> |
+  | SOON LEE PORRIDGE - OA51 | 51 Old Airport Road, #01-056,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | SWEET TALK | 960 Jurong West Street 92 Singapore 640960, #01-186,  S640960; | <span title="1.34138531163603,103.691459639611">1.34139, 103.69146</span> |
+  | TAJ MAHAL DRINKS STALL 15 | 2 Adam Road, #01-15,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | WARUNG INDONESIA (BEDOK SOUTH) | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | XI YIE FOOT REFLEXOLOGY | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-806,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | YUEN KEE DUMPLINGS 768 | 768 Woodlands Avenue 6, 01-30,  S730768; | <span title="1.44562289926402,103.798140996611">1.44562, 103.79814</span> |
+  | YUMMY WESTERN | 451 Bukit Batok West Avenue 6,  S650451; | <span title="1.35303717968525,103.743942567711">1.35304, 103.74394</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GOLD BETTA AQUATICS 325 WOODLANDS</del><br>GOLD BETTA AQUATICS | <del>325 Woodlands Street 32 Hdb-woodlands Singapore 730325, #01-135,  S730325;</del><br>2 Bukit Panjang Ring Road, #02-28,  S679947; | <del title="1.43078891155605,103.779517722142">1.43079, 103.77952</del><br><span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | <del>ECONOMIC FRIED BEE HOON/ NASI LEMAK/GLUTINOUS RICE</del><br>JACKSON FRIED HOKKIEN MEE | <del>153 Serangoon North Avenue 1, ST 8,  S550153;</del><br>152 Serangoon North Avenue 1, #01-354,  S550152; | <del title="1.36995099685808,103.872312298412">1.36995, 103.87231</del><br><span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-14
 
 </summary>
