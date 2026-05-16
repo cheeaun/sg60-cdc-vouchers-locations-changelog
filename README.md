@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-16
+
+</summary>
+
+Total locations: 25,554 → 25,570
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL SUBI INDIAN MUSLIM FOOD | 711 Ang Mo Kio Avenue 8,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | BUY N SAVE (BISHAN) | 279 Bishan Street 24 Singapore 570279, #01-36,  S570279; | <span title="1.35722283118337,103.843785252615">1.35722, 103.84379</span> |
+  | CHEN JI HAINANESE CHICKEN RICE | 127 Toa Payoh Lorong 1, #02-18,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | CHICKEN RICE | 717 Yishun Street 71,  S760717; | <span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+  | FRIED DELIGHTS | 802 Tampines Avenue 4,  S520802; | <span title="1.34608442398209,103.938034023132">1.34608, 103.93803</span> |
+  | HONG XIN ECONOMIC RICE (TPY 85) | 85 Lorong 4 Toa Payoh,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | HUI JI | 49 Sims Place, #01-84,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | JJ YONG TAU FU 01-07 | 69 Geylang Bahru, #01-07,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | KL@115 | 115 Bukit Merah View, #01-115,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | LUCKY SOUP | 505 Beach Road, #B1-47,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | ORCA WHALE TEA | 118 Aljunied Avenue 2 Hdb Geylang Branch Singapore 380118, #01-104,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | RIVERWALK TANDOOR | 677 Rangoon Road Singapore 210677, #01-06,  S210677; | <span title="1.31252896906352,103.855137853723">1.31253, 103.85514</span> |
+  | STILL CAFE | 421 Ang Mo Kio Avenue 10 Teck Ghee Heartlands Singapore 560421, #01-1159,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | U GOOD FRESH 221 | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-114,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | WAN JIA XIANG NASI LEMAK | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+  | WITTY LUXE BEAUTY | 63B Lengkok Bahru Lengkok Bahru Heights Singapore 152063, #01-354,  S152063; | <span title="1.28907506834277,103.815318433481">1.28908, 103.81532</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHANG HONG TEOCHEW PORRIDGE | <del>19 Ghim Moh Road, #01-229,  S270019;</del><br>477 Tampines Street 44, #01-192,  S520477; | <del title="1.31143852315951,103.788298892377">1.31144, 103.78830</del><br><span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | FIRESTONE BAKERY | <del>60 Springside Walk The Brooks I Singapore 786020, #01-06,  S786020;</del><br>8 Jalan Legundi, #01-17,  S759274; | <del title="1.40480911505593,103.819465500143">1.40481, 103.81947</del><br><span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | <del>LEE JI BOTAK LOR MEE</del><br>LEE JI FISHBALL MUSHROOM MINCED MEAT NOODLE | 137 Tampines Street 11, #01-27,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | <del>XI YIE FOOT REFLEXOLOGY</del><br>XII YIE FOOT REFLEXOLOGY | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-806,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-15
 
 </summary>
