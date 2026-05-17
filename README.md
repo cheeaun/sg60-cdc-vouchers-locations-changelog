@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-17
+
+</summary>
+
+Total locations: 25,570 → 25,571
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | RUN ZHEN XIN CAI | 137 Tampines Street 11, #01-75,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-16
 
 </summary>

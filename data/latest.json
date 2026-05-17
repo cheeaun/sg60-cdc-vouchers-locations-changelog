@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 May 2026",
+  "lastUpdated": "17 May 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -372760,6 +372760,26 @@
         }
       },
       "lastResetDate": "2024-05-02"
+    },
+    {
+      "id": "merchant_d92fbd92-a3ff-4810-acb8-49f678c0c237",
+      "entityId": "merchant_d92fbd92-a3ff-4810-acb8-49f678c0c237",
+      "name": "RUN ZHEN XIN CAI",
+      "address": "137 Tampines Street 11, #01-75,  S521137;",
+      "postalCode": "521137",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34537347373749,
+      "LON": 103.944629422828,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-16"
     },
     {
       "id": "merchant_e7ab8dd1-dc29-425c-87ea-10c94cc729f7",
