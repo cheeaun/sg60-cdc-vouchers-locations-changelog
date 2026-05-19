@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-19
+
+</summary>
+
+Total locations: 25,571 → 25,587
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DING FENG HANDMADE FISHBALL NOODLE | 347 Ang Mo Kio Avenue 3,  S560347; | <span title="1.36733858334098,103.848576334625">1.36734, 103.84858</span> |
+  | EAT SONG SONG HANDMADE FISHBALL NOODLE (AMK 339) | 339 Ang Mo Kio Avenue 1,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | EVERTOP CLEMENTI | 354 Clementi Avenue 2 Clementi Avenue 2 Shopping Centre Singapore 120354, #01-257,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | GRILL N CHILL | 505 Beach Road, #B1-55,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | HUAT KEE YONG TAU FOO | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | J'S SIGNATURE HAIR & BEAUTY | 501 West Coast Drive Singapore 120501, #01-266A,  S120501; | <span title="1.31231254760543,103.759312529215">1.31231, 103.75931</span> |
+  | JIA JIA VEGETERIAN (BEDOK205) | 205 Bedok North Street 1,  S460205; | <span title="1.32592675434667,103.930808082635">1.32593, 103.93081</span> |
+  | KELVIN FRESH FRUITS | 20 Ghim Moh Road, #01-127,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | LIXIANG NOODLE HOUSE@665 TEKKA | 665 Buffalo Road, #01-314,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | THE COFFEE WORKSHOP (DRINK STALL) | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | TIRATO | 548 Woodlands Drive 44, 01-21,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | TONG LUCK ECONOMICAL RICE | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | WEN CHANG KEE HAINANESE CHICKEN RICE | 152A Bedok Sth Road,  S461152; | <span title="1.31767817684758,103.947397456277">1.31768, 103.94740</span> |
+  | YES! JAP & KOR CUISINE | 354 Clementi Avenue 2,  S120354; | <span title="1.3135304106234,103.770859843658">1.31353, 103.77086</span> |
+  | YOUFRESH STEAM FISH (BEDOK204) | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | YOUNG & CHIA BEAUTY | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4518,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEAUTY YAN ( 205 BEDOK NORTH) | <del>205 Bedok North Street 1 Bedok Town Centre Singapore 460205, #02-379,  S460205;</del><br>Blk 213 Bedok North St 1, #01-111,  S460213; | <del title="1.32592675434667,103.930808082635">1.32593, 103.93081</del><br><span title="1.32635298072477,103.932637214105">1.32635, 103.93264</span> |
+  | ES KITCHEN (522602) | <del>602B Tampines Avenue 9,  S522602;</del><br>633 Tampines North Dr 2, #02-01,  S520633; | <del title="1.36138884982369,103.937648040157">1.36139, 103.93765</del><br><span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | <del>THE COFFEE EDITION</del><br>KOFFEE O'CLOCK | 14 Haig Road, #01-54,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | <del>HAJI MOHD NOORDDIN TEA STALL</del><br>MOHAMED NAUFAL DRINK STALL | 14 Haig Road, #01-27,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-17
 
 </summary>
