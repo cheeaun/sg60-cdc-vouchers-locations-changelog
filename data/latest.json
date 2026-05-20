@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 May 2026",
+  "lastUpdated": "20 May 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -8980,6 +8980,26 @@
         }
       },
       "lastResetDate": "2025-04-25"
+    },
+    {
+      "id": "merchant_5aab2c11-59a0-46ba-bb1a-464707316a38",
+      "entityId": "merchant_5aab2c11-59a0-46ba-bb1a-464707316a38",
+      "name": "16 YONG TAU FOO",
+      "address": "16 Teck Whye Lane,  S680016;",
+      "postalCode": "680016",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37842710387364,
+      "LON": 103.754911815576,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_8984ac32-0b31-4333-b406-ee93e8f40ad6",
@@ -33922,6 +33942,26 @@
       "lastResetDate": "2026-01-30"
     },
     {
+      "id": "merchant_ff8e9af9-8687-4d81-864d-3d4008ebb4a1",
+      "entityId": "merchant_ff8e9af9-8687-4d81-864d-3d4008ebb4a1",
+      "name": "AH MA SEAFOOD KITCHEN",
+      "address": "451 Bukit Batok West Avenue 6,  S650451;",
+      "postalCode": "650451",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35303717968525,
+      "LON": 103.743942567711,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
+    },
+    {
       "id": "merchant_38f8c082-d9ce-4f38-9a00-e88bd8191d57",
       "entityId": "merchant_38f8c082-d9ce-4f38-9a00-e88bd8191d57",
       "name": "AH MA TASTE (848 YISHUN)",
@@ -38419,7 +38459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-11"
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_3001f6a1-fa0d-4273-9a7a-fb73730411bc",
@@ -119702,6 +119742,26 @@
       "lastResetDate": "2024-01-17"
     },
     {
+      "id": "merchant_a308b5d9-8b85-498c-833b-df44d8ffcc7f",
+      "entityId": "merchant_a308b5d9-8b85-498c-833b-df44d8ffcc7f",
+      "name": "DING XIANG",
+      "address": "450 Clementi Avenue 3,  S120450;",
+      "postalCode": "120450",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31353886128,
+      "LON": 103.765476305204,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
+    },
+    {
       "id": "merchant_57d3f66d-951a-43ca-9b46-cce142655f26",
       "entityId": "merchant_57d3f66d-951a-43ca-9b46-cce142655f26",
       "name": "DING XIANG (293 YISHUN)",
@@ -150380,6 +150440,26 @@
         }
       },
       "lastResetDate": "2025-06-19"
+    },
+    {
+      "id": "merchant_f3be2316-e9db-44e3-84c4-38a296e2bd17",
+      "entityId": "merchant_f3be2316-e9db-44e3-84c4-38a296e2bd17",
+      "name": "FIVE TEN WESTERN GRILL AND HOKKIEN PRAWN NOODLE",
+      "address": "660A Edgedale Plains,  S821660;",
+      "postalCode": "821660",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40262197348865,
+      "LON": 103.916519598298,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_92232a8d-e530-4fc9-a4a4-566a17de7cbe",
@@ -222242,6 +222322,26 @@
       "lastResetDate": "2025-12-29"
     },
     {
+      "id": "merchant_fad05854-2df7-4f2e-a230-a90bc554e420",
+      "entityId": "merchant_fad05854-2df7-4f2e-a230-a90bc554e420",
+      "name": "IVORY DENTAL (TAMPINES)",
+      "address": "666 Tampines Street 64, #01-02,  S520666;",
+      "postalCode": "520666",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3697895869097,
+      "LON": 103.935498500589,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
+    },
+    {
       "id": "merchant_03e86d48-ac10-4102-9d59-62bb6113590e",
       "entityId": "merchant_03e86d48-ac10-4102-9d59-62bb6113590e",
       "name": "IVORY DENTAL PTE LTD - YISHUN 471B",
@@ -236360,6 +236460,26 @@
         }
       },
       "lastResetDate": "2023-08-03"
+    },
+    {
+      "id": "merchant_9e261f33-ddcc-4967-a696-96d2aec68710",
+      "entityId": "merchant_9e261f33-ddcc-4967-a696-96d2aec68710",
+      "name": "JKT WESTERN (LENGKOK BAHRU)",
+      "address": "55 Lengkok Bahru,  S151055;",
+      "postalCode": "151055",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28744981772847,
+      "LON": 103.81344506122,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_f681e755-4647-4ab3-8b85-9389727f009e",
@@ -258459,7 +258579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-27"
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_17637f08-d784-4bd4-8e07-740ddde50037",
@@ -289259,7 +289379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-04-06"
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_f2170cc2-f2aa-4c3f-99bb-5714c230a207",
@@ -362562,6 +362682,26 @@
       "lastResetDate": "2022-04-18"
     },
     {
+      "id": "merchant_a9ed2f10-5526-4d1e-b82a-e352f7ea3dd5",
+      "entityId": "merchant_a9ed2f10-5526-4d1e-b82a-e352f7ea3dd5",
+      "name": "RAJ MART",
+      "address": "118 Rivervale Drive, ST31,  S540118;",
+      "postalCode": "540118",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38493202140034,
+      "LON": 103.901558018666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
+    },
+    {
       "id": "merchant_e7183af2-0e45-40c1-8791-d48dd2cd3a01",
       "entityId": "merchant_e7183af2-0e45-40c1-8791-d48dd2cd3a01",
       "name": "RAJ MART (TP829)",
@@ -364279,7 +364419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-20"
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_b399a165-716c-44c6-b6ed-509b32d48e8e",
@@ -365780,6 +365920,26 @@
         }
       },
       "lastResetDate": "2024-05-02"
+    },
+    {
+      "id": "merchant_3aad2c20-dfaf-434e-937b-3f9a40fae2a6",
+      "entityId": "merchant_3aad2c20-dfaf-434e-937b-3f9a40fae2a6",
+      "name": "REN YI VEGETARIAN",
+      "address": "820 Tampines Street 81,  S520820;",
+      "postalCode": "520820",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.347929652568,
+      "LON": 103.936119933977,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_0ecc92c2-0558-47e9-b418-521c7a7a153e",
@@ -372480,6 +372640,26 @@
         }
       },
       "lastResetDate": "2024-09-12"
+    },
+    {
+      "id": "merchant_fce37f50-c8ef-4964-8c6f-f74390dc7f9a",
+      "entityId": "merchant_fce37f50-c8ef-4964-8c6f-f74390dc7f9a",
+      "name": "RUAN FANG WANTON NOODLE",
+      "address": "323 Bukit Batok Street 33,  S650323;",
+      "postalCode": "650323",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36103222148882,
+      "LON": 103.748091419935,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_be888522-9bd1-45cb-8687-b714b09f96aa",
@@ -418282,6 +418462,26 @@
       "lastResetDate": "2023-06-08"
     },
     {
+      "id": "merchant_244622f5-9229-42e5-b827-c95f6915516e",
+      "entityId": "merchant_244622f5-9229-42e5-b827-c95f6915516e",
+      "name": "SUPER BEAUTY HUB",
+      "address": "154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-404,  S550154;",
+      "postalCode": "550154",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37012983399512,
+      "LON": 103.873115537451,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
+    },
+    {
       "id": "merchant_e08d1b35-1412-4856-9b7e-28c3a2f84f1d",
       "entityId": "merchant_e08d1b35-1412-4856-9b7e-28c3a2f84f1d",
       "name": "SUPER BLADES PTE LTD",
@@ -419440,6 +419640,26 @@
         }
       },
       "lastResetDate": "2021-11-15"
+    },
+    {
+      "id": "merchant_608d6071-f3a6-489a-bef4-81532391da6c",
+      "entityId": "merchant_608d6071-f3a6-489a-bef4-81532391da6c",
+      "name": "SUZANA @ QUEENS ST",
+      "address": "270 Queen Street, #01-126,  S180270;",
+      "postalCode": "180270",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30110201573423,
+      "LON": 103.854115779087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_5a9ca197-c3e5-4514-b94a-9bf99cbc07ba",
@@ -424060,6 +424280,26 @@
         }
       },
       "lastResetDate": "2022-09-20"
+    },
+    {
+      "id": "merchant_1f08090d-51b6-4d8c-a016-731d674fefd6",
+      "entityId": "merchant_1f08090d-51b6-4d8c-a016-731d674fefd6",
+      "name": "TAI WAH PORK NOODLE (M.V)",
+      "address": "221 Mount Vernon Road, ST 7,  S360221;",
+      "postalCode": "360221",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34172888603572,
+      "LON": 103.880577622977,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_0fb6c376-077f-426f-a4c5-c4b40d82c250",
@@ -445020,6 +445260,26 @@
         }
       },
       "lastResetDate": "2025-04-09"
+    },
+    {
+      "id": "merchant_3b13e331-0bc1-4e64-b3af-e0bbac9fa993",
+      "entityId": "merchant_3b13e331-0bc1-4e64-b3af-e0bbac9fa993",
+      "name": "TIAN TIAN VEGETABLE STALL",
+      "address": "21 Sengkang West Avenue,  S797650;",
+      "postalCode": "797650",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39172205939728,
+      "LON": 103.877039053461,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-05-19"
     },
     {
       "id": "merchant_e5c7edfb-55c5-4693-a751-ffccf9cbc5c7",

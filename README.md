@@ -13,6 +13,36 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-20
+
+</summary>
+
+Total locations: 25,587 → 25,600
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 16 YONG TAU FOO | 16 Teck Whye Lane,  S680016; | <span title="1.37842710387364,103.754911815576">1.37843, 103.75491</span> |
+  | AH MA SEAFOOD KITCHEN | 451 Bukit Batok West Avenue 6,  S650451; | <span title="1.35303717968525,103.743942567711">1.35304, 103.74394</span> |
+  | DING XIANG | 450 Clementi Avenue 3,  S120450; | <span title="1.31353886128,103.765476305204">1.31354, 103.76548</span> |
+  | FIVE TEN WESTERN GRILL AND HOKKIEN PRAWN NOODLE | 660A Edgedale Plains,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | IVORY DENTAL (TAMPINES) | 666 Tampines Street 64, #01-02,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | JKT WESTERN (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | RAJ MART | 118 Rivervale Drive, ST31,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | REN YI VEGETARIAN | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | RUAN FANG WANTON NOODLE | 323 Bukit Batok Street 33,  S650323; | <span title="1.36103222148882,103.748091419935">1.36103, 103.74809</span> |
+  | SUPER BEAUTY HUB | 154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-404,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | SUZANA @ QUEENS ST | 270 Queen Street, #01-126,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | TAI WAH PORK NOODLE (M.V) | 221 Mount Vernon Road, ST 7,  S360221; | <span title="1.34172888603572,103.880577622977">1.34173, 103.88058</span> |
+  | TIAN TIAN VEGETABLE STALL | 21 Sengkang West Avenue,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-19
 
 </summary>
