@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-21
+
+</summary>
+
+Total locations: 25,600 → 25,608
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 309 FRIED HOKKIEN MEE | 309 Hougang Avenue 5,  S530309; | <span title="1.36620554681345,103.895152424666">1.36621, 103.89515</span> |
+  | AH JANE HANDMADE NOODLE | 202 Ang Mo Kio Avenue 3,  S560202; | <span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | AURORA CLINIC & SURGERY | 689A Woodlands Drive 75 Hdb-woodlands Singapore 731689, #01-86,  S731689; | <span title="1.44438629292754,103.807925409687">1.44439, 103.80793</span> |
+  | GOGO MART (JW507) | 507 Jurong West Street 52 Hong Kah Point Singapore 640507, #01-150,  S640507; | <span title="1.34902708903263,103.718429933971">1.34903, 103.71843</span> |
+  | PIN WEI ROASTED DELIGHTS | 19 Toh Yi Drive,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+  | SAKANA SUPPU | Blk 209B Clementi Avenue 6,  S122209; | <span title="1.32307183298737,103.763858722838">1.32307, 103.76386</span> |
+  | XAROMA CAFE | 554 Ang Mo Kio Avenue 10 Cheng San Place Singapore 560554, #01-2048,  S560554; | <span title="1.37282000844329,103.857784026362">1.37282, 103.85778</span> |
+  | ZENG JI HAINANESE CHICKEN RICE | 46 Holland Drive,  S270046; | <span title="1.30878949399241,103.792695569227">1.30879, 103.79270</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>MIN CHOO SALONS (EUNOS)</del><br>MIN CHOO (EUNOS) SALONS | 5 Eunos Crescent Singapore 400005, #01-2625,  S400005; | <span title="1.32119096792976,103.903554516253">1.32119, 103.90355</span> |
+  | <del>PONTIAN WANTON NOODLE(PG231)</del><br>PONTIAN WANTON NOODLE (JW505) | <del>231 Sumang Lane,  S820231;</del><br>505 Jurong West St 52, #01-190,  S640505; | <del title="1.40205998268188,103.892211658905">1.40206, 103.89221</del><br><span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-20
 
 </summary>
