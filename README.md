@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-22
+
+</summary>
+
+Total locations: 25,608 → 25,620
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 162 CHICKEN RICE | 162 Ang Mo Kio Avenue 4, #01-20,  S560162; | <span title="1.3741075702016,103.838863921122">1.37411, 103.83886</span> |
+  | CHANG LAI CHANG WANG | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | CHONG PANG HUAT BBQ CHICKEN WINGS@61 TBL | 61 Telok Blangah Hts, St4,  S100061; | <span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | GUO RI ZI CHICKEN RICE@ 665 TEKKA | 665 Buffalo Road, #01-297,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | LIM LEONG SOON MINIMART | 265 Bukit Batok East Avenue 4 Bonaventure 86 Pte Ltd Singapore 650265, #01-401,  S650265; | <span title="1.35000839590252,103.759862841397">1.35001, 103.75986</span> |
+  | LO CHAN KEE CANTONESE WANTON NOODLES (AMK 722) | 722 Ang Mo Kio Avenue 8,  S560722; | <span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | SAM FRUITS | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-200,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | SENSE WITH LOVE | 465 Crawford Lane Singapore 190465, #02-14,  S190465; | <span title="1.30512319499862,103.86274639248">1.30512, 103.86275</span> |
+  | TENDERBEST R (EUNOS 2A) | 2A Eunos Crescent,  S401002; | <span title="1.3202011052846,103.903193509829">1.32020, 103.90319</span> |
+  | XIAO CHU NIANG CAN YIN | 221 Boon Lay Place,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | YAN XI TANG @CIRCUIT RD | 36 Circuit Road Hdb-macpherson Singapore 370036, #01-410A,  S370036; | <span title="1.32902607919001,103.88693079734">1.32903, 103.88693</span> |
+  | ZHEN ZHENG HANDMADE PAU | 57 New Upper Changi Road,  S461057; | <span title="1.32424554153984,103.941568704132">1.32425, 103.94157</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SHAQINA COLLECTION | <del>1 Geylang Serai, #02-29,  S402001;</del><br>13 Haig Road, #01-35,  S430013; | <del title="1.31672515005311,103.897977411392">1.31673, 103.89798</del><br><span title="1.31510752106275,103.895587944619">1.31511, 103.89559</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-21
 
 </summary>
