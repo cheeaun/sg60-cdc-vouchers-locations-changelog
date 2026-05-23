@@ -13,6 +13,59 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-23
+
+</summary>
+
+Total locations: 25,620 → 25,646
+
+- <details><summary>Added (26)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 632 BEDOK YU PAN | 632 Bedok Reservoir Road Eunos Grove Singapore 470632, #01-862,  S470632; | <span title="1.33205052569764,103.914146202298">1.33205, 103.91415</span> |
+  | A1 MART | 418 Bedok North Avenue 2 Garden Hill Singapore 460418, #01-81,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | BAKEINC - 345 JURONG EAST | 345 Jurong East Street 31 Dbs Ntuc Jurong East Street 31/345 Singapore 600345, #01-27,  S600345; | <span title="1.34551210586752,103.73121914575">1.34551, 103.73122</span> |
+  | BEEFY & CHICKY BROS | National Development Building, Annex B, Telok Ayer Street, #01-70,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | BREAD & GO | 727 Clementi West Street 2, ST11,  S120727; | <span title="1.30462487668384,103.763817745572">1.30462, 103.76382</span> |
+  | CHI LIU XIANG BEVERAGE 118 | 118 Commonwealth Crescent,  S140118; | <span title="1.30675132855828,103.800693403924">1.30675, 103.80069</span> |
+  | CHI LIU XIANG LIVE SEAFOOD 118 | 118 Commonwealth Crescent,  S140118; | <span title="1.30675132855828,103.800693403924">1.30675, 103.80069</span> |
+  | CHICKEN WORLD | 159 Mei Chin Road, #01-45,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | CITI AESTHETICS MEDICAL CLINIC | 726 Ang Mo Kio Avenue 6 Singapore 560726, #01-4164,  S560726; | <span title="1.37278358482637,103.84644830631">1.37278, 103.84645</span> |
+  | CR EXCLUSIVE ACCESSORIES | 628 Ang Mo Kio Avenue 4, #01-28,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | CUI XIANG YUAN RESTAURANT (TPY 75) | 75 Toa Payoh Lorong 5, #01-34,  S310075; | <span title="1.336020767662,103.852956988062">1.33602, 103.85296</span> |
+  | D' NAIL (D'NAIL ANG MO KIO TG) | 332 Ang Mo Kio Avenue 1 Teck Ghee View Singapore 560332, #01-1885,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | DING WANG ROJAK ( TP828) | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | FRESH VEGETABLES | 453A Ang Mo Kio Avenue 10, #01-108,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | FU MAN DUO SOUTH WEST DUMPLING . EGG NOODLES | 59 Marine Terrace,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | HAIR CARE (STIRLING) | 171 Stirling Road Stirling View Singapore 140171, #01-1105,  S140171; | <span title="1.29073246202285,103.803846934678">1.29073, 103.80385</span> |
+  | LEXUS DURIAN KING (TP823A) | 823A Tampines Street 81, 9,  S521823; | <span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | LONGHE CHARCOAL ROASTED | 119 Bukit Merah Lane 1,  S151119; | <span title="1.28593893475633,103.804715808324">1.28594, 103.80472</span> |
+  | MINTY MUSE FASHION | 335 Smith Street, #01-160,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | NAGORE MEAT PTE. LTD. | 74 Toa Payoh Lorong 4, #02-21,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | NENE CHICKEN @ 520478 | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | SAI GON PHO | 1 Kadayanallur Street, #01-51,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | TEOCHEW FISH SOUP | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | W.E HAIR IN VOGUE PTE LTD | 333 Kreta Ayer Road Hdb-central Area Singapore 080333, #01-27B,  S080333; | <span title="1.28074833681274,103.84246340102">1.28075, 103.84246</span> |
+  | WAN LI XIANG MIXED VEGE RICE | 118 Commonwealth Crescent,  S140118; | <span title="1.30675132855828,103.800693403924">1.30675, 103.80069</span> |
+  | WP22 CURRY PUFF | 91 Whampoa Drive, #01-22,  S320091; | <span title="1.32342818718207,103.854060197812">1.32343, 103.85406</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANT TCM WELLNESS | <del>124 Hougang Avenue 1 Dbs Hougang Avenue 1 Singapore 530124, #01-1454A,  S530124;</del><br>123 Hougang Ave 1, 01-1430,  S530123; | <del title="1.35290792137123,103.886731553415">1.35291, 103.88673</del><br><span title="1.35338313541393,103.886258951798">1.35338, 103.88626</span> |
+  | FIVE TEN WESTERN @ 530118 | <del>118 Hougang Avenue 1,  S530118;</del><br>Blk 210 Hougang St 21, #01-261,  S530210; | <del title="1.35345957179709,103.887488043611">1.35346, 103.88749</del><br><span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | SRI WAJA | <del>217 Bedok North Street 1 Bedok Town Centre Singapore 460217, #01-57,  S460217;</del><br>217 Bedok North Street 1 Bedok Town Centre Singapore 460217, #01-55,  S460217; | <span title="1.32683721721427,103.933920712718">1.32684, 103.93392</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-22
 
 </summary>
