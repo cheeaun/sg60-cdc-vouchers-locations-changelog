@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-26
+
+</summary>
+
+Total locations: 25,646 → 25,659
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 68 NONYA KUEH - CLEMENTI | 441A Clementi Avenue 3 Clementi Towers Singapore 121441, #01-08,  S121441; | <span title="1.31463913092205,103.764797687774">1.31464, 103.76480</span> |
+  | ADAM INDIAN MUSLIM FOOD | 107 Clementi Street 12,  S120107; | <span title="1.32225475067051,103.769960685492">1.32225, 103.76996</span> |
+  | BORED TACOS (BEDOK RD) | 288 Bedok Road Bedok Shopping Complex Singapore 469444, #01-00,  S469444; | <span title="1.33174973038133,103.948439508577">1.33175, 103.94844</span> |
+  | DADDYS MART | 20 Bedok Rise The Glades Singapore 465411, #01-67,  S465411; | <span title="1.32767658775031,103.949805173068">1.32768, 103.94981</span> |
+  | EASTERN HEALING TCM CLINIC (MACPHERSON) | 91 Paya Lebar Way Hdb-geylang Singapore 370091, #01-3025,  S370091; | <span title="1.32268116095086,103.886737921495">1.32268, 103.88674</span> |
+  | FLORAL SKIN BEAUTY | 110 Yishun Ring Road Chong Pang Garden Singapore 760110, #01-381,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | HUA MULAN 505 JURONG WEST | 505 Jurong West Street 52, #01-26,  S640505; | <span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+  | JIN DE YUN STEAMED SOUP AND RICE | 146 Jalan Bukit Merah,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | LOTUS MINIMART PTE LTD | 334 Kreta Ayer Road Hdb-central Area Singapore 080334, #01-10,  S080334; | <span title="1.28160641229699,103.84233592597">1.28161, 103.84234</span> |
+  | MAKAN STAR@MALA | 2 Ang Mo Kio Drive Carpe Diem @ Ite Pte. Ltd. Singapore 567720, #04-09,  S567720; | <span title="1.37789204897273,103.856411982029">1.37789, 103.85641</span> |
+  | PUNG PUNG KITCHEN | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | UNCLE LIM HARDWARE | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1629,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | YISILAN MALA RESTAURANT (BEDOK 355) | 355 Bedok Road Singapore 469543, #01-35,  S469543; | <span title="1.33154651985243,103.947082174543">1.33155, 103.94708</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DING FENG MIXED VEG RICE | <del>56 New Upper Changi Road,  S461056;</del><br>56 New Upper Changi Road, #01-1300,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | GUAN ANN CHAN GINSENG MEDICAL HALL | <del>259A Bangkit Road Bukit Panjang Neighbourhood Centre Singapore 670259, #01-18C,  S670259;</del><br>258 Bukit Panjang Ring Road Bukit Panjang Neighbourhood Centre, #01-66,  S670258; | <del title="1.37750727624619,103.77360557644">1.37751, 103.77361</del><br><span title="1.37789653537861,103.773153808687">1.37790, 103.77315</span> |
+  | <del>SEABAY DELIGHT (Y507)</del><br>SEABAY DELIGHTS (PLA09) | <del>507 Yishun Avenue 4,  S760507;</del><br>127 Plantation Crescent, Plantation Plaza, #03-02,  S690127; | <del title="1.41517413065244,103.839827784744">1.41517, 103.83983</del><br><span title="1.35759319436135,103.734174851203">1.35759, 103.73417</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-23
 
 </summary>
