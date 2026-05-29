@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-29
+
+</summary>
+
+Total locations: 25,366 → 25,399
+
+- <details><summary>Added (33)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 590 ZI CHAR | 590 Montreal Link,  S750590; | <span title="1.45063212743043,103.826554055194">1.45063, 103.82655</span> |
+  | ALIS FRY & GRILL SBW 505 | 505 Canberra Link, 01-04,  S750505; | <span title="1.45026201889682,103.822534715231">1.45026, 103.82253</span> |
+  | AMRAN'S KITCHEN | 2 Jalan Lokam Kensington Square Singapore 537846, #01-48,  S537846; | <span title="1.34560719747232,103.882695128109">1.34561, 103.88270</span> |
+  | ASHFORD DENTAL CENTRE | 197 Upper Paya Lebar Road Singapore 534874, #01-197,  S534874; | <span title="1.34031209245522,103.88483781451">1.34031, 103.88484</span> |
+  | BG MIXED VEG RICE | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | CALROSE MEDICAL FAMILY CLINIC-231A SUMANG LN | 231 Sumang Lane Matilda Court Singapore 820231, #01-05,  S820231; | <span title="1.40205998268188,103.892211658905">1.40206, 103.89221</span> |
+  | DEVI LAM GIAU WELLNESS | 264 Tampines Street 21 Hdb-tampines Singapore 520264, #01-114,  S520264; | <span title="1.35280486315014,103.951145717078">1.35280, 103.95115</span> |
+  | DOCTOR CIRCUIT PTE LTD | 66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-493,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | EYECARE 24/7 TENGAH | 302 Tengah Park Avenue, #01-08,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | FIVE OARS COFFEE ROASTER (UEC) | 6 Upper East Coast Road Singapore 455200, #01-01/02,  S455200; | <span title="1.31233251677686,103.925541273007">1.31233, 103.92554</span> |
+  | FIVE STAR @ KATONG | 191 East Coast Road Singapore 428897, #01-00,  S428897; | <span title="1.30717070558181,103.906377723732">1.30717, 103.90638</span> |
+  | GONG FANG TANG (EAST COAST) | 160 East Coast Road Singapore 428867, #01-00,  S428867; | <span title="1.30639193295242,103.906037912026">1.30639, 103.90604</span> |
+  | HERNG HOKKIEN MEE | 210 Toa Payoh Lorong 8, #01-52,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | HMI ONECARE JE131 | 131 Jurong Gateway Road Hsbc Jurong Branch Singapore 600131, #01-245A,  S600131; | <span title="1.33473650438665,103.740093530646">1.33474, 103.74009</span> |
+  | HOCK CHOO CO | 427 Changi Road Singapore 419870, #01-427A,  S419870; | <span title="1.31903675649046,103.911602778067">1.31904, 103.91160</span> |
+  | HOKKIEN COOKED FOOD | 427 Changi Road Singapore 419870, #01-01,  S419870; | <span title="1.31903675649046,103.911602778067">1.31904, 103.91160</span> |
+  | HONG KONG HUA SEAFOOD | 21 Hougang Street 51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | JI DE CHI @ HG GREEN | 21 Hougang Street 51 Dbs Hougang Green Shopping Mall Singapore 538719, #01-15,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | JIANG KEE FRESH-MADE DUMPLINGS (TPY 190) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-526,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | KAZAN (JAPANESE CUISINE) | 335 Smith Street, #02-01,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | LE CAFE VIE5 | 151 Upper Paya Lebar Road Singapore 534851, #01-151,  S534851; | <span title="1.33930650427656,103.885779318695">1.33931, 103.88578</span> |
+  | LE MINTS DENTAL CENTRE | 172 East Coast Road Singapore 428878, #01-00,  S428878; | <span title="1.30656829522233,103.906241404599">1.30657, 103.90624</span> |
+  | MIANBA NOODLE HOUSE | 427 Changi Road Singapore 419870, #01-427C,  S419870; | <span title="1.31903675649046,103.911602778067">1.31904, 103.91160</span> |
+  | OTTER PIZZA@HG GREEN | 21 Hougang Street 51 Dbs Hougang Green Shopping Mall Singapore 538719, #01-15,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | PHO GA CHICKEN NOODLE SOUP | 519A Tampines Central 8,  S521519; | <span title="1.35727594461393,103.940381600354">1.35728, 103.94038</span> |
+  | PONDOK SATAY | 2 Adam Road, #01-13,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | RIYA MART | 155 Upper Paya Lebar Road Singapore 534853, #01-155,  S534853; | <span title="1.33939279389248,103.885702637818">1.33939, 103.88570</span> |
+  | SITI NUR LIYANA NASI LEMAK | 2 Adam Road, #01-14,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+  | SUNNY KITCHEN | 485 Segar Road,  S670485; | <span title="1.38868132378093,103.771312569429">1.38868, 103.77131</span> |
+  | TAI WAI PORK NOODLE | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | THAI YAOWARAT | 427 Changi Road Singapore 419870, #01-427,  S419870; | <span title="1.31903675649046,103.911602778067">1.31904, 103.91160</span> |
+  | YINLE HOT & COLD BEVERAGES | 4 Woodlands Street 12, #01-13,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | ZHEN XIANG WEI@HG GREEN. | 21 Hougang Street 51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-27
 
 </summary>
