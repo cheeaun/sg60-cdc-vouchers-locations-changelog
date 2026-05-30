@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-05-30
+
+</summary>
+
+Total locations: 25,399 → 25,416
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEO MUSLIM FOOD | 38A Beo Crescent, #01-81,  S169982; | <span title="1.28883089150258,103.827353892228">1.28883, 103.82735</span> |
+  | CHEESY KEBAB | 2 Bukit Panjang Ring Road, #01-08,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | ENERGY BOWL@73A ARC | 73A Ayer Rajah Crescent, ST19,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+  | HOME BUTCHERY | 276 Bukit Batok East Avenue 4, #01-116,  S650276; | <span title="1.34778396939552,103.758435971502">1.34778, 103.75844</span> |
+  | IPOH STREET YUMMIES | 4 Defu Lane 10,  S539185; | <span title="1.35963371506222,103.89510319719">1.35963, 103.89510</span> |
+  | IRIS FLORIST | 209 Hougang Street 21, #01-162,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | LEMONGRASS STORY | 182 Woodlands Street 13, 01-3683,  S730182; | <span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | MR DUCK@61 TBL | 61 Telok Blangah Hts, St3,  S100061; | <span title="1.27570500784019,103.812007084346">1.27571, 103.81201</span> |
+  | PAWS FUR LIFE | 398 Changi Road The Lenox Singapore 419845, #01-03,  S419845; | <span title="1.31853119632694,103.911298335327">1.31853, 103.91130</span> |
+  | POPULAR FOOD | 212 Hougang Street 21, 01,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | RONG XING FRUITS@78A TBL | 78A Telok Blangah Street 32 Dbs Ntuc Telok Blangah Street 32 Singapore 101078, #01-04,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | SEDAP! K | 459 Changi Road Singapore 419882, #01-459,  S419882; | <span title="1.31932932633518,103.912609159071">1.31933, 103.91261</span> |
+  | WANG DA YE MALA HOTPOT - SIMS DRIVE | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | WANG XIANG KOPI TOAST | 85 Redhill Lane, #01-32,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | WARONG MINANG | 2 Joo Chiat Road,  S420002; | <span title="1.31553964446015,103.898764895693">1.31554, 103.89876</span> |
+  | YI WAN XIAN 155 | 155 Bukit Batok Street 11,  S650155; | <span title="1.34791302977746,103.743495445758">1.34791, 103.74350</span> |
+  | ZHI JIAN MIAO SHOU TCM MASSAGE HOUSE | 338 Changi Road Mera East Singapore 419977, #01-06,  S419977; | <span title="1.31817526770849,103.909292082346">1.31818, 103.90929</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>LOR 9 FP 328</del><br>GEYLANG LOR 9 FP (212) | <del>328 Clementi Avenue 2,  S120328;</del><br>212 Hougang St 21, #01-349,  S530212; | <del title="1.31399161476536,103.767089003977">1.31399, 103.76709</del><br><span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | <del>TAI WAI PORK NOODLE</del><br>TAI WAH PORK NOODLE | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-29
 
 </summary>
