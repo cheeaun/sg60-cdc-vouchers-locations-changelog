@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "01 Jun 2026",
+  "lastUpdated": "02 Jun 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -262760,6 +262760,26 @@
         }
       },
       "lastResetDate": "2025-10-23"
+    },
+    {
+      "id": "merchant_7af7c0aa-27e0-4106-82f2-d827866f8e79",
+      "entityId": "merchant_7af7c0aa-27e0-4106-82f2-d827866f8e79",
+      "name": "KUNGFU JB PAU",
+      "address": "201 Tampines Street 21,  S520201;",
+      "postalCode": "520201",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35289506312913,
+      "LON": 103.953585683185,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-01"
     },
     {
       "id": "merchant_7e81cfd3-a116-4fa3-af7e-7ea1ad0442a5",

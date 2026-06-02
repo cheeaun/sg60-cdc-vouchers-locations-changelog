@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-02
+
+</summary>
+
+Total locations: 25,416 → 25,417
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | KUNGFU JB PAU | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-05-30
 
 </summary>
