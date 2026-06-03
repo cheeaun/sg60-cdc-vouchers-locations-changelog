@@ -13,6 +13,90 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-03
+
+</summary>
+
+Total locations: 25,417 → 25,447
+
+- <details><summary>Added (30)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 26 STALL FISHBALL NOODLES / LAKSA | 117 Aljunied Avenue 2, #01-26,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | 279 BALMONT DRINKS | 279 Sengkang East Avenue,  S540279; | <span title="1.38621835522425,103.89299549602">1.38622, 103.89300</span> |
+  | 406 JAPANESE & KOREAN CUISINE | 406 Tampines Street 41,  S520406; | <span title="1.35783243904096,103.945773504554">1.35783, 103.94577</span> |
+  | AAHA BRIYANI | 935 Yishun Central 1 Hdb-yishun Singapore 760935, #01-45,  S760935; | <span title="1.42518005921711,103.836596318713">1.42518, 103.83660</span> |
+  | BAI LI XIANG BEEHOON | 505 Canberra Link,  S750505; | <span title="1.45026201889682,103.822534715231">1.45026, 103.82253</span> |
+  | CA FLOWERS & GIFTS | 930 Yishun Central 1 Hdb-yishun Singapore 760930, #01-127,  S760930; | <span title="1.42691548147226,103.837351206319">1.42692, 103.83735</span> |
+  | CHEOW HUA STATIONERY & DEPT STORE | 264 Tampines Street 21 Hdb-tampines Singapore 520264, #01-106,  S520264; | <span title="1.35280486315014,103.951145717078">1.35280, 103.95115</span> |
+  | D&M BAN MIAN | 57 Geylang Bahru,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | DIAN LAO ER TRADITIONAL CLAYPOT DELIGHT | 638 Veerasamy Road,  S200638; | <span title="1.30723342621978,103.85534583569">1.30723, 103.85535</span> |
+  | FUQING YISHUN | 925 Yishun Central 1,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | HEI KITCHEN (NUC) | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | LAO FAN JI CLAYPOT RICE & HERBAL BAK KUT TEH | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | LEONG TEE DURIAN | 264 Tanjong Katong Road Singapore 437051, #01-264,  S437051; | <span title="1.30593886562286,103.895775213787">1.30594, 103.89578</span> |
+  | MARU MORI WESTERN FOOD ( TP954) | 954D Tampines Street 96,  S524954; | <span title="1.34172359071434,103.936566716765">1.34172, 103.93657</span> |
+  | MERRY DAY | 531A Upper Cross Street, #01-44,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | MUM MUM 31 - PUTU | 120 Bukit Merah Lane 1, #01-50,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | MUMBAY SALON | 139 Simei Street 1 Hdb-simei Singapore 520139, #01-16,  S520139; | <span title="1.34668351000416,103.956561347886">1.34668, 103.95656</span> |
+  | OPPA | 417 Yishun Avenue 11, R,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | RJY LUCKY HAIR CUT (UBI301) | 301 Ubi Avenue 1 Singapore 400301, #01-245,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | ROASTED DELIGHTS | Blk 209B Clementi Avenue 6,  S122209; | <span title="1.32307183298737,103.763858722838">1.32307, 103.76386</span> |
+  | SING HO HAINAN CHICKEN RICE | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | SRI LAKSHMI NARAYANA RESTAURANT | 9007 Tampines Street 93,  S528841; | <span title="1.33871119758635,103.941038540662">1.33871, 103.94104</span> |
+  | SRISUN PRATA.COM | 418 Yishun Avenue 11, 385G,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | TONG XIN YUAN | 85 Bedok North Street 4, #01-20,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | UNTITLED HAIR STUDIO | 498 Jurong West Street 41 Dbs Ntuc Jurong West Street 41 Singapore 640498, #01-448,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | WELCOME 424 BUKIT BATOK | 424 Bukit Batok West Avenue 2 Hdb-bukit Batok Singapore 650424, #01-239,  S650424; | <span title="1.36185535796353,103.74553689387">1.36186, 103.74554</span> |
+  | XIANG CHU HUNAN CUISINE (T666) | 666 Tampines Street 64,  S520666; | <span title="1.3697895869097,103.935498500589">1.36979, 103.93550</span> |
+  | YUEN CHOON SIANG ZHUAN TRADING | 305 Woodlands Street 31 Singapore 730305, #01-55,  S730305; | <span title="1.43036145835565,103.774102414119">1.43036, 103.77410</span> |
+  | ZHENG WEI BRAISED DUCK (163A GANGSA) | 163A Gangsa Road,  S671163; | <span title="1.37693802145847,103.764352791521">1.37694, 103.76435</span> |
+  | ZMG HAIR SALON (115B ALKAFF CRES) | 115B Alkaff Crescent Alkaff Lakeview Singapore 342115, #01-09,  S342115; | <span title="1.33686312257245,103.872620376557">1.33686, 103.87262</span> |
+
+  </details>
+
+- <details><summary>Changed (30)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>01-65</del><br>01-65 CHILDHOOD TOYS & DECOR | 49 Sims Place, #01-65,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | <del>4950</del><br>4950 FRESH CHICKEN | 79 Redhill Lane, #01-50,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | <del>NG LYE POH</del><br>86 PORK | 17 Old Airport Road, #01-86,  S397972; | <span title="1.30734398370473,103.884017699319">1.30734, 103.88402</span> |
+  | <del>CHILLED FRESH PORK</del><br>92 WHAMPOA CHILLED FRESH PORK | 92 Whampoa Drive, #01-149,  S320092; | <span title="1.3231760460434,103.853863407885">1.32318, 103.85386</span> |
+  | BEAUTY NUTRITIOUS SOUP (REDHILL) | <del>75D Redhill Road,  S154075;</del><br>5 Upper Boon Keng Road, #01-22,  S380005; | <del title="1.2884647680528,103.815711568541">1.28846, 103.81571</del><br><span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | <del>GIOVEN KELVIN (GK-UBI)</del><br>BRANDS OUTLET (UBI 301) | 301 Ubi Avenue 1, #01-267,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | <del>DING JI (BI 280)</del><br>DING JI (BAN MIAN) BI 280 | 280 Bishan Street 24, #01-24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | <del>DING JI (BI 280)</del><br>DING JI (TEOCHEW NOODLE HOUSE) BI 280 | 280 Bishan Street 24, #01-24,  S570280; | <span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | <del>DING JI (BI 284)</del><br>DING JI (TEOCHEW NOODLE HOUSE) BI 284 | 284 Bishan Street 22, #01-211,  S570284; | <span title="1.35886666462905,103.844150538229">1.35887, 103.84415</span> |
+  | <del>DRINK STALL (168 TPY)</del><br>DT3SG PTE. LTD | 168 Lorong 1 Toa Payoh,  S310168; | <span title="1.33176643070234,103.843423249665">1.33177, 103.84342</span> |
+  | <del>SHUN SHUN NASI LEMAK</del><br>ECONOMICAL BEE HOON (1015) | 1015 Geylang East Avenue 3,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | <del>INDO BAKMI</del><br>ENAK BANGET | <del>National Development Building, Annex B, Telok Ayer Street, #01-19,  S069111;</del><br>7 Maxwell Road, Amoy Street Food Center, #01-19,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | <del>LOW KIM CHOON</del><br>HUP KIM | Lorong 4 Toa Payoh, #01-650,  S310191; | <span title="1.33189327620475,103.851025403234">1.33189, 103.85103</span> |
+  | JIN HO JIAK FRIED KWAY TEOW | <del>409 Ang Mo Kio Ave 10, 01-805,  S560408;</del><br>408 Ang Mo Kio Ave 10, 01-805,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | <del>LIM SOON LEE</del><br>LIM SOON LEE LOCAL FOOD | 163 Bukit Merah Central, #02-46,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | MALA SEAFOOD | <del>532 Ang Mo Kio Avenue 10,  S560532;</del><br>631 Bedok Reservoir Road, #01_886,  S470631; | <del title="1.37381204877253,103.854590377124">1.37381, 103.85459</del><br><span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | MANA LAGI @HG GREEN | <del>21 Hougang Street 51 Dbs Hougang Green Shopping Mall Singapore 538719, #01-04,  S538719;</del><br>60 Nanyang Crescent Block 21A, #02-02,  S636957; | <del title="1.37924528796406,103.887832026893">1.37925, 103.88783</del><br><span title="1.35381999235799,103.68824289346">1.35382, 103.68824</span> |
+  | <del>KINGS FISH SOUP & BAN MIAN</del><br>MR D WESTERN FOOD - UPPER BOON KENG | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | MUN KEE PIG ORGAN SOUP (AMK 347) | <del>347 Ang Mo Kio Avenue 3,  S560347;</del><br>442 Clementi Avenue 3, #01-121,  S120442; | <del title="1.36733858334098,103.848576334625">1.36734, 103.84858</del><br><span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | MYANMAR EXPRESS | <del>411 Balestier Road, 18,  S329930;</del><br>422 Ang Mo Kio Ave 3, #01-2508,  S560422; | <del title="1.32551185334397,103.849036533963">1.32551, 103.84904</del><br><span title="1.36799988809778,103.851873942231">1.36800, 103.85187</span> |
+  | <del>N.S.J</del><br>N.S.J INDIAN MUSLIM FOOD | 163 Bukit Merah Central, #02-25,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | <del>R J Y BEAUTY (539)</del><br>R J Y BEAUTY | <del>539 Bedok North Street 3, #01-607,  S460539;</del><br>531 Bedok North Street 3, #01-690,  S460531; | <del title="1.33131386579703,103.925307290709">1.33131, 103.92531</del><br><span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | SHEBELLA BEAUTY & SLIMMING | <del>Lorong 4 Toa Payoh, #01-304,  S311085;</del><br>Lorong 4 Toa Payoh, #01-304,  S310085; | <del title="1.33628483555575,103.849405829084">1.33628, 103.84941</del><br><span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | <del>SIN SENG LEE</del><br>SIN SENG LEE DRY GOODS | 79 Redhill Lane, #01-119,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | SOI 19 THAI WANTON NOODLE 151 | <del>159 Ang Mo Kio Avenue 5, #01-526,  S560159;</del><br>148 Silat Avenue, #01-14 Stall 6,  S160148; | <del title="1.37479893193043,103.839858129785">1.37480, 103.83986</del><br><span title="1.27688315064164,103.830883904963">1.27688, 103.83088</span> |
+  | STUDIO 1988 | <del>Ang Mo Kio Avenue 3, #01-1670,  S560202;</del><br>Ang Mo Kio Avenue 1, #01-934,  S560631; | <del title="1.36844644010937,103.844516260527">1.36845, 103.84452</del><br><span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT | <del>681 Hougang Avenue 8,  S530681;</del><br>Blk 11B Boon Tiong Road, #01-15,  S163010; | <del title="1.37297840284804,103.88567915953">1.37298, 103.88568</del><br><span title="1.28683793317038,103.838674084243">1.28684, 103.83867</span> |
+  | TIAN CONFECTIONERY | <del>85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-304,  S310085;</del><br>476D Upper Serangoon View, #02-04,  S537476; | <del title="1.33628536216028,103.848428644103">1.33629, 103.84843</del><br><span title="1.37791506138102,103.903623796196">1.37792, 103.90362</span> |
+  | YES I DOU CAFE LIMITED LIABILITY PA | <del>Kreta Ayer Road, #01-31,  S080333;</del><br>38A Beo Crescent, #01-56,  S169982; | <del title="1.28074833681274,103.84246340102">1.28075, 103.84246</del><br><span title="1.28883089150258,103.827353892228">1.28883, 103.82735</span> |
+  | <del>YUEN CHOON FOOD (WG303)</del><br>YUEN CHOON FOOD (WG305) | <del>303 Woodlands Street 31, #01-205,  S730303;</del><br>305 Woodlands Street 31, #01-61C,  S730305; | <del title="1.43079961583478,103.774011078412">1.43080, 103.77401</del><br><span title="1.43036145835565,103.774102414119">1.43036, 103.77410</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-02
 
 </summary>
