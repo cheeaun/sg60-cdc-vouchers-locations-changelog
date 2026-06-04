@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-04
+
+</summary>
+
+Total locations: 25,447 → 25,460
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALL SEASONS FLOWERS & GIFTS | 320 Shunfu Road, #01-44,  S570320; | <span title="1.35200745374218,103.837031862103">1.35201, 103.83703</span> |
+  | ANG SENG TEOCHEW NOODLE | 105 Hougang Avenue 1, #02-23,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | GO2EAT SENGKANG | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | JI XIANG KE KOU DUCK RICE (26A) | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | JK FRIED RICE & STEAM FISH | 332 Ang Mo Kio Avenue 1, 7,  S560332; | <span title="1.36167030761833,103.851955453764">1.36167, 103.85196</span> |
+  | KS WELLNESS - TCM | 327 Hougang Avenue 5 Hdb-hougang Singapore 530327, #01-164B,  S530327; | <span title="1.36830683201861,103.895987624672">1.36831, 103.89599</span> |
+  | NEOBILE HUB EIGHT | 377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #B1-10,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | SELERA TIMUR (519641) | 110 Pasir Ris Central, #01-03,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | SIGNATURE WEST MALAYSIAN NOODLES | 710 Clementi West Street 2,  S120710; | <span title="1.30628911866015,103.76151810816">1.30629, 103.76152</span> |
+  | STEVEN FRIED RICE (26A) | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | WAKU WAKU PETS | 2 Jalan Lokam Kensington Square Singapore 537846, #01-07,  S537846; | <span title="1.34560719747232,103.882695128109">1.34561, 103.88270</span> |
+  | WESTERN KAKI | 17 Beach Road,  S190017; | <span title="1.30368952030975,103.863575539303">1.30369, 103.86358</span> |
+  | WESTERN KING | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>WEI JIA BAN MIAN (29B CHAI CHEE)</del><br>29B BAN MIAN | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | <del>HE JIA BIAN MIAN & FISH SOUP (2A EUNOS)</del><br>2A BAN MIAN | 2A Eunos Crescent,  S401002; | <span title="1.3202011052846,103.903193509829">1.32020, 103.90319</span> |
+  | <del>DA JI BAN MIAN</del><br>DA KEE HANDMADE MEE HOON HWAY | <del>19 Ghim Moh Road, #01-229,  S270019;</del><br>338 Ang Mo Kio Avenue 1, # 01-1639,  S560338; | <del title="1.31143852315951,103.788298892377">1.31144, 103.78830</del><br><span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | KATONG JAGO TEOCHEW MEE POK KWAY TEOW MEE | <del>84 Marine Parade Central, #01-09,  S440084;</del><br>84 Marine Parade Central (nea Food Centre), #01-09,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | KATONG JAGO TEOCHEW MEE POK KWAY TEOW MEE (936 EAST COAST ROAD) | <del>84 Marine Parade Central, #01-09,  S440084;</del><br>84 Marine Parade Central (nea Food Centre), #01-09,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | LINKS HAIRDRESSING AND BEAUTY SALON | <del>Hougang Avenue 5, #01-164,  S530327;</del><br>Hougang Avenue 5, #01-164A,  S530327; | <span title="1.36830683201861,103.895987624672">1.36831, 103.89599</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-03
 
 </summary>
