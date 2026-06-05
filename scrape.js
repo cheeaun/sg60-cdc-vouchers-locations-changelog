@@ -24,13 +24,25 @@ const latestDataJSON = fs.readJsonSync(LATEST_DATA_PATH, {
   throws: false,
 });
 
+async function fetchWithRetry(url, retries = 3, delayMs = 5000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await fetch(url);
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      return await response.json();
+    } catch (error) {
+      if (attempt === retries) throw error;
+      console.warn(`Attempt ${attempt} failed: ${error.message}. Retrying...`);
+      await new Promise((r) => setTimeout(r, delayMs));
+    }
+  }
+}
+
 async function scrapeData() {
   try {
-    // Fetch the data (it's actually JSON despite the .gzip extension)
-    const response = await fetch(DATA_URL);
-
-    // Parse the JSON data directly
-    const data = await response.json();
+    const data = await fetchWithRetry(DATA_URL);
 
     // Extract the locations array from the response
     const { locations: newLocations } = data;
