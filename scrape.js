@@ -27,7 +27,12 @@ const latestDataJSON = fs.readJsonSync(LATEST_DATA_PATH, {
 async function fetchWithRetry(url, retries = 3, delayMs = 5000) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      const response = await fetch(url);
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent':
+            'Mozilla/5.0 (compatible; SG60CDCChangelog/1.0)',
+        },
+      });
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }
