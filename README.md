@@ -13,6 +13,58 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-05
+
+</summary>
+
+Total locations: 25,460 → 25,479
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ART # ONE HAIR SALON | 17 Bedok South Road Singapore 460017, #01-573,  S460017; | <span title="1.32014883000628,103.935563486677">1.32015, 103.93556</span> |
+  | BUDGET SAVE MART (520865) | 865 Tampines Street 83 Tampines Vista Singapore 520865, #01-K1,  S520865; | <span title="1.35389242521044,103.934251462733">1.35389, 103.93425</span> |
+  | CAUSEWAY DELI (19) | 19 Marsiling Lane Singapore 730019, #01-321,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | D'WESTERN | 159 Ang Mo Kio Avenue 4,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | DA GUO FENG FAN@73A ARC | 73A Ayer Rajah Crescent, ST28,  S139957; | <span title="1.29741124785598,103.787526314396">1.29741, 103.78753</span> |
+  | ELEPHANT MAMAK STALL VEGETARIAN | 93 Toa Payoh Lorong 4, #01-35,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | FUNG YI DELIGHTS | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | GAGA ROASTED JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | HADRAMAWT KITCHEN EXPRESS (OTH) | 51 Tampines Avenue 4, #01-58,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | HOME CURRY PUFF | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | HONG KAO LIAO LI@449 AMK | 449 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560449, #01-1725,  S560449; | <span title="1.36784101119026,103.856041852124">1.36784, 103.85604</span> |
+  | LONG KHUN DRINKS | 150 Bukit Batok Street 11,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | MAXBOX BURGER | 603 Clementi West Street 1 Hdb-clementi Singapore 120603, #01-39,  S120603; | <span title="1.3047886514707,103.767329303088">1.30479, 103.76733</span> |
+  | NGUAN EXPRESS 88 (JW492) | 492 Jurong West Street 41 Central 24-hr Clnic (jurong West) Singapore 640492, #01-80,  S640492; | <span title="1.34994543559348,103.725180466645">1.34995, 103.72518</span> |
+  | SHIRLEY'S DELIGHTS | 90 Whampoa Drive, #01-43,  S320090; | <span title="1.32306493801159,103.854996183556">1.32306, 103.85500</span> |
+  | SHUN FU VEGETABLES | 93 Toa Payoh Lorong 4, #01-14,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | SIKKANDERS BRIYANI | 83 Marine Parade Central Marine Parade Promenade Singapore 440083, #01-590A,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | WINWIDE INTERNATIONAL (TPY 520) | 520 Lorong 6 Toa Payoh Dbs Ntuc Toa Payoh Hdb Centre Singapore 310520, #01-52,  S310520; | <span title="1.33311013128172,103.847431763341">1.33311, 103.84743</span> |
+  | YIMOKE KITCHEN & BATHROOM SOLUTIONS | 163 Ang Mo Kio Avenue 4 Full Marks Singapore 560163, #01-470,  S560163; | <span title="1.37354853919927,103.838176471398">1.37355, 103.83818</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DIVA QUEEN 844</del><br>BEAUTY DAYS PTE LTD | Yishun Street 81, #01-158,  S760844; | <span title="1.41544346877112,103.835215124962">1.41544, 103.83522</span> |
+  | <del>ES KITCHEN (522602)</del><br>ES KITCHEN (520633) | 633 Tampines North Dr 2, #02-01,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | <del>MANA LAGI @HG GREEN</del><br>FATTY BOM BOM SIZZLE | 60 Nanyang Crescent Block 21A, #02-02,  S636957; | <span title="1.35381999235799,103.68824289346">1.35382, 103.68824</span> |
+  | <del>G1 HAIR STUDIO (TOH YI)</del><br>G1 HAIR STUDIO (307) | <del>18 Toh Yi Drive Dbs Toh Yi Drive Singapore 590018, #01-111,  S590018;</del><br>307 Choa Chu Kang Avenue 4, #01-695,  S680307; | <del title="1.33999732042821,103.772960761405">1.34000, 103.77296</del><br><span title="1.38523428420139,103.74270487573">1.38523, 103.74270</span> |
+  | <del>MACPHERSON BARBEQUE SEAFOOD (JACKSON MARKET)</del><br>HOME STYLE ECONOMICAL RICE | <del>411 Balestier Road, 01-03,  S329930;</del><br>49A Serangoon Road, Serangoon Garden Market, #01-41,  S555495; | <del title="1.32551185334397,103.849036533963">1.32551, 103.84904</del><br><span title="1.35623271657844,103.859182470943">1.35623, 103.85918</span> |
+  | <del>KOKA NOODLE</del><br>NOODLY KOKA MEE | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | ORCA WHALE TEA | <del>118 Aljunied Avenue 2 Hdb Geylang Branch Singapore 380118, #01-104,  S380118;</del><br>118 Aljunied Avenue 2, #01-104,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+  | XIN HAINANESE BONELESS CHICKEN RICE (TG61) | <del>61 Teban Gardens Road,  S600061;</del><br>119 Aljunied Ave 2, #01-06 Stall 4,  S380119; | <del title="1.32213636287766,103.738292803395">1.32214, 103.73829</del><br><span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+  | <del>KEMBANGAN 110</del><br>YU PAN NOODLE HOUSE 110 | 110 Lengkong Tiga, #01-239,  S410110; | <span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-04
 
 </summary>
