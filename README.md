@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-06
+
+</summary>
+
+Total locations: 25,479 → 25,489
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 603 SE XIANG WEI | 603 Clementi West Street 1,  S120603; | <span title="1.3047886514707,103.767329303088">1.30479, 103.76733</span> |
+  | B1 HONG KONG STYLE CHARCOAL ROASTED DELIGHT YS675 | 675 Yishun Avenue 4,  S760675; | <span title="1.42006293748965,103.843561434577">1.42006, 103.84356</span> |
+  | BAKER TALENT (MP 83) | 83 Marine Parade Central Marine Parade Promenade Singapore 440083, #01-562A,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | CHOON SENG TEOCHEW PORRIDGE | 69 Geylang Bahru, #01-70,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | DESI RASOI | 117 Aljunied Avenue 2, #01-04,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | EAT.SG (TAU KWA & BEANSPROUTS) | 341 Ang Mo Kio Avenue 1, #01-79,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | HOUSE OF LONG HUA | 212 Hougang Street 21, 8,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | HUANGS MART (435 BP) | 435 Bukit Panjang Ring Road Adelfibel Infant And Child Development Centre Pte Ltd Singapore 670435, #01-661,  S670435; | <span title="1.38603975530039,103.770196329443">1.38604, 103.77020</span> |
+  | HUI SHI JIA | 46 Holland Drive,  S270046; | <span title="1.30878949399241,103.792695569227">1.30879, 103.79270</span> |
+  | TANJONG RHU WANTON NOODLE (AMK 181) | 181 Ang Mo Kio Avenue 5,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SG PET OUTLET | <del>409 Sembawang Road Platina Gardens Singapore 758387, #01-409,  S758387;</del><br>411 Sembawang Road Platina Gardens,  S758388; | <del title="1.42745735800015,103.826333180062">1.42746, 103.82633</del><br><span title="1.42751750862379,103.826350531484">1.42752, 103.82635</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-05
 
 </summary>
