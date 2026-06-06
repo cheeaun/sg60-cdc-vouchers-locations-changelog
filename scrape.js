@@ -29,8 +29,11 @@ async function fetchWithRetry(url, retries = 3, delayMs = 5000) {
     try {
       const response = await fetch(url, {
         headers: {
-          'User-Agent':
-            'Mozilla/5.0 (compatible; SG60CDCChangelog/1.0)',
+          'User-Agent': 'Mozilla/5.0 (compatible; SG60CDCChangelog/1.0)',
+          'origin': 'https://www.gowhere.gov.sg',
+          'sec-fetch-dest': 'empty',
+          'sec-fetch-mode': 'cors',
+          'sec-fetch-site': 'same-site',
         },
       });
       if (!response.ok) {
