@@ -13,6 +13,58 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-09
+
+</summary>
+
+Total locations: 25,489 → 25,508
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 256 YS HE SHUN EXPRESS CHICKEN RICE | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | 925 CHICKEN RICE@ HG GREEN | 21 Hougang Street 51, 51_4,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | AASHI GROCERIES | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-212,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | AL JALAL INDIAN MUSLIM (635C SENJA) | 635C Senja Road,  S673635; | <span title="1.38650187058094,103.758433939145">1.38650, 103.75843</span> |
+  | CHICKEN POT + AYAM PENYET & BBQ | 180 Ang Mo Kio Avenue 8, Nyp Blk E, BlK P,  S569830; | <span title="1.3778190310896,103.848423445403">1.37782, 103.84842</span> |
+  | CHICKEN RICE@BLK P | 180 Ang Mo Kio Avenue 8, Nyp Blk E, BlK P,  S569830; | <span title="1.3778190310896,103.848423445403">1.37782, 103.84842</span> |
+  | CHOK DEE THAI KITCHEN | 133 Ang Mo Kio Avenue 3,  S560133; | <span title="1.37113968605234,103.842644163241">1.37114, 103.84264</span> |
+  | HONG KAO LIAO LI @ 449 CL | 449 Clementi Avenue 3 Dbs Clementi Central Branch Singapore 120449, #01-241,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | JB CLAYPOT CURRY FISH HEAD | 539 Bedok North Street 3, 01,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | JIA JIA VEGETARIAN | 21 Hougang Street 51, 51_1,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | KIM CHUN HUAT PTE LTD | 52 Chin Swee Road Hdb-central Area Singapore 160052, #01-51,  S160052; | <span title="1.28708278284998,103.841580109275">1.28708, 103.84158</span> |
+  | LAO SIM CHICKEN NOODLE - SIMS DRIVE | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | MAISON DE BEAUTE | 44 Bendemeer Road Hdb-kallang/whampoa Singapore 330044, #01-1468B,  S330044; | <span title="1.32226013692281,103.86662310263">1.32226, 103.86662</span> |
+  | MOBILERELATION JE131 | 131 Jurong Gateway Road Hsbc Jurong Branch Singapore 600131, #01-269A,  S600131; | <span title="1.33473650438665,103.740093530646">1.33474, 103.74009</span> |
+  | MUNEY HAIR & BEAUTY SALON (261 YISHUN) | 261 Yishun Street 22 Hdb-yishun Singapore 760261, #01-131,  S760261; | <span title="1.43530973604166,103.838606289364">1.43531, 103.83861</span> |
+  | NEKO SG HAIR SOCIETY | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-543,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | TELUR THAI (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | THAI FOOD | 535 Clementi Road, Blk 51, Level 2,  S599489; | <span title="1.33378462302575,103.775294348014">1.33378, 103.77529</span> |
+  | TOOFUS DENTAL (CLEMENTI) | 352 Clementi Avenue 2 Clementi Avenue 2 Shopping Centre Singapore 120352, #01-111,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SOON HENG CHICKEN RICE</del><br>BAGUS LEMAK | <del>682 Hougang Avenue 4, #01-346,  S530682;</del><br>180 Ang Mo Kio Ave 8 Nyp Blk E Level 2 North Canteen, #02-MR5,  S569830; | <del title="1.37361830380888,103.885748856217">1.37362, 103.88575</del><br><span title="1.3778190310896,103.848423445403">1.37782, 103.84842</span> |
+  | <del>EAT.SG (SG-GROWN PRODUCE)</del><br>EAT.SG (SG-GROWN VEGGIES & MUSHROOMS) | <del>341 Ang Mo Kio Avenue 1, #01-71,  S560341;</del><br>341 Ang Mo Kio Avenue 1, #01-78,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | <del>FATTY BOY CHARCOAL ROASTED DELIGHT</del><br>FATTY BOY CHARCOAL ROASTED DELIGHT (29BCC) | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | <del>BIG PRAWN NOODLE</del><br>FEI FEI FISHBALL NOODLE | National Development Building, Annex B, Telok Ayer Street, #02-131,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | <del>MOHIDEEN MUSLIM FOOD</del><br>LANGKAWI MUSLIM FOOD | <del>23 Hougang Avenue 3,  S530023;</del><br>Blk 14 Haig Road 01-05,  S430014; | <del title="1.36485740076853,103.890728400886">1.36486, 103.89073</del><br><span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | <del>LEMONGRASS STORY</del><br>LEMONGRASS STORY VIET FOOD | <del>182 Woodlands Street 13, 01-3683,  S730182;</del><br>165 Bukit Merah Central, 01-3683,  S150165; | <del title="1.43515895067377,103.776023343198">1.43516, 103.77602</del><br><span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | <del>KUAYCHAP N MIX ORGAN SOUP</del><br>MASTER PORK BALL NOODLE SOUP | Blk 226F Amk Ave 1, #01-697,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | <del>MUN KEE PIG ORGAN SOUP (AMK 347)</del><br>MUN KEE PIG ORGAN SOUP (CLEMENTI 442) | 442 Clementi Avenue 3, #01-121,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | <del>SINGAPORE TEOCHEW BAK KUT TEH</del><br>SINGAPORE SIANG YUEN TRADITIONAL CHARCOAL ROAST MEAT | 49 Sims Place, #01-34,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-06
 
 </summary>
