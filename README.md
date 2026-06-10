@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-10
+
+</summary>
+
+Total locations: 25,508 → 25,526
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 245 FISHBALL NOODLE@44 OWEN | 44 Owen Road,  S210044; | <span title="1.31551162976199,103.850377879064">1.31551, 103.85038</span> |
+  | 48 EVERFRESH | 825 Tampines Street 81 Dbs Tampines Street 81 Singapore 520825, #01-76,  S520825; | <span title="1.34943750941993,103.932787706747">1.34944, 103.93279</span> |
+  | AL MUBIN RESTAURANT (AMK 407) | 407 Ang Mo Kio Avenue 10 Ocbc Ang Mo Kio Ave 10 - Cheers Singapore 560407, #01-743,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | BAI JIA LE THUNDER TEA RICE | National Development Building, Annex B, Telok Ayer Street, #01-33,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | BERKSHIRE WALMART- TELOK BLANGAH | 9 Telok Blangah Crescent Singapore 090009, #01-123,  S090009; | <span title="1.2774078592663,103.819408460491">1.27741, 103.81941</span> |
+  | BRILLIANT DENTAL SURGERY (166) | 166 Woodlands Street 13 Singapore 730166, #01-551,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | ELM TREE PARC POINT | 302 Tengah Park Avenue, #01-10,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | EVENTS & CATERING (BEDOK416) | 416 Bedok North Avenue 2,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | FATTY BOY CHARCOAL ROASTED DELIGHT (210) | 210 Hougang Street 21,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | HAI LIN PIG TROTTER RICE - TJP | 6 Tanjong Pagar Plaza, #02-42,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | HAPPY NOODLES (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | HYLAM STREET OLD COFFEE | 6 Jalan Bukit Merah, #01-53,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | JU FU YUAN VEGETARIAN DELIGHT | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | LONG CHENG MIXED VEG RICE | 1010 Tai Seng Avenue, ST04,  S534417; | <span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | MAN XIANG TRADITIONAL ROASTED DELIGHT | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | MATCHA BAHN MI COFFEE & TEA BREAKFAST | 84 Bedok North Street 4 Hdb-bedok Singapore 460084, #01-29B,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | MENG LONG PAO FAN, LA MIAN, DUMPLING | 107 Serangoon North Avenue 1,  S550107; | <span title="1.36990040378361,103.870224884545">1.36990, 103.87022</span> |
+  | TAI SENG FISH SOUP | 270 Queen Street, #01-75,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>CHANGI AIRPORT T2 FAMOUS FRIED FISH SOUP (AMK 721)</del><br>CHANGI AIRPORT T2 FAMOUS FRIED FISH SOUP (221 JURONG EAST) | 221 Jurong East Street 21, #01-875,  S600221; | <span title="1.34084174986254,103.736918269895">1.34084, 103.73692</span> |
+  | D'WESTERN | <del>159 Ang Mo Kio Avenue 4,  S560159;</del><br>159 Ang Mo Kio Avenue 4, #01-526,  S560159; | <span title="1.37479893193043,103.839858129785">1.37480, 103.83986</span> |
+  | <del>EGG FRIED RICE</del><br>HUAY KWANG THAI WANTON MEE | National Development Building, Annex B, Telok Ayer Street, #01-47,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | <del>KUNGFU JB PAU</del><br>KUNGFU JB PAU 201 | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+  | OMO JAPANESE & KOREAN CUISINE | <del>212 Hougang Street 21,  S530212;</del><br>26A Chai Chee Road, 01-405,  S461026; | <del title="1.35952087347427,103.888340028762">1.35952, 103.88834</del><br><span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | <del>SUGARCANE JUICE</del><br>SWEET SUGAR CANE | 79A Circuit Road, #01-70,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | TANJONG RHU WANTON NOODLE (AMK 181) | <del>181 Ang Mo Kio Avenue 5,  S560181;</del><br>181 Ang Mo Kio Avenue 5, #01-2922,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | TIONG BAHRU YONG TAO HU | <del>954D Tampines Street 96,  S524954;</del><br>495 Jurong West Street 41, #01-106,  S640495; | <del title="1.34172359071434,103.936566716765">1.34172, 103.93657</del><br><span title="1.34969073793762,103.724362342467">1.34969, 103.72436</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-09
 
 </summary>
