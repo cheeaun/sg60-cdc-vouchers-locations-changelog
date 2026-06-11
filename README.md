@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-11
+
+</summary>
+
+Total locations: 25,526 → 25,543
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 170 YONG TAU FOO | 85 Bedok North Street 4, #01-170,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | AH FANG BAN MIAN PORRIDGE (26A) | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | AHJUMA XIANG LIAN KOREAN & JAP FOOD (AP) | 678A Woodlands Avenue 6,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | AL AFRIDA RESTAURANT | 2 Tampines Street 41 Tampines North Community Club Singapore 529204, #01-02,  S529204; | <span title="1.35736479273941,103.946602676162">1.35736, 103.94660</span> |
+  | AUTHENTIC VIETNAMESE BAHN MI CORNER | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+  | DAWN MEDICAL CLINIC- BUKIT PURMEI | 111 Bukit Purmei Road Bukit Purmei Ville Singapore 090111, #01-K1,  S090111; | <span title="1.27439718126241,103.827239610439">1.27440, 103.82724</span> |
+  | FLASH SOURDOUGH PIZZA CO.@NEWTON | 500 Clemenceau Avenue North, #01-65,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | FRUITYLIOUS | 115 Bukit Merah View, #01-129,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | GEYLANG SERAI FISH STALL #01-43 | 1 Geylang Serai, #01-43,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | JAC GLOW HAIR & BEAUTY | 42 Holland Drive Hdb-queenstown Singapore 270042, #01-87,  S270042; | <span title="1.30790383303654,103.792961440964">1.30790, 103.79296</span> |
+  | KEX SOCIETY | 1 Thomson Road Balestier Hill Shopping Centre Singapore 300001, #01-340,  S300001; | <span title="1.32559594839311,103.842571612968">1.32560, 103.84257</span> |
+  | LAO SIM CHICKEN NOODLE | 127 Toa Payoh Lorong 1, #02-01,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | NOORUL ZARIN FROM WEST COAST@ TEKKA | 665 Buffalo Road, #01-287,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | PAU & NOODLES | 10 North Bridge Road,  S190010; | <span title="1.3055523404779,103.863562821016">1.30555, 103.86356</span> |
+  | RICHSUN FRUIT | 501 West Coast Drive Singapore 120501, #01-288,  S120501; | <span title="1.31231254760543,103.759312529215">1.31231, 103.75931</span> |
+  | THUNDER GOOD LUCK CAFE (154) | 154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-446,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+  | ZHONG HUA TCM MEDICAL CENTRE | 681 Race Course Road Hdb-kallang/whampoa Singapore 210681, #01-311,  S210681; | <span title="1.3137206738217,103.855272733514">1.31372, 103.85527</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DE N HAIR</del><br>CKM HAIR SALON | 210 Hougang Street 21 Kovan City Singapore 530210, #01-243,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | DANNING & SUSAN SALON | <del>203 Hougang Street 21, #01-83A,  S530203;</del><br>Blk 208 Hougang St 21, #02-211,  S530208; | <del title="1.35816293570102,103.884400266646">1.35816, 103.88440</del><br><span title="1.35869679955104,103.886636111344">1.35870, 103.88664</span> |
+  | <del>CHONG PANG HAINANESE CHICKEN RICE</del><br>KOWLOON HONG KONG STYLE CHARCOAL ROASTED | 703 Hougang Avenue 2, ST13,  S530703; | <span title="1.36553095979945,103.889460635529">1.36553, 103.88946</span> |
+  | <del>CHOON VEGETABLES & FRUITS TRADING SUPPLIES(FRUITS STALL)</del><br>LION CITY FOOD SUPPLY | Hougang Avenue 5, #01-76,  S530322; | <span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+  | <del>MAN XIANG TRADITIONAL ROASTED DELIGHT</del><br>MAN XIANG TRADITIONAL ROASTED DELIGHT 631 | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | <del>MEXICAN</del><br>TURKISH | 535 Clementi Road, Blk 51, Level 2,  S599489; | <span title="1.33378462302575,103.775294348014">1.33378, 103.77529</span> |
+  | WEI JIAN LOCAL DELIGHTS | <del>787B Choa Chu Kang Drive,  S681787;</del><br>159 Mei Chin Rd #02-23,  S140159; | <del title="1.395361844967,103.748139410115">1.39536, 103.74814</del><br><span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-10
 
 </summary>
