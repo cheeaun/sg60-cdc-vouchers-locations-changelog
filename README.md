@@ -13,6 +13,33 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-12
+
+</summary>
+
+Total locations: 25,543 → 25,553
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALIYAH RIZQ PROVISIONS | 21 Sengkang West Avenue, 03-36,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | DING XIANG ROASTED DUCK 37 | 37 Chai Chee Avenue,  S461037; | <span title="1.32544200357037,103.926207634232">1.32544, 103.92621</span> |
+  | DINGXIANG ROASTED DELIGHTS (510587) | 587 Pasir Ris Drive 3, 06,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | JN ALLEY | 18 Jalan Sultan Singapore 190018, #01-150,  S190018; | <span title="1.3032741422611,103.862614969484">1.30327, 103.86261</span> |
+  | KIM HAIR SALON | 305 Woodlands Street 31 Singapore 730305, #01-59A,  S730305; | <span title="1.43036145835565,103.774102414119">1.43036, 103.77410</span> |
+  | MV MEGA MART PTE LTD@41 CAMBRIDGE | 41 Cambridge Road Hdb-kallang/whampoa Singapore 210041, #01-22,  S210041; | <span title="1.31543762081432,103.849817677057">1.31544, 103.84982</span> |
+  | MYSEAT.SG | 15 Beach Road Crawford Post Office Singapore 190015, #01-4685,  S190015; | <span title="1.30334823372441,103.863134272442">1.30335, 103.86313</span> |
+  | QSON | 57 Geylang Bahru,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | RICHTON EATS | 501A Wellington Circle Montreal Spring Singapore 751501, #01-30,  S751501; | <span title="1.45176919565749,103.820781714095">1.45177, 103.82078</span> |
+  | XIN YUE LAI BAK KUT TEH (BT MERAH) | 11 Jalan Bukit Merah Hdb-bukit Merah Singapore 150011, #03-4462,  S150011; | <span title="1.28662190407489,103.808963346663">1.28662, 103.80896</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-11
 
 </summary>
