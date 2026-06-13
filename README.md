@@ -13,6 +13,37 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-13
+
+</summary>
+
+Total locations: 25,553 → 25,559
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1985 DUCK HAWKER - BRAISED DUCK AND KWAY CHAP | 824 Tampines Street 81,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | BREAD TOWN(YISHUN) | 925 Yishun Central 1 Singapore 760925, #01-229,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | DAPUR ABANG | 84 Punggol Way, #02-80,  S829911; | <span title="1.41455331350836,103.908235308668">1.41455, 103.90824</span> |
+  | GIBSON MEDICAL HALL | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-950,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | MANNA GRILL | 463 Sembawang Drive,  S750463; | <span title="1.45555388401849,103.81464932384">1.45555, 103.81465</span> |
+  | PINSIN (YISHUN 747) | 747 Yishun Street 72, 108,  S760747; | <span title="1.42822554342155,103.833488111349">1.42823, 103.83349</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH YI LAO HUO TANG | <del>110 Pasir Ris Central, #02-14,  S519641;</del><br>628 Ang Mo Kio Avenue 4, #01-48,  S560628; | <del title="1.37347252064326,103.951571342467">1.37347, 103.95157</del><br><span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-12
 
 </summary>

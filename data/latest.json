@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12 Jun 2026",
+  "lastUpdated": "13 Jun 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -10660,6 +10660,26 @@
         }
       },
       "lastResetDate": "2025-04-21"
+    },
+    {
+      "id": "merchant_0a8abac1-55b3-4f10-9a34-81359e00c153",
+      "entityId": "merchant_0a8abac1-55b3-4f10-9a34-81359e00c153",
+      "name": "1985 DUCK HAWKER - BRAISED DUCK AND KWAY CHAP",
+      "address": "824 Tampines Street 81,  S520824;",
+      "postalCode": "520824",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34903743516549,
+      "LON": 103.932714940894,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
     },
     {
       "id": "merchant_ce8c0dd8-418d-4a94-bb4a-3cd1364f0589",
@@ -36085,11 +36105,11 @@
       "id": "merchant_f3d42fe1-cb34-4975-80d3-b3d3e4305177",
       "entityId": "merchant_f3d42fe1-cb34-4975-80d3-b3d3e4305177",
       "name": "AH YI LAO HUO TANG",
-      "address": "110 Pasir Ris Central, #02-14,  S519641;",
-      "postalCode": "519641",
+      "address": "628 Ang Mo Kio Avenue 4, #01-48,  S560628;",
+      "postalCode": "560628",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37347252064326,
-      "LON": 103.951571342467,
+      "LAT": 1.38098761665454,
+      "LON": 103.840628087484,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -36099,7 +36119,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-01"
+      "lastResetDate": "2026-06-12"
     },
     {
       "id": "merchant_8c620f79-7d4d-40f6-8e05-8ed660bb0f4b",
@@ -76222,6 +76242,26 @@
       "lastResetDate": "2022-08-11"
     },
     {
+      "id": "merchant_346b5cf2-6483-4770-8c4b-47acd45bd78c",
+      "entityId": "merchant_346b5cf2-6483-4770-8c4b-47acd45bd78c",
+      "name": "BREAD TOWN(YISHUN)",
+      "address": "925 Yishun Central 1 Singapore 760925, #01-229,  S760925;",
+      "postalCode": "760925",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42750549654333,
+      "LON": 103.837125284539,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
+    },
+    {
       "id": "merchant_f245a8e3-6373-452c-b995-1501ee5adbec",
       "entityId": "merchant_f245a8e3-6373-452c-b995-1501ee5adbec",
       "name": "BREADGANG",
@@ -112400,6 +112440,26 @@
         }
       },
       "lastResetDate": "2021-12-02"
+    },
+    {
+      "id": "merchant_2cd14185-c51c-45db-a35b-ddc9c75cedab",
+      "entityId": "merchant_2cd14185-c51c-45db-a35b-ddc9c75cedab",
+      "name": "DAPUR ABANG",
+      "address": "84 Punggol Way, #02-80,  S829911;",
+      "postalCode": "829911",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41455331350836,
+      "LON": 103.908235308668,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
     },
     {
       "id": "merchant_ba6e179f-da37-4baa-8619-d20f3a22306f",
@@ -167822,6 +167882,26 @@
       "lastResetDate": "2021-11-05"
     },
     {
+      "id": "merchant_63f30255-d9f1-42ee-bf06-3e94bcab7405",
+      "entityId": "merchant_63f30255-d9f1-42ee-bf06-3e94bcab7405",
+      "name": "GIBSON MEDICAL HALL",
+      "address": "631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-950,  S470631;",
+      "postalCode": "470631",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33295873271663,
+      "LON": 103.914941831215,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
+    },
+    {
       "id": "merchant_d7030059-42a1-450a-ac94-775c51984de1",
       "entityId": "merchant_d7030059-42a1-450a-ac94-775c51984de1",
       "name": "GICURA TCM",
@@ -211059,7 +211139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-25"
+      "lastResetDate": "2026-06-12"
     },
     {
       "id": "merchant_5f0439d4-0889-48ab-b43f-4a94247586de",
@@ -230639,7 +230719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-21"
+      "lastResetDate": "2026-06-13"
     },
     {
       "id": "merchant_ed8efbab-02e7-470f-8502-75bce67f663b",
@@ -293522,6 +293602,26 @@
       "lastResetDate": "2026-04-14"
     },
     {
+      "id": "merchant_3e78443f-fc2b-488c-a846-ed7413053c4b",
+      "entityId": "merchant_3e78443f-fc2b-488c-a846-ed7413053c4b",
+      "name": "MANNA GRILL",
+      "address": "463 Sembawang Drive,  S750463;",
+      "postalCode": "750463",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.45555388401849,
+      "LON": 103.81464932384,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
+    },
+    {
       "id": "merchant_29c09d7d-2512-42ae-8c9d-099e79fb2160",
       "entityId": "merchant_29c09d7d-2512-42ae-8c9d-099e79fb2160",
       "name": "MANNA HAUS (PROTEIN HEALTHY BOWL)",
@@ -349060,6 +349160,26 @@
         }
       },
       "lastResetDate": "2021-12-06"
+    },
+    {
+      "id": "merchant_dc75d9f1-a652-4fe0-b8c0-00c94b8e7019",
+      "entityId": "merchant_dc75d9f1-a652-4fe0-b8c0-00c94b8e7019",
+      "name": "PINSIN (YISHUN 747)",
+      "address": "747 Yishun Street 72, 108,  S760747;",
+      "postalCode": "760747",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42822554342155,
+      "LON": 103.833488111349,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-12"
     },
     {
       "id": "merchant_0fbc95be-e22c-44fb-b811-8b7eb15ea960",
