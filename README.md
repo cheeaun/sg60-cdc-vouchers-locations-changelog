@@ -13,6 +13,25 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-14
+
+</summary>
+
+Total locations: 25,559 → 25,561
+
+- <details><summary>Added (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MY HAIR STUDIO SIGNATURE PTE. LTD. | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-304,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | RED LANTERN SEAFOOD | 631 Bedok Reservoir Road, 01,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-13
 
 </summary>
