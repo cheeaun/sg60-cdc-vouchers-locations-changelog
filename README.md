@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-15
+
+</summary>
+
+Total locations: 25,561 → 25,562
+
+- <details><summary>Added (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HOMIDA - 231 SUMANG LANE | 231 Sumang Lane,  S820231; | <span title="1.40205998268188,103.892211658905">1.40206, 103.89221</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-14
 
 </summary>

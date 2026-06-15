@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14 Jun 2026",
+  "lastUpdated": "15 Jun 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -203180,6 +203180,26 @@
         }
       },
       "lastResetDate": "2022-08-12"
+    },
+    {
+      "id": "merchant_0ee88efa-33f8-4fe6-95b3-d41b551417ff",
+      "entityId": "merchant_0ee88efa-33f8-4fe6-95b3-d41b551417ff",
+      "name": "HOMIDA - 231 SUMANG LANE",
+      "address": "231 Sumang Lane,  S820231;",
+      "postalCode": "820231",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40205998268188,
+      "LON": 103.892211658905,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-14"
     },
     {
       "id": "merchant_aceb8dd5-1873-47ab-beb4-29db7dd6a5ce",
