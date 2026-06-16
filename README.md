@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-16
+
+</summary>
+
+Total locations: 25,562 → 25,571
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA CHI MIAN | 587 Pasir Ris Drive 3,  S510587; | <span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | AL-SAHIRA NASI KANDAR (AMK 163) | 163 Ang Mo Kio Avenue 4 Full Marks Singapore 560163, #01-428,  S560163; | <span title="1.37354853919927,103.838176471398">1.37355, 103.83818</span> |
+  | COURAGE & PASSION BRAVE HEART FISH SOUP | 557 Jurong West Street 42,  S640557; | <span title="1.35399275101832,103.718567124767">1.35399, 103.71857</span> |
+  | DIVINE BEAUTY STUDIO | 681 Race Course Road Hdb-kallang/whampoa Singapore 210681, #01-295,  S210681; | <span title="1.3137206738217,103.855272733514">1.31372, 103.85527</span> |
+  | DONG JI DUMPLING, XIAO LONG BAO | 237 Serangoon Avenue 3,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | DUAA HALAL PRODUCTS 14 | 532 Choa Chu Kang Street 51, 14,  S680532; | <span title="1.39222033136152,103.743611063324">1.39222, 103.74361</span> |
+  | EMPIRE KITCHEN | 557 Jurong West Street 42,  S640557; | <span title="1.35399275101832,103.718567124767">1.35399, 103.71857</span> |
+  | MAJESTY FURNITURE TRADING | 703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2543,  S560703; | <span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | THAM'S ROASTED DELIGHTS YISHUN | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>167 FISHBALL NOODLE STALL</del><br>FIRE MONKEY HOKKIEN MEE | <del>167 Woodlands Street 11, 7,  S730167;</del><br>167 Woodlands Street 11, #01-07,  S730167; | <span title="1.43359370586711,103.775884057946">1.43359, 103.77588</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-15
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15 Jun 2026",
+  "lastUpdated": "16 Jun 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -9180,26 +9180,6 @@
         }
       },
       "lastResetDate": "2025-03-07"
-    },
-    {
-      "id": "merchant_82c10e11-0c7e-4a66-baf6-e5df5462afcc",
-      "entityId": "merchant_82c10e11-0c7e-4a66-baf6-e5df5462afcc",
-      "name": "167 FISHBALL NOODLE STALL",
-      "address": "167 Woodlands Street 11, 7,  S730167;",
-      "postalCode": "730167",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43359370586711,
-      "LON": 103.775884057946,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": true
-        }
-      },
-      "lastResetDate": "2023-01-31"
     },
     {
       "id": "merchant_6fc9696e-8ae7-4b25-9445-f9280c964d9c",
@@ -33922,6 +33902,26 @@
       "lastResetDate": "2023-05-18"
     },
     {
+      "id": "merchant_93462605-96b2-4419-8a09-c6f2b90730ed",
+      "entityId": "merchant_93462605-96b2-4419-8a09-c6f2b90730ed",
+      "name": "AH MA CHI MIAN",
+      "address": "587 Pasir Ris Drive 3,  S510587;",
+      "postalCode": "510587",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37742813949236,
+      "LON": 103.945551959341,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
+    },
+    {
       "id": "merchant_805e77b5-f5b5-4de8-ad40-a9828948e5ae",
       "entityId": "merchant_805e77b5-f5b5-4de8-ad40-a9828948e5ae",
       "name": "AH MA CHI MIAN",
@@ -41860,6 +41860,26 @@
         }
       },
       "lastResetDate": "2024-09-11"
+    },
+    {
+      "id": "merchant_2833539b-98e9-49d5-a429-c01a119a8de3",
+      "entityId": "merchant_2833539b-98e9-49d5-a429-c01a119a8de3",
+      "name": "AL-SAHIRA NASI KANDAR (AMK 163)",
+      "address": "163 Ang Mo Kio Avenue 4 Full Marks Singapore 560163, #01-428,  S560163;",
+      "postalCode": "560163",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37354853919927,
+      "LON": 103.838176471398,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_21b485e8-50c0-4d8a-a749-a39306ef46dc",
@@ -83539,7 +83559,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-05-24"
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_0b7dfebd-7c1d-469e-a65f-54a17255ecc4",
@@ -96999,7 +97019,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-06-05"
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_424d50d3-83bd-4e5e-aaa2-50575a626760",
@@ -105700,6 +105720,26 @@
         }
       },
       "lastResetDate": "2024-09-12"
+    },
+    {
+      "id": "merchant_697419a4-f820-4cb8-a29d-f93c0a8e6ad6",
+      "entityId": "merchant_697419a4-f820-4cb8-a29d-f93c0a8e6ad6",
+      "name": "COURAGE & PASSION BRAVE HEART FISH SOUP",
+      "address": "557 Jurong West Street 42,  S640557;",
+      "postalCode": "640557",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35399275101832,
+      "LON": 103.718567124767,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_84b56888-853e-4356-a50e-0edd73246c1e",
@@ -120422,6 +120462,26 @@
       "lastResetDate": "2023-05-05"
     },
     {
+      "id": "merchant_65f60e6c-5e16-492f-b3fc-debdb298b63e",
+      "entityId": "merchant_65f60e6c-5e16-492f-b3fc-debdb298b63e",
+      "name": "DIVINE BEAUTY STUDIO",
+      "address": "681 Race Course Road Hdb-kallang/whampoa Singapore 210681, #01-295,  S210681;",
+      "postalCode": "210681",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3137206738217,
+      "LON": 103.855272733514,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
+    },
+    {
       "id": "merchant_4fe3b8d8-9380-4a4f-aa7e-06e4ca1106f3",
       "entityId": "merchant_4fe3b8d8-9380-4a4f-aa7e-06e4ca1106f3",
       "name": "DIVINE BITES (519641)",
@@ -122220,6 +122280,26 @@
         }
       },
       "lastResetDate": "2025-08-26"
+    },
+    {
+      "id": "merchant_42f358ac-f7fb-44ee-855c-7f82836f85fe",
+      "entityId": "merchant_42f358ac-f7fb-44ee-855c-7f82836f85fe",
+      "name": "DONG JI DUMPLING, XIAO LONG BAO",
+      "address": "237 Serangoon Avenue 3,  S550237;",
+      "postalCode": "550237",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35381198342473,
+      "LON": 103.87013457465,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_9198d27d-6c6b-477e-be6e-c17b32aaaff1",
@@ -127460,6 +127540,26 @@
         }
       },
       "lastResetDate": "2024-08-07"
+    },
+    {
+      "id": "merchant_5e7cc70b-3f74-47df-8699-cbed112e3784",
+      "entityId": "merchant_5e7cc70b-3f74-47df-8699-cbed112e3784",
+      "name": "DUAA HALAL PRODUCTS 14",
+      "address": "532 Choa Chu Kang Street 51, 14,  S680532;",
+      "postalCode": "680532",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39222033136152,
+      "LON": 103.743611063324,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_2c7e392e-4345-4f03-9e09-38d7a55fc005",
@@ -135380,6 +135480,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_4490fb22-c05f-4fd1-9444-05b15899d065",
+      "entityId": "merchant_4490fb22-c05f-4fd1-9444-05b15899d065",
+      "name": "EMPIRE KITCHEN",
+      "address": "557 Jurong West Street 42,  S640557;",
+      "postalCode": "640557",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35399275101832,
+      "LON": 103.718567124767,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_d94d79e9-811b-40d0-8307-df18dcc43656",
@@ -147580,6 +147700,26 @@
         }
       },
       "lastResetDate": "2022-07-21"
+    },
+    {
+      "id": "merchant_82c10e11-0c7e-4a66-baf6-e5df5462afcc",
+      "entityId": "merchant_82c10e11-0c7e-4a66-baf6-e5df5462afcc",
+      "name": "FIRE MONKEY HOKKIEN MEE",
+      "address": "167 Woodlands Street 11, #01-07,  S730167;",
+      "postalCode": "730167",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43359370586711,
+      "LON": 103.775884057946,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": true
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_a6979a02-d639-4585-a5b9-625d48febf61",
@@ -285779,7 +285919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-04-15"
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_acd4a2a5-4aa8-4215-afc1-027c4f24a710",
@@ -289860,6 +290000,26 @@
         }
       },
       "lastResetDate": "2025-12-26"
+    },
+    {
+      "id": "merchant_a2739e37-b856-486a-aad1-83e7d1dfdf73",
+      "entityId": "merchant_a2739e37-b856-486a-aad1-83e7d1dfdf73",
+      "name": "MAJESTY FURNITURE TRADING",
+      "address": "703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2543,  S560703;",
+      "postalCode": "560703",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36977526980178,
+      "LON": 103.847321383156,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_313d24ae-df31-4fb5-9d69-f22c0ae782d6",
@@ -361899,7 +362059,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-06-28"
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_b261135c-f46f-46fd-85df-6576b2eff171",
@@ -434760,6 +434920,26 @@
         }
       },
       "lastResetDate": "2023-03-09"
+    },
+    {
+      "id": "merchant_2ae0b287-a8d6-40a8-a8f7-dbd87ffe907b",
+      "entityId": "merchant_2ae0b287-a8d6-40a8-a8f7-dbd87ffe907b",
+      "name": "THAM'S ROASTED DELIGHTS YISHUN",
+      "address": "732 Yishun Avenue 5,  S760732;",
+      "postalCode": "760732",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42903445415475,
+      "LON": 103.830336353437,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-06-15"
     },
     {
       "id": "merchant_9e4c50e0-6ace-413a-93ce-b6b2fd79615e",
