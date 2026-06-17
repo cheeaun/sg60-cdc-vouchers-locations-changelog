@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-17
+
+</summary>
+
+Total locations: 25,571 → 25,579
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACE BEAUTY & HAIR SALON | 456 Jurong West Street 41 Hdb-jurong West Singapore 640456, #01-728,  S640456; | <span title="1.35067572843469,103.720022392894">1.35068, 103.72002</span> |
+  | AL HASSANA INDIAN MUSLIM FOOD | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | DISCARDTCG JE132 | 132 Jurong Gateway Road Jurong Gateway Singapore 600132, #01-279A,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | ENG KEE CHICKEN WING | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | GU ZHEN CHINESE NATURAL BODYWORKS | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3617G,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | MM MINIMART | 423 Hougang Avenue 6 Hdb Public Shelters Singapore 530423, #01-K1,  S530423; | <span title="1.37415468804791,103.89401945837">1.37415, 103.89402</span> |
+  | ZARREN'S KITCHEN | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-591,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | ZEST FOOD HOUSE 302 | 302 Woodlands Street 31,  S730302; | <span title="1.43151114760042,103.774428425787">1.43151, 103.77443</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DUAA PRODUCTS | <del>532 Choa Chu Kang Street 51, #01-33,  S680532;</del><br>276 Jurong West St 25, Stall 9, #01-01,  S640276; | <del title="1.39222033136152,103.743611063324">1.39222, 103.74361</del><br><span title="1.35360972722828,103.703730685947">1.35361, 103.70373</span> |
+  | <del>SPICE HEAVEN PTE LTD (269)</del><br>KOVAN PRATA EXPRESS | <del>269 Queen Street,  S180269;</del><br>210 Hougang Street 21 #01-261,  S530210; | <del title="1.30048013687566,103.85391368667">1.30048, 103.85391</del><br><span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | NAZAQIRANIQ MUSLIM STALL | <del>1 Binjai Park,  S589818;</del><br>Blk 130 Jurong Gateway Road, # 01-211,  S600130; | <del title="1.33583983703733,103.786493273519">1.33584, 103.78649</del><br><span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-16
 
 </summary>
