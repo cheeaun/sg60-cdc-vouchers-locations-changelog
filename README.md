@@ -13,6 +13,57 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-18
+
+</summary>
+
+Total locations: 25,579 → 25,605
+
+- <details><summary>Added (26)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL- HADID CUSINE INDIAN MUSLIM FOOD | 246 Hougang Street 22,  S530246; | <span title="1.35876258437852,103.891460074318">1.35876, 103.89146</span> |
+  | BASIL KING (UPPER THOMSON) | 244 Upper Thomson Road,  S574369; | <span title="1.35342479028281,103.834669148013">1.35342, 103.83467</span> |
+  | BISMI AL FAATIH - TIONG BAHRU | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | BREAD KINGDOM (BALESTIER) | 529 Balestier Road Singapore 329856, #01-02,  S329856; | <span title="1.32628498386887,103.846037252047">1.32628, 103.84604</span> |
+  | DRINK STALL 120 | 120 Canberra Crescent, 3,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | DURIAN 3 | 112 Jalan Bukit Merah, #02-03,  S160112; | <span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+  | GOOD TASTE KWAY CHAP / CHICKEN RICE | 828 Tampines Street 81,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | GOOD WIFE | 210 Hougang Street 21 Kovan City Singapore 530210, #01-253,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | GRILL LAH MODERN WESTERN GRILL | 59 New Upper Changi Road,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | HANJIANG SEAFOOD SQUARE | 79A Circuit Road, #01-63,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | HAPPY RED MART (CRAWFORD) | 465 Crawford Lane Singapore 190465, #01-08,  S190465; | <span title="1.30512319499862,103.86274639248">1.30512, 103.86275</span> |
+  | KEBAB BHAI (TOA PAYOH) | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | LICKERS (AMK) | 157 Ang Mo Kio Avenue 4 Hdb-ang Mo Kio Singapore 560157, #01-548,  S560157; | <span title="1.37530562109722,103.839395071769">1.37531, 103.83940</span> |
+  | LUMI8 BEAUTY STUDIO | 418 Yishun Avenue 11 Singapore 760418, #01-405A,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | MINI TORNADO | 20 Kensington Park Road, #01-30,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | NOOK CAFE | 158 Bedok South Avenue 3 Mount Pleasant Animal Medical Centre (bedok) Singapore 460158, #01-591,  S460158; | <span title="1.31867038706863,103.945105611031">1.31867, 103.94511</span> |
+  | RI SHENG JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | SPIN ANYTIME | 1102 Serangoon Road Singapore 328196, #01-01,  S328196; | <span title="1.32407371332052,103.865329491113">1.32407, 103.86533</span> |
+  | STRICT CUTZ - BISHAN | 150A Bishan Street 11 Hdb-bishan Singapore 571150, #01-163,  S571150; | <span title="1.34455983329518,103.855737419596">1.34456, 103.85574</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT | 120 Canberra Crescent, 5,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | WEN KEE LIVE SEAFOOD | 603 Clementi West Street 1,  S120603; | <span title="1.3047886514707,103.767329303088">1.30479, 103.76733</span> |
+  | XIANG MAN TANG MALA TG267 | 267A Toh Guan Road,  S601267; | <span title="1.34155988964929,103.744937235987">1.34156, 103.74494</span> |
+  | XIONG KEE FAMOUS CARROT CAKE ( TP915) | 915 Tampines Street 91,  S520915; | <span title="1.3486056231626,103.939564083361">1.34861, 103.93956</span> |
+  | YPK MART | 106 Aljunied Crescent Hdb-geylang East Singapore 380106, #01-195,  S380106; | <span title="1.31905494962151,103.882900918125">1.31905, 103.88290</span> |
+  | YUAN WEI YU | 787B Choa Chu Kang Drive,  S681787; | <span title="1.395361844967,103.748139410115">1.39536, 103.74814</span> |
+  | ZHEN CHENG FRUITS TRADING | 153 Serangoon North Avenue 1 Dbs Serangoon North Avenue 1 Singapore 550153, #01-468,  S550153; | <span title="1.36995099685808,103.872312298412">1.36995, 103.87231</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ZARREN'S KITCHEN</del><br>ZAREEN'S KITCHEN | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-591,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-17
 
 </summary>
