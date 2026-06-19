@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-19
+
+</summary>
+
+Total locations: 25,605 → 25,624
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BREAD KINGDOM (JB27) | 27 Jalan Berseh Singapore 200027, #01-110,  S200027; | <span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | DI YI FRUITS & VEG | 345 Jurong East Street 31 Dbs Ntuc Jurong East Street 31/345 Singapore 600345, #01-15C,  S600345; | <span title="1.34551210586752,103.73121914575">1.34551, 103.73122</span> |
+  | DINO CAKE HOUSE & CAFE | 257 Upper Thomson Road Soo Chow Garden Singapore 574384, #01-01,  S574384; | <span title="1.35344629783581,103.83354137187">1.35345, 103.83354</span> |
+  | DRINK STALL 182 | 182 Woodlands Street 13,  S730182; | <span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | GOLDEN SNACKS | 51 Old Airport Road, #01-61,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | HAPPY CURRY & PRATA | 51 Old Airport Road, #01-044,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | J & C HAIR SALOON | 166 Woodlands Street 13 Singapore 730166, #01-547,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | LAI SENG SEAFOOD SELLING & WHOLESALE (294 YISHUN) | 294 Yishun Street 22 Singapore 760294, #01-311,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+  | MADAS RENDANG (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | NEWPORT DENTAL | 32 Cassia Crescent Hdb-guillemard Singapore 390032, #01-060,  S390032; | <span title="1.30941607107151,103.883900101162">1.30942, 103.88390</span> |
+  | OLD STREET FISH SOUP | 29 Bendemeer Road, #01-12,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | ONE DROP (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | PROUD THE FUSION WOK & ROLL@TEKKA | 665 Buffalo Road, #01-318,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | RITCH'S LECHON | 348 Bedok Road,  S469560; | <span title="1.331426846711,103.94825705568">1.33143, 103.94826</span> |
+  | SAN YUAN VEGETARIAN | 726 Clementi West Street 2, #01-149,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | SHUN HENG PIG TROTTER RICE (BEDOK208) | 208B New Upper Changi Road, #01-13,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+  | STEVEN FRIED RICE (BEDOK208) | 208B New Upper Changi Road, #01-33,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+  | STR JAPAN | 77 Circuit Road Singapore 370077, #01-458,  S370077; | <span title="1.32855656206109,103.885349899665">1.32856, 103.88535</span> |
+  | YU ZHI WEI @ 520478 | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-18
 
 </summary>
