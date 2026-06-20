@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-20
+
+</summary>
+
+Total locations: 25,624 → 25,644
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 276 HANDMADE BAO DIM | 276 Jurong West Street 25,  S640276; | <span title="1.35360972722828,103.703730685947">1.35361, 103.70373</span> |
+  | 304 HAO FRESH PORK | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-135,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | AH FANG FISH SOUP . BAN MIAN . PORRIDGE | 95 Lorong 4 Toa Payoh,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | ARK OF INDIAN FLAVOURS | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | BREAD REFINED | 57A New Upper Changi Road Singapore 462057, #01-1376,  S462057; | <span title="1.32371678676907,103.94128871491">1.32372, 103.94129</span> |
+  | BROTH & CHOP | 24 Sin Ming Road,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | DELI DELIGHTS LOR AH SOO | 134 Lorong Ah Soo, ST 7,  S530134; | <span title="1.35046468321696,103.886509352895">1.35046, 103.88651</span> |
+  | DRINK STALL 785 (BELMONT) | 785E Woodlands Rise,  S735785; | <span title="1.44679888115266,103.805489772817">1.44680, 103.80549</span> |
+  | DURIAN LARIS | 693 Woodlands Avenue 6 Admiralty Grove Singapore 730693, #01-09,  S730693; | <span title="1.43808788056635,103.803764959272">1.43809, 103.80376</span> |
+  | HONG YU SEAFOOD | 660A Edgedale Plains,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | HSG BEAUTY (JW504) | 504 Jurong West Street 51 Hong Kah Point Singapore 640504, #01-235,  S640504; | <span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | MAGGIE SIGNATURE BEE HOON & NASI LEMAK | 211 Marsiling Crescent,  S730211; | <span title="1.44597940091533,103.773734644075">1.44598, 103.77373</span> |
+  | MAN CUN CHENG BONELESS HAINANESE CHICKEN RICE | 660A Edgedale Plains,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | POLLY | 823A Tampines Street 81, PC-06,  S521823; | <span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | RIB RHAPSODY IN BRAISE@TEKKA | 665 Buffalo Road, #01-320,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | SHARELINK | 31 Commonwealth Crescent, #01-24,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | THE CHEFS PLACE - 347 BB | 347 Bukit Batok Street 34,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+  | THE STEAK LAB | 722 Clementi West Street 2, 5,  S120722; | <span title="1.30297959881951,103.76371403028">1.30298, 103.76371</span> |
+  | YU KANG TCM (AMK 727) | 727 Ang Mo Kio Avenue 6 Ang Mo Kio Central Post Office Singapore 560727, #01-4256,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+  | YU PAN KWAY TEOH SOUP FISH SOUP | 167 Woodlands Street 11,  S730167; | <span title="1.43359370586711,103.775884057946">1.43359, 103.77588</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH SHENG PORRIDGE & SNACKS (NO PORK NO LARD) (239 YISHUN) | <del>239 Yishun Ring Road,  S760239;</del><br>769 Yishun Avenue 3, #01-277,  S760769; | <del title="1.43359453113734,103.839686662816">1.43359, 103.83969</del><br><span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | <del>EMMANUEL CYCLES</del><br>EMMANUEL AND KIM CYCLES | <del>356 Hougang Avenue 7, #01-787,  S530356;</del><br>151 Serangoon North Ave 2, 01-39,  S550151; | <del title="1.37259314173855,103.898813147029">1.37259, 103.89881</del><br><span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | <del>JIA JIA MORNING DELIGHTS</del><br>GRILLZILLA | 79 Circuit Road, #01-51,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | LAO WANG HAINANESE CHICKEN RICE | <del>151 Bedok Reservoir Road, #01-1735,  S470151;</del><br>2 Changi Village Road, #01-54,  S500002; | <del title="1.33557619454702,103.911545779692">1.33558, 103.91155</del><br><span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | N HAIR HOUSE | <del>729 Yishun Street 71 Ace Achievers Our Learning Hub Pte Ltd Singapore 760729, #01-117,  S760729;</del><br>729 Yishun Street 71, #01-121,  S760729; | <span title="1.42585285618241,103.831598307804">1.42585, 103.83160</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-19
 
 </summary>
