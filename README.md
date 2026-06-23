@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-23
+
+</summary>
+
+Total locations: 25,644 → 25,666
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | APEXFIX MOBILE | 448 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560448, #01-1707,  S560448; | <span title="1.3674419012314,103.856396604517">1.36744, 103.85640</span> |
+  | AYU CHICKEN RICE | 2 Bukit Panjang Ring Road, #01-03,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | CHAMBER DECALS | 109 Clementi Street 11 Ocbc Clementi St 11 - 7 Eleven Singapore 120109, #01-35B,  S120109; | <span title="1.32189101790957,103.770595265822">1.32189, 103.77060</span> |
+  | GLIMMER HAIR STUDIO | 452 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560452, #01-1795,  S560452; | <span title="1.36889751131378,103.856200835147">1.36890, 103.85620</span> |
+  | GURUSONSSG | 259 Bukit Panjang Ring Road Bukit Panjang Neighbourhood Centre Singapore 671259, #01-14,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | HELLO BREW BAR (AMK 408) | 408 Ang Mo Kio Avenue 10 Teck Ghee Square Singapore 560408, #01-799,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | HONG SHAN TANG TCM CLINIC | 446 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560446, #01-1663,  S560446; | <span title="1.36776095130953,103.855357145908">1.36776, 103.85536</span> |
+  | HUP HENG | 527 Ang Mo Kio Avenue 10, #01-141,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | JAPANESE & KOREAN CUISINE | 101 Yishun Avenue 5, B2,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | KHAIRUNNISA CHICKEN RICE | 498 Jurong West Street 41, 06,  S640498; | <span title="1.34833335760515,103.724307319237">1.34833, 103.72431</span> |
+  | LAI HENG MUSHROOM MINCED MEAT NOODLE | 73 Lorong 4 Toa Payoh,  S310073; | <span title="1.33432001132262,103.851714329027">1.33432, 103.85171</span> |
+  | MOBILE ENHANCEMENT (201B) | 201B Tampines Street 21 Singapore 522201, #01-K2,  S522201; | <span title="1.35345315769813,103.953009918868">1.35345, 103.95301</span> |
+  | OMMA CHICKEN SOUP | 14 Haig Road, #01-43,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | OMMA CHICKEN SOUP (MP 84) | 84 Marine Parade Central, #01-35,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | SANCHON KOREAN CUISINE (TMART) | Tampines Street 32,  S529286; | <span title="1.35436493607477,103.960042189097">1.35436, 103.96004</span> |
+  | SHENG BEEHOON & NASI LEMAK | 107 Ang Mo Kio Avenue 4,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | SKEWERBROS | 63 Kallang Bahru,  S330063; | <span title="1.32100020851204,103.868321383856">1.32100, 103.86832</span> |
+  | SONGHUA PRAWN NOODLE | 212 Bidadari Park Drive,  S360212; | <span title="1.34279948643004,103.875178060687">1.34280, 103.87518</span> |
+  | TEA & TEA DRINKS | 109 Bukit Purmei Road Bukit Purmei Ville Singapore 090109, #01-143,  S090109; | <span title="1.27392939929265,103.825310761145">1.27393, 103.82531</span> |
+  | THE NORBUM GEMS | 16 Bedok South Road, #01-65,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | VEGE E | 16 Bedok South Road, #01-13,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | YAN BEAUTY JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-181A,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SALON ONE (440083 #01-560)</del><br>ELIM CALM | 83 Marine Parade Central, #01-560,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-20
 
 </summary>
