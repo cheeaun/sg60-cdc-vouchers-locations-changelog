@@ -13,6 +13,58 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-24
+
+</summary>
+
+Total locations: 25,666 → 25,693
+
+- <details><summary>Added (27)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 786 FRESH CUTZ | 151A Bishan Street 11, 24,  S570151; | <span title="1.34507321944682,103.855542321231">1.34507, 103.85554</span> |
+  | 939 V+MART | 372 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650372, #01-368,  S650372; | <span title="1.35866916706906,103.751213742148">1.35867, 103.75121</span> |
+  | AAHA FRESH | 854 Jurong West Street 81 Hdb Public Shelters Singapore 640854, #01-502,  S640854; | <span title="1.34731625275917,103.69606144333">1.34732, 103.69606</span> |
+  | AL ASHAIK INDIAN MUSLIM FOOD | 168 Bedok South Avenue 3,  S460168; | <span title="1.32003554111515,103.944570078049">1.32004, 103.94457</span> |
+  | BLOOM HAIR PLACE@DEPOT | 108 Depot Road Dbs Ntuc Depot Road Singapore 100108, #02-07A,  S100108; | <span title="1.28096680702384,103.810298189643">1.28097, 103.81030</span> |
+  | BOWEN'S (FERNVALE 465) | 465 Fernvale Road,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | CLAYPOT KING | 275D Compassvale Link, ST05,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+  | DASUMIKA BEAUTY PTE. LTD.@41 CAMBRIDGE | 41 Cambridge Road Hdb-kallang/whampoa Singapore 210041, #01-18,  S210041; | <span title="1.31543762081432,103.849817677057">1.31544, 103.84982</span> |
+  | DOUBLE LING KITCHEN | 37 Chai Chee Avenue,  S461037; | <span title="1.32544200357037,103.926207634232">1.32544, 103.92621</span> |
+  | FISCH POINT 27 | 79 Redhill Lane, #01-27,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | HN MARTS@460 AMK | 460 Ang Mo Kio Avenue 10 Teck Ghee Grandeur Singapore 560460, #01-1578,  S560460; | <span title="1.36633947709831,103.859122319513">1.36634, 103.85912</span> |
+  | HN MARTS@461 AMK | 461 Ang Mo Kio Avenue 10 Hdb-ang Mo Kio Singapore 560461, #01-1166,  S560461; | <span title="1.36752776339718,103.85740958675">1.36753, 103.85741</span> |
+  | IMPERIAL BROTH NOODLES | 23 Hougang Avenue 3, ST 2,  S530023; | <span title="1.36485740076853,103.890728400886">1.36486, 103.89073</span> |
+  | JIA LE JIA | 202C Woodleigh Link, #01-14,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | KAO WESTERN | 527 Ang Mo Kio Avenue 10, #01-111,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | LEGACY ECONOMIC MEALS | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | PATONG THAI EXPRESS (UBI301) | 301 Ubi Avenue 1,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | SARAWAK DELICACY | 435A Hougang Avenue 8,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | SONG HUAT NASI LEMAK | 275D Compassvale Link, ST13,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+  | TEOCHEW FISHBALL NOODLE | 122 Ang Mo Kio Avenue 3,  S560122; | <span title="1.37018860668947,103.843413231524">1.37019, 103.84341</span> |
+  | TOMO CAFE | 185 Upper Thomson Road Yew Lian Park Singapore 574333, #01-185,  S574333; | <span title="1.35146352387757,103.835344599828">1.35146, 103.83534</span> |
+  | WANJIA DRINKS | 164 Bukit Merah Central,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | WANJIA KOREAN & JAPANESE FOOD | 164 Bukit Merah Central,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | WANJIA SEAFOOD ZICHAR | 164 Bukit Merah Central, 1,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | WE YEE KITCHEN | 275D Compassvale Link, MR1,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+  | XIAO DI BAK KUT TEH | 376 Bukit Batok Street 31,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | YI PIN WEI KWAY CHAP | 259 Pasir Ris Street 21,  S510259; | <span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>CHI LIU XIANG BAK KUT TEH(660A PUNGGOL)</del><br>CHI LIU XIANG BAK KUT TEH | <del>660A Edgedale Plains,  S821660;</del><br>118 Commonwealth Cres, #01-29,  S140118; | <del title="1.40262197348865,103.916519598298">1.40262, 103.91652</del><br><span title="1.30675132855828,103.800693403924">1.30675, 103.80069</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-23
 
 </summary>
