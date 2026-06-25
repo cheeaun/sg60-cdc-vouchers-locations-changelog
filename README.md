@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-25
+
+</summary>
+
+Total locations: 25,693 → 25,708
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BENKOK13 THAI FOOD | 165A Yung Kuang Road Yung Kuang Court Singapore 611165, #01-42,  S611165; | <span title="1.330725422574305,103.7219137626569">1.33073, 103.72191</span> |
+  | FIVE SPICES TYPCOON | 201C Tampines Street 21,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | FRESH MALAYSIA PORK (JW493) | 493 Jurong West Street 41, 8,  S640493; | <span title="1.34896996021593,103.724938358616">1.34897, 103.72494</span> |
+  | FRIED CARROT CAKE | 81 Whampoa Drive,  S320081; | <span title="1.32400427468755,103.85632640336">1.32400, 103.85633</span> |
+  | GS DIGITAL TRADING@526 AMK | 526 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560526, #01-2415,  S560526; | <span title="1.37306933206102,103.85408907757">1.37307, 103.85409</span> |
+  | JIA YI @HG GREEN | 21 Hougang Street 51, 01-51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | KAJA'S KITCHEN (JW442) | 442 Jurong West Avenue 1,  S640442; | <span title="1.35151847519437,103.719496480131">1.35152, 103.71950</span> |
+  | LAO FAN JI BAK KUT TEH & CLAYPOT (AMK 347) | 347 Ang Mo Kio Avenue 3,  S560347; | <span title="1.36733858334098,103.848576334625">1.36734, 103.84858</span> |
+  | NAMSAMGOL KOREAN RESTAURANT | 7 Ang Mo Kio Street 66 Floravista Singapore 567708, #01-13,  S567708; | <span title="1.39127591953143,103.850468725185">1.39128, 103.85047</span> |
+  | P'J FRUITS | 282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-143,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | POPOS MUSLIM DELIGHT | 32 New Market Road, #01-1002B,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | TEOCHEW FISH SOUP | 555 Ang Mo Kio Avenue 10,  S560555; | <span title="1.37119666371478,103.85702400572">1.37120, 103.85702</span> |
+  | THAI ZAAP | 722 Clementi West Street 2,  S120722; | <span title="1.30297959881951,103.76371403028">1.30298, 103.76371</span> |
+  | TIANXIA DIYI WAN | 399 Yung Sheng Road,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | VICTORIAN BREWER | 52 Chin Swee Road Hdb-central Area Singapore 160052, #02-27,  S160052; | <span title="1.28708278284998,103.841580109275">1.28708, 103.84158</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AH SHENG PORRIDGE & SNACKS (NO PORK NO LARD) (239 YISHUN)</del><br>AH SHENG PORRIDGE & SNACKS (NO PORK NO LARD) (769 YISHUN) | 769 Yishun Avenue 3, #01-277,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | BEO CRESCENT LOR MEE | <del>14 Haig Road, #01-43,  S430014;</del><br>347 Jurong East Ave 1, 01-198,  S600347; | <del title="1.31542509324914,103.895479253328">1.31543, 103.89548</del><br><span title="1.3454164813804,103.73170393955">1.34542, 103.73170</span> |
+  | <del>SHUN VAN 293</del><br>ELINA VAN (239 YISHUN) | <del>293 Yishun Street 22,  S760293;</del><br>239 Yishun Ring Road, #01-1150,  S760239; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-24
 
 </summary>
