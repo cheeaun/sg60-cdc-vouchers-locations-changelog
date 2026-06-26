@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-26
+
+</summary>
+
+Total locations: 25,708 → 25,726
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 573 WANG KUEH | 573 Woodlands Drive 16,  S730573; | <span title="1.43109807246887,103.798507621177">1.43110, 103.79851</span> |
+  | ALIYAH RIZQ BUTCHERY (FERNVALE) | 21 Sengkang West Avenue, 03-37,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | AMIGO (163A GANGSA) | 163A Gangsa Road,  S671163; | <span title="1.37693802145847,103.764352791521">1.37694, 103.76435</span> |
+  | BEO CRESCENT LOR MEE- REDHILL | 85 Redhill Lane, #01-22,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | DONG JI DUMPLING NOODLES XIAO LONG BAO | 106 Hougang Avenue 1,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+  | KE KOU MIAN | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | KIN MAI THAI FOOD | 1 Tanjong Pagar Plaza,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | LAO GUANG JI CLAYPOT RICE | 51 Hougang Avenue 9, #01-17,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | MAN TANG CHICKEN RICE | 1015 Geylang East Avenue 3, ST 5,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | NEW HORSE NOODLES | 335 Smith Street, #02-148,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | NKS RESTAURANT | 342 Ubi Avenue 1 Kampong Ubi View Singapore 400342, #01-923A,  S400342; | <span title="1.32643338540071,103.901170017525">1.32643, 103.90117</span> |
+  | POINT VETERINARY SURGERY | 541 Jurong West Avenue 1 Hdb-jurong West Singapore 640541, #01-1044,  S640541; | <span title="1.35104299843383,103.715983002516">1.35104, 103.71598</span> |
+  | ROJAK POPIAH KUEH | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | RUCHULU INDIAN RESTAURANT (21 FERNVALE) | 21 Fernvale Road High Park Residences Singapore 797637, #01-02,  S797637; | <span title="1.39638961318515,103.875132778517">1.39639, 103.87513</span> |
+  | SAAVORO | 325 Ubi Avenue 1 Kampung Ubi Estate Singapore 400325, #01-703A,  S400325; | <span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+  | SWEE SENG FRUITS AND VEGETABLES | 414 Yishun Ring Road Singapore 760414, #01-1841,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | VSS INDIAN FOOD | 3014 Ubi Road 1,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+  | XIAO OU SEAFOOD | 494 Jurong West Street 41,  S640494; | <span title="1.34950750219884,103.724914014154">1.34951, 103.72491</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MENG LONG PAO FAN, LA MIAN, DUMPLING | <del>107 Serangoon North Avenue 1,  S550107;</del><br>107 Serangoon North Avenue 1, #01-671,  S550107; | <span title="1.36990040378361,103.870224884545">1.36990, 103.87022</span> |
+  | TIONG BAHRU JIAN BO SHUI KUEH | <del>121 Bedok Reservoir Road,  S470121;</del><br>121 Bedok Reservoir Road, 01-210,  S470121; | <span title="1.33130517787872,103.909992224709">1.33131, 103.90999</span> |
+  | TIONG BAHRU JIAN BO SHUI KUEH (CHAI CHEE) | <del>29B Chai Chee Avenue,  S462029;</del><br>29B Chai Chee Avenue, 01-60,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | <del>ZHENG YANG WANTON NOODLES</del><br>ZHENGUANG WANTAN NOODLES | 14 Haig Road, #01-67,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-25
 
 </summary>
