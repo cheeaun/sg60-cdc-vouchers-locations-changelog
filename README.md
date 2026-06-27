@@ -13,6 +13,68 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-27
+
+</summary>
+
+Total locations: 25,726 → 25,744
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 33 YUN LAI EATING HOUSE PTE LTD | 33 Lorong 15 Geylang Singapore 388618, #01-01,  S388618; | <span title="1.313707700141327,103.8777989066523">1.31371, 103.87780</span> |
+  | BASIL KING (504A SERANGOON) | 504A Serangoon North Avenue 4,  S555850; | <span title="1.37399768680103,103.875704727628">1.37400, 103.87570</span> |
+  | BT HO SWEE 1961 JE134 | 134 Jurong Gateway Road,  S600134; | <span title="1.33399413849743,103.738819152518">1.33399, 103.73882</span> |
+  | D'S HOOD | 568C Champions Way,  S733568; | <span title="1.42851879607184,103.789358881274">1.42852, 103.78936</span> |
+  | DURABROS@CAMBRIDGE | 41A Cambridge Road, #01-63,  S211041; | <span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+  | HONNG LOK FAN ZHUANG (291 YISHUN) | 291 Yishun Street 22, #01-369,  S760291; | <span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | KLANG BAK KUT TEH PIG ORGAN SOUP | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | LANG LAI LIM | 159 Mei Chin Road, #02-09,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | LIN JI SEAFOOD ZHU CHAO - SIMS DRIVE | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | MAN LI FOOD PTE LTD | 151 Serangoon North Avenue 2, ST 12,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | NEW ONS TRADING | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #01-44,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | ROLLING WOK | 20 Kensington Park Road, #01-07,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | ROTI BAKAR LELEH | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | SALAD & CREAM | 1 Punggol Drive, #02-17,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | SOYA AND LAKSA | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-08,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT (510446) | 446 Pasir Ris Drive 6, 006,  S510446; | <span title="1.37030619298608,103.95772686444">1.37031, 103.95773</span> |
+  | YUAN WEI LAO HUO TANG | 7 Empress Road, #01-106,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | YUAN XIANG NASI LEMAK | 164 Bukit Merah Central,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+
+  </details>
+
+- <details><summary>Changed (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 282 GOURMET | <del>31 Commonwealth Crescent, #02-82,  S149644;</del><br>Blk 7 Empress Road, #01-104,  S260007; | <del title="1.30690013206335,103.800367271218">1.30690, 103.80037</del><br><span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | 309 FRIED HOKKIEN MEE | <del>309 Hougang Avenue 5,  S530309;</del><br>309 Hougang Avenue 5, #01-285,  S530309; | <span title="1.36620554681345,103.895152424666">1.36621, 103.89515</span> |
+  | AH FANG BAN MIAN PORRIDGE (26A) | <del>26A Chai Chee Road,  S461026;</del><br>26A Chai Chee Road, #01-405,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | <del>NASI PADANG 151</del><br>AYU KITCHEN NASI PADANG 151 | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | DELI DELIGHTS LOR AH SOO | <del>134 Lorong Ah Soo, ST 7,  S530134;</del><br>134 Lorong Ah Soo, #01-454,  S530134; | <span title="1.35046468321696,103.886509352895">1.35046, 103.88651</span> |
+  | DONG JI DUMPLING, XIAO LONG BAO | <del>237 Serangoon Avenue 3,  S550237;</del><br>237 Serangoon Avenue 3, #01-130,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | FATTY BOY CHARCOAL ROASTED DELIGHT (210) | <del>210 Hougang Street 21,  S530210;</del><br>210 Hougang Street 21, #01-261,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | FUNG YI DELIGHTS | <del>69 Bedok South Avenue 3,  S460069;</del><br>69 Bedok South Avenue 3, #01-468,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | GRILL LAH MODERN WESTERN GRILL | <del>59 New Upper Changi Road,  S461059;</del><br>59 New Upper Changi Road, #01-1248,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | HEI KITCHEN (NUC) | <del>26 New Upper Changi Road,  S462026;</del><br>26 New Upper Changi Road, #01-656,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | HOME CURRY PUFF | <del>26 New Upper Changi Road,  S462026;</del><br>26 New Upper Changi Road, #01-656,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | HOUSE OF LONG HUA | <del>212 Hougang Street 21, 8,  S530212;</del><br>212 Hougang Street 21, #01-349,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | IMPERIAL BROTH NOODLES | <del>23 Hougang Avenue 3, ST 2,  S530023;</del><br>23 Hougang Avenue 3, #01-277,  S530023; | <span title="1.36485740076853,103.890728400886">1.36486, 103.89073</span> |
+  | JI XIANG KE KOU DUCK RICE (26A) | <del>26A Chai Chee Road,  S461026;</del><br>26A Chai Chee Road, #01-405,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | <del>HAPPY VEGETARIAN FOOD</del><br>JU FU YUAN VEGETARIAN DELIGHT | <del>106 Hougang Avenue 1,  S530106;</del><br>106 Hougang Avenue 1, #01-1239,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+  | KOVAN PRATA EXPRESS | <del>210 Hougang Street 21 #01-261,  S530210;</del><br>210 Hougang Street 21, #01-261,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | LAO FAN JI CLAYPOT RICE & HERBAL BAK KUT TEH | <del>248 Simei Street 3,  S520248;</del><br>248 Simei Street 3, #01-136,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | PAO FAN PAO MIAN BAN MIAN | <del>123 Yishun Street 11,  S760123;</del><br>293 Yishun Street 22, #01-207,  S760293; | <del title="1.43453686287322,103.831779326315">1.43454, 103.83178</del><br><span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | RED LANTERN SEAFOOD | <del>631 Bedok Reservoir Road, 01,  S470631;</del><br>631 Bedok Reservoir Road, #01-982,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | STEVEN FRIED RICE (26A) | <del>26A Chai Chee Road,  S461026;</del><br>26A Chai Chee Road, #01-405,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-26
 
 </summary>
