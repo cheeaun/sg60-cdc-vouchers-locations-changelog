@@ -13,6 +13,86 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-06-30
+
+</summary>
+
+Total locations: 25,744 → 25,760
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 19 MINIMART | 23 Telok Blangah Crescent Mount Faber View Singapore 090023, #01-34,  S090023; | <span title="1.276080723511361,103.8208395212854">1.27608, 103.82084</span> |
+  | 408 BAN MIAN | 408 Ang Mo Kio Avenue 10, ST4,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | AH FANG FISH SOUP-BAN MIAN-PORRIDGE | 590 Montreal Link,  S750590; | <span title="1.45063212743043,103.826554055194">1.45063, 103.82655</span> |
+  | BEST SMILE DENTAL CLINIC | 11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-929,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | FANG XIANG WANTON NOODLE | 603 Clementi West Street 1,  S120603; | <span title="1.3047886514707,103.767329303088">1.30479, 103.76733</span> |
+  | FENG ZHI WEI | 37 Teban Gardens Road,  S600037; | <span title="1.32052026841644,103.742651512921">1.32052, 103.74265</span> |
+  | GUAN LEE SEAFOOD TEOCHEW FISH-HEAD STEAMBOAT | 803 King George's Avenue, ST8,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | HENG ZAI HAINANESE CHICKEN RICE | 210 Toa Payoh Lorong 8, #01-08,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+  | KANG AND KEE | 3 Yung Sheng Road, #02-64,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | KNC INDIAN MUSLIM FOOD (AMK 722) | 722 Ang Mo Kio Avenue 8,  S560722; | <span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | L&M SEAFOOD 12 HAIG ROAD | 12 Haig View, Haig Road, #01-323,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+  | LAO JIE FANG HK ROASTED RICE.NOODLES(632) | 632 Yishun Street 61,  S760632; | <span title="1.41856736783462,103.839186937262">1.41857, 103.83919</span> |
+  | LNR INDIAN MUSLIM FOOD (1015) | 1015 Geylang East Avenue 3, #01-109,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | MERIDIAN MEDICAL CENTRE - SIMS PLACE | 46 Sims Place Sims Vista Singapore 380046, #01-185,  S380046; | <span title="1.31757785555311,103.878785901158">1.31758, 103.87879</span> |
+  | SEABAY DELIGHTS SBW511 | 511 Canberra Road, ST07,  S750511; | <span title="1.45384518789713,103.819543348113">1.45385, 103.81954</span> |
+  | SHRIMPTALK | 14 Beach Road Golden Beach Vista Singapore 190014, #01-4667,  S190014; | <span title="1.30366320140454,103.863006472509">1.30366, 103.86301</span> |
+  | YI XING SUPPLIES | 210 Toa Payoh Lorong 8, #01-97,  S310210; | <span title="1.34021600857625,103.85487256444">1.34022, 103.85487</span> |
+
+  </details>
+
+- <details><summary>Removed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GREEN GROVE GROCER | 30 Seng Poh Road, #01-92,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+
+  </details>
+
+- <details><summary>Changed (31)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TANJONG RHU WANTON NOODLE</del><br>1008 WANTON NOODLES | 317 Yishun Avenue 9,  S760317; | <span title="1.4337728132864,103.842276902325">1.43377, 103.84228</span> |
+  | <del>18 MHK</del><br>18 SLICED FISH SOUP | <del>18 Toh Yi Drive,  S590018;</del><br>18 Toh Yi Drive, #01-97,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+  | AL- HADID CUSINE INDIAN MUSLIM FOOD | <del>246 Hougang Street 22,  S530246;</del><br>246 Hougang Street 22, #01-161,  S530246; | <span title="1.35876258437852,103.891460074318">1.35876, 103.89146</span> |
+  | DONG JI DUMPLING NOODLES XIAO LONG BAO | <del>106 Hougang Avenue 1,  S530106;</del><br>106 Hougang Avenue 1, #01-1239,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+  | EDDY'S 1 | <del>531A Upper Cross Street, #02-13,  S051531;</del><br>531A Upper Cross Street, #02-54,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | <del>FOUR SEASONS CHING TENG</del><br>FOUR SEASONS CENDOL | 6 Jalan Bukit Merah, #01-46,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | <del>TONG XIN YUAN NOODLE</del><br>HAO HAO SHI TANG GOODIES | <del>475 Upper Serangoon Crescent,  S530475;</del><br>475 Upper Serangoon Crescent, #01-01,  S530475; | <span title="1.37571547958525,103.90067527329">1.37572, 103.90068</span> |
+  | <del>HONG LIM YONG TAU FOO FISHBALL NOODLE</del><br>HONG LIM YONG TAU FOO (24HRS) | <del>531A Upper Cross Street, #01-68,  S051531;</del><br>34 Upper Cross Street, #01-132,  S050034; | <del title="1.28529907736773,103.845823802043">1.28530, 103.84582</del><br><span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+  | <del>SOYLICIOUS HOUSE OF TASTE (HUI WEI MALA)</del><br>HUI WEI HAINANESE BONELESS CHICKEN RICE | <del>462 Crawford Lane,  S190462;</del><br>45 Sims Drive,  S380045; | <del title="1.30458618029941,103.860840750826">1.30459, 103.86084</del><br><span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | JB CLAYPOT CURRY FISH HEAD | <del>539 Bedok North Street 3, 01,  S460539;</del><br>539 Bedok North Street 3, #01-593,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | JENNY'S SEWING N CRAFT | <del>112 Jalan Bukit Merah, #02-16,  S160112;</del><br>112 Jalan Bukit Merah, #02-15,  S160112; | <span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+  | JU FU YUAN VEGETARIAN DELIGHT | <del>631 Bedok Reservoir Road,  S470631;</del><br>631 Bedok Reservoir Road, #01-886,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | <del>O'CHARLIE WESTERN</del><br>KAMPUNG BOY FRIED CHICKEN | 27 Bendemeer Road,  S330027; | <span title="1.31883815362848,103.862815823199">1.31884, 103.86282</span> |
+  | LONG JI WANTON NOODLE | <del>728 Ang Mo Kio Ave 6, #01-4200,  S560728;</del><br>929 Tampines Street 91, #01-451,  S520929; | <del title="1.37262841608628,103.845682928938">1.37263, 103.84568</del><br><span title="1.34639172413315,103.93961398508">1.34639, 103.93961</span> |
+  | MAN TANG CHICKEN RICE | <del>1015 Geylang East Avenue 3, ST 5,  S389730;</del><br>1015 Geylang East Avenue 3, #01-109,  S389730; | <span title="1.31941457581254,103.890765107735">1.31941, 103.89077</span> |
+  | MAN XIANG TRADITIONAL ROASTED DELIGHT 631 | <del>631 Bedok Reservoir Road,  S470631;</del><br>631 Bedok Reservoir Road, #01-886,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | <del>MAN LI FOOD PTE LTD</del><br>MANLI SEAFOOD | <del>151 Serangoon North Avenue 2, ST 12,  S550151;</del><br>151 Serangoon North Avenue 2, #01-41,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | <del>JOO CHIAT BEEF NOODLES</del><br>MIN CHUAN BEEF NOODLE | <del>70 Zion Road, #01-28,  S247792;</del><br>70 Zion Road, #01-03,  S247792; | <span title="1.29231113322494,103.830973312857">1.29231, 103.83097</span> |
+  | MIN FEI FISH SOUP | <del>85 Redhill Lane, #01-44,  S150085;</del><br>3 Yung Sheng Road, #03-144,  S618499; | <del title="1.28730751501552,103.818311195307">1.28731, 103.81831</del><br><span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | NABAYLA DURIAN | <del>530 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560530, #01-2383,  S560530;</del><br>Blk 40 Beo Crescent, #01-20,  S160040; | <del title="1.37273243763236,103.85527326009">1.37273, 103.85527</del><br><span title="1.28905634657056,103.827502108439">1.28906, 103.82750</span> |
+  | NEOBILE HUB EIGHT | <del>377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #B1-10,  S530377;</del><br>377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #01-10,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | <del>OPTIC FOCUS @TPY</del><br>OPTIC FOCUS @TPY PTE. LTD. | Toa Payoh Central, 1-308,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | OPTICS N VISION | <del>Everton Park, #01-03A,  S080007;</del><br>3 Everton Park, #01-65,  S080003; | <del title="1.27692435153003,103.838679504443">1.27692, 103.83868</del><br><span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | <del>31 ROJAK</del><br>ROJAK | <del>31 Kelantan Lane,  S200031;</del><br>27 Jalan Berseh, 01-100,  S200027; | <del title="1.30630368530972,103.856826784017">1.30630, 103.85683</del><br><span title="1.30660046872975,103.857799738556">1.30660, 103.85780</span> |
+  | STEP IN HAIR STUDIO | <del>Everton Park, #01-03B,  S080007;</del><br>3 Everton Park, #01-67A,  S080003; | <del title="1.27692435153003,103.838679504443">1.27692, 103.83868</del><br><span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | TAN CHYE HONG TRADING | <del>46 Sims Place Sims Vista Singapore 380046, #01-199,  S380046;</del><br>47 Sims Place, #01-175,  S380047; | <del title="1.31757785555311,103.878785901158">1.31758, 103.87879</del><br><span title="1.31794121263529,103.879025382959">1.31794, 103.87903</span> |
+  | THE NASI PADANG BY BUTTERSCOTCH | <del>22 Sin Ming Road, #01-210,  S570022;</del><br>171 Macpherson Rd, #01-01,  S348536; | <del title="1.3572844410824,103.839396679952">1.35728, 103.83940</del><br><span title="1.329896347951382,103.8740174016752">1.32990, 103.87402</span> |
+  | TOA PAYOH CURRY PUFF | <del>151 Serangoon North Avenue 2,  S550151;</del><br>151 Serangoon North Avenue 2, #01-41,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | <del>UNCLE LOR MEE</del><br>TRADITIONAL POPIAH | 17 Upper Boon Keng Road, 01-70,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | VSS INDIAN FOOD | <del>3014 Ubi Road 1,  S408702;</del><br>3014 Ubi Road 1, #01-308,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+  | XIN LIN SEAFOOD | <del>11 Upper Boon Keng Road,  S380011;</del><br>53 Sims Place, #01-150,  S380052; | <del title="1.31423937033551,103.870914031459">1.31424, 103.87091</del><br><span title="1.316665447396119,103.8803905265658">1.31667, 103.88039</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-27
 
 </summary>
