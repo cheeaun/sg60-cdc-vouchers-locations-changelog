@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-01
+
+</summary>
+
+Total locations: 25,760 → 25,774
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHANG HENG FAN ZHUANG & ECON BEE HOON | 267 Serangoon Avenue 3, ST 06,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | DUDUXIANG SNACK CORNER | 277C Compassvale Link Aspella Singapore 543277, #01-13,  S543277; | <span title="1.38233698966981,103.893607838756">1.38234, 103.89361</span> |
+  | ECONOMIC BEE HOON & NASI LEMAK | 68 Geylang Bahru,  S330068; | <span title="1.32195565983066,103.869828458031">1.32196, 103.86983</span> |
+  | ECONOMIC BEE HOON NASI LEMAK | 69 Geylang Bahru, #01-40,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | EE MART | 226D Ang Mo Kio Avenue 1, #01-83,  S564226; | <span title="1.36680096218071,103.839152274224">1.36680, 103.83915</span> |
+  | FRED BREAD | 7 Ang Mo Kio Street 66 Floravista Singapore 567708, #01-02,  S567708; | <span title="1.39127591953143,103.850468725185">1.39128, 103.85047</span> |
+  | HENG HENG BBQ CHICKEN WINGS & SATAY | 91 Hillview Link, K12,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | MOH SWEE KEE HAINANESE CHICKEN RICE | 26 New Upper Changi Road, 656,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | RINGO'S MIXED VEGETABLE RICE | 1 Beach Road, ST7,  S190001; | <span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | SOLDIER CHICKEN | 106 Hougang Avenue 1,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHTS | 267 Serangoon Avenue 3, ST 05,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | XING LE XING - 744CR | 744 Yishun Street 72,  S760744; | <span title="1.42934172944691,103.834049245985">1.42934, 103.83405</span> |
+  | YINGLI CLAYPOT | 91 Hillview Link, K17,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | YUEN KEE DUMPLING -YEW TEE KOPITIAM | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DE CULTURE SALON | <del>201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-116,  S527201;</del><br>201E Tampines St 23, #01-70A,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | <del>MMP SUPER MART- BP</del><br>MMP SUPERMARKET | <del>259 Bukit Panjang Ring Road, #01-14,  S671259;</del><br>138 Tampines Street 11, #01-112,  S521138; | <del title="1.37704293112476,103.773310086846">1.37704, 103.77331</del><br><span title="1.3455045062724,103.945588355383">1.34550, 103.94559</span> |
+  | MR FIX TAMPINES CENTRAL | <del>503 Tampines Central 1, #01-279,  S520503;</del><br>503 Tampines Central 1, #01-307,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | <del>OFFER & SAVE TB</del><br>OFFER & SAVE (37) | 37 Teban Gardens Road Dbs Ntuc Teban Gardens Road Singapore 600037, #01-301,  S600037; | <span title="1.32052026841644,103.742651512921">1.32052, 103.74265</span> |
+  | <del>VALUEHUB DEPARTMENT STORE (SB) PTE LTD</del><br>VALUEHUB DEPARTMENT STORE PTE LTD | 105 Canberra Street Eastbrook @ Canberra Singapore 750105, #01-07N08,  S750105; | <span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | <del>BB451 WEST LEGEND EXPRESS</del><br>WOK OF HOME TOWN - 308C PUNGGOL WALK | <del>451 Bukit Batok West Avenue 6,  S650451;</del><br>3089C Punggol Walk #01-308,  S823308; | <del title="1.35303717968525,103.743942567711">1.35304, 103.74394</del><br><span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-06-30
 
 </summary>
