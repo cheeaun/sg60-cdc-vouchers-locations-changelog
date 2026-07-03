@@ -13,6 +13,66 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-03
+
+</summary>
+
+Total locations: 25,559 → 25,592
+
+- <details><summary>Added (33)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 156 LEGACY SEAFOOD | 156 Yishun Street 11,  S760156; | <span title="1.43188761932588,103.833567756794">1.43189, 103.83357</span> |
+  | A & C MOBILE | 829 Tampines Street 81 Hdb-tampines Singapore 520829, #01-288,  S520829; | <span title="1.34922419580696,103.934912515373">1.34922, 103.93491</span> |
+  | AL AMAAN INDIAN MUSLIM FOOD | 117 Pending Road,  S670117; | <span title="1.37730128071547,103.767979335905">1.37730, 103.76798</span> |
+  | BASIL KING (BEDOK211) | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | CHINATOWN CURRY FISH HEAD | 34 Jalan Bukit Ho Swee,  S160034; | <span title="1.28807687600985,103.82708127923">1.28808, 103.82708</span> |
+  | CLEATHERCRAFTS | 1 Lorong Mambong, #01-04,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | DADDY CUISINE BY DADDY BBQ | 1 Lorong Mambong, #01-38,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | EGG RICE STALL 55 | 21 Canberra Link, 01-55,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | FAT MOMMA KITCHEN (BEDOK211) | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | FLAME AND GRAIN | National Development Building, Annex B, Telok Ayer Street, #01-53,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | FRIED CARROT STICKS | 105 Hougang Avenue 1, #02-04,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | FULLY LOADED | 121 Hougang Avenue 1 Hdb-hougang Singapore 530121, #01-1348,  S530121; | <span title="1.3538605933002,103.886936534381">1.35386, 103.88694</span> |
+  | GO TEA | 476 Tampines Street 44 Hdb-tampines Singapore 520476, #01-199,  S520476; | <span title="1.36092283930264,103.953359364582">1.36092, 103.95336</span> |
+  | GREEN GROVE GROCER | 30 Seng Poh Road, #01-53,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | HAO NOODLES & SOUPS | 21 Hougang Street 51, 01-42,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | HAPPY PLACE | 112 Jalan Bukit Merah, #02-30,  S160112; | <span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+  | HN MARTS PTE. LTD. (83 WHAMPOA) | 83 Whampoa Drive Whampoa View Singapore 320083, #01-288,  S320083; | <span title="1.32357483276514,103.8570348584432">1.32357, 103.85703</span> |
+  | HUP LEE FRIED BEE HOON | 84 Marine Parade Central, #01-053,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | JOM CHICKEN RICE | 548 Woodlands Drive 44,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | MOTHER EARTH CLASSIC VEGETARIAN (BALESTIER) | 530 Balestier Road Little Footprints Preschool @ Balestier Pte Ltd Singapore 329857, #01-06,  S329857; | <span title="1.327168752954528,103.8455185608696">1.32717, 103.84552</span> |
+  | NUDELY LAB (YISHUN) | 928 Yishun Central 1 Hdb-yishun Singapore 760928, #01-147,  S760928; | <span title="1.4272080784162,103.837377109933">1.42721, 103.83738</span> |
+  | PONDOK TIMBUK @19 DOVER | 19A Dover Crescent, St5,  S131019; | <span title="1.30735380231593,103.78454843987">1.30735, 103.78455</span> |
+  | R&M BANANA LEAF INDIAN CUISINE | 510 Bedok North Street 3,  S460510; | <span title="1.3324467322696,103.930476688129">1.33245, 103.93048</span> |
+  | SEAH IM BAN MIAN & FISH SOUP | 2 Seah Im Rd, 54,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | TAMI'S INDIAN MINI MART | 803 King George's Avenue Hdb-kallang/whampoa Singapore 200803, #01-176,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | TEAGIF (57 MT) | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-127A,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | TEO BUTCHERY PTE LTD | 201C Tampines Street 21, #01-08,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | THE EYECARE VILLAGE BY EYEVISER | 20 Lengkok Bahru Singapore 159053, #03-05,  S159053; | <span title="1.28683297163774,103.814669931218">1.28683, 103.81467</span> |
+  | TWOHERBS (TAMPINES) | 505 Tampines Central 1 Tampines Heart Singapore 520505, #01-359,  S520505; | <span title="1.3555484823662,103.945616071023">1.35555, 103.94562</span> |
+  | VIETSEA BANH MI EXPRESS | 10 Sengkang Square, 50A,  S544829; | <span title="1.39152651487694,103.89365715873">1.39153, 103.89366</span> |
+  | XIN JI MEE HOON KUEH@121 PASIR PANJANG | 121 Pasir Panjang Road, #01-41,  S118543; | <span title="1.27569879325348,103.791619964293">1.27570, 103.79162</span> |
+  | YUEN KEE DUMPING - MP 83 | 83 Marine Parade Central Marine Parade Promenade Singapore 440083, #01-568A,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | ZMA HAIR SALON | 11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-913,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL-MADINA FAMOUS PRATA CORNER 635C SENJA ROAD | <del>635C Senja Road,  S673635;</del><br>330 Anchorvale Street, #01-02,  S540330; | <del title="1.38650187058094,103.758433939145">1.38650, 103.75843</del><br><span title="1.3968497990014,103.889246755784">1.39685, 103.88925</span> |
+  | <del>DREAMS TIME HAIR NAIL BEAUTY</del><br>DREAMS HOUSE HAIR SALON | Lorong Ah Soo, #01-466,  S530134; | <span title="1.35046468321696,103.886509352895">1.35046, 103.88651</span> |
+  | SHI XIANG GE MALA HOT POT | <del>826 Tampines Street 81, #01-05,  S520826;</del><br>823A Tampines Street 81, #01-02,  S521823; | <del title="1.34927794715578,103.933768905771">1.34928, 103.93377</del><br><span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-02
 
 </summary>
