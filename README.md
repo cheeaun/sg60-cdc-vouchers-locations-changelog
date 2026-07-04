@@ -13,6 +13,57 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-04
+
+</summary>
+
+Total locations: 25,592 → 25,614
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 431 GUO CHANG MALA | 431 Clementi Avenue 3,  S120431; | <span title="1.31377438724798,103.762535189721">1.31377, 103.76254</span> |
+  | 70S PRAWN NOODLES | 1010 Tai Seng Avenue,  S534417; | <span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | ANNAHS DINER | 325 Clementi Avenue 5,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | BASIL KING (7EUNOS) | 7 Eunos Crescent,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+  | EATTALK CAFE- ENABLING VILLAGE | 20 Lengkok Bahru Singapore 159053, #01-01,  S159053; | <span title="1.28683297163774,103.814669931218">1.28683, 103.81467</span> |
+  | FRESH 1 FARM MARKET | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-246,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | HONG LOK FAN ZHUANG@682 HG | 682 Hougang Avenue 4,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | KAFEY HAUS | 86 Market Street, #03-23,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+  | KING DAE BAK KOREAN & JAPANESE | 679 Jurong West Central 1,  S640679; | <span title="1.34459467879461,103.70608942772">1.34459, 103.70609</span> |
+  | LAWA BINTANG (11 UPPER BOON KENG) | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | LNR INDIAN MUSLIM FOOD (1010) | 1010 Tai Seng Avenue,  S534417; | <span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | MAD ROASTERS SLOW BAR | 20 Lengkok Bahru Singapore 159053, #01-20,  S159053; | <span title="1.28683297163774,103.814669931218">1.28683, 103.81467</span> |
+  | MANG FENG F&B ENTERPRISE | 328 Clementi Avenue 2,  S120328; | <span title="1.31399161476536,103.767089003977">1.31399, 103.76709</span> |
+  | MIXED VEG RICE (AMK 608) | 608 Ang Mo Kio Avenue 5,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | OO KITCHEN | 38A Margaret Drive, #01-23,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | SHWE TAUNG MINI MART | 698 Hougang Street 61 Hougang Spring Singapore 530698, #01-12B,  S530698; | <span title="1.3750613898604,103.886910503596">1.37506, 103.88691</span> |
+  | SPRINGLEAF PRATA PLACE | 1 Woodlands Street 81 Woodlands Community Club Singapore 738526, #01-01,  S738526; | <span title="1.43981512387409,103.788244210049">1.43982, 103.78824</span> |
+  | THE SOY INC - TENGAH | 302 Tengah Park Avenue, #B1-K8,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | THUAN HNG COFFEE SHOP | 75 Toa Payoh Lorong 5, #01-21,  S310075; | <span title="1.336020767662,103.852956988062">1.33602, 103.85296</span> |
+  | TIAN MA GROUP (CIRCUIT ROAD) | 77 Circuit Road Singapore 370077, #01-464,  S370077; | <span title="1.32855656206109,103.885349899665">1.32856, 103.88535</span> |
+  | XIANG XIANG NOODLE HOUSE | 155 Bukit Batok Street 11,  S650155; | <span title="1.34791302977746,103.743495445758">1.34791, 103.74350</span> |
+  | YUE LI XUAN SEAFOOD | 328 Clementi Avenue 2,  S120328; | <span title="1.31399161476536,103.767089003977">1.31399, 103.76709</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHOON GUAN DRINK STALL | <del>21 Old Airport Road,  S390021;</del><br>21 Old Airport Road, #01-111,  S390021; | <span title="1.30758613944429,103.884413042642">1.30759, 103.88441</span> |
+  | HUFF & PUFF CAKES & PASTRIES | <del>211 New Upper Changi Road, 1,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | HUP HENG GOURMET FOOD | <del>280 Tampines Street 22, #01-240,  S520280;</del><br>1010 Tai Seng Avenue,  S534417; | <del title="1.34753519689194,103.951702776881">1.34754, 103.95170</del><br><span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | ICE WESTERN | <del>4A Jalan Batu, #01-13,  S432004;</del><br>4A Jalan Batu, #01-12,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | PUTIAN FUSION | <del>211 New Upper Changi Road,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-03
 
 </summary>
