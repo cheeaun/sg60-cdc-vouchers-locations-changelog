@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-07
+
+</summary>
+
+Total locations: 25,614 → 25,631
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 8324 FISH SLICE KING - 653A PUNGGOL DRIVE | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | AT SUCRE | 5 Everton Park Everton Park Singapore 080005, #01-22,  S080005; | <span title="1.27668433818668,103.839459108754">1.27668, 103.83946</span> |
+  | CHA KOPI | 505 Ang Mo Kio Avenue 8 Cheng San Crest Singapore 560505, #01-2676,  S560505; | <span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | CHAOSHAN SLICED FISH SOUP | 631 Hougang Avenue 8,  S530631; | <span title="1.37068822144673,103.881514984012">1.37069, 103.88151</span> |
+  | FATTY BOMBOM SIZZLE | 120 Canberra Crescent,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | GRILLOTTE (264 TAMPINES) | 264 Tampines Street 21 Hdb-tampines Singapore 520264, #01-112,  S520264; | <span title="1.35280486315014,103.951145717078">1.35280, 103.95115</span> |
+  | KING DAE BAK KOREAN & JAPANESE (513527) | 527C Pasir Ris Street 51, 04,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | LAO JIE FANG HK ROASTED RICE.NOODLES(461) | 461 Yishun Ave 6, 16G,  S760461; | <span title="1.42841338853064,103.84997365333">1.42841, 103.84997</span> |
+  | LAVA WESTERN 150 | 150 Bukit Batok Street 11,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | MAUNG CHAN PTE. LTD. | 642 Bukit Batok Central Dbs Cheers Bukit Batok Central Singapore 650642, #01-64,  S650642; | <span title="1.34900647921178,103.751706683374">1.34901, 103.75171</span> |
+  | MEE SOCIETY(AMK 728) | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | OMU PLACE | 531A Upper Cross Street, #02-27,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | PONDOK ANGAH | 120 Canberra Crescent,  S750120; | <span title="1.4456745290189,103.831508132401">1.44567, 103.83151</span> |
+  | POPULAR FOOD JAPANESE & KOREAN CUISINE | 163A Gangsa Road, ST5,  S671163; | <span title="1.37693802145847,103.764352791521">1.37694, 103.76435</span> |
+  | QUAN JI NOODLE | 259 Pasir Ris Street 21,  S510259; | <span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+  | TIAN BAKEHOUSE | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #01-54A,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | ZI JIA YONG TAU FOO (239 YISHUN) | 239 Yishun Ring Road,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | TIAN MA GROUP (CIRCUIT ROAD) | <del>77 Circuit Road Singapore 370077, #01-464,  S370077;</del><br>77 Circuit Road, #01-464,  S370077; | <span title="1.32855656206109,103.885349899665">1.32856, 103.88535</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-04
 
 </summary>
