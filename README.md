@@ -13,6 +13,57 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-08
+
+</summary>
+
+Total locations: 25,631 → 25,654
+
+- <details><summary>Added (23)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 119 FISH (2) | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | 414 PRAWN NOODLE | 414 Yishun Ring Road, G,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | 62 VEGETABLE SHOP | 89 Circuit Road, #01-62,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | 75 ABPS CFM | 31 Commonwealth Crescent, #02-92,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | CAHAYA IMPIAN | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | CHAO'S FISH SOUP | 538 Bedok North Street 3, #01-88,  S460538; | <span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+  | CHEF TAN ROASTED DELIGHT | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | CHONG QING YU WEI | 212 Hougang Street 21,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | DONG JI DUMPLING  XIAO LONG BAO 325 | 325 Woodlands Street 32,  S730325; | <span title="1.43078891155605,103.779517722142">1.43079, 103.77952</span> |
+  | HERITAGE SOUP | 848 Yishun Ring Road, ST12,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | JIN SHENG MIXED VEG RICE PORRIDGE - BLK 11 | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | MA BEAUTY SKIN STUDIO | 376 Bukit Batok Street 31 Singapore 650376, #01-102,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | MAA KINN THAI FOOD | 76 Circuit Road,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+  | MCC BAN MIEN(PUNGGOL 660A) | 660A Edgedale Plains,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | MEE CIK LING- 376 | 376 Bukit Batok Street 31,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | MING FA FISHBALL @ BISHAN 504 | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | NANA'S CRISPY PRATA INDIAN MUSLIM FOOD | 107 Ang Mo Kio Avenue 4,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | QQ HAINANESE CHICKEN RICE.CURRY CHICKEN NOODLE | 448 Clementi Avenue 3, #01-25,  S120448; | <span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | SHI FENG KITCHEN | 171 Yishun Avenue 7,  S760171; | <span title="1.43691621022976,103.832132015264">1.43692, 103.83213</span> |
+  | STR JAPAN (660A EDGEDALE PLAINS) | 660A Edgedale Plains Waterway Sundew Singapore 821660, #02-02,  S821660; | <span title="1.40262197348865,103.916519598298">1.40262, 103.91652</span> |
+  | XING LONG FISH SOUP | 429A Choa Chu Kang Avenue 4,  S681429; | <span title="1.38354912584635,103.740864055496">1.38355, 103.74086</span> |
+  | YONG SING FRUITS | 164 Bukit Batok Street 11 Hdb-bukit Batok Singapore 650164, #01-156,  S650164; | <span title="1.34771697477219,103.742831711054">1.34772, 103.74283</span> |
+  | ZAHID MEATZ | 118 Rivervale Drive, ST33,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL DIA BB447 | <del>447 Bukit Batok West Avenue 9, 01-05,  S650447;</del><br>447 Bukit Batok West Avenue 9, 01-01,  S650447; | <span title="1.35269613917058,103.739809933376">1.35270, 103.73981</span> |
+  | HAJI OSMAN NASI AYAM | <del>291 Yishun Street 22,  S760291;</del><br>293 Yishun Street 22, #01-207,  S760293; | <del title="1.43576080400467,103.8367238745">1.43576, 103.83672</del><br><span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HAJI OSMAN SNACK SHOP | <del>291 Yishun Street 22,  S760291;</del><br>293 Yishun Street 22, #01-207,  S760293; | <del title="1.43576080400467,103.8367238745">1.43576, 103.83672</del><br><span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | WANGS ROASTED DELIGHT | <del>325 Ubi Avenue 1,  S400325;</del><br>325 Ubi Avenue 1, #01-707,  S400325; | <span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-07
 
 </summary>
