@@ -13,6 +13,64 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-09
+
+</summary>
+
+Total locations: 25,654 → 25,679
+
+- <details><summary>Added (25)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 168 CARROT CAKE | 7 Empress Road, #01-104,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | 20 DISHES ONLY | 645 Yishun Street 61,  S760645; | <span title="1.42190178136628,103.838605643566">1.42190, 103.83861</span> |
+  | 34 DRY PROVISIONS & EGG | 548 Woodlands Drive 44, 34,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | AG COMMS (AMK) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1657B,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | AH WOON YUAN WEI | 335 Smith Street, #02-150,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | BELLA NAILS BAR | 803 King George's Avenue Hdb-kallang/whampoa Singapore 200803, #01-208,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | BOTAK WESTERN | 638 Veerasamy Road,  S200638; | <span title="1.30723342621978,103.85534583569">1.30723, 103.85535</span> |
+  | DHANVIK STORES (T39) | 39 Teban Gardens Road Hdb-jurong East Singapore 600039, #01-329,  S600039; | <span title="1.32136881127061,103.742845114726">1.32137, 103.74285</span> |
+  | DRINK STALL (417 FV) | 417 Fernvale Link,  S790417; | <span title="1.39158622983505,103.879874611419">1.39159, 103.87987</span> |
+  | EAT SONG SONG 306A | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-05AA,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | ECONOMIC BEE HOON NASI LEMAK | 85 Bedok North Street 4, #01-29,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | FATTY BOM BOM SIZZLER (11B) | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | GUAN KEE 01-09 | 17 Upper Boon Keng Road, #01-09,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | GUO JI HONG KONG STYLE CHARCOAL ROASTED | 28 Hoy Fatt Road,  S151028; | <span title="1.28675654367639,103.810121713045">1.28676, 103.81012</span> |
+  | HAI ZHEN XIAN SEAFOOD | 277 Bukit Batok East Avenue 3, #01-367,  S650277; | <span title="1.34737713969744,103.758002985557">1.34738, 103.75800</span> |
+  | HENG TAT CATERING PTE LTD | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | HUA KEE CANTONESE CHICKEN RICE | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | IVY WONDER 275 | 275 Bukit Batok East Avenue 4 Gombak Place Singapore 650275, #01-128,  S650275; | <span title="1.34813625297267,103.758314162332">1.34814, 103.75831</span> |
+  | MDM ZHANG HOKKIEN MEE | 531A Upper Cross Street, #01-50,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | SERANGOON SOYA BEAN | 49A Serangoon Garden Way, #01-24,  S555945; | <span title="1.36273680777483,103.866162163042">1.36274, 103.86616</span> |
+  | SIPSSIPS 273 | 273 Bukit Batok East Avenue 4,  S650273; | <span title="1.34842264529984,103.757579232268">1.34842, 103.75758</span> |
+  | TWO OF SIX | 848 Sims Avenue Singapore 400848, #01-732A,  S400848; | <span title="1.31720886017637,103.901431784747">1.31721, 103.90143</span> |
+  | VIRTUE FAMILY CLINIC (WOODLANDS) | 111 Woodlands Street 13 Hdb-woodlands Singapore 730111, #01-86A,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | YONG KANG MEDICAL HALL@78A TLB | 78A Telok Blangah Street 32 Dbs Ntuc Telok Blangah Street 32 Singapore 101078, #01-05,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | YUMMY ROJAK 19 | 2 Adam Road, #01-19,  S289876; | <span title="1.32415985259558,103.814165924136">1.32416, 103.81417</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SUNSET MOOKATA</del><br>467 LEGACY | <del>106 Clementi Street 12 Sunset Way Residence Singapore 120106, #01-054,  S120106;</del><br>467 Bukit Batok Avenue 9, # 01-10,  S650467; | <del title="1.32191467282846,103.769815226286">1.32191, 103.76982</del><br><span title="1.35713012350104,103.743465010621">1.35713, 103.74347</span> |
+  | ADWIN & ADRIAN TRADE | <del>502 Jurong West Avenue 1 Dbs Jurong West Avenue 1 Singapore 640502, #01-831,  S640502;</del><br>504 Jurong West Street 51 Singapore 640504, #01-237,  S640502; | <span title="1.35043776611303,103.7181137591">1.35044, 103.71811</span> |
+  | <del>AL DIA BB447</del><br>AL BUHARI | 447 Bukit Batok West Avenue 9, 01-01,  S650447; | <span title="1.35269613917058,103.739809933376">1.35270, 103.73981</span> |
+  | <del>AL DIA ISLAMIC FOOD</del><br>AL BUHARI | 440 Bukit Batok West Avenue 8, #01-01,  S650440; | <span title="1.35572308109486,103.739303105372">1.35572, 103.73930</span> |
+  | AMY STAR 5 PTE LTD | <del>101 Yishun Avenue 5 Chong Pang City Singapore 760101, #01-67,  S760101;</del><br>101 Yishun Avenue 5 Chong Pang City Singapore 760101, #01-39/39A,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | BASIL KING (BEDOK211) | <del>211 New Upper Changi Road,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | CHAR SIU LANG 326 WOODLANDS | <del>326 Woodlands Street 32,  S730326;</del><br>710 Clementi West Street, #01-269,  S120710; | <del title="1.43042123905158,103.77958246528">1.43042, 103.77958</del><br><span title="1.30628911866015,103.76151810816">1.30629, 103.76152</span> |
+  | <del>DOWNSTAIRS(NORTHSHORE PLAZA)</del><br>CRAVEPOT(NORTHSHORE PLAZA) | 407 Northshore Drive Northshore Plaza I Singapore 820407, #02-22,  S820407; | <span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | KALAYAN SALON -YISHUN 414 | <del>414 Yishun Ring Road Singapore 760414, #01-1843,  S760414;</del><br>208 Yishun Street 21, #01-K1,  S760208; | <del title="1.42452849741737,103.846595546746">1.42453, 103.84660</del><br><span title="1.43102233778042,103.837623233094">1.43102, 103.83762</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-08
 
 </summary>
