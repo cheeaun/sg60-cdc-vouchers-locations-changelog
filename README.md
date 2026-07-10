@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-10
+
+</summary>
+
+Total locations: 25,679 → 25,704
+
+- <details><summary>Added (25)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 178 TRADING | 51 Old Airport Road, #02-025,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | AL RIYA INDIAN MUSLIM FOOD | 34 Upper Cross Street,  S050034; | <span title="1.2862352148315,103.842303340846">1.28624, 103.84230</span> |
+  | BALASAKTHI MINIMART | 429 Jurong West Avenue 1 Edugarden Discovery Pte. Ltd. Singapore 640429, #01-314,  S640429; | <span title="1.35192513082392,103.72449679521">1.35193, 103.72450</span> |
+  | BALMONT DRINKS - 11B | 11B Boon Tiong Road,  S163011; | <span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+  | BASIL KING (510623) | 623 Elias Road, 0011,  S510623; | <span title="1.37790533095468,103.94233582068">1.37791, 103.94234</span> |
+  | BEREMPAH BROS (WOODLEIGH) PTE. LTD. | 202C Woodleigh Link, #01-07,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | BHAGAVAN TRADING PTE LTD | 11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-911,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | BILL'S 8 CAFE | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-44,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | BITETRANSIT MINIMART | 411 Jurong West Street 42 Hdb-jurong West Singapore 640411, #01-K1,  S640411; | <span title="1.35372257124031,103.725202727545">1.35372, 103.72520</span> |
+  | COMBO (DRINKS) | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | COMBO (NASI LEMAK) | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | FRUIT PAL | 28 Jalan Bukit Merah Brickworks Estate Singapore 152028, #01-4464,  S152028; | <span title="1.28640350234512,103.809741989834">1.28640, 103.80974</span> |
+  | GUANG DONG ZAI WDS NTH PLZ | 883 Woodlands Street 82,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | HONEST YONG TAU FOO | 378 Clementi Avenue 5,  S120378; | <span title="1.31741204180126,103.767416985995">1.31741, 103.76742</span> |
+  | IPOH BEANSPROUTS CHICKEN | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | JIN TCM CLINIC | 116 Commonwealth Crescent Hdb-queenstown Singapore 140116, #01-131,  S140116; | <span title="1.30697208675745,103.800028892853">1.30697, 103.80003</span> |
+  | KASUMI DON | 4 Woodlands Street 12, #01-006,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | MAXWELL 79 | 1 Kadayanallur Street, #01-79,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | MR. SAM TURKISH & MEDITERRANEAN CUISINE | 505 Beach Road, #B1-27,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | TOH KEE CHAR KWAY TEOW | 3 Yung Sheng Road, #03-169,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | VALU$ WEST COAST | 505 West Coast Drive Singapore 120505, #01-208,  S120505; | <span title="1.31228054125456,103.759981529056">1.31228, 103.75998</span> |
+  | XIANG ZHI ZHUANG LIMBANG | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-03,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | XING HENG LONG (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | XING LE XING - 345CR | 345 Clementi Avenue 5,  S120345; | <span title="1.31770281154049,103.769076731999">1.31770, 103.76908</span> |
+  | YU ZHU BAN MIAN | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FU SHI (TRADITIONAL) WANTON MEE</del><br>TWO CUPS | 4 Woodlands Street 12, #01-02,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-09
 
 </summary>
