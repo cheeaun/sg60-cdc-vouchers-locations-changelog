@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-11
+
+</summary>
+
+Total locations: 25,704 → 25,724
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BASIL KING W888 | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | CENTRAL ELECTRONIC TRADING COMPANY | 19 Marsiling Lane Singapore 730019, #01-319,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | DING XIANG DIM SUM@46 TLB | 46 Telok Blangah Drive, St9,  S100046; | <span title="1.27169061066277,103.809852257535">1.27169, 103.80985</span> |
+  | FENG WEI | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | HAINAN GOR SINGAPORE CURRY RICE | 335 Smith Street, #02-154,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | HERITAGE SIGNATURE | 440 Tampines Street 43 Hdb-tampines Singapore 520440, #01-K1,  S520440; | <span title="1.36081570799381,103.951611550107">1.36082, 103.95161</span> |
+  | KEBAB | 21 Tampines Ave 1,  S529757; | <span title="1.34594607020383,103.932631490034">1.34595, 103.93263</span> |
+  | MELATI WELLNESS | 716 Yishun Street 71 Aavc-animal & Avian Veterinary Clinic Singapore 760716, #01-274,  S760716; | <span title="1.42621096565013,103.827704108295">1.42621, 103.82770</span> |
+  | NO.1 NIANG TOUFU / LEICHA | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-23,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | RED LANTERN SEAFOOD | 237 Serangoon Avenue 3,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | REHABVET CLINIC | 513 Serangoon Road Singapore 218154, #01-01,  S218154; | <span title="1.31467062789983,103.857394287704">1.31467, 103.85739</span> |
+  | RIYANA HOT, COLD & FRESH JUICE | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | RIYANA INDIAN MUSLIM FOOD | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | RIYANA PURE VEGETARIAN FOOD | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | S.M.A MOBILE/ ELECTRONIC SHOP (MP83) | 83 Marine Parade Central Marine Parade Promenade Singapore 440083, #01-562B,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | SAIGON QUAN @BIOPOLIS | 30 Biopolis Street, St3,  S138671; | <span title="1.30323831850192,103.79256511685">1.30324, 103.79257</span> |
+  | SHI HAO YUN | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | SHI HAO YUN DRINKS STALL | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | SUI AN TANG TCM | 407 Ang Mo Kio Avenue 10 Ocbc Ang Mo Kio Ave 10 - Cheers Singapore 560407, #01-753A,  S560407; | <span title="1.36191347249961,103.855247666901">1.36191, 103.85525</span> |
+  | TOP DURIAN STATION (AMK 709) | 709 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560709, #01-2591,  S560709; | <span title="1.37113720765377,103.847662320064">1.37114, 103.84766</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KALAYAN SALON -YISHUN 414</del><br>KALAYAN SALON -YISHUN 208 | 208 Yishun Street 21, #01-K1,  S760208; | <span title="1.43102233778042,103.837623233094">1.43102, 103.83762</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-10
 
 </summary>
