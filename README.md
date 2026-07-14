@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-14
+
+</summary>
+
+Total locations: 25,724 → 25,744
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 199 BUDGET SHOP | 19 Marsiling Lane Singapore 730019, #01-301,  S730019; | <span title="1.44328204285332,103.777294228046">1.44328, 103.77729</span> |
+  | 22 SIN MING CAFE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | AH CHENG TRADITIONAL LOR MEE | 303 Anchorvale Link,  S540303; | <span title="1.38738194536525,103.890606112137">1.38738, 103.89061</span> |
+  | BIKE HORIZON | 551 Bedok North Avenue 1 Hdb-bedok Singapore 460551, #01-540A,  S460551; | <span title="1.33226851755603,103.927036580009">1.33227, 103.92704</span> |
+  | CHUANG YI CLAYPOT DELIGHTS | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | DAO XIANG HAINANESE CHICKEN RICE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | FAI KEE NOODLE HOUSE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | HUANGGUAN LOU GUANGXI CUISINE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | JIA CHANG BIAN FAN | National Development Building, Annex B, Telok Ayer Street, #02-80,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | JIA LE JIA | 1 Kadayanallur Street, #01-20,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | JOFA COFFEE SHOP | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | KING PRATA CORNER | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | LIHO TEA (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #01-K1,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | LOYKEE CHICKEN RICE & PORRIDGE | 91 Whampoa Drive, #01-49,  S320091; | <span title="1.32342818718207,103.854060197812">1.32343, 103.85406</span> |
+  | MALAYSIA WINNERS FRIED CHICKEN | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | NORTHERN THAI | 166 Jalan Besar, #01-25,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | QS81 CURRY PUFF | 270 Queen Street, #01-81,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | ROSMERAH KITCHEN | 803 King George's Avenue,  S200803; | <span title="1.30811749102335,103.861188606169">1.30812, 103.86119</span> |
+  | SEDAP SAAPADHU | 260 Ang Mo Kio Street 21,  S560260; | <span title="1.36891617080101,103.834499516963">1.36892, 103.83450</span> |
+  | SINAR HARAPAN | 14 Haig Road, #01-12,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>YU HUANG ROASTED DELIGHT</del><br>531 SIGNATURE ROASTED DELIGHTS | 531 Bedok North Street 3, S9,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-11
 
 </summary>
