@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-15
+
+</summary>
+
+Total locations: 25,744 → 25,763
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH BIN KOREAN CUISINE | 165 Bukit Merah Central,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | BOYZ 2 MEN BARBER(YISHUN) | 106 Yishun Ring Road Chong Pang Garden Singapore 760106, #01-197B,  S760106; | <span title="1.43147861432349,103.827452004212">1.43148, 103.82745</span> |
+  | E FOOD FUN (519641) | 110 Pasir Ris Central, #02-14,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | ECON RICE | 690 West Camp Road,  S797523; | <span title="1.41997551595813,103.863931571843">1.41998, 103.86393</span> |
+  | GOLD XIANG CURRY PUFF | 20 Ghim Moh Road, #01-35,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | HOLLAND V.21 NASI LEMAK | 915 Tampines Street 91,  S520915; | <span title="1.3486056231626,103.939564083361">1.34861, 103.93956</span> |
+  | JIA LE KOPITIAM | 131 Upper Paya Lebar Road,  S534841; | <span title="1.33866624576194,103.886297414415">1.33867, 103.88630</span> |
+  | KNC RESTAURANT - 16 TECK WHYE | 16 Teck Whye Lane, ST3,  S680016; | <span title="1.37842710387364,103.754911815576">1.37843, 103.75491</span> |
+  | LASH PALACE JE133 | 133 Jurong Gateway Road Jurong Gateway Singapore 600133, #01-293A,  S600133; | <span title="1.33415949631122,103.739318522386">1.33416, 103.73932</span> |
+  | MAI LITTLE CAFE 888 | 888 Woodlands Drive 50 888 Plaza Singapore 730888, #01-725,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | NKS SUPER MART | 215 Ang Mo Kio Avenue 1 Ang Mo Kio 22 Singapore 560215, #01-891,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | OFFLEASH | 592A Balestier Road Singapore 329902, #01-00,  S329902; | <span title="1.32674586776917,103.842595335842">1.32675, 103.84260</span> |
+  | OMMA CHICKEN SOUP | 531A Upper Cross Street, #02-13,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | PIN ZHEN | 270 Queen Street, #03-83,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | ROYAL TM | 683 Tessensohn Road Hdb-kallang/whampoa Singapore 210683, #01-125,  S210683; | <span title="1.31445853642293,103.856019195126">1.31446, 103.85602</span> |
+  | SUN MART EXPRESS | 111 Jalan Bukit Merah Banyan Tree Education Centre Singapore 160111, #01-1686,  S160111; | <span title="1.2803211411457,103.826185854436">1.28032, 103.82619</span> |
+  | TASTE OF HOME BY MUM DAUGHTER KITCHEN | 29 Tuas West Avenue,  S638427; | <span title="1.33188537414028,103.638171919555">1.33189, 103.63817</span> |
+  | VALUDOLLAR (BISHAN 284) | 284 Bishan Street 22 Singapore 570284, #01-209,  S570284; | <span title="1.35886666462905,103.844150538229">1.35887, 103.84415</span> |
+  | YU PAN FISH SOUP (T844) | 844 Tampines Street 82, 01,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GU ZHAO WEI NOODLE HOUSE</del><br>4896 TRADITIONAL HAINANESE CHICKEN RICE. WANTON NOODLE | <del>529 Hougang Avenue 6,  S530529;</del><br>22 Lorong 7 Toa Payoh, 01-03,  S310022; | <del title="1.37546896487502,103.890729546346">1.37547, 103.89073</del><br><span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | AH FANG FISH SOUP BAN MIAN | <del>123 Bedok North Street 2,  S460123;</del><br>824 Tampines Street 81 #01-38,  S520824; | <del title="1.32919868667839,103.937343347878">1.32920, 103.93734</del><br><span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | <del>TUPPERWARE BRANDS</del><br>TUP HUB | 769 Yishun Avenue 3 Hdb-yishun Singapore 760769, #01-279,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | <del>YEOS EXPRESS WOODLANDS</del><br>YEO EXPRESS 355 | 355 Woodlands Avenue 1 Dbs Sembawang Way/355 Singapore 730355, #01-707,  S730355; | <span title="1.43284602064285,103.784550610477">1.43285, 103.78455</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-14
 
 </summary>
