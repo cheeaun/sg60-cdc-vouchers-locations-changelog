@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15 Jul 2026",
+  "lastUpdated": "16 Jul 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -2100,6 +2100,26 @@
         }
       },
       "lastResetDate": "2025-10-06"
+    },
+    {
+      "id": "merchant_eb004c36-6c84-4b99-a730-19673f98163b",
+      "entityId": "merchant_eb004c36-6c84-4b99-a730-19673f98163b",
+      "name": "$6 WESTERN",
+      "address": "123 Bedok North Street 2,  S460123;",
+      "postalCode": "460123",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32919868667839,
+      "LON": 103.937343347878,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_59f07e4d-e310-4cfe-988c-d0d376d9c254",
@@ -14242,6 +14262,26 @@
       "lastResetDate": "2024-01-17"
     },
     {
+      "id": "merchant_bc846c80-60e7-458f-9716-59f538602203",
+      "entityId": "merchant_bc846c80-60e7-458f-9716-59f538602203",
+      "name": "33 VEGETABLES",
+      "address": "353 Clementi Avenue 2, #01-33,  S120353;",
+      "postalCode": "120353",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31437328536733,
+      "LON": 103.770805494512,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
+    },
+    {
       "id": "merchant_0e83d83d-aca1-4706-b4a7-d319fbec0c5e",
       "entityId": "merchant_0e83d83d-aca1-4706-b4a7-d319fbec0c5e",
       "name": "33 YUN LAI EATING HOUSE PTE LTD",
@@ -17400,6 +17440,26 @@
         }
       },
       "lastResetDate": "2022-01-04"
+    },
+    {
+      "id": "merchant_e4f671ca-676f-4d2b-9541-510eadcf735f",
+      "entityId": "merchant_e4f671ca-676f-4d2b-9541-510eadcf735f",
+      "name": "51 MING FA WANTON EGG NOODLE",
+      "address": "209 Hougang Street 21, #01-64,  S530209;",
+      "postalCode": "530209",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35908384091048,
+      "LON": 103.886055368064,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_30b5936e-88cb-4963-8b00-3d746ac3226c",
@@ -29039,7 +29099,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-02"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_1c666601-4421-484b-af14-c27ea579402b",
@@ -55102,6 +55162,26 @@
       "lastResetDate": "2021-10-19"
     },
     {
+      "id": "merchant_63426c66-913d-43b8-9f56-6db5d5099d8a",
+      "entityId": "merchant_63426c66-913d-43b8-9f56-6db5d5099d8a",
+      "name": "AVST SUPERMART",
+      "address": "56 New Upper Changi Road Hdb-bedok Singapore 461056, #01-1296,  S461056;",
+      "postalCode": "461056",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32499379353322,
+      "LON": 103.941082588009,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
+    },
+    {
       "id": "merchant_656d4243-f462-4109-a7ce-042f7a8077f4",
       "entityId": "merchant_656d4243-f462-4109-a7ce-042f7a8077f4",
       "name": "AW'S SIGNATURE MINCED PORK NOODLE (325 CLEMENTI)",
@@ -58844,12 +58924,12 @@
     {
       "id": "merchant_b3ada825-31aa-4c63-918f-2ff4a53fb29e",
       "entityId": "merchant_b3ada825-31aa-4c63-918f-2ff4a53fb29e",
-      "name": "BAKER TALENT (442 CLEMENTI)",
-      "address": "Clementi Avenue 3, #01-89,  S120442;",
-      "postalCode": "120442",
+      "name": "BAKER TALENT (449 CLEMENTI)",
+      "address": "449 Clementi Avenue 3, #01-259,  S120449;",
+      "postalCode": "120449",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.31412254184755,
-      "LON": 103.764518594142,
+      "LAT": 1.31361567894894,
+      "LON": 103.764809966953,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -58859,7 +58939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-02-03"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_1f5d8d4e-9816-4a6b-b2ef-e03ea1632607",
@@ -106242,6 +106322,26 @@
       "lastResetDate": "2026-07-09"
     },
     {
+      "id": "merchant_4ffd3698-e750-4c47-b22c-51f011a08df1",
+      "entityId": "merchant_4ffd3698-e750-4c47-b22c-51f011a08df1",
+      "name": "COOKED FOOD",
+      "address": "20 Marsiling Lane, #01-13,  S730020;",
+      "postalCode": "730020",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44339444325541,
+      "LON": 103.776967080069,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
+    },
+    {
       "id": "merchant_3579c798-9139-4786-8242-ef8b17a5b69c",
       "entityId": "merchant_3579c798-9139-4786-8242-ef8b17a5b69c",
       "name": "COOKED FOOD STALL",
@@ -116620,6 +116720,26 @@
         }
       },
       "lastResetDate": "2025-06-20"
+    },
+    {
+      "id": "merchant_41503b25-d029-4254-9e1c-55224d0f6fe8",
+      "entityId": "merchant_41503b25-d029-4254-9e1c-55224d0f6fe8",
+      "name": "DELISNACK",
+      "address": "105 Yishun Ring Road, #01-126,  S760105;",
+      "postalCode": "760105",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43171836662838,
+      "LON": 103.828114256975,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_f1e415df-fad1-4d9b-b15f-d3934f42d736",
@@ -148880,6 +149000,26 @@
         }
       },
       "lastResetDate": "2024-06-27"
+    },
+    {
+      "id": "merchant_81361a6d-9c0f-443b-b457-393bc895e986",
+      "entityId": "merchant_81361a6d-9c0f-443b-b457-393bc895e986",
+      "name": "FFS SEAFOOD",
+      "address": "209 Hougang Street 21, #01-87,  S530209;",
+      "postalCode": "530209",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35908384091048,
+      "LON": 103.886055368064,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_690f0c97-fd96-499b-83f6-d2f8e28af7ee",
@@ -218279,7 +218419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-04-19"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_a4b3b852-4417-4a94-94ff-5da5c37ef921",
@@ -290002,6 +290142,26 @@
       "lastResetDate": "2026-02-12"
     },
     {
+      "id": "merchant_066b8dcb-56e0-41fe-a2aa-cf4b3289ccff",
+      "entityId": "merchant_066b8dcb-56e0-41fe-a2aa-cf4b3289ccff",
+      "name": "M RICH MIXED VEG RICE",
+      "address": "322 Hougang Avenue 5, ST6,  S530322;",
+      "postalCode": "530322",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36709855359263,
+      "LON": 103.89697867894,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
+    },
+    {
       "id": "merchant_1aed7a14-cf12-45aa-a0eb-bec6ac3b7272",
       "entityId": "merchant_1aed7a14-cf12-45aa-a0eb-bec6ac3b7272",
       "name": "M S COLOR SERVICE PTE LTD (ANG MO KIO)",
@@ -310019,7 +310179,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-14"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_3c89b725-ce7c-4482-aba7-de5a58351bdd",
@@ -316240,6 +316400,26 @@
         }
       },
       "lastResetDate": "2021-12-28"
+    },
+    {
+      "id": "merchant_0e5f0d36-40cd-4c51-90de-14159f67b5a2",
+      "entityId": "merchant_0e5f0d36-40cd-4c51-90de-14159f67b5a2",
+      "name": "MR YOUTIAO",
+      "address": "146 Jalan Bukit Merah, ST7,  S160146;",
+      "postalCode": "160146",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27784876576774,
+      "LON": 103.830811459909,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_306e1916-dbba-4017-96cc-d8b4ddd18074",
@@ -341705,7 +341885,7 @@
       "id": "merchant_f1be346e-10a8-4832-83bb-bdb055b04219",
       "entityId": "merchant_f1be346e-10a8-4832-83bb-bdb055b04219",
       "name": "ORANGE ROASTER",
-      "address": "118 Hougang Avenue 1, #01-1183,  S530118;",
+      "address": "118 Hougang Avenue 1, #01-1186,  S530118;",
       "postalCode": "530118",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35345957179709,
@@ -341719,7 +341899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-07"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_2bec448b-0fe2-4cc2-8945-6e4cd4660518",
@@ -363180,6 +363360,26 @@
         }
       },
       "lastResetDate": "2026-07-06"
+    },
+    {
+      "id": "merchant_8feeb8f3-bda8-49de-9b31-05f77e0f2e5c",
+      "entityId": "merchant_8feeb8f3-bda8-49de-9b31-05f77e0f2e5c",
+      "name": "QUAN JI NOODLE -231 SUMANG LANE",
+      "address": "231 Sumang Lane,  S820231;",
+      "postalCode": "820231",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40205998268188,
+      "LON": 103.892211658905,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_1bfe1905-1b87-4c27-934d-08050ff978f0",
@@ -411939,7 +412139,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-29"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_a7e9367f-59a7-4756-9f59-fab784237e8b",
@@ -415339,7 +415539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-12"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_b2fbddc8-b30f-4180-88be-57049a34367a",
@@ -463399,7 +463599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-06-11"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_1d85de88-8c9c-49c8-ba2b-001909ba266c",
@@ -483459,7 +483659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-04"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_af03a0b0-104b-411f-9bef-51529aead134",
@@ -512565,11 +512765,11 @@
       "id": "merchant_6693aca0-7857-4014-a745-d3c01083e67e",
       "entityId": "merchant_6693aca0-7857-4014-a745-d3c01083e67e",
       "name": "ZHI ZHI CHICKEN RICE",
-      "address": "6 Hougang Avenue 3 Hdb-hougang Singapore 530006, #01-78,  S530006;",
-      "postalCode": "530006",
+      "address": "7 Hougang Avenue 3 Hdb-hougang Singapore 530006, #01-60,  S530007;",
+      "postalCode": "530007",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36271446291047,
-      "LON": 103.893980503167,
+      "LAT": 1.36232721881747,
+      "LON": 103.893510807642,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -512579,7 +512779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-07"
+      "lastResetDate": "2026-07-15"
     },
     {
       "id": "merchant_b1faf72e-ec5a-447e-aac3-a8283640ee5b",

@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-16
+
+</summary>
+
+Total locations: 25,763 → 25,773
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | $6 WESTERN | 123 Bedok North Street 2,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | 33 VEGETABLES | 353 Clementi Avenue 2, #01-33,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | 51 MING FA WANTON EGG NOODLE | 209 Hougang Street 21, #01-64,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | AVST SUPERMART | 56 New Upper Changi Road Hdb-bedok Singapore 461056, #01-1296,  S461056; | <span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | COOKED FOOD | 20 Marsiling Lane, #01-13,  S730020; | <span title="1.44339444325541,103.776967080069">1.44339, 103.77697</span> |
+  | DELISNACK | 105 Yishun Ring Road, #01-126,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | FFS SEAFOOD | 209 Hougang Street 21, #01-87,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | M RICH MIXED VEG RICE | 322 Hougang Avenue 5, ST6,  S530322; | <span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+  | MR YOUTIAO | 146 Jalan Bukit Merah, ST7,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | QUAN JI NOODLE -231 SUMANG LANE | 231 Sumang Lane,  S820231; | <span title="1.40205998268188,103.892211658905">1.40206, 103.89221</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BAKER TALENT (442 CLEMENTI)</del><br>BAKER TALENT (449 CLEMENTI) | <del>Clementi Avenue 3, #01-89,  S120442;</del><br>449 Clementi Avenue 3, #01-259,  S120449; | <del title="1.31412254184755,103.764518594142">1.31412, 103.76452</del><br><span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | ORANGE ROASTER | <del>118 Hougang Avenue 1, #01-1183,  S530118;</del><br>118 Hougang Avenue 1, #01-1186,  S530118; | <span title="1.35345957179709,103.887488043611">1.35346, 103.88749</span> |
+  | ZHI ZHI CHICKEN RICE | <del>6 Hougang Avenue 3 Hdb-hougang Singapore 530006, #01-78,  S530006;</del><br>7 Hougang Avenue 3 Hdb-hougang Singapore 530006, #01-60,  S530007; | <del title="1.36271446291047,103.893980503167">1.36271, 103.89398</del><br><span title="1.36232721881747,103.893510807642">1.36233, 103.89351</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-15
 
 </summary>
