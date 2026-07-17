@@ -13,6 +13,37 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-17
+
+</summary>
+
+Total locations: 25,773 → 25,779
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAI LI XIANG BEE HOON (510446) | 446 Pasir Ris Drive 6, 0004,  S510446; | <span title="1.37030619298608,103.95772686444">1.37031, 103.95773</span> |
+  | DELISNACKS | 453A Ang Mo Kio Avenue 10, #01-09,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | FOO HING LAKSA YONG TAU FOO (BEDOK208B) | 208B New Upper Changi Road, #01-49,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+  | WONDER COLOUR BRAS | 29 Bendemeer Road, #01-109,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | XIANG YU-YX(BEDOK418) | 418 Bedok North Avenue 2 Garden Hill Singapore 460418, #01-73,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | ZHUANG YUAN JOSS STICK | 505 Beach Road, #02-160,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>103 HAO JI ROASTED DELIGHT</del><br>107 HAO JI ROASTED DELIGHT | <del>103 Gangsa Road,  S670103;</del><br>107 Ang Mo Kio Ave 4, #01-164,  S560107; | <del title="1.37867070821171,103.768538440957">1.37867, 103.76854</del><br><span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-16
 
 </summary>

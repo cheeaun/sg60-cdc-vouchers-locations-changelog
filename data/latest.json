@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "16 Jul 2026",
+  "lastUpdated": "17 Jul 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -5502,26 +5502,6 @@
       "lastResetDate": "2025-06-23"
     },
     {
-      "id": "merchant_172b8daa-9020-4e07-afa2-e293d508261e",
-      "entityId": "merchant_172b8daa-9020-4e07-afa2-e293d508261e",
-      "name": "103 HAO JI ROASTED DELIGHT",
-      "address": "103 Gangsa Road,  S670103;",
-      "postalCode": "670103",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37867070821171,
-      "LON": 103.768538440957,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-07-07"
-    },
-    {
       "id": "merchant_a19661c9-a974-459a-87d5-44d364d848e1",
       "entityId": "merchant_a19661c9-a974-459a-87d5-44d364d848e1",
       "name": "1030 BREAKFAST SHOP",
@@ -5740,6 +5720,26 @@
         }
       },
       "lastResetDate": "2025-08-01"
+    },
+    {
+      "id": "merchant_172b8daa-9020-4e07-afa2-e293d508261e",
+      "entityId": "merchant_172b8daa-9020-4e07-afa2-e293d508261e",
+      "name": "107 HAO JI ROASTED DELIGHT",
+      "address": "107 Ang Mo Kio Ave 4, #01-164,  S560107;",
+      "postalCode": "560107",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37138400081003,
+      "LON": 103.837381409794,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_635504d3-2175-4609-9913-c7875b81a6b7",
@@ -57520,6 +57520,26 @@
         }
       },
       "lastResetDate": "2025-03-25"
+    },
+    {
+      "id": "merchant_bfd3a7b5-9592-4c88-9431-5d6cab447468",
+      "entityId": "merchant_bfd3a7b5-9592-4c88-9431-5d6cab447468",
+      "name": "BAI LI XIANG BEE HOON (510446)",
+      "address": "446 Pasir Ris Drive 6, 0004,  S510446;",
+      "postalCode": "510446",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37030619298608,
+      "LON": 103.95772686444,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_3d51dbb8-5274-4239-b7e0-9e9103b1d7bd",
@@ -116802,6 +116822,26 @@
       "lastResetDate": "2021-10-27"
     },
     {
+      "id": "merchant_33ee2c8f-63e6-4226-b323-967b3e25ce92",
+      "entityId": "merchant_33ee2c8f-63e6-4226-b323-967b3e25ce92",
+      "name": "DELISNACKS",
+      "address": "453A Ang Mo Kio Avenue 10, #01-09,  S561453;",
+      "postalCode": "561453",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3682477887765,
+      "LON": 103.856361649863,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
+    },
+    {
       "id": "merchant_b0ddd0ff-6da4-42fe-a705-e0eb392fbdf4",
       "entityId": "merchant_b0ddd0ff-6da4-42fe-a705-e0eb392fbdf4",
       "name": "DELISNACKS",
@@ -154620,6 +154660,26 @@
         }
       },
       "lastResetDate": "2023-07-17"
+    },
+    {
+      "id": "merchant_687926ab-c745-4e98-8c78-2ae3e226d890",
+      "entityId": "merchant_687926ab-c745-4e98-8c78-2ae3e226d890",
+      "name": "FOO HING LAKSA YONG TAU FOO (BEDOK208B)",
+      "address": "208B New Upper Changi Road, #01-49,  S462208;",
+      "postalCode": "462208",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32481816551889,
+      "LON": 103.930544296289,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_c4727f80-6089-43de-95a5-c1d50ea1fbe6",
@@ -395419,7 +395479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-04"
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_61d4501f-4575-426c-8da8-6837e21c62cb",
@@ -481782,6 +481842,26 @@
       "lastResetDate": "2021-11-19"
     },
     {
+      "id": "merchant_683c5d4b-2fed-4c60-bf67-83b72e79e082",
+      "entityId": "merchant_683c5d4b-2fed-4c60-bf67-83b72e79e082",
+      "name": "WONDER COLOUR BRAS",
+      "address": "29 Bendemeer Road, #01-109,  S330029;",
+      "postalCode": "330029",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31921667890113,
+      "LON": 103.863020922593,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
+    },
+    {
       "id": "merchant_c016b91a-3969-49fa-81e2-b8f71fdaaf24",
       "entityId": "merchant_c016b91a-3969-49fa-81e2-b8f71fdaaf24",
       "name": "WONDER GELATO LLP",
@@ -486380,6 +486460,26 @@
         }
       },
       "lastResetDate": "2023-09-27"
+    },
+    {
+      "id": "merchant_1e095d85-e703-47f6-b280-763552241ff5",
+      "entityId": "merchant_1e095d85-e703-47f6-b280-763552241ff5",
+      "name": "XIANG YU-YX(BEDOK418)",
+      "address": "418 Bedok North Avenue 2 Garden Hill Singapore 460418, #01-73,  S460418;",
+      "postalCode": "460418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32856421177174,
+      "LON": 103.930036524233,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_7d83aebe-1afd-4bc2-aaf1-4832552529c9",
@@ -513840,6 +513940,26 @@
         }
       },
       "lastResetDate": "2021-10-26"
+    },
+    {
+      "id": "merchant_7ee6516a-fdeb-4bb2-827b-42bb7a3e5c9e",
+      "entityId": "merchant_7ee6516a-fdeb-4bb2-827b-42bb7a3e5c9e",
+      "name": "ZHUANG YUAN JOSS STICK",
+      "address": "505 Beach Road, #02-160,  S199583;",
+      "postalCode": "199583",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30314151533241,
+      "LON": 103.863877368653,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-16"
     },
     {
       "id": "merchant_18f9ed9b-9a82-4cce-8771-5a1923ec2537",
