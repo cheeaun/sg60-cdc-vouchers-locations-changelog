@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-18
+
+</summary>
+
+Total locations: 25,779 → 25,790
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | COMBO | 664 Yishun Avenue 4,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | FT  KOREAN & JANPENSE 304 | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | FU TAI KOREAN & JAPANESE | 643 Senja Close, MR05,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | JU BAO XUAN MALA | 679 Jurong West Central 1,  S640679; | <span title="1.34459467879461,103.70608942772">1.34459, 103.70609</span> |
+  | KG CRABS | 13 Haig Road, #01-73,  S430013; | <span title="1.31510752106275,103.895587944619">1.31511, 103.89559</span> |
+  | MA PO XIANG (T602B) | 602B Tampines Avenue 9, 01-01,  S522602; | <span title="1.36138884982369,103.937648040157">1.36139, 103.93765</span> |
+  | MAI COFFEE | 22A Havelock Road, #01-02,  S161022; | <span title="1.28797051657173,103.829623413554">1.28797, 103.82962</span> |
+  | MAKAN EMPIRE LIMBANG | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-26,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | PRATA STALL INDIAN MUSLIM FOOD@SP | 500 Dover Road, St3,  S139651; | <span title="1.30787792644497,103.7795746708">1.30788, 103.77957</span> |
+  | SMALL BLACK HAINANESE CHICKEN RICE | 6 Jalan Bukit Merah, #01-135,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | WIN NAIL & LASH | 121 Bukit Merah Lane 1 Singapore 150121, #01-12,  S150121; | <span title="1.28662949776774,103.804920144204">1.28663, 103.80492</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>PASTA CRAFT & GRILL</del><br>LAO WANG PRAWN NOODLES LOR MEE | <del>136 Bedok North Avenue 3,  S460136;</del><br>823A Tampines Street 81, #01-02,  S521823; | <del title="1.32815498828204,103.93522082327">1.32815, 103.93522</del><br><span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | <del>HAE MEE</del><br>SHI NIAN PIG LEG RICE (MP 84) | 84 Marine Parade Central, #01-27,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | <del>SKINOVA</del><br>SK WELLNESS BEAUTY SALON (SKINOVA) | 513 Tampines Central 1 Singapore 520513, #01-162,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+  | <del>TOP BEAUTY SALON SHANG CAI YI</del><br>SK WELLNESS BEAUTY SALON (TOP BEAUTY SALON SHANG CAI YI) | 513 Tampines Central 1 Singapore 520513, #01-162,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-17
 
 </summary>
