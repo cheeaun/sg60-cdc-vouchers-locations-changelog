@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Jul 2026",
+  "lastUpdated": "20 Jul 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -77725,11 +77725,11 @@
       "id": "merchant_8df4d815-ce4a-49f6-b378-7a51a80f9567",
       "entityId": "merchant_8df4d815-ce4a-49f6-b378-7a51a80f9567",
       "name": "BRIGHT NAIL SALON",
-      "address": "826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-98,  S520826;",
-      "postalCode": "520826",
+      "address": "828 Tampines Street 1, #01-268,  S520828;",
+      "postalCode": "520828",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34927794715578,
-      "LON": 103.933768905771,
+      "LAT": 1.34893084103853,
+      "LON": 103.934588111014,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -77739,7 +77739,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-16"
+      "lastResetDate": "2026-07-19"
     },
     {
       "id": "merchant_894f224c-9f29-4e5f-829f-03632253c6e0",
@@ -211965,11 +211965,11 @@
       "id": "merchant_7877041c-7ea1-43b2-a819-7958d0b85b76",
       "entityId": "merchant_7877041c-7ea1-43b2-a819-7958d0b85b76",
       "name": "HOUSE OF SPECTACLES (TAMPINES)",
-      "address": "201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1123,  S524201;",
-      "postalCode": "524201",
+      "address": "201A Tampines St 21, #01-1061,  S521201;",
+      "postalCode": "521201",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35226231425316,
-      "LON": 103.953586491358,
+      "LAT": 1.35326412445458,
+      "LON": 103.952607406963,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -211979,7 +211979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-10-09"
+      "lastResetDate": "2026-07-19"
     },
     {
       "id": "merchant_ad380d6e-50f9-4751-b5d8-5930c6062511",

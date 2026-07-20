@@ -13,6 +13,23 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-20
+
+</summary>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BRIGHT NAIL SALON | <del>826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-98,  S520826;</del><br>828 Tampines Street 1, #01-268,  S520828; | <del title="1.34927794715578,103.933768905771">1.34928, 103.93377</del><br><span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | HOUSE OF SPECTACLES (TAMPINES) | <del>201D Tampines Street 21 Hdb-tampines Singapore 524201, #01-1123,  S524201;</del><br>201A Tampines St 21, #01-1061,  S521201; | <del title="1.35226231425316,103.953586491358">1.35226, 103.95359</del><br><span title="1.35326412445458,103.952607406963">1.35326, 103.95261</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-18
 
 </summary>
