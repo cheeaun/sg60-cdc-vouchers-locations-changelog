@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-21
+
+</summary>
+
+Total locations: 25,790 → 25,801
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BITTERGOURD SOUP | 2 Changi Village Road, #01-49,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | HAKKA LEIPOPO | 115 Bukit Merah View, #01-61,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | KEYSTONE MEDICAL | 18 Upper Boon Keng Road Boon Keng Ville Singapore 380018, #01-1157,  S380018; | <span title="1.31480351462869,103.872301458156">1.31480, 103.87230</span> |
+  | MEI XIANG BEE HOON (513527) | 527C Pasir Ris Street 51, 06,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | MUMBAI SALON | 248 Simei Street 3 Singapore 520248, #01-134,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | RAJ MART #15 #16 #17 #18 | 883 Woodlands Street 82, 17,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | SAMPAN WOK DELIGHTS 548 | 548 Woodlands Drive 44, 2,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | SBS INDIAN FOOD (AMK 632) | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | THE SUMMER ACAI (407 NORTHSHORE) | 407 Northshore Drive Northshore Plaza I Singapore 820407, #02-40,  S820407; | <span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | WHISKERS (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #01-328,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | YU PAN - 810 | 810 Choa Chu Kang Avenue 7,  S680810; | <span title="1.3740546176425,103.746160942106">1.37405, 103.74616</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | S T GIFTS (12 HAIG RD) | <del>12 Haig Road, #01-333,  S430012;</del><br>12 Haig Road, #01-339B,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+  | SWEE HENG BAKERY (SHB32) | <del>12 Haig Road, #01-335,  S430012;</del><br>12 Haig Road, #01-339A,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHT | <del>Blk 11B Boon Tiong Road, #01-15,  S163010;</del><br>Blk 11B Boon Tiong Road, #01-15,  S163011; | <del title="1.28683793317038,103.838674084243">1.28684, 103.83867</del><br><span title="1.28613632693307,103.829480477757">1.28614, 103.82948</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-20
 
 </summary>
