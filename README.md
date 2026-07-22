@@ -13,6 +13,59 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-22
+
+</summary>
+
+Total locations: 25,801 → 25,824
+
+- <details><summary>Added (23)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 123 BUDGET SHOP | 253 Choa Chu Kang Avenue 1 Choa Chu Kang Market Singapore 680253, #B1-14,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | 721 LEGACY BKT | 721 Clementi West Street 2,  S120721; | <span title="1.3024252487869,103.76435385686">1.30243, 103.76435</span> |
+  | ARABICA KEBAB | 339 Anchorvale Road, #02-26,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | AY HAIR STUDIO | 34 Whampoa West Bendemeer Ville Singapore 330034, #01-83,  S330034; | <span title="1.32050169556608,103.863341271367">1.32050, 103.86334</span> |
+  | CHAMOMILE'S CREAMERY (UBI342) | 342 Ubi Avenue 1 Kampong Ubi View Singapore 400342, #01-931,  S400342; | <span title="1.32643338540071,103.901170017525">1.32643, 103.90117</span> |
+  | CHARCOAL FISH HEAD STEAMBOAT MARSILING | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | FISHBALL SHOP | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | GAGA ROASTED DELIGHTS | 548 Woodlands Drive 44, 10,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | HAI JIAO REN FISH SOUP | 209 Hougang Street 21, #01-23,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | HAO KEE CHICKEN RICE (UBI325) | 325 Ubi Avenue 1,  S400325; | <span title="1.32770471680567,103.903826117652">1.32770, 103.90383</span> |
+  | JING PIN MIXED VEG RICE (TPY 95) | 95 Lorong 4 Toa Payoh, ST7,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | JOLLY JUICES & FRUITS | 24 Sin Ming Road Sin Ming Ville Singapore 570024, #01-39,  S570024; | <span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | LRG 7 TPY LAI HENG MIXED VEG RICE | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | MA XIAO ER MALA XIANG GUO | 85 Bedok North Street 4, #01-17,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | MAY HAIR & BEAUTY SALON | 94 Lorong 4 Toa Payoh Toa Payoh Palm Spring Singapore 310094, #01-16,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | NASH HAIR SALON | 21 Ghim Moh Road Ghim Moh Estate Post Office Singapore 270021, #01-207A,  S270021; | <span title="1.31010302594118,103.788545950724">1.31010, 103.78855</span> |
+  | SAM KEE HAINANESE BONELESS CHICKEN RICE | 820 Tampines Street 81,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | SAN DE VEGETARIAN | 548 Woodlands Drive 44,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | SELESA SEDAP CHICKEN RICE | 548 Woodlands Drive 44, 5,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | SUNBO HAKKA YONG TAU FOO | 548 Woodlands Drive 44,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | TERBAIK BAN MIAN & FISH SOUP | 548 Woodlands Drive 44,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | TONG HUAT POULTRY (446 FAJAR) | 446 Fajar Road, 7,  S670446; | <span title="1.38400582466296,103.771029603101">1.38401, 103.77103</span> |
+  | WANG WANG JIA PTE. LTD. (NOODLES AND FISH SOUP) | 116 Jalan Tenteram,  S320116; | <span title="1.32769993704525,103.861236369481">1.32770, 103.86124</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>EAT BAR - 31 HOLLAND CLOSE</del><br>EAT BAR 531 | <del>31 Holland Close,  S270031;</del><br>Bedok North Street 3, #01-680,  S460531; | <del title="1.30697526832762,103.797080329252">1.30698, 103.79708</del><br><span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | <del>IPOH TUCK KEE (431A NORTHSHORE DRIVE)</del><br>IPOH TUCK KEE | <del>431A Northshore Drive,  S821431;</del><br>212 Hougang St 21, 01-349,  S530212; | <del title="1.41736446025745,103.911188203693">1.41736, 103.91119</del><br><span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | <del>KAI KITCHEN</del><br>KAI CUISINE | 605 Yishun Street 61,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | <del>MAGGIE PLACE KITCHEN</del><br>MAGG PLACE KITCHEN | 79 Circuit Road, #01-31,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | <del>MINMED DENTAL CLINIC (TENGAH)</del><br>MINMED CLINIC (TENGAH)/ MINMED DENTAL CLINIC (TENGAH)/ MINMED PAEDIATRICS (TENGAH) | 126A Tengah Drive Plantation Village Singapore 691126, #01-315,  S691126; | <span title="1.359286277941959,103.7359918440329">1.35929, 103.73599</span> |
+  | <del>PONTIAN WANTON NOODLE (JW505)</del><br>PONTIAN WANTON NOODLE (JE132) | <del>505 Jurong West St 52, #01-190,  S640505;</del><br>132 Jurong Gateway Road, #01-271,  S600132; | <del title="1.34965729130746,103.718443677825">1.34966, 103.71844</del><br><span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-21
 
 </summary>
