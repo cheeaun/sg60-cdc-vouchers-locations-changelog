@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Jul 2026",
+  "lastUpdated": "23 Jul 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -15982,6 +15982,26 @@
       "lastResetDate": "2025-04-15"
     },
     {
+      "id": "merchant_303c7b1f-d1e6-4afa-bec4-6952d49cd451",
+      "entityId": "merchant_303c7b1f-d1e6-4afa-bec4-6952d49cd451",
+      "name": "440 BKT",
+      "address": "440 Bukit Batok West Avenue 8,  S650440;",
+      "postalCode": "650440",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35572308109486,
+      "LON": 103.739303105372,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_705b2f24-1d9a-4135-b76c-3ad649b3871f",
       "entityId": "merchant_705b2f24-1d9a-4135-b76c-3ad649b3871f",
       "name": "443 #01-1247",
@@ -28080,6 +28100,26 @@
         }
       },
       "lastResetDate": "2025-10-13"
+    },
+    {
+      "id": "merchant_73a6437f-ed81-4d29-b567-a82b857554aa",
+      "entityId": "merchant_73a6437f-ed81-4d29-b567-a82b857554aa",
+      "name": "ABC HANDMADE NOODLES",
+      "address": "6 Jalan Bukit Merah, #01-140,  S150006;",
+      "postalCode": "150006",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28688297261475,
+      "LON": 103.808131274161,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_4ab3403f-6516-4a09-b36b-8bf19574c957",
@@ -91160,6 +91200,26 @@
         }
       },
       "lastResetDate": "2026-04-15"
+    },
+    {
+      "id": "merchant_c0e5eecb-0683-4b60-8687-e065833d37a0",
+      "entityId": "merchant_c0e5eecb-0683-4b60-8687-e065833d37a0",
+      "name": "CHEN'S WANTON NOODLE",
+      "address": "304 Serangoon Ave 2, 01-14,  S550304;",
+      "postalCode": "550304",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35381345296971,
+      "LON": 103.867773013876,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_90e9c438-c56c-40bd-ba2a-259de8db4729",
@@ -175142,6 +175202,26 @@
       "lastResetDate": "2022-01-27"
     },
     {
+      "id": "merchant_443909e8-99bd-4481-b93a-396e53a2fcd1",
+      "entityId": "merchant_443909e8-99bd-4481-b93a-396e53a2fcd1",
+      "name": "GOURMET STREET (SMR) PTE. LTD.",
+      "address": "171 Macpherson Road,  S348536;",
+      "postalCode": "348536",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.329896347951382,
+      "LON": 103.8740174016752,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_b7fa23e2-3e14-435e-8e2c-d9d796503221",
       "entityId": "merchant_b7fa23e2-3e14-435e-8e2c-d9d796503221",
       "name": "GOURMET STREET FISH SOUP",
@@ -223999,7 +224079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-12-15"
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_b2c5c6a8-60d1-47d6-8be0-5c0898b13191",
@@ -232199,7 +232279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-06-08"
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_bf036bba-1012-4927-8429-122964cf27c2",
@@ -269542,6 +269622,26 @@
       "lastResetDate": "2025-08-07"
     },
     {
+      "id": "merchant_8f1b3c4a-4a98-4f2d-870a-4456c590ebc2",
+      "entityId": "merchant_8f1b3c4a-4a98-4f2d-870a-4456c590ebc2",
+      "name": "LAI CAI KE KOU MIAN",
+      "address": "531 Bedok North Street 3,  S460531;",
+      "postalCode": "460531",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33312991885913,
+      "LON": 103.926153139784,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_e342761e-942c-45fa-9b7b-ee62a8ab197d",
       "entityId": "merchant_e342761e-942c-45fa-9b7b-ee62a8ab197d",
       "name": "LAI CHI MIAN",
@@ -272880,6 +272980,26 @@
         }
       },
       "lastResetDate": "2025-04-23"
+    },
+    {
+      "id": "merchant_03c7147b-ce5e-42e1-8781-a3fc1c0e63c3",
+      "entityId": "merchant_03c7147b-ce5e-42e1-8781-a3fc1c0e63c3",
+      "name": "LAU PA SAT PIG'S ORGAN SOUP (BP HAWKER)",
+      "address": "2 Bukit Panjang Ring Road, #01-22,  S679947;",
+      "postalCode": "679947",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37759742308947,
+      "LON": 103.772491526747,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_06de5f76-ae4b-487e-be45-5aeda855b484",
@@ -277800,6 +277920,26 @@
         }
       },
       "lastResetDate": "2025-08-01"
+    },
+    {
+      "id": "merchant_84ffc6a3-1d5e-4ef5-b178-36b8efa5550a",
+      "entityId": "merchant_84ffc6a3-1d5e-4ef5-b178-36b8efa5550a",
+      "name": "LET HIM COOK BY STALL 7",
+      "address": "186 Toa Payoh Central,  S310186;",
+      "postalCode": "310186",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3326539531256,
+      "LON": 103.85021164455,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_59e3af72-b11f-433b-971c-a7e7bc31214a",
@@ -303742,6 +303882,26 @@
       "lastResetDate": "2025-05-16"
     },
     {
+      "id": "merchant_a4d4efac-ed5e-432f-b038-5e6141445ef6",
+      "entityId": "merchant_a4d4efac-ed5e-432f-b038-5e6141445ef6",
+      "name": "MEI WEI BAN MIAN (TPY 177)",
+      "address": "177 Toa Payoh Central, ST4,  S310177;",
+      "postalCode": "310177",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33390034057387,
+      "LON": 103.848854818382,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_6e08acab-a137-4d5f-8aeb-9b80a50448eb",
       "entityId": "merchant_6e08acab-a137-4d5f-8aeb-9b80a50448eb",
       "name": "MEI WEI DESSERT",
@@ -309359,7 +309519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-04"
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_2e11ec77-9552-4267-8d98-aa1c9a5e086a",
@@ -317239,7 +317399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-02-06"
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_340cc3d3-1b0e-4607-9f70-354ab34f4095",
@@ -338600,6 +338760,26 @@
         }
       },
       "lastResetDate": "2025-10-16"
+    },
+    {
+      "id": "merchant_019a20e1-aa62-4697-8b18-9bff6c18e5e1",
+      "entityId": "merchant_019a20e1-aa62-4697-8b18-9bff6c18e5e1",
+      "name": "OLD STREET SCISSORS CUT CURRY RICE",
+      "address": "531 Bedok North Street 3,  S460531;",
+      "postalCode": "460531",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33312991885913,
+      "LON": 103.926153139784,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_a2273668-3960-42f3-831f-24e68ce99e7d",
@@ -371719,7 +371899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-17"
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_6764b260-4606-4087-9847-6e71bbf5eedd",
@@ -413682,6 +413862,26 @@
       "lastResetDate": "2024-07-05"
     },
     {
+      "id": "merchant_007d12a0-ce78-4d36-b567-6f3f5b9706b6",
+      "entityId": "merchant_007d12a0-ce78-4d36-b567-6f3f5b9706b6",
+      "name": "SP MINI MART",
+      "address": "339 Kang Ching Road Singapore 610339, #01-01,  S610339;",
+      "postalCode": "610339",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.337847586473,
+      "LON": 103.721175425966,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_acd4227e-929e-46e0-84ff-56bb4db41945",
       "entityId": "merchant_acd4227e-929e-46e0-84ff-56bb4db41945",
       "name": "SP UNISEX SALOON",
@@ -434580,26 +434780,6 @@
         }
       },
       "lastResetDate": "2024-07-16"
-    },
-    {
-      "id": "merchant_c0e5eecb-0683-4b60-8687-e065833d37a0",
-      "entityId": "merchant_c0e5eecb-0683-4b60-8687-e065833d37a0",
-      "name": "TECK SENG BEE CLAYPOT RICE",
-      "address": "37 Chai Chee Avenue,  S461037;",
-      "postalCode": "461037",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32544200357037,
-      "LON": 103.926207634232,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-02-04"
     },
     {
       "id": "merchant_c15670c7-95ed-472b-870c-0100fc997647",
@@ -481682,6 +481862,26 @@
       "lastResetDate": "2026-04-13"
     },
     {
+      "id": "merchant_f23834de-e28a-459c-b412-9a36575a4109",
+      "entityId": "merchant_f23834de-e28a-459c-b412-9a36575a4109",
+      "name": "WILD PASTA & GRILL (848 YISHUN)",
+      "address": "848 Yishun Ring Road,  S760848;",
+      "postalCode": "760848",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41607676991811,
+      "LON": 103.835575802126,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
+    },
+    {
       "id": "merchant_04873f32-08af-4912-9e8e-96bbcf12d9e6",
       "entityId": "merchant_04873f32-08af-4912-9e8e-96bbcf12d9e6",
       "name": "WILD TREASURES TURTLE SOUP",
@@ -488960,6 +489160,26 @@
         }
       },
       "lastResetDate": "2025-09-15"
+    },
+    {
+      "id": "merchant_748545af-574b-4838-a560-ea26818140dd",
+      "entityId": "merchant_748545af-574b-4838-a560-ea26818140dd",
+      "name": "XIN HAINANESE BONELESS CHICKEN RICE (AMK 181)",
+      "address": "181 Ang Mo Kio Avenue 5,  S560181;",
+      "postalCode": "560181",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37679309896347,
+      "LON": 103.837142240849,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-22"
     },
     {
       "id": "merchant_4d7c7574-f3f9-44f2-90ef-6565e531891a",

@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-23
+
+</summary>
+
+Total locations: 25,824 → 25,835
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 440 BKT | 440 Bukit Batok West Avenue 8,  S650440; | <span title="1.35572308109486,103.739303105372">1.35572, 103.73930</span> |
+  | ABC HANDMADE NOODLES | 6 Jalan Bukit Merah, #01-140,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | GOURMET STREET (SMR) PTE. LTD. | 171 Macpherson Road,  S348536; | <span title="1.329896347951382,103.8740174016752">1.32990, 103.87402</span> |
+  | LAI CAI KE KOU MIAN | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | LAU PA SAT PIG'S ORGAN SOUP (BP HAWKER) | 2 Bukit Panjang Ring Road, #01-22,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | LET HIM COOK BY STALL 7 | 186 Toa Payoh Central,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | MEI WEI BAN MIAN (TPY 177) | 177 Toa Payoh Central, ST4,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | SP MINI MART | 339 Kang Ching Road Singapore 610339, #01-01,  S610339; | <span title="1.337847586473,103.721175425966">1.33785, 103.72118</span> |
+  | WILD PASTA & GRILL (848 YISHUN) | 848 Yishun Ring Road,  S760848; | <span title="1.41607676991811,103.835575802126">1.41608, 103.83558</span> |
+  | XIN HAINANESE BONELESS CHICKEN RICE (AMK 181) | 181 Ang Mo Kio Avenue 5,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TECK SENG BEE CLAYPOT RICE</del><br>CHEN'S WANTON NOODLE | <del>37 Chai Chee Avenue,  S461037;</del><br>304 Serangoon Ave 2, 01-14,  S550304; | <del title="1.32544200357037,103.926207634232">1.32544, 103.92621</del><br><span title="1.35381345296971,103.867773013876">1.35381, 103.86777</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-22
 
 </summary>
