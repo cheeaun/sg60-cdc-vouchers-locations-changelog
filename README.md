@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-24
+
+</summary>
+
+Total locations: 25,835 → 25,847
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALVIN SEAFOOD BUDDY | 50A Marine Terrace, #01-271,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | ANN CHIN POPIAH (TPY 480) | 480 Lorong 6 Toa Payoh, ST21,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | BERADIK WESTERN CUISINE | 548 Woodlands Drive 44, 1,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | HENG KEE 267 PORK | 267 Serangoon Avenue 3, ST10,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | KENG SENG COFFEEHOUSE (36CHAICHEE) | 36 Chai Chee Avenue,  S461036; | <span title="1.32534102499628,103.92543538387">1.32534, 103.92544</span> |
+  | KING GROUPER -PARC POINT | 302 Tengah Park Avenue,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | MING XIANG 182 | 182A Rivervale Crescent, St3,  S541182; | <span title="1.39045272942314,103.908892267885">1.39045, 103.90889</span> |
+  | PENG GUAN BAK KWA | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | SCRAMBLE EGG RICE | 1 Choa Chu Kang Grove,  S688236; | <span title="1.37490650898361,103.752233735193">1.37491, 103.75223</span> |
+  | THAI SENG FISH SOUP | 269 Queen Street,  S180269; | <span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | TRADITIONAL HAINANESE CHICKEN RICE | 505 Beach Road, #B1-47,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | YU GANG REN FISH HEAD STEAMBOAT | 123 Bedok North Street 2,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | C&J FOODS | <del>267 Serangoon Avenue 3, M10,  S550267;</del><br>267 Serangoon Avenue 3, #01-01,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | FOOD ERA GOURMET | <del>50A Marine Terrace, #01-279,  S441050;</del><br>50A Marine Terrace, #01-301,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | HOJIAK NASI LEMAK (237 SERANGOON) | <del>Serangoon Avenue 3, #01-3130,  S550237;</del><br>Serangoon Avenue 3, #01-130,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | <del>JIAN BO TIONG BAHRU SHUI KUEH</del><br>JIAN BO SHUI KUEH PTE LTD | 304 Woodlands Street 31,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | <del>TIANG BAHRU TIAN BO SHUI KUEH</del><br>JIAN BO SHUI KUEH PTE LTD | 259 Bukit Panjang Ring Road,  S670259; | <span title="1.37750727624619,103.77360557644">1.37751, 103.77361</span> |
+  | <del>JIAN BO TIONG BAHRU SHUI KUEH (418 YISHUN AVE 11)</del><br>JIAN BO SHUI KUEH PTE LTD (418 YISHUN AVE 11) | 418 Yishun Avenue 11, 385A,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | <del>JIAN BO TIONG BAHRU SHUI KUEH 678A ADMIRALTY</del><br>JIAN BO SHUI KUEH PTE LTD (678A ADMIRALTY) | 678A Woodlands Avenue 6 Admiralty Wet Market & Food Centre Singapore 731678, #01-08,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | <del>MEIMEI CARROT CAKE (JELAPANG)</del><br>MEIMEI CARROT CAKE & JAPANESE | <del>524A Jelapang Road,  S671524;</del><br>547 Segar Road, #01-01,  S670547; | <del title="1.38529556252963,103.766170532051">1.38530, 103.76617</del><br><span title="1.3882402168269,103.76957538706">1.38824, 103.76958</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-23
 
 </summary>
