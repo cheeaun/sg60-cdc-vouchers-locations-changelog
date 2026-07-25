@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-25
+
+</summary>
+
+Total locations: 25,847 → 25,858
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 505 NIANG DOU FOO@ HG GREEN | 21 Hougang Street 51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | 630 NASI PADANG | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | 630 SEAFOOD | 630A Woodlands Ring Road,  S731630; | <span title="1.43509447552281,103.801196428683">1.43509, 103.80120</span> |
+  | 786 CHARCOAL ROASTED | 4 Woodlands Street 12, #01-0046,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | ACE BLADE BARBER | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2479,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | CHOKH DI LUCKY (ONE PUNGGOL) | 1 Punggol Drive, 01-06,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | KUNG FU WESTERN HALAL FOOD | 85 Redhill Lane, #01-09,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | LAO WEI DAO SHA GUO BAO(AMK) | 704 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560704, #01-2559,  S560704; | <span title="1.37040712097271,103.847230717119">1.37041, 103.84723</span> |
+  | MIXED VEGETABLE RICE SWEET POTATO PORRIDGE | 31 Tampines Street 92,  S520031; | <span title="1.33976481883113,103.943122654669">1.33976, 103.94312</span> |
+  | NIANNA | 685 Race Course Road Hdb-kallang/whampoa Singapore 210685, #01-332,  S210685; | <span title="1.31400583508364,103.856831276139">1.31401, 103.85683</span> |
+  | TAO GOURMET | 335 Smith Street, #02-192,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>CHARCOAL ROASTED DELIGHTS (AMK 721)</del><br>CHARCOAL ROASTED DELIGHTS (326 WOODLANDS) | <del>721 Ang Mo Kio Avenue 8,  S560721;</del><br>326 Woodlands Street 32, #01-103,  S730326; | <del title="1.37234984781557,103.847899479721">1.37235, 103.84790</del><br><span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-24
 
 </summary>
