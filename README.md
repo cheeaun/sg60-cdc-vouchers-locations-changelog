@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-27
+
+</summary>
+
+- <details><summary>Changed (24)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL MINA INDIAN FOOD | <del>1 Jalan Kukoh, #01-18,  S161001;</del><br>22B Havelock Road, #01-22,  S162022; | <del title="1.2882310152805,103.839934168065">1.28823, 103.83993</del><br><span title="1.28775546193797,103.829362888759">1.28776, 103.82936</span> |
+  | AMAZING FLORAL GIFT PTE LTD | <del>Sin Ming Road, #01-232,  S570022;</del><br>24 Sin Ming Road, #01-39,  S570024; | <del title="1.3572844410824,103.839396679952">1.35728, 103.83940</del><br><span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+  | BIG PRAWN NOODLES | <del>66 Kallang Bahru,  S330066;</del><br>107 Ang Mo Kio Ave 4, 01-138,  S560107; | <del title="1.32053917107956,103.86969083666">1.32054, 103.86969</del><br><span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | <del>MONKEY DELIGHTS</del><br>CHANG CHUN VEGETARIAN | 166 Jalan Besar, #02-36,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | CHINATOWN CHICKEN RICE | <del>335 Smith Street, #02-41,  S050335;</del><br>335 Smith Street, #02-19,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>GOLDEN MILE SPECIAL YONG TAO FOO</del><br>CHNG'S DESSERTS | 505 Beach Road, #B1-44,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | <del>DUCK KING (AMK 339)</del><br>DUCK KING (HG GREEN) | <del>339 Ang Mo Kio Avenue 1,  S560339;</del><br>21 Hougang St 51, 01-42,  S538719; | <del title="1.36506492207366,103.849115819192">1.36506, 103.84912</del><br><span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | <del>FATTY CAT CURRY RICE@HOLLAND DRIVE</del><br>FATTY CAT HOKKIEN MEE | 44 Holland Drive, #02-33,  S270044; | <span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+  | <del>QS81 CURRY PUFF</del><br>GOLD XIANG CURRY PUFF - ALBERT CENTRE MARKET & FOOD CENTRE | 270 Queen Street, #01-81,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>WP22 CURRY PUFF</del><br>GOLD XIANG CURRY PUFF PTE. LTD. - 91 WHAMPOA DRIVE FOOD CENTRE | 91 Whampoa Drive, #01-22,  S320091; | <span title="1.32342818718207,103.854060197812">1.32343, 103.85406</span> |
+  | <del>LAI HENG TEOCHEW MINCED MEAT NOODLE</del><br>HUIJI BAK CHOR MEE | 341 Ang Mo Kio Avenue 1, #01-12,  S560341; | <span title="1.36384516921846,103.84806729788">1.36385, 103.84807</span> |
+  | LAI HENG MIXED VEG RICE | <del>22 Toa Payoh Lorong 7, #01-08,  S310022;</del><br>22 Toa Payoh Lorong 7, #01-07,  S310022; | <span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | LEZHONG SEAFOOD ZICHAR | <del>727 Ang Mo Kio Avenue 6,  S560727;</del><br>11 Upper Boon Keng Road, #01-939,  S380011; | <del title="1.37299031596651,103.846012559319">1.37299, 103.84601</del><br><span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | MACHAN'S KITCHEN | <del>74 Race Course Road Little India Conservation Area Singapore 218574, #01-01,  S218574;</del><br>34 Race Course Rd, #01-01,  S218552; | <del title="1.30875845856657,103.851383301125">1.30876, 103.85138</del><br><span title="1.30786381970912,103.850712586044">1.30786, 103.85071</span> |
+  | <del>MR YOUTIAO</del><br>MR YOUTIAO AND THE SEAFOOD PEOPLE | 146 Jalan Bukit Merah, ST7,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | RACHAEL CRYSTAL TRADING | <del>684 Race Course Road Hdb-kallang/whampoa Singapore 210684, #01-308,  S210684;</del><br>683 Tessensohn Road, #01-113,  S210683; | <del title="1.31430707569496,103.856659538355">1.31431, 103.85666</del><br><span title="1.31445853642293,103.856019195126">1.31446, 103.85602</span> |
+  | ROYAL HAIR EXQUISITE STUDIO | <del>177 Toa Payoh Central Toa Payoh Central Singapore 310177, #01-112,  S310177;</del><br>183 Toa Payoh Central, #01-292,  S310183; | <del title="1.33390034057387,103.848854818382">1.33390, 103.84885</del><br><span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | <del>AL-ANUSHA INDIAN MUSLIM FOOD</del><br>SG BRIYANI | 55 Lengkok Bahru, ST05,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | <del>FU SHUN BEAUTY WELLNESS</del><br>SLIM FAST AESTHETICS | 185 Toa Payoh Central Toa Payoh Central Singapore 310185, #01-344,  S310185; | <span title="1.33272795858038,103.849994231509">1.33273, 103.84999</span> |
+  | SOON HENG PRAWN NOODLE | <del>443 Ang Mo Kio Avenue 10,  S560443;</del><br>Blk 164 Bukit Merah Central, 01-3631,  S150164; | <del title="1.36604388871674,103.855368968681">1.36604, 103.85537</del><br><span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | TAI SING CORPORATION PTE LTD | <del>200 Jalan Sultan Hope Church Singapore Singapore 199018, #03-27,  S199018;</del><br>200 Jalan Sultan Hope Church Singapore Singapore 199018, #03-31A,  S199018; | <span title="1.30397881313463,103.861554245252">1.30398, 103.86155</span> |
+  | <del>AMEER AHAMAD BEST CORNER</del><br>Y.R.A TEH TARIK | 6 Jalan Bukit Merah, #01-28,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | <del>VIYO BEAUTY</del><br>YOYO BEAUTIE | 185 Toa Payoh Central Toa Payoh Central Singapore 310185, #01-324,  S310185; | <span title="1.33272795858038,103.849994231509">1.33273, 103.84999</span> |
+  | ZHEN AI GUO JI PTE LTD | <del>Jalan Sultan, #02-23,  S199018;</del><br>Jalan Sultan, #04-09,  S199018; | <span title="1.30397881313463,103.861554245252">1.30398, 103.86155</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-25
 
 </summary>
