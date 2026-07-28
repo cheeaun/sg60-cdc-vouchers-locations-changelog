@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Jul 2026",
+  "lastUpdated": "28 Jul 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -6705,7 +6705,7 @@
       "id": "merchant_52a9f7b9-c1a9-487e-9579-8e6813777d8e",
       "entityId": "merchant_52a9f7b9-c1a9-487e-9579-8e6813777d8e",
       "name": "119 FISH (2)",
-      "address": "539 Bedok North Street 3,  S460539;",
+      "address": "539 Bedok North Street 3, #01-619,  S460539;",
       "postalCode": "460539",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33131386579703,
@@ -6719,7 +6719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-07"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_757d89dc-6d4d-4049-8d14-d66886de633d",
@@ -32182,6 +32182,26 @@
       "lastResetDate": "2022-01-30"
     },
     {
+      "id": "merchant_fe984f03-664e-457c-a261-90f69da5a1a4",
+      "entityId": "merchant_fe984f03-664e-457c-a261-90f69da5a1a4",
+      "name": "AH FANG FISH SOUP -253 CCK",
+      "address": "253 Choa Chu Kang Avenue 1,  S680253;",
+      "postalCode": "680253",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37743962648904,
+      "LON": 103.744383226772,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
+    },
+    {
       "id": "merchant_ce2bb84b-91df-4d9a-b148-0bdecc4388ad",
       "entityId": "merchant_ce2bb84b-91df-4d9a-b148-0bdecc4388ad",
       "name": "AH FANG FISH SOUP . BAN MIAN . PORRIDGE",
@@ -38699,7 +38719,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-06-28"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_b2b1496b-0470-4fbb-bbda-6c17e0ebc416",
@@ -57202,6 +57222,26 @@
       "lastResetDate": "2026-03-06"
     },
     {
+      "id": "merchant_dd9eb34c-0c53-4754-a0ba-c4e39e013f06",
+      "entityId": "merchant_dd9eb34c-0c53-4754-a0ba-c4e39e013f06",
+      "name": "BABA MINIMART",
+      "address": "339 Hougang Avenue 7 Hdb-hougang Singapore 530339, #01-K1,  S530339;",
+      "postalCode": "530339",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37002545723867,
+      "LON": 103.89857229481,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
+    },
+    {
       "id": "merchant_64d0118e-f54c-4bb6-a5e0-7ecc78660709",
       "entityId": "merchant_64d0118e-f54c-4bb6-a5e0-7ecc78660709",
       "name": "BABES N TOTS CLINIC PTE LTD",
@@ -62725,7 +62765,7 @@
       "id": "merchant_82e6004e-d520-4dc5-b702-217657f11e3f",
       "entityId": "merchant_82e6004e-d520-4dc5-b702-217657f11e3f",
       "name": "BASIL KING (7EUNOS)",
-      "address": "7 Eunos Crescent,  S400007;",
+      "address": "7 Eunos Crescent, #01-2665,  S400007;",
       "postalCode": "400007",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32065506002485,
@@ -62739,7 +62779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-03"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_2cc21040-0c11-44c2-b06b-ad3c6cb42f62",
@@ -70985,11 +71025,11 @@
       "id": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
       "entityId": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
       "name": "BIG PRAWN NOODLE",
-      "address": "80 Circuit Road, #02-04,  S370080;",
-      "postalCode": "370080",
+      "address": "1220 East Coast Parkway, #01-021,  S468960;",
+      "postalCode": "468960",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32783414615937,
-      "LON": 103.887102669236,
+      "LAT": 1.30690573552745,
+      "LON": 103.935137935777,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -70999,7 +71039,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-24"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_e4a3b5d7-478b-4070-9e03-2ac1b75bf22b",
@@ -81225,7 +81265,7 @@
       "id": "merchant_0f5045fe-cc88-4c9c-84df-b0eeafb05ba6",
       "entityId": "merchant_0f5045fe-cc88-4c9c-84df-b0eeafb05ba6",
       "name": "CAHAYA IMPIAN",
-      "address": "531 Bedok North Street 3,  S460531;",
+      "address": "531 Bedok North Street 3, #01-680,  S460531;",
       "postalCode": "460531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33312991885913,
@@ -81239,7 +81279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-07"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_2474a774-77fe-4781-97d2-f438afc5c4eb",
@@ -104180,6 +104220,26 @@
         }
       },
       "lastResetDate": "2025-08-01"
+    },
+    {
+      "id": "merchant_509b6b77-12ec-4cba-9715-ffd851977073",
+      "entityId": "merchant_509b6b77-12ec-4cba-9715-ffd851977073",
+      "name": "CLEMENTI PAU DIAN",
+      "address": "726 Clementi West Street 2, #01-140,  S120726;",
+      "postalCode": "120726",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30378203325462,
+      "LON": 103.764264494666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_0ac1c649-c1f2-4d6b-ae8b-dec3b10a4862",
@@ -146805,7 +146865,7 @@
       "id": "merchant_718d0e20-e41a-4afd-b121-5a87e4d40a21",
       "entityId": "merchant_718d0e20-e41a-4afd-b121-5a87e4d40a21",
       "name": "FAT MOMMA KITCHEN (BEDOK211)",
-      "address": "211 New Upper Changi Road,  S460211;",
+      "address": "211 New Upper Changi Road, #01-763,  S460211;",
       "postalCode": "460211",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32550084519552,
@@ -146819,7 +146879,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-02"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_0719d082-5df9-4b63-80b8-5bf9b23b1f45",
@@ -152220,6 +152280,26 @@
         }
       },
       "lastResetDate": "2025-08-13"
+    },
+    {
+      "id": "merchant_ecd1edb3-3b92-4205-a6fd-9cf320620b06",
+      "entityId": "merchant_ecd1edb3-3b92-4205-a6fd-9cf320620b06",
+      "name": "FITRA HAINANESE CHICKEN RICE (513527)",
+      "address": "527C Pasir Ris Street 51, 8,  S513527;",
+      "postalCode": "513527",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36937329925111,
+      "LON": 103.947970231713,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_fccd58c5-f8a6-47ad-8837-f122c3e51a19",
@@ -162479,7 +162559,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-08"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_09bc3e23-5892-4ac7-9a40-a3749a72669a",
@@ -167500,6 +167580,26 @@
         }
       },
       "lastResetDate": "2025-10-09"
+    },
+    {
+      "id": "merchant_a68d2f7a-178b-46b1-a5d6-1022e490e923",
+      "entityId": "merchant_a68d2f7a-178b-46b1-a5d6-1022e490e923",
+      "name": "GAGA ROASTED DELIGHTS (437 FERNVALE)",
+      "address": "437 Fernvale Road,  S790437;",
+      "postalCode": "790437",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39255040546533,
+      "LON": 103.876330394724,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_9f602821-148f-44d4-b016-a94f07fa8220",
@@ -173720,6 +173820,26 @@
         }
       },
       "lastResetDate": "2022-03-10"
+    },
+    {
+      "id": "merchant_4a9f1709-69a3-44eb-8d44-12c2e1bd5b6f",
+      "entityId": "merchant_4a9f1709-69a3-44eb-8d44-12c2e1bd5b6f",
+      "name": "GOOD LUCK COFFEE STALL",
+      "address": "16 Bedok South Road, #01-05,  S460016;",
+      "postalCode": "460016",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32055221938711,
+      "LON": 103.935539171613,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_d3790d27-0ee7-47ec-ac15-d250b2482c42",
@@ -207845,7 +207965,7 @@
       "id": "merchant_31900136-40cc-4977-8eeb-c52a81ed2c53",
       "entityId": "merchant_31900136-40cc-4977-8eeb-c52a81ed2c53",
       "name": "HONG KONG CLAYPOT RICE STEWED SOUP",
-      "address": "57 New Upper Changi Road,  S461057;",
+      "address": "57 New Upper Changi Road, #01-1368,  S461057;",
       "postalCode": "461057",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32424554153984,
@@ -207859,7 +207979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-01"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_92fb3e10-3484-4875-ae84-ec3c95993a21",
@@ -208900,6 +209020,26 @@
         }
       },
       "lastResetDate": "2026-04-21"
+    },
+    {
+      "id": "merchant_3657625a-b6cf-4f4d-8ab0-2d6a4c857aee",
+      "entityId": "merchant_3657625a-b6cf-4f4d-8ab0-2d6a4c857aee",
+      "name": "HONG LIM CURRY PUFF (AMK 724)",
+      "address": "724 Ang Mo Kio Avenue 6, #01-11,  S560724;",
+      "postalCode": "560724",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37217258545171,
+      "LON": 103.846510310202,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_a595abf6-d4f1-4d91-9739-771f5f8f6643",
@@ -232925,7 +233065,7 @@
       "id": "merchant_42b7e7d4-4e89-404f-98a4-eb3455ce0bf5",
       "entityId": "merchant_42b7e7d4-4e89-404f-98a4-eb3455ce0bf5",
       "name": "JIA LE KOPITIAM",
-      "address": "131 Upper Paya Lebar Road,  S534841;",
+      "address": "131 Upper Paya Lebar Road, #01-131,  S534841;",
       "postalCode": "534841",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33866624576194,
@@ -232939,7 +233079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-14"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_66f1ff46-cedd-443f-bd16-0bd5bc91de44",
@@ -239459,7 +239599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-15"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_000008f5-8694-431b-a7dd-1c3e17d7eaf9",
@@ -240305,7 +240445,7 @@
       "id": "merchant_ab0ccbf6-50e3-424d-98c0-baa890023407",
       "entityId": "merchant_ab0ccbf6-50e3-424d-98c0-baa890023407",
       "name": "JOFA COFFEE SHOP",
-      "address": "531 Bedok North Street 3,  S460531;",
+      "address": "531 Bedok North Street 3, #01-680,  S460531;",
       "postalCode": "460531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33312991885913,
@@ -240319,7 +240459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-13"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_41012019-5fe2-455b-abb1-da851bba63d9",
@@ -268859,7 +268999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-23"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_8646d30b-dafe-43a2-9c8e-16d7b0d15d6a",
@@ -269925,7 +270065,7 @@
       "id": "merchant_8f1b3c4a-4a98-4f2d-870a-4456c590ebc2",
       "entityId": "merchant_8f1b3c4a-4a98-4f2d-870a-4456c590ebc2",
       "name": "LAI CAI KE KOU MIAN",
-      "address": "531 Bedok North Street 3,  S460531;",
+      "address": "531 Bedok North Street 3, #01-680,  S460531;",
       "postalCode": "460531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33312991885913,
@@ -269939,7 +270079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-22"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_e342761e-942c-45fa-9b7b-ee62a8ab197d",
@@ -291065,7 +291205,7 @@
       "id": "merchant_066b8dcb-56e0-41fe-a2aa-cf4b3289ccff",
       "entityId": "merchant_066b8dcb-56e0-41fe-a2aa-cf4b3289ccff",
       "name": "M RICH MIXED VEG RICE",
-      "address": "322 Hougang Avenue 5, ST6,  S530322;",
+      "address": "322 Hougang Avenue 5, #01-86,  S530322;",
       "postalCode": "530322",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.36709855359263,
@@ -291079,7 +291219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-15"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_1aed7a14-cf12-45aa-a0eb-bec6ac3b7272",
@@ -295305,7 +295445,7 @@
       "id": "merchant_94fc1911-c248-416c-bb25-7136546a42c6",
       "entityId": "merchant_94fc1911-c248-416c-bb25-7136546a42c6",
       "name": "MALAYSIA WINNERS FRIED CHICKEN",
-      "address": "531 Bedok North Street 3,  S460531;",
+      "address": "531 Bedok North Street 3, #01-680,  S460531;",
       "postalCode": "460531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33312991885913,
@@ -295319,7 +295459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-13"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_8deb9924-8158-41b5-af23-59d0aabbb451",
@@ -300140,6 +300280,26 @@
         }
       },
       "lastResetDate": "2023-11-05"
+    },
+    {
+      "id": "merchant_c571e83b-7aaf-4a25-8fbf-aa931dc4727d",
+      "entityId": "merchant_c571e83b-7aaf-4a25-8fbf-aa931dc4727d",
+      "name": "MAXWELL CHICKEN RICE PORRIDGE JE318",
+      "address": "318 Jurong East Street 31,  S600318;",
+      "postalCode": "600318",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34750822865247,
+      "LON": 103.730560691538,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_257f4baf-1ab0-4cfb-8d7d-0e36af29720f",
@@ -339105,7 +339265,7 @@
       "id": "merchant_019a20e1-aa62-4697-8b18-9bff6c18e5e1",
       "entityId": "merchant_019a20e1-aa62-4697-8b18-9bff6c18e5e1",
       "name": "OLD STREET SCISSORS CUT CURRY RICE",
-      "address": "531 Bedok North Street 3,  S460531;",
+      "address": "531 Bedok North Street 3, #01-680,  S460531;",
       "postalCode": "460531",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33312991885913,
@@ -339119,7 +339279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-22"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_a2273668-3960-42f3-831f-24e68ce99e7d",
@@ -366265,7 +366425,7 @@
       "id": "merchant_0e2d2c73-39a1-4674-ab57-b9c285d6730a",
       "entityId": "merchant_0e2d2c73-39a1-4674-ab57-b9c285d6730a",
       "name": "R&M BANANA LEAF INDIAN CUISINE",
-      "address": "510 Bedok North Street 3,  S460510;",
+      "address": "510 Bedok North Street 3, #01-61,  S460510;",
       "postalCode": "460510",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3324467322696,
@@ -366279,7 +366439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-02"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_e6887a8a-0ce9-4bef-a3d1-9128516aeb60",
@@ -377385,7 +377545,7 @@
       "id": "merchant_c210ef4f-b1dc-4120-a1e4-19f499aadcc8",
       "entityId": "merchant_c210ef4f-b1dc-4120-a1e4-19f499aadcc8",
       "name": "RUAN FANG WANTON NOODLE",
-      "address": "151 Serangoon North Avenue 2,  S550151;",
+      "address": "151 Serangoon North Avenue 2, #01-41,  S550151;",
       "postalCode": "550151",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.36934535015796,
@@ -377399,7 +377559,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-01"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_fce37f50-c8ef-4964-8c6f-f74390dc7f9a",
@@ -406379,7 +406539,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-06-22"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_88747873-9289-4ca1-a258-4459969d648b",
@@ -434240,6 +434400,26 @@
         }
       },
       "lastResetDate": "2021-12-08"
+    },
+    {
+      "id": "merchant_d57113e0-756a-4d6c-a570-5a9098ec31d3",
+      "entityId": "merchant_d57113e0-756a-4d6c-a570-5a9098ec31d3",
+      "name": "TEA HOUSE",
+      "address": "57 Geylang Bahru Geylang Bahru Ville Singapore 330057, #01-3495,  S330057;",
+      "postalCode": "330057",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32353780675049,
+      "LON": 103.86914775647,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_ee2f5318-727e-47b1-a7bb-eb8f0dfa918d",
@@ -506565,7 +506745,7 @@
       "id": "merchant_7d9727d5-c1ff-4277-960c-3cb285c7658c",
       "entityId": "merchant_7d9727d5-c1ff-4277-960c-3cb285c7658c",
       "name": "YU GANG REN FISH HEAD STEAMBOAT",
-      "address": "123 Bedok North Street 2,  S460123;",
+      "address": "123 Bedok North Street 2, #01-168,  S460123;",
       "postalCode": "460123",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.32919868667839,
@@ -506579,7 +506759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-23"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_0c9e4f3e-2609-4230-8220-2314703aac79",
@@ -507062,6 +507242,26 @@
       "lastResetDate": "2025-07-04"
     },
     {
+      "id": "merchant_876eb111-b4fb-4013-b08f-e8b310678714",
+      "entityId": "merchant_876eb111-b4fb-4013-b08f-e8b310678714",
+      "name": "YU PAN (1A EUNOS)",
+      "address": "1A Eunos Crescent,  S401001;",
+      "postalCode": "401001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32129030482793,
+      "LON": 103.902727807563,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-07-27"
+    },
+    {
       "id": "merchant_25a66c64-d1c3-465c-8bb2-ec7b56029a11",
       "entityId": "merchant_25a66c64-d1c3-465c-8bb2-ec7b56029a11",
       "name": "YU PAN (204 SERANGOON)",
@@ -507459,7 +507659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-07-05"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_b296d554-8adb-4f1d-a1f1-8c5e1c6827c1",
@@ -511445,7 +511645,7 @@
       "id": "merchant_cd7a8255-32fd-476a-a341-6ad46f293fa2",
       "entityId": "merchant_cd7a8255-32fd-476a-a341-6ad46f293fa2",
       "name": "ZAIKA INDIAN MUSLIM FOOD",
-      "address": "537 Bedok North Street 3,  S460537;",
+      "address": "537 Bedok North Street 3, #01-501,  S460537;",
       "postalCode": "460537",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33177300757048,
@@ -511459,7 +511659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-01"
+      "lastResetDate": "2026-07-27"
     },
     {
       "id": "merchant_02ee0d35-f8df-475c-b7e9-9908545a3e1e",

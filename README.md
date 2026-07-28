@@ -13,6 +13,56 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-28
+
+</summary>
+
+Total locations: 25,858 → 25,868
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP -253 CCK | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | BABA MINIMART | 339 Hougang Avenue 7 Hdb-hougang Singapore 530339, #01-K1,  S530339; | <span title="1.37002545723867,103.89857229481">1.37003, 103.89857</span> |
+  | CLEMENTI PAU DIAN | 726 Clementi West Street 2, #01-140,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | FITRA HAINANESE CHICKEN RICE (513527) | 527C Pasir Ris Street 51, 8,  S513527; | <span title="1.36937329925111,103.947970231713">1.36937, 103.94797</span> |
+  | GAGA ROASTED DELIGHTS (437 FERNVALE) | 437 Fernvale Road,  S790437; | <span title="1.39255040546533,103.876330394724">1.39255, 103.87633</span> |
+  | GOOD LUCK COFFEE STALL | 16 Bedok South Road, #01-05,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | HONG LIM CURRY PUFF (AMK 724) | 724 Ang Mo Kio Avenue 6, #01-11,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | MAXWELL CHICKEN RICE PORRIDGE JE318 | 318 Jurong East Street 31,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | TEA HOUSE | 57 Geylang Bahru Geylang Bahru Ville Singapore 330057, #01-3495,  S330057; | <span title="1.32353780675049,103.86914775647">1.32354, 103.86915</span> |
+  | YU PAN (1A EUNOS) | 1A Eunos Crescent,  S401001; | <span title="1.32129030482793,103.902727807563">1.32129, 103.90273</span> |
+
+  </details>
+
+- <details><summary>Changed (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 119 FISH (2) | <del>539 Bedok North Street 3,  S460539;</del><br>539 Bedok North Street 3, #01-619,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | BASIL KING (7EUNOS) | <del>7 Eunos Crescent,  S400007;</del><br>7 Eunos Crescent, #01-2665,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+  | BIG PRAWN NOODLE | <del>80 Circuit Road, #02-04,  S370080;</del><br>1220 East Coast Parkway, #01-021,  S468960; | <del title="1.32783414615937,103.887102669236">1.32783, 103.88710</del><br><span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | CAHAYA IMPIAN | <del>531 Bedok North Street 3,  S460531;</del><br>531 Bedok North Street 3, #01-680,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | FAT MOMMA KITCHEN (BEDOK211) | <del>211 New Upper Changi Road,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | HONG KONG CLAYPOT RICE STEWED SOUP | <del>57 New Upper Changi Road,  S461057;</del><br>57 New Upper Changi Road, #01-1368,  S461057; | <span title="1.32424554153984,103.941568704132">1.32425, 103.94157</span> |
+  | JIA LE KOPITIAM | <del>131 Upper Paya Lebar Road,  S534841;</del><br>131 Upper Paya Lebar Road, #01-131,  S534841; | <span title="1.33866624576194,103.886297414415">1.33867, 103.88630</span> |
+  | JOFA COFFEE SHOP | <del>531 Bedok North Street 3,  S460531;</del><br>531 Bedok North Street 3, #01-680,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | LAI CAI KE KOU MIAN | <del>531 Bedok North Street 3,  S460531;</del><br>531 Bedok North Street 3, #01-680,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | M RICH MIXED VEG RICE | <del>322 Hougang Avenue 5, ST6,  S530322;</del><br>322 Hougang Avenue 5, #01-86,  S530322; | <span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+  | MALAYSIA WINNERS FRIED CHICKEN | <del>531 Bedok North Street 3,  S460531;</del><br>531 Bedok North Street 3, #01-680,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE | <del>531 Bedok North Street 3,  S460531;</del><br>531 Bedok North Street 3, #01-680,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | R&M BANANA LEAF INDIAN CUISINE | <del>510 Bedok North Street 3,  S460510;</del><br>510 Bedok North Street 3, #01-61,  S460510; | <span title="1.3324467322696,103.930476688129">1.33245, 103.93048</span> |
+  | RUAN FANG WANTON NOODLE | <del>151 Serangoon North Avenue 2,  S550151;</del><br>151 Serangoon North Avenue 2, #01-41,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | YU GANG REN FISH HEAD STEAMBOAT | <del>123 Bedok North Street 2,  S460123;</del><br>123 Bedok North Street 2, #01-168,  S460123; | <span title="1.32919868667839,103.937343347878">1.32920, 103.93734</span> |
+  | ZAIKA INDIAN MUSLIM FOOD | <del>537 Bedok North Street 3,  S460537;</del><br>537 Bedok North Street 3, #01-501,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-27
 
 </summary>
