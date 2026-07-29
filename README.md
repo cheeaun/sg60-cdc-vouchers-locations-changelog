@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-29
+
+</summary>
+
+Total locations: 25,868 → 25,885
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEDOK 211 HAINANESE CHICKEN RICE | 211 New Upper Changi Road,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | DAOXIANG YUMMY | 1550 Bedok North Ave 5,  S489950; | <span title="1.33763731957014,103.944539180358">1.33764, 103.94454</span> |
+  | FIRE MONKEY HOKKIEN MEE MR5 785 | 785E Woodlands Rise, MR5,  S735785; | <span title="1.44679888115266,103.805489772817">1.44680, 103.80549</span> |
+  | GOOD TASTE HAINANESE CHICKEN RICE 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | GRANDMA'S PUMPKIN RICE | 166 Jalan Besar, #02-49,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | GUO TIAO ZAI | 10 North Bridge Road, ST5,  S190010; | <span title="1.3055523404779,103.863562821016">1.30555, 103.86356</span> |
+  | HAIR CARE (BT MERAH) | 11 Jalan Bukit Merah Hdb-bukit Merah Singapore 150011, #01-4440,  S150011; | <span title="1.28662190407489,103.808963346663">1.28662, 103.80896</span> |
+  | KOWLOON ROASTED MR4 785 | 785E Woodlands Rise, MR4,  S735785; | <span title="1.44679888115266,103.805489772817">1.44680, 103.80549</span> |
+  | MOON THAI KITCHEN EXPRESS | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | NOOR SHAFANA INDIAN MUSLIM FOOD (AMK 181) | 181 Ang Mo Kio Avenue 5, ST2,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | RUSTIC COFFEE AND BREAD | 1 Kadayanallur Street, #01-25,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | SECOND SERVING EXPRESS | 932 Hougang Avenue 9,  S530932; | <span title="1.37517548118185,103.881990913099">1.37518, 103.88199</span> |
+  | SHIOK HOKKIEN MEE | 261 Serangoon Central Drive,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | SMART CAT HAIR AI+ | 86 Whampoa Drive Uob Whampoa Drive Singapore 320086, #01-931,  S320086; | <span title="1.32314598295591,103.855879621151">1.32315, 103.85588</span> |
+  | SOONG CHOON OPTICS - BEDOK | 11 Bedok North Street 1 Bedok Public Library Singapore 469662, #01-18,  S469662; | <span title="1.32662388643563,103.931806159881">1.32662, 103.93181</span> |
+  | SPRINGYPADANG | 4A Jalan Batu, #01-08,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+  | WANG KEE FISH SOUP | 4A Jalan Batu, #01-002,  S432004; | <span title="1.30236034827101,103.883909473726">1.30236, 103.88391</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHONG QING YU WEI | <del>212 Hougang Street 21,  S530212;</del><br>212 Hougang Street 21, #01-349,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | <del>HAKKA LEIPOPO</del><br>HAKKA LEIPOPO OPHC PTE. LTD. | 1 Punggol Drive, #02-26,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | HENG KEE 267 PORK | <del>267 Serangoon Avenue 3, ST10,  S550267;</del><br>267 Serangoon Avenue 3, #01-01,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | MAA KINN THAI FOOD | <del>76 Circuit Road,  S370076;</del><br>76 Circuit Road, #01-18,  S370076; | <span title="1.32551693484516,103.889903603926">1.32552, 103.88990</span> |
+  | RED LANTERN SEAFOOD | <del>237 Serangoon Avenue 3,  S550237;</del><br>237 Serangoon Avenue 3, #01-130,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | YU PAN (1A EUNOS) | <del>1A Eunos Crescent,  S401001;</del><br>1A Eunos Crescent, #01-2461,  S401001; | <span title="1.32129030482793,103.902727807563">1.32129, 103.90273</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-28
 
 </summary>
