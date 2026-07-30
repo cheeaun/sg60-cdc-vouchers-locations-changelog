@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-30
+
+</summary>
+
+Total locations: 25,885 → 25,902
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BORED TACOS SEMBAWANG | 8 Jalan Legundi Victory 8 Singapore 759274, #01-13,  S759274; | <span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | GETS MEDS | 635 Ang Mo Kio Avenue 6 Yio Chu Kang Heights Singapore 560635, #01-5113,  S560635; | <span title="1.38076896104696,103.842378423538">1.38077, 103.84238</span> |
+  | GRANNY PRAWN MEE | 51 Hougang Avenue 9, #01-29,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | GRILL LAH TG286 | 286E Toh Guan Road,  S605286; | <span title="1.33926892716701,103.745167769149">1.33927, 103.74517</span> |
+  | GUAN CHEE @HG 684 | 684 Hougang Avenue 8,  S530684; | <span title="1.3739584050047,103.886898456705">1.37396, 103.88690</span> |
+  | HENG HENG NOODLE HOUSE TG286 | 286E Toh Guan Road,  S605286; | <span title="1.33926892716701,103.745167769149">1.33927, 103.74517</span> |
+  | HENLY HUAT DRINK STALL (136) | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | JMK MINIMART | 8 Jalan Legundi Victory 8 Singapore 759274, #01-14,  S759274; | <span title="1.44184070674357,103.823693218432">1.44184, 103.82369</span> |
+  | OK CHICKEN RICE | 739 Bedok Reservoir Road,  S470739; | <span title="1.33788663735454,103.922648407766">1.33789, 103.92265</span> |
+  | QIAO JIA | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #03-1148,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | SHYANG KEE FISHBALL NOODLE (103 GANGSA) | 103 Gangsa Road,  S670103; | <span title="1.37867070821171,103.768538440957">1.37867, 103.76854</span> |
+  | SIONG ANN TCM | 416 Bedok North Avenue 2 Garden Hill Singapore 460416, #01-035,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | TAN THONG CHEONG PTE LTD | 7 King George's Avenue Singapore 201007, #01-128,  S201007; | <span title="1.30780319764386,103.860068429449">1.30780, 103.86007</span> |
+  | TIAN TIAN HAE MEE | 6 Jalan Bukit Merah, #01-100,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | WANG MINIMART | 147 Serangoon North Avenue 1 Aljunied-hougang Town Council (serangoon North Office) Singapore 550147, #01-431A,  S550147; | <span title="1.36851857390771,103.872804036824">1.36852, 103.87280</span> |
+  | YONG HUI GOOD TASTE FOODSTUFFS PTE LTD | 270 Queen Street, #03-107,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | YUEN KEE DUMPLING | 275D Compassvale Link, ST2,3,  S544275; | <span title="1.38290495731413,103.893713485123">1.38290, 103.89371</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ARTISTIC TOUCH SALON | <del>263 Serangoon Central Drive, #01-53,  S550263;</del><br>262 Serangoon Central Drive, #02-101,  S550262; | <del title="1.35386322697735,103.871939623369">1.35386, 103.87194</del><br><span title="1.35323084558357,103.87204354837">1.35323, 103.87204</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-29
 
 </summary>
