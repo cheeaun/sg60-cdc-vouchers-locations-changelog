@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-07-31
+
+</summary>
+
+Total locations: 25,902 → 25,922
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CURRY POPO | 120 Bukit Merah Lane 1, #01-37,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | DIAN LAO ER - CLEMENTI AVE 3 | 442 Clementi Avenue 3,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | INDONESIAN CUISINE | 302 Tengah Park Avenue, 12,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | JING HEALTH | 3 Everton Park Everton Park Singapore 080003, #01-69,  S080003; | <span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | KAGAOMO GROOMING AND WELLNESS | 619 Yishun Ring Road Hdb-yishun Singapore 760619, #01-3226,  S760619; | <span title="1.41911476927137,103.834935216685">1.41911, 103.83494</span> |
+  | KALLANG BAHRU BRAISED DUCK . KWAY CHAP - 469 BB | 469 Bukit Batok West Avenue 9, #01-05,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | KIDS HOUSE | 105 Hougang Avenue 1, #01-93,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | KNS RESTAURANT FUCHUN COMMUNITY CLUB | 1 Woodlands Street 31 British Council (marsiling Centre) Singapore 738581, #01-03,  S738581; | <span title="1.42958660649594,103.774850125046">1.42959, 103.77485</span> |
+  | LAO SAN PRAWN NOODLES (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | LOVE JAPANESE KOREAN CUISINE -469BB | 469 Bukit Batok West Avenue 9, #01-11,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | LUCKY CAT CAFE | 35 Hougang Avenue 3 Hougang Community Club Singapore 538840, #01-02,  S538840; | <span title="1.36475124381247,103.892727994573">1.36475, 103.89273</span> |
+  | OLD WORLD FRIED PORRIDGE & BAK KEE SOUP | 123 Yishun Street 11,  S760123; | <span title="1.43453686287322,103.831779326315">1.43454, 103.83178</span> |
+  | PEDIABLOOM THERAPY | 302D Tengah Park Avenue, #01-153,  S694302; | <span title="1.3606495399209,103.738336055902">1.36065, 103.73834</span> |
+  | ROBOT ZI CHAR | 1 Ang Mo Kio Industrial Park 2A,  S568049; | <span title="1.37794735185987,103.867856139461">1.37795, 103.86786</span> |
+  | SALMAAN INDIAN MUSLIM FOOD | 8 Pending Rd,  S678295; | <span title="1.37645075555464,103.770558802654">1.37645, 103.77056</span> |
+  | SHUN FA CHICKEN RICE | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | SLZ RESTAURANT PTE. LTD. | 116 Jalan Tenteram,  S320116; | <span title="1.32769993704525,103.861236369481">1.32770, 103.86124</span> |
+  | SRI THIRUMALA GROCER JE318 | 318 Jurong East Street 31 Hdb-jurong East Singapore 600318, #01-44,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | STYLISH CUTZ | 202 Ang Mo Kio Avenue 3 Ang Mo Kio View Singapore 560202, #01-1680,  S560202; | <span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | THE REHAB LAB PLUS | 683 Tessensohn Road Hdb-kallang/whampoa Singapore 210683, #01-121,  S210683; | <span title="1.31445853642293,103.856019195126">1.31446, 103.85602</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHIN SIONG KEE CHICKEN RICE | <del>59 Marine Terrace, #01-71,  S440059;</del><br>50A Marine Terrace, #01-293,  S441050; | <del title="1.30585648473163,103.914729886792">1.30586, 103.91473</del><br><span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | HUNG HENG RICE HOUSE | <del>304 Ubi Avenue 1,  S400304;</del><br>253 Choa Chu Kang Ave 1, #01-17,  S680253; | <del title="1.32955256858874,103.90122860971">1.32955, 103.90123</del><br><span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | <del>NKS INDIAN / MUSLIM FOOD</del><br>MUFIZ RESTAURANT | <del>106 Hougang Avenue 1,  S530106;</del><br>108 Hougang Avenue 1, 01-1311,  S530108; | <del title="1.3537029714401,103.890680792553">1.35370, 103.89068</del><br><span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-30
 
 </summary>
