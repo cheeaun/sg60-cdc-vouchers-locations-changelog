@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-01
+
+</summary>
+
+Total locations: 25,922 → 25,937
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEAUTY NUTRITIOUS SOUP (116) | 115 Aljunied Avenue 2,  S380115; | <span title="1.32131987999086,103.887277682842">1.32132, 103.88728</span> |
+  | DA SHI DAI BAN MIAN | 19 Ghim Moh Road,  S270019; | <span title="1.31143852315951,103.788298892377">1.31144, 103.78830</span> |
+  | DONGBEI RENJIA | 59 New Upper Changi Road Dbs New Upper Changi Road Singapore 461059, #01-1282,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | ES KITCHEN (36CHAICHEE) | 36 Chai Chee Avenue,  S461036; | <span title="1.32534102499628,103.92543538387">1.32534, 103.92544</span> |
+  | FRESH YONG TAU FOO -168 PUNGGOL PLAZA | 168 Punggol Field Dbs Ntuc Punggol Plaza Singapore 820168, #B1-ST15,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | JD 727 CLEMENTI WEST | 727 Clementi West Street 2,  S120727; | <span title="1.30462487668384,103.763817745572">1.30462, 103.76382</span> |
+  | KIM'S ROAST (MARSLING MALL) | 4 Woodlands Street 12, #01-061,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | MEI KEE HANDMADE PAO (36CHAI CHEE) | 36 Chai Chee Avenue, 157,  S461036; | <span title="1.32534102499628,103.92543538387">1.32534, 103.92544</span> |
+  | NUU BELLA JE349 | 349 Jurong East Avenue 1 Yuhua Place Singapore 600349, #01-1213A,  S600349; | <span title="1.34446375047917,103.731445785743">1.34446, 103.73145</span> |
+  | PUTIEN SNACK  371 | 371A Woodlands Avenue 1, ST1B,  S731371; | <span title="1.43259451232642,103.786649334789">1.43259, 103.78665</span> |
+  | SAN YUAN TEOCHEW KWAY TEOW NOODLE | 824 Tampines Street 81,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | SI HAI LAI SATAY BEE HOON | 69 Geylang Bahru, #01-43,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | VALU$ PARC POINT | 302 Tengah Park Avenue, #B1-08,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | VOTHITU YONG TAU FOO | 3 Yung Sheng Road, #01-33,  S618499; | <span title="1.33468266452814,103.721619258973">1.33468, 103.72162</span> |
+  | YI JIA KITCHEN | 395A Bukit Batok West Avenue 5,  S651395; | <span title="1.36448974299463,103.751987145985">1.36449, 103.75199</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | PARI HAIRCUT SALON | <del>118 Aljunied Avenue 2 Hdb Geylang Branch Singapore 380118, #01-118D,  S380118;</del><br>118 Aljunied Ave 2, #01-130,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-07-31
 
 </summary>
