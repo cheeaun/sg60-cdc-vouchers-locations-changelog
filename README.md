@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-04
+
+</summary>
+
+Total locations: 25,937 → 25,951
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 69 BREW KOPI | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | BEAUHOLIC 642 SENJA | 642 Senja Close Senja Heights Singapore 670642, #01-08,  S670642; | <span title="1.38712667134352,103.761960181682">1.38713, 103.76196</span> |
+  | BEAUTY NUTRITIOUS SOUP- TBC | 10 Telok Blangah Crescent,  S090010; | <span title="1.27773153190559,103.819769431353">1.27773, 103.81977</span> |
+  | CHA MULAN (AMK) | 703 Ang Mo Kio Avenue 8 Singapore 560703, #01-2539,  S560703; | <span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | FU BAO PORK NOODLE | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | HEALTHY MILLETS@TEKKA | 665 Buffalo Road, #01-201,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | M&B FOOD (STALL 4) | 27 Woodlands Avenue 9 Republic Polytechnic Singapore 737909, #01-04,  S737909; | <span title="1.44496816514049,103.785362406892">1.44497, 103.78536</span> |
+  | MADRAS BRIYANI JE221 | 221 Jurong East Street 21,  S600221; | <span title="1.34084174986254,103.736918269895">1.34084, 103.73692</span> |
+  | MALA WOK | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | MAYAS | 1 Geylang Serai, #02-94,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+  | ROYAL KIDS | 258 Pasir Ris Street 21 Dbs Loyang Point Singapore 510258, #01-04,  S510258; | <span title="1.36706634197242,103.964635610477">1.36707, 103.96464</span> |
+  | RUBY GOLD RETAIL & WHOLESALE GROCERIES | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-629,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | SUNBO EXPRESS CHICKEN RICE-RP L1 (STALL 2) | 27 Woodlands Avenue 9 Republic Polytechnic Singapore 737909, #01-02,  S737909; | <span title="1.44496816514049,103.785362406892">1.44497, 103.78536</span> |
+  | TRUE BEE FRESH FRUITS- TBC | 8 Telok Blangah Crescent Hdb-bukit Merah Singapore 090008, #01-163,  S090008; | <span title="1.27779539068994,103.819341303524">1.27780, 103.81934</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TIONG BAHRU TIAN BO SHUI KUEH 273 BBE</del><br>JIAN BO SHUI KUEH 273 BBE | 273 Bukit Batok East Avenue 4,  S650273; | <span title="1.34842264529984,103.757579232268">1.34842, 103.75758</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-01
 
 </summary>
