@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-05
+
+</summary>
+
+Total locations: 25,951 → 25,968
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BALKIS FAMILY CLINIC | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-968,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | DELIGHT HK ROASTED STYLE | 80 Marine Parade Central,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | FU XING MALA HOTPOT | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | ICON STEAK 806 WDLS | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | KATONG KEAH KEE - FRIED OYSTER, OYSTER EGG, CARROT CAKE (MP84) | 84 Marine Parade Central, #01-55,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | KIMHODU | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-653D,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | LEE GARDEN- 168 PUNGGOL PLAZA | 168 Punggol Field Dbs Ntuc Punggol Plaza Singapore 820168, #B1-ST10,  S820168; | <span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+  | MUTTON SOUP (MP80) | 80 Marine Parade Central,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | NANYANG HAINANESE RECIPES | 40 Beo Crescent,  S160040; | <span title="1.28905634657056,103.827502108439">1.28906, 103.82750</span> |
+  | PREMIER TCM CLINIC & MEDICAL HALL | 449 Clementi Avenue 3 Dbs Clementi Central Branch Singapore 120449, #01-219,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | PRIS SALON (TP826) | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-120,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | QUEEN HAIR SALON | 442 Clementi Avenue 3 Hdb-clementi Singapore 120442, #01-91,  S120442; | <span title="1.31412254184755,103.764518594142">1.31412, 103.76452</span> |
+  | ST GIFTS@ 221 BLP | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-162,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | TANJUNG RHU WANTON NOODLE 803 WDLS | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | THAI WANG KITCHEN ( BUSINESS PARK) | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | TIAN MA GROUP MINIMART-TBC | 9 Telok Blangah Crescent Singapore 090009, #01-127,  S090009; | <span title="1.2774078592663,103.819408460491">1.27741, 103.81941</span> |
+  | UMAI SHOKUDO RAMEN & DONBURI | 335 Smith Street, #02-118,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>D&M BAN MIAN</del><br>D & M KITCHEN | <del>57 Geylang Bahru,  S330057;</del><br>1010 Tai Seng Avenue,  S534417; | <del title="1.32353780675049,103.86914775647">1.32354, 103.86915</del><br><span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+  | WEIRDO CUTS HAIR | <del>731 Yishun Street 72 Nee Soon Central Vista Singapore 760731, #01-47A,  S760731;</del><br>731 Yishun Street 72 Nee Soon Central Vista Singapore 760731, #01-27,  S760731; | <span title="1.42834858574606,103.831116272448">1.42835, 103.83112</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-04
 
 </summary>
