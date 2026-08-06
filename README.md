@@ -13,6 +13,58 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-06
+
+</summary>
+
+Total locations: 25,968 → 25,988
+
+- <details><summary>Added (20)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 19A ZI CHAR XO FISH HEAD BEE HOON | 19A Dover Crescent, St9,  S131019; | <span title="1.30735380231593,103.78454843987">1.30735, 103.78455</span> |
+  | 3 MEALS . 4 SEASONS | 531A Upper Cross Street, #01-48,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | 304 FRESH PORK | 304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-135,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+  | AJ ROYAL MEDICAL CENTRE (WOODLANDS) | 166 Woodlands Street 13 Singapore 730166, #02-523A,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | ANU FASHION & TAILORING PTE LTD@TEKKA | 665 Buffalo Road, #02-110,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | CORE ORIGINS TCM | 352 Clementi Avenue 2 Clementi Avenue 2 Shopping Centre Singapore 120352, #01-121,  S120352; | <span title="1.31427265951788,103.771360860916">1.31427, 103.77136</span> |
+  | GADGET COMMUNICATION PTE LTD (503 TAMPINES) | 503 Tampines Central 1 Tampines Heart Singapore 520503, #01-313,  S520503; | <span title="1.3558033565401,103.945102946956">1.35580, 103.94510</span> |
+  | HAPPY BAK KUT TEH | 505 Beach Road, #01-109,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | JIAN NI YI MIAN | 722 Ang Mo Kio Avenue 8,  S560722; | <span title="1.37224394036323,103.847529279223">1.37224, 103.84753</span> |
+  | KABAR KYAW TRADING (AMK) | 711 Ang Mo Kio Avenue 8 Singapore 560711, #02-3501E,  S560711; | <span title="1.37155030598577,103.848079014416">1.37155, 103.84808</span> |
+  | KOPI TAN (YPHC) | 51 Yishun Avenue 11, #01-45,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | MERIDIAN MEDICAL CENTRE@108 DEPOT | 108 Depot Road Dbs Ntuc Depot Road Singapore 100108, #01-10,  S100108; | <span title="1.28096680702384,103.810298189643">1.28097, 103.81030</span> |
+  | OVEN'S HUG | 5036 Ang Mo Kio Industrial Park 2,  S569539; | <span title="1.3722933064188,103.861759518041">1.37229, 103.86176</span> |
+  | SAUTE AND MEE | 339 Anchorvale Road Anchorvale Village Singapore 540339, #B1-20,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | TIONG BAHRU CHWEE KUEH | 959 Jurong West Street 92, ST3B,  S640959; | <span title="1.34148123537153,103.690721731576">1.34148, 103.69072</span> |
+  | WANTON NOODLE | 69 Bedok South Avenue 3,  S460069; | <span title="1.31935026360524,103.943632360195">1.31935, 103.94363</span> |
+  | YANG YUAN TANG TCM JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-155,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | YONG CHUN COFFEE STALL | 353 Clementi Avenue 2, #01-74,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | YOUNG STYLE SALON (TPY 183) | 183 Toa Payoh Central Toa Payoh Central Singapore 310183, #01-300B,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | ZAI JIAN MIAN (T878C) | 878C Tampines Avenue 8, 66,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TANJONG RHU WANTON NOODLE</del><br>214 WANTON NOODLE | <del>214 Serangoon Avenue 4, ST 6A,  S550214;</del><br>214 Serangoon Avenue 4, #01-88,  S550214; | <span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+  | 59 AL-MADINA FAMOUS PRATA CORNER | <del>59 New Upper Changi Road,  S461059;</del><br>182 Woodlands Street 13, #01-06,  S730182; | <del title="1.32405898618809,103.940695612461">1.32406, 103.94070</del><br><span title="1.43515895067377,103.776023343198">1.43516, 103.77602</span> |
+  | BEDOK 211 HAINANESE CHICKEN RICE | <del>211 New Upper Changi Road,  S460211;</del><br>211 New Upper Changi Road, #01-763,  S460211; | <span title="1.32550084519552,103.931967583359">1.32550, 103.93197</span> |
+  | DAOXIANG YUMMY | <del>1550 Bedok North Ave 5,  S489950;</del><br>1550 Bedok North Ave 5, #01-15,  S489950; | <span title="1.33763731957014,103.944539180358">1.33764, 103.94454</span> |
+  | HENLY HUAT DRINK STALL (136) | <del>136 Bedok North Avenue 3,  S460136;</del><br>136 Bedok North Avenue 3, #01-140,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | MUTTON SOUP (MP80) | <del>80 Marine Parade Central,  S440080;</del><br>80 Marine Parade Central, #01-770,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | OK CHICKEN RICE | <del>739 Bedok Reservoir Road,  S470739;</del><br>739 Bedok Reservoir Road, #01-3139,  S470739; | <span title="1.33788663735454,103.922648407766">1.33789, 103.92265</span> |
+  | SHIOK HOKKIEN MEE | <del>261 Serangoon Central Drive,  S550261;</del><br>261 Serangoon Central Drive, #01-15,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-05
 
 </summary>
