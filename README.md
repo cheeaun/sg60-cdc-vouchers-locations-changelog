@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-07
+
+</summary>
+
+Total locations: 25,988 → 25,997
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 3QM BEAUTY SERVICES | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-61,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | AL HAMIDIYAH (883 WOODLANDS) | 883 Woodlands Street 82,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | CRUNCHY TEETH BY WORKS OF HOPE | 1 Beach Road Beach Road Gardens Singapore 190001, #01-4725,  S190001; | <span title="1.3036713506088,103.864478660925">1.30367, 103.86448</span> |
+  | HAUS BAN MIAN & SEABAY DELIGHT (1A EUNOS) | 1A Eunos Crescent,  S401001; | <span title="1.32129030482793,103.902727807563">1.32129, 103.90273</span> |
+  | HONG KONG ROASTED CHICKEN RICE 892C | 892C Woodlands Drive 50,  S732892; | <span title="1.43678473589244,103.789409620559">1.43678, 103.78941</span> |
+  | MAISON ECLAT | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3651D,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | RARA FROZEN | 80 Circuit Road, #01-26,  S370080; | <span title="1.32783414615937,103.887102669236">1.32783, 103.88710</span> |
+  | SIMPLE EAT | 51 Hougang Avenue 9, #01-30,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | WARONG AZIZAH MALAY FOOD - JBM | 112 Jalan Bukit Merah, #01-15,  S160112; | <span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>504 HOJIAK NASI LEMAK</del><br>HOJIAK NASI LEMAK | <del>504 Jurong West St 51, #01-207,  S640504;</del><br>204 Serangoon Central, #01-104,  S550204; | <del title="1.34982761313556,103.718843750842">1.34983, 103.71884</del><br><span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-06
 
 </summary>

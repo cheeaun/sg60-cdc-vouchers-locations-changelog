@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06 Aug 2026",
+  "lastUpdated": "07 Aug 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -15542,6 +15542,26 @@
       "lastResetDate": "2025-10-13"
     },
     {
+      "id": "merchant_bd82a396-b3b9-4304-9f81-62f9e2dd496a",
+      "entityId": "merchant_bd82a396-b3b9-4304-9f81-62f9e2dd496a",
+      "name": "3QM BEAUTY SERVICES",
+      "address": "531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-61,  S050531;",
+      "postalCode": "050531",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28439238217482,
+      "LON": 103.846101471997,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
+    },
+    {
       "id": "merchant_b8c6b3da-009d-4990-a07a-be858698f4ed",
       "entityId": "merchant_b8c6b3da-009d-4990-a07a-be858698f4ed",
       "name": "3RD PLACE HAIR DESIGN",
@@ -17340,26 +17360,6 @@
         }
       },
       "lastResetDate": "2024-08-14"
-    },
-    {
-      "id": "merchant_6755ed05-644d-4ded-a780-b1dcb71603ad",
-      "entityId": "merchant_6755ed05-644d-4ded-a780-b1dcb71603ad",
-      "name": "504 HOJIAK NASI LEMAK",
-      "address": "504 Jurong West St 51, #01-207,  S640504;",
-      "postalCode": "640504",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34982761313556,
-      "LON": 103.718843750842,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-08-26"
     },
     {
       "id": "merchant_e0d1611f-27bd-476a-ac3d-fab5243eac00",
@@ -40240,6 +40240,26 @@
         }
       },
       "lastResetDate": "2024-11-08"
+    },
+    {
+      "id": "merchant_3adebb04-d8a5-4128-b855-32de6ef022ec",
+      "entityId": "merchant_3adebb04-d8a5-4128-b855-32de6ef022ec",
+      "name": "AL HAMIDIYAH (883 WOODLANDS)",
+      "address": "883 Woodlands Street 82,  S730883;",
+      "postalCode": "730883",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44283592110679,
+      "LON": 103.790770766025,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
     },
     {
       "id": "merchant_1fc8452e-edd2-42e4-b64a-5a1e245cce49",
@@ -108940,6 +108960,26 @@
         }
       },
       "lastResetDate": "2025-12-23"
+    },
+    {
+      "id": "merchant_48192373-0834-4e34-8c6e-4cefff845459",
+      "entityId": "merchant_48192373-0834-4e34-8c6e-4cefff845459",
+      "name": "CRUNCHY TEETH BY WORKS OF HOPE",
+      "address": "1 Beach Road Beach Road Gardens Singapore 190001, #01-4725,  S190001;",
+      "postalCode": "190001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3036713506088,
+      "LON": 103.864478660925,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
     },
     {
       "id": "merchant_4c28b41c-6ad0-42b2-a6a6-e44556f845c9",
@@ -193042,6 +193082,26 @@
       "lastResetDate": "2026-05-26"
     },
     {
+      "id": "merchant_940881f5-5407-4629-83fb-defb0e5e4cc9",
+      "entityId": "merchant_940881f5-5407-4629-83fb-defb0e5e4cc9",
+      "name": "HAUS BAN MIAN & SEABAY DELIGHT (1A EUNOS)",
+      "address": "1A Eunos Crescent,  S401001;",
+      "postalCode": "401001",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32129030482793,
+      "LON": 103.902727807563,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
+    },
+    {
       "id": "merchant_6f9eaef7-07dd-4003-9108-f3464e3ead79",
       "entityId": "merchant_6f9eaef7-07dd-4003-9108-f3464e3ead79",
       "name": "HAUS MART (WOODLAND'S)",
@@ -205382,6 +205442,26 @@
       "lastResetDate": "2025-09-30"
     },
     {
+      "id": "merchant_6755ed05-644d-4ded-a780-b1dcb71603ad",
+      "entityId": "merchant_6755ed05-644d-4ded-a780-b1dcb71603ad",
+      "name": "HOJIAK NASI LEMAK",
+      "address": "204 Serangoon Central, #01-104,  S550204;",
+      "postalCode": "550204",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35243827036382,
+      "LON": 103.873298145856,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
+    },
+    {
       "id": "merchant_3736e043-2a5b-4db1-b4ca-939465594c0e",
       "entityId": "merchant_3736e043-2a5b-4db1-b4ca-939465594c0e",
       "name": "HOJIAK NASI LEMAK (237 SERANGOON)",
@@ -208860,6 +208940,26 @@
         }
       },
       "lastResetDate": "2026-03-25"
+    },
+    {
+      "id": "merchant_a4a21d3f-23ae-4122-804b-25fcff567431",
+      "entityId": "merchant_a4a21d3f-23ae-4122-804b-25fcff567431",
+      "name": "HONG KONG ROASTED CHICKEN RICE 892C",
+      "address": "892C Woodlands Drive 50,  S732892;",
+      "postalCode": "732892",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43678473589244,
+      "LON": 103.789409620559,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
     },
     {
       "id": "merchant_9335b619-c7f4-4ece-97cd-6ff01d044de6",
@@ -294922,6 +295022,26 @@
       "lastResetDate": "2026-06-08"
     },
     {
+      "id": "merchant_d36ff046-18cd-4eda-b651-a229ef6adb5f",
+      "entityId": "merchant_d36ff046-18cd-4eda-b651-a229ef6adb5f",
+      "name": "MAISON ECLAT",
+      "address": "846 Yishun Ring Road Khatib Central Singapore 760846, #01-3651D,  S760846;",
+      "postalCode": "760846",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41678634718118,
+      "LON": 103.834641579241,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
+    },
+    {
       "id": "merchant_8843bebc-8e66-409b-a0dc-aa5b3b099542",
       "entityId": "merchant_8843bebc-8e66-409b-a0dc-aa5b3b099542",
       "name": "MAIZ MOBILE",
@@ -369382,6 +369502,26 @@
       "lastResetDate": "2021-12-03"
     },
     {
+      "id": "merchant_41a4a0cd-c6f1-441f-a091-528d15e60b96",
+      "entityId": "merchant_41a4a0cd-c6f1-441f-a091-528d15e60b96",
+      "name": "RARA FROZEN",
+      "address": "80 Circuit Road, #01-26,  S370080;",
+      "postalCode": "370080",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32783414615937,
+      "LON": 103.887102669236,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
+    },
+    {
       "id": "merchant_7ee7aa17-f246-46de-9faa-ff79f02e542b",
       "entityId": "merchant_7ee7aa17-f246-46de-9faa-ff79f02e542b",
       "name": "RASA BAGUS(654A PUNGGOL)",
@@ -402940,6 +403080,26 @@
         }
       },
       "lastResetDate": "2025-11-24"
+    },
+    {
+      "id": "merchant_a7cb7403-292a-447a-8611-28fb6ea210c7",
+      "entityId": "merchant_a7cb7403-292a-447a-8611-28fb6ea210c7",
+      "name": "SIMPLE EAT",
+      "address": "51 Hougang Avenue 9, #01-30,  S538776;",
+      "postalCode": "538776",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37532253773567,
+      "LON": 103.88293193004,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
     },
     {
       "id": "merchant_822c030d-c52d-4ef8-b0cf-e8c6eb10e15a",
@@ -478960,6 +479120,26 @@
         }
       },
       "lastResetDate": "2024-01-10"
+    },
+    {
+      "id": "merchant_beaf1471-fd43-42f8-9762-5d27bb989f49",
+      "entityId": "merchant_beaf1471-fd43-42f8-9762-5d27bb989f49",
+      "name": "WARONG AZIZAH MALAY FOOD - JBM",
+      "address": "112 Jalan Bukit Merah, #01-15,  S160112;",
+      "postalCode": "160112",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28000480135122,
+      "LON": 103.82601329621,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-06"
     },
     {
       "id": "merchant_35cb8e7a-c05e-44b2-8236-604a5728133b",
