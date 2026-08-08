@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07 Aug 2026",
+  "lastUpdated": "08 Aug 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -29262,6 +29262,26 @@
       "lastResetDate": "2023-11-16"
     },
     {
+      "id": "merchant_97905738-086c-4586-abdb-ab969834938a",
+      "entityId": "merchant_97905738-086c-4586-abdb-ab969834938a",
+      "name": "ACE MARKETPLACE- REDHILL",
+      "address": "86 Redhill Close Hdb-bukit Merah Singapore 150086, #01-610,  S150086;",
+      "postalCode": "150086",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2869200622963,
+      "LON": 103.818673592235,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_feed8708-5a76-4319-aa05-79094b38be69",
       "entityId": "merchant_feed8708-5a76-4319-aa05-79094b38be69",
       "name": "ACE MART",
@@ -35502,6 +35522,26 @@
       "lastResetDate": "2026-05-08"
     },
     {
+      "id": "merchant_acfb8fee-a1f6-46eb-ab6d-beed904f0f09",
+      "entityId": "merchant_acfb8fee-a1f6-46eb-ab6d-beed904f0f09",
+      "name": "AH QIANG XIAO CHAO",
+      "address": "2 Bukit Panjang Ring Road, #01-16,  S679947;",
+      "postalCode": "679947",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37759742308947,
+      "LON": 103.772491526747,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_18a34350-36ec-4284-90a7-ae18d1cd113b",
       "entityId": "merchant_18a34350-36ec-4284-90a7-ae18d1cd113b",
       "name": "AH QING TRADITIONAL LOR MEE",
@@ -39739,7 +39779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-08"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_4ce7cbd6-664f-4656-9dd0-ba23696131a3",
@@ -39759,7 +39799,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-08"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_8f4ce7ee-abf8-407b-8bfb-028a9d7de347",
@@ -52182,26 +52222,6 @@
       "lastResetDate": "2024-11-11"
     },
     {
-      "id": "merchant_61451fe9-72a7-4545-bc49-82f9288c4ffe",
-      "entityId": "merchant_61451fe9-72a7-4545-bc49-82f9288c4ffe",
-      "name": "ARIFF'S RESTAURANT",
-      "address": "253 Serangoon Central Drive, #01-227,  S550253;",
-      "postalCode": "550253",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35403939780038,
-      "LON": 103.870851534185,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-05-02"
-    },
-    {
       "id": "merchant_b7812bc5-1819-4c28-8480-34de837b1dd5",
       "entityId": "merchant_b7812bc5-1819-4c28-8480-34de837b1dd5",
       "name": "ARIFF'S RESTAURANT",
@@ -53940,6 +53960,26 @@
         }
       },
       "lastResetDate": "2025-03-18"
+    },
+    {
+      "id": "merchant_20e08f1c-b4a6-4cbb-887f-e07b3cd59fc5",
+      "entityId": "merchant_20e08f1c-b4a6-4cbb-887f-e07b3cd59fc5",
+      "name": "ASPEN CLINIC",
+      "address": "283 Bishan Street 22 Singapore 570283, #01-185,  S570283;",
+      "postalCode": "570283",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3589190712993,
+      "LON": 103.844748631736,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_593473b3-4a71-4839-9cdc-8576be5c66e6",
@@ -59062,6 +59102,26 @@
       "lastResetDate": "2024-07-19"
     },
     {
+      "id": "merchant_d05f42d0-d5ca-4d93-969c-470f3875eb5d",
+      "entityId": "merchant_d05f42d0-d5ca-4d93-969c-470f3875eb5d",
+      "name": "BAKEINC (TP826)",
+      "address": "826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-98,  S520826;",
+      "postalCode": "520826",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34927794715578,
+      "LON": 103.933768905771,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_1b32491a-4061-4b58-a8ac-fdb7f39d4b8f",
       "entityId": "merchant_1b32491a-4061-4b58-a8ac-fdb7f39d4b8f",
       "name": "BAKEINC (TPY HUB)",
@@ -60119,7 +60179,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-08-04"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_2fc5b6ca-f60d-4f96-b82e-b2450291d118",
@@ -76442,6 +76502,26 @@
       "lastResetDate": "2023-10-29"
     },
     {
+      "id": "merchant_217baa89-d251-4e61-a485-ee6f7e3f617f",
+      "entityId": "merchant_217baa89-d251-4e61-a485-ee6f7e3f617f",
+      "name": "BOUCHE",
+      "address": "40 Holland Drive Hdb-queenstown Singapore 270040, #01-27,  S270040;",
+      "postalCode": "270040",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30717590843196,
+      "LON": 103.793500328714,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_38e061fa-295f-480f-915c-fbd3621cf210",
       "entityId": "merchant_38e061fa-295f-480f-915c-fbd3621cf210",
       "name": "BOWEN'S",
@@ -83920,6 +84000,26 @@
         }
       },
       "lastResetDate": "2025-07-09"
+    },
+    {
+      "id": "merchant_9bc150ab-4c7f-41b6-b78d-631f347492d2",
+      "entityId": "merchant_9bc150ab-4c7f-41b6-b78d-631f347492d2",
+      "name": "CASA OSTERIA",
+      "address": "20 Kensington Park Road, #01-08,  S557269;",
+      "postalCode": "557269",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36423252476886,
+      "LON": 103.86652701738,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_3c8415f1-d7c1-4cbb-82f0-e6a2624bf7b3",
@@ -105185,7 +105285,7 @@
       "id": "merchant_6360207b-0c23-4ddc-b4b2-0202161cf127",
       "entityId": "merchant_6360207b-0c23-4ddc-b4b2-0202161cf127",
       "name": "COCOON SECRETS FACE & BROW STUDIO",
-      "address": "215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215P3,  S574349;",
+      "address": "215P Upper Thomson Road, 215P3,  S574349;",
       "postalCode": "574349",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35222366774849,
@@ -105199,7 +105299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-01-18"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_2814c1dc-93d6-412a-95c8-524a06aaf6c1",
@@ -107640,6 +107740,26 @@
         }
       },
       "lastResetDate": "2026-06-15"
+    },
+    {
+      "id": "merchant_092b1f43-0bec-4fa0-a4be-aee90a8b9af8",
+      "entityId": "merchant_092b1f43-0bec-4fa0-a4be-aee90a8b9af8",
+      "name": "COVA PAWS",
+      "address": "375 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650375, #01-150,  S650375;",
+      "postalCode": "650375",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35832286816887,
+      "LON": 103.750129595553,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_84b56888-853e-4356-a50e-0edd73246c1e",
@@ -127402,6 +127522,26 @@
       "lastResetDate": "2022-08-24"
     },
     {
+      "id": "merchant_43d9d819-f759-4b1f-8d05-ba80453c080a",
+      "entityId": "merchant_43d9d819-f759-4b1f-8d05-ba80453c080a",
+      "name": "DRINK STALL (101 BP)",
+      "address": "101 Bukit Panjang Road, 6,  S679910;",
+      "postalCode": "679910",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3816381331934,
+      "LON": 103.764676250968,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_6a03d8af-c058-4d62-9dce-855a2cc5a700",
       "entityId": "merchant_6a03d8af-c058-4d62-9dce-855a2cc5a700",
       "name": "DRINK STALL (125BML)",
@@ -131640,6 +131780,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_f861a7e0-3a51-4cb8-a494-8e9b1beec2da",
+      "entityId": "merchant_f861a7e0-3a51-4cb8-a494-8e9b1beec2da",
+      "name": "E-SQUARE MART",
+      "address": "855 Tampines Street 83 My World Preschool Ltd. Singapore 520855, #01-K1,  S520855;",
+      "postalCode": "520855",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35358948409179,
+      "LON": 103.935306174109,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_fe937c2e-383d-4295-b77d-7929d818c4b7",
@@ -165325,7 +165485,7 @@
       "id": "merchant_2655420b-8bb3-45eb-83ff-1e6f78b1e389",
       "entityId": "merchant_2655420b-8bb3-45eb-83ff-1e6f78b1e389",
       "name": "FU XING MALA HOTPOT",
-      "address": "631 Bedok Reservoir Road,  S470631;",
+      "address": "631 Bedok Reservoir Road, #01-886,  S470631;",
       "postalCode": "470631",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.33295873271663,
@@ -165339,7 +165499,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-08-04"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_5eee9c31-e9a1-4008-8262-361d50eb41ce",
@@ -166585,7 +166745,7 @@
       "id": "merchant_3aa9ca81-edeb-4819-9bb6-0a8ab463a7c5",
       "entityId": "merchant_3aa9ca81-edeb-4819-9bb6-0a8ab463a7c5",
       "name": "FUR KIDS",
-      "address": "215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215P1,  S574349;",
+      "address": "215P Upper Thomson Road, 215P1,  S574349;",
       "postalCode": "574349",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35222366774849,
@@ -166599,7 +166759,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-11"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_0801dcfd-991e-4852-8fac-099577d2e9d4",
@@ -174260,6 +174420,26 @@
         }
       },
       "lastResetDate": "2024-07-11"
+    },
+    {
+      "id": "merchant_26d0c0ed-229a-48fa-8730-253049c6c76d",
+      "entityId": "merchant_26d0c0ed-229a-48fa-8730-253049c6c76d",
+      "name": "GOOD DUCK (101 BP)",
+      "address": "101 Bukit Panjang Road,  S679910;",
+      "postalCode": "679910",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3816381331934,
+      "LON": 103.764676250968,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_b53c524f-8ef8-4ad2-830a-056308ad7261",
@@ -224385,7 +224565,7 @@
       "id": "merchant_c7f97ca9-f24c-49ec-8bd2-36ba343b1542",
       "entityId": "merchant_c7f97ca9-f24c-49ec-8bd2-36ba343b1542",
       "name": "INU TOWN",
-      "address": "215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215K,  S574349;",
+      "address": "215K Upper Thomson Road, 215K,  S574349;",
       "postalCode": "574349",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35222366774849,
@@ -224399,7 +224579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-01-18"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_72666b6c-40ed-4086-b7cc-1a79ee3e0684",
@@ -235162,6 +235342,26 @@
       "lastResetDate": "2021-11-09"
     },
     {
+      "id": "merchant_04b44d8f-099e-4453-bfca-c9a9e7d09996",
+      "entityId": "merchant_04b44d8f-099e-4453-bfca-c9a9e7d09996",
+      "name": "JIA ZHI WEI BAN MIAN & FISH SOUP",
+      "address": "151 Bishan Street 11,  S570151;",
+      "postalCode": "570151",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34507321944682,
+      "LON": 103.855542321231,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_397e1991-8c52-4a71-8c58-ff5503f0a767",
       "entityId": "merchant_397e1991-8c52-4a71-8c58-ff5503f0a767",
       "name": "JIA ZHI WEI BAN MIAN FISH SOUP - DAWSON",
@@ -241159,7 +241359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-11"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_3524998f-03c4-40c5-9a37-34d624f08304",
@@ -277502,6 +277702,26 @@
       "lastResetDate": "2021-11-19"
     },
     {
+      "id": "merchant_de18a102-e89c-43aa-bfa1-328883020572",
+      "entityId": "merchant_de18a102-e89c-43aa-bfa1-328883020572",
+      "name": "LEE JI BAK KUT TEH",
+      "address": "806 Woodlands Street 81,  S730806;",
+      "postalCode": "730806",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44098703141724,
+      "LON": 103.786759156347,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_c74be1c1-86eb-4c8e-8269-4a60ee958e26",
       "entityId": "merchant_c74be1c1-86eb-4c8e-8269-4a60ee958e26",
       "name": "LEE JI FISHBALL MUSHROOM MINCED MEAT NOODLE",
@@ -312882,6 +313102,26 @@
       "lastResetDate": "2022-10-25"
     },
     {
+      "id": "merchant_00318b6b-cbc7-4577-8b5b-7b8cbd05f928",
+      "entityId": "merchant_00318b6b-cbc7-4577-8b5b-7b8cbd05f928",
+      "name": "MIXED RICE (101 BP)",
+      "address": "101 Bukit Panjang Road,  S679910;",
+      "postalCode": "679910",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3816381331934,
+      "LON": 103.764676250968,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
+    },
+    {
       "id": "merchant_91c221be-39ee-4a7a-ba11-d8cb67de04f6",
       "entityId": "merchant_91c221be-39ee-4a7a-ba11-d8cb67de04f6",
       "name": "MIXED RICE (395A)",
@@ -315280,6 +315520,26 @@
         }
       },
       "lastResetDate": "2026-01-16"
+    },
+    {
+      "id": "merchant_793ad071-55fd-44e6-8282-43fcd8088509",
+      "entityId": "merchant_793ad071-55fd-44e6-8282-43fcd8088509",
+      "name": "MOC NAIL 156",
+      "address": "156 Bukit Batok Street 11 Singapore 650156, #01-13,  S650156;",
+      "postalCode": "650156",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34836489977938,
+      "LON": 103.743842009803,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_1d330110-64d5-46fd-a91b-02203ae4a3ce",
@@ -342620,6 +342880,26 @@
         }
       },
       "lastResetDate": "2025-07-21"
+    },
+    {
+      "id": "merchant_09e4921e-296e-4698-89b9-8af543ea00b7",
+      "entityId": "merchant_09e4921e-296e-4698-89b9-8af543ea00b7",
+      "name": "ONE TWO 253 CCK",
+      "address": "253 Choa Chu Kang Avenue 1,  S680253;",
+      "postalCode": "680253",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37743962648904,
+      "LON": 103.744383226772,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_43a1d5ac-fab9-4b52-b55d-9ed94ac1afde",
@@ -380380,6 +380660,26 @@
         }
       },
       "lastResetDate": "2026-04-10"
+    },
+    {
+      "id": "merchant_33cde1b3-0d53-43bb-baa9-d6e6e8e29807",
+      "entityId": "merchant_33cde1b3-0d53-43bb-baa9-d6e6e8e29807",
+      "name": "S HAIR & BEAUTY SALON(YISHUN)",
+      "address": "414 Yishun Ring Road Singapore 760414, #01-1843,  S760414;",
+      "postalCode": "760414",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42452849741737,
+      "LON": 103.846595546746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_7a311a46-ded8-4ea4-b332-66cb3592fbfa",
@@ -445065,7 +445365,7 @@
       "id": "merchant_cbe5f68f-e73c-4b2e-8047-a9ac7b4f8d82",
       "entityId": "merchant_cbe5f68f-e73c-4b2e-8047-a9ac7b4f8d82",
       "name": "THE FAMILY DOCTOR, CLINIC AND SURGERY",
-      "address": "215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215D,  S574349;",
+      "address": "215D Upper Thomson Road, 215D,  S574349;",
       "postalCode": "574349",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35222366774849,
@@ -445079,7 +445379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-06-01"
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_74959431-822e-475a-a962-01ba3af9eec6",
@@ -514340,6 +514640,26 @@
         }
       },
       "lastResetDate": "2024-06-30"
+    },
+    {
+      "id": "merchant_61451fe9-72a7-4545-bc49-82f9288c4ffe",
+      "entityId": "merchant_61451fe9-72a7-4545-bc49-82f9288c4ffe",
+      "name": "ZAITUN RESTAURANT",
+      "address": "253 Serangoon Central Drive, #01-227,  S550253;",
+      "postalCode": "550253",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35403939780038,
+      "LON": 103.870851534185,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-08-07"
     },
     {
       "id": "merchant_ba75b473-b993-4738-aacd-1e20aeb2d1be",

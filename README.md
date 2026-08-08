@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-08
+
+</summary>
+
+Total locations: 25,997 → 26,013
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACE MARKETPLACE- REDHILL | 86 Redhill Close Hdb-bukit Merah Singapore 150086, #01-610,  S150086; | <span title="1.2869200622963,103.818673592235">1.28692, 103.81867</span> |
+  | AH QIANG XIAO CHAO | 2 Bukit Panjang Ring Road, #01-16,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | ASPEN CLINIC | 283 Bishan Street 22 Singapore 570283, #01-185,  S570283; | <span title="1.3589190712993,103.844748631736">1.35892, 103.84475</span> |
+  | BAKEINC (TP826) | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-98,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | BOUCHE | 40 Holland Drive Hdb-queenstown Singapore 270040, #01-27,  S270040; | <span title="1.30717590843196,103.793500328714">1.30718, 103.79350</span> |
+  | CASA OSTERIA | 20 Kensington Park Road, #01-08,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | COVA PAWS | 375 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650375, #01-150,  S650375; | <span title="1.35832286816887,103.750129595553">1.35832, 103.75013</span> |
+  | DRINK STALL (101 BP) | 101 Bukit Panjang Road, 6,  S679910; | <span title="1.3816381331934,103.764676250968">1.38164, 103.76468</span> |
+  | E-SQUARE MART | 855 Tampines Street 83 My World Preschool Ltd. Singapore 520855, #01-K1,  S520855; | <span title="1.35358948409179,103.935306174109">1.35359, 103.93531</span> |
+  | GOOD DUCK (101 BP) | 101 Bukit Panjang Road,  S679910; | <span title="1.3816381331934,103.764676250968">1.38164, 103.76468</span> |
+  | JIA ZHI WEI BAN MIAN & FISH SOUP | 151 Bishan Street 11,  S570151; | <span title="1.34507321944682,103.855542321231">1.34507, 103.85554</span> |
+  | LEE JI BAK KUT TEH | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | MIXED RICE (101 BP) | 101 Bukit Panjang Road,  S679910; | <span title="1.3816381331934,103.764676250968">1.38164, 103.76468</span> |
+  | MOC NAIL 156 | 156 Bukit Batok Street 11 Singapore 650156, #01-13,  S650156; | <span title="1.34836489977938,103.743842009803">1.34836, 103.74384</span> |
+  | ONE TWO 253 CCK | 253 Choa Chu Kang Avenue 1,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | S HAIR & BEAUTY SALON(YISHUN) | 414 Yishun Ring Road Singapore 760414, #01-1843,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | COCOON SECRETS FACE & BROW STUDIO | <del>215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215P3,  S574349;</del><br>215P Upper Thomson Road, 215P3,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | FU XING MALA HOTPOT | <del>631 Bedok Reservoir Road,  S470631;</del><br>631 Bedok Reservoir Road, #01-886,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | FUR KIDS | <del>215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215P1,  S574349;</del><br>215P Upper Thomson Road, 215P1,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | INU TOWN | <del>215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215K,  S574349;</del><br>215K Upper Thomson Road, 215K,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | THE FAMILY DOCTOR, CLINIC AND SURGERY | <del>215 C,d,e,f,g,h,k,n,m,q,p1,p2,p3,s Upper Thomson Road, 215D,  S574349;</del><br>215D Upper Thomson Road, 215D,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | <del>ARIFF'S RESTAURANT</del><br>ZAITUN RESTAURANT | 253 Serangoon Central Drive, #01-227,  S550253; | <span title="1.35403939780038,103.870851534185">1.35404, 103.87085</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-07
 
 </summary>
