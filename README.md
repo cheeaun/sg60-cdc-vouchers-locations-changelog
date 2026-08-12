@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-12
+
+</summary>
+
+Total locations: 26,013 → 26,025
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHONG PANG HUAT 115 SBW | 115 Canberra Walk, ST3,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | CLAYPOT KING | 118 Rivervale Drive, ST10,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | FRESH PORK | 29 Bendemeer Road, #01-169,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | GLOW BEAUTY NAIL & HAIR SALON | 137 Potong Pasir Avenue 3 Hdb-potong Pasir Singapore 350137, #01-140,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | HONG XING HANDMADE FISHBALL-MEATBALL NOODLE 115 | 115 Canberra Walk, ST2,  S750115; | <span title="1.44608188224858,103.828739863564">1.44608, 103.82874</span> |
+  | I HAIR | 531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-68,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | LIN JI SEAFOOD ZHU CHAO | 45 Sims Drive,  S380045; | <span title="1.31733721505469,103.878442674183">1.31734, 103.87844</span> |
+  | MINI STEAMBOAT | 79A Circuit Road, #01-99,  S371079; | <span title="1.32550687163075,103.884919772828">1.32551, 103.88492</span> |
+  | NOOR SHAFANA INDIAN MUSLIM FOOD RESTAURANT | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | TIMELESS BEAUTY | 71 Kallang Bahru Singapore 330071, #01-531E,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | VIVA SHOES CENTRE | 85 Bedok North Street 4, #01-110,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | ZI YEAN RESTAURANT | 56 Lengkok Bahru Singapore 150056, #01-443,  S150056; | <span title="1.28791947586425,103.814071903643">1.28792, 103.81407</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AL BUHARI</del><br>AL BUHARI (BB 440) | 440 Bukit Batok West Avenue 8, #01-01,  S650440; | <span title="1.35572308109486,103.739303105372">1.35572, 103.73930</span> |
+  | <del>AL BUHARI</del><br>AL BUHARI (BB 447) | 447 Bukit Batok West Avenue 9, 01-01,  S650447; | <span title="1.35269613917058,103.739809933376">1.35270, 103.73981</span> |
+  | AL-FAZL MUSLIM FOOD | <del>631 Bedok Reservoir Road, #01-902,  S470631;</del><br>978 Toa Payoh North, #02-01,  S319001; | <del title="1.33295873271663,103.914941831215">1.33296, 103.91494</del><br><span title="1.34313731285966,103.85139383899">1.34314, 103.85139</span> |
+  | HUANG KEE FISHBALL NOODLE | <del>844 Tampines Street 82, #01-131,  S520844;</del><br>16 Bedok South Road, #01-24,  S460016; | <del title="1.35210299492899,103.936534321867">1.35210, 103.93653</del><br><span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | LET'S GRILL | <del>610 Tampines North Drive 1, #01-02,  S520610;</del><br>322 Hougang Avenue 5, #01-86,  S530322; | <del title="1.36463646143194,103.937173937407">1.36464, 103.93717</del><br><span title="1.36709855359263,103.89697867894">1.36710, 103.89698</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-08
 
 </summary>
