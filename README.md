@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-13
+
+</summary>
+
+Total locations: 26,025 → 26,042
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AROMDEE | 682 Hougang Avenue 4,  S530682; | <span title="1.37361830380888,103.885748856217">1.37362, 103.88575</span> |
+  | CASBAH SPICE | 628 Senja Road,  S670628; | <span title="1.38509602471476,103.760218434373">1.38510, 103.76022</span> |
+  | DAO XIANG | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | DAWSON ROAD KWAY TEOW SOUP | 85 Dawson Road,  S141085; | <span title="1.29531966312622,103.809758591447">1.29532, 103.80976</span> |
+  | EACH A CUP (AMK 338) | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1611B,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | EVO SPORTZ | 524A Jelapang Road Amazing Star Montessori House (greenridge) Singapore 671524, #02-08,  S671524; | <span title="1.38529556252963,103.766170532051">1.38530, 103.76617</span> |
+  | FAMOUS HK STYLE CHARCOAL ROASTED DELIGHT - BISHAN 533 | 533 Bishan Street 14, ST 6,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | FIVE STAR TEO CHEW KWAY CHAP | 605 Yishun Street 61,  S760605; | <span title="1.42172608902193,103.836336375801">1.42173, 103.83634</span> |
+  | HAO JIA BAN MIAN - JTC SPACE @ AMK | 1 Ang Mo Kio Street 65 Jtc Space @ Ang Mo Kio,  S569063; | <span title="1.38850804430263,103.847371291474">1.38851, 103.84737</span> |
+  | HELLO JIUFEN! TAIWANESE CAFE | 608 Ang Mo Kio Avenue 5 Yio Chu Kang Green Singapore 560608, #01-2783,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | KIMLY DIM SUM 204 | 204 Serangoon Central, #01-104,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | KING OF PAO FAN (TAMP CTRL) | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | MEI FA JI FISH SOUP | 203 Toa Payoh North,  S310203; | <span title="1.34205287411841,103.84939599719">1.34205, 103.84940</span> |
+  | SHENG JI YONG TAU FOO NOODLE | 105 Yishun Ring Road, #01-140,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | SHRI SPL FOODS PTE. LTD. | 780 Woodlands Crescent,  S730780; | <span title="1.44834155029683,103.801057143543">1.44834, 103.80106</span> |
+  | THE GREEN FURNISHING | 2 Joo Chiat Road Dbs Ntuc Joo Chiat Complex Singapore 420002, #02-1139,  S420002; | <span title="1.31553964446015,103.898764895693">1.31554, 103.89876</span> |
+  | YONG LI @ JTC SPACE | 1 Ang Mo Kio Street 65 Jtc Space @ Ang Mo Kio,  S569063; | <span title="1.38850804430263,103.847371291474">1.38851, 103.84737</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HUANG KEE SEAFISH SOUP</del><br>HUANG KEE FISH SOUP | <del>844 Tampines St 82, #01-131,  S520844;</del><br>16 Bedok South Road, #01-24,  S460016; | <del title="1.35210299492899,103.936534321867">1.35210, 103.93653</del><br><span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | NS FROZEN FOOD | <del>17 Old Airport Road, #01-45,  S397972;</del><br>17 Old Airport Road, #01-39,  S397972; | <span title="1.30734398370473,103.884017699319">1.30734, 103.88402</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-12
 
 </summary>
