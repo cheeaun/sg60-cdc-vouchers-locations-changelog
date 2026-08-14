@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-14
+
+</summary>
+
+Total locations: 26,042 → 26,059
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 533 MAXIM TOWKAY DRINK STALL | 533 Bishan Street 14, ST 3,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | AL DHARSHA INDIAN CUISINE - BISHAN 533 | 533 Bishan Street 14, ST 9,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | BAK KUT TEH IPOH HOR FUN | 270 Queen Street, #01-66,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | BREAD TOWN 633 | 633 Bukit Batok Central Singapore 650633, #01-130,  S650633; | <span title="1.34915709980563,103.751134497377">1.34916, 103.75113</span> |
+  | COFFEE HOUSE | 1 Jalan Kukoh, #01-08,  S161001; | <span title="1.2882310152805,103.839934168065">1.28823, 103.83993</span> |
+  | EACH A CUP (ANCHORVALE CRESCENT 338) | 338 Anchorvale Crescent Anchorvale Parkview Singapore 540338, #01-06,  S540338; | <span title="1.39922772538912,103.88965593061">1.39923, 103.88966</span> |
+  | HAJJAH MEERAL (HOUSE OF TRADITION) | 726 Clementi West Street 2, #01-129,  S120726; | <span title="1.30378203325462,103.764264494666">1.30378, 103.76426</span> |
+  | KARE SKIN | 359 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650359, #01-395A,  S650359; | <span title="1.36134370379955,103.75123068355">1.36134, 103.75123</span> |
+  | LEONG CLINIC | 63B Lengkok Bahru Lengkok Bahru Heights Singapore 152063, #01-366,  S152063; | <span title="1.28907506834277,103.815318433481">1.28908, 103.81532</span> |
+  | PHYSIOCONNECT | 261 Waterloo Street Saint Vincent Home Singapore 180261, #01-42,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | REUBEN'S WESTERN CUISINE | 66 Kallang Bahru,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | SAPORE ITALIAN RESTAURANT@NUS | 2 College Avenue West, 01-09,  S138607; | <span title="1.30479483284214,103.772461624378">1.30479, 103.77246</span> |
+  | TANG HUAT PORRIDGE | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-02,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | TIP TOP HAIR SALON TG289 | 289A Toh Guan Road Toh Guan Grove, #01-3,  S601289; | <span title="1.34017411800651,103.745233260585">1.34017, 103.74523</span> |
+  | XING FENG | 74 Toa Payoh Lorong 4, #02-03,  S310074; | <span title="1.3345507487214,103.852003509176">1.33455, 103.85200</span> |
+  | YINGLI MEISHI | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | ZHEN XIN VEGETARIAN | 162 Ang Mo Kio Avenue 4, #01-22,  S560162; | <span title="1.3741075702016,103.838863921122">1.37411, 103.83886</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BOON HENG ATAS HAINANESE CHICKEN RICE AND ROASTED DELIGHTS | <del>824 Tampines Street 81,  S520824;</del><br>1 Tampines Walk, #01-60, Singapore 528523,  S528523; | <del title="1.34903743516549,103.932714940894">1.34904, 103.93271</del><br><span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | <del>HAO JIA BAN MIAN (524A JELAPANG RD)</del><br>HAO JIA BAN MIAN (TG240) | <del>524A Jelapang Road,  S671524;</del><br>240 Tengah Garden Walk, #01-01,  S690240; | <del title="1.38529556252963,103.766170532051">1.38530, 103.76617</del><br><span title="1.36061578677807,103.732199052701">1.36062, 103.73220</span> |
+  | <del>M FAMILY MART</del><br>MAMA DIAM (TAMPINES) | 481 Tampines Street 44 Hdb-tampines Singapore 520481, #01-269A,  S520481; | <span title="1.36162956418494,103.953251115722">1.36163, 103.95325</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-13
 
 </summary>
