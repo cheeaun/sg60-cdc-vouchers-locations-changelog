@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-18
+
+</summary>
+
+Total locations: 25,862 → 25,871
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FATTY WESTERN (29 TUAS WEST AVE) | 29 Tuas West Avenue,  S638427; | <span title="1.33188537414028,103.638171919555">1.33189, 103.63817</span> |
+  | HAI CUN YUAN JE318 | 318 Jurong East Street 31,  S600318; | <span title="1.34750822865247,103.730560691538">1.34751, 103.73056</span> |
+  | LAHAHA SPICY STIR FRIED MALAPOT | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | LAO FU BAK KUT TEH (JW495) | 495 Jurong West Street 41,  S640495; | <span title="1.34969073793762,103.724362342467">1.34969, 103.72436</span> |
+  | SONG YANG MIXED VEGETABLE RICE | 548 Woodlands Drive 44, 7,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | TASTE OF SRI LANKA | 53 Sims Place,  S380053; | <span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | THE JN SHOP (201E) | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-118,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | THE ONE PENYET | 84 Punggol Way, #02-63,  S829911; | <span title="1.41455331350836,103.908235308668">1.41455, 103.90824</span> |
+  | TOKKI POKKI ( LIMBANG ) | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-16,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>THAT PASTA PLACE</del><br>BEDOK 511 CHICKEN WING (OAR51) | 51 Old Airport Road, #01-84,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>U MART - HONG XIN ACE MINIMART (@BLK 110 YISHUN RING ROAD)</del><br>HONG XIN ACE MINIMART (@BLK 110 YISHUN RING ROAD) | 110 Yishun Ring Road Chong Pang Garden Singapore 760110, #01-391,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | ZHEN MAN FU (BEDOK416) | <del>416 Bedok North Avenue 2,  S460416;</del><br>416 Bedok North Avenue 2, #01-53,  S460416; | <span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-15
 
 </summary>
