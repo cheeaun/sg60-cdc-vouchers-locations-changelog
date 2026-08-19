@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-19
+
+</summary>
+
+Total locations: 25,871 → 25,883
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA BIG PRAWN NOODLE | 85 Bedok North Street 4, #01-51,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | EWAN & AULIA HALAL MARKET | 527 Ang Mo Kio Avenue 10, #01-55,  S560527; | <span title="1.37277209302753,103.854457955288">1.37277, 103.85446</span> |
+  | FORTUNE CHEFS | 309 Hougang Avenue 5,  S530309; | <span title="1.36620554681345,103.895152424666">1.36621, 103.89515</span> |
+  | HAINAN DRINKS STALL (AMK 133) | 133 Ang Mo Kio Avenue 3,  S560133; | <span title="1.37113968605234,103.842644163241">1.37114, 103.84264</span> |
+  | HOT CHICK CO. | 65 Circuit Road,  S370065; | <span title="1.32740031002016,103.887203611284">1.32740, 103.88720</span> |
+  | HUA DEE ROASTED DELIGHTS | 24 Sixth Avenue Singapore 276481, #01-24C,  S276481; | <span title="1.33054793553073,103.794935069992">1.33055, 103.79494</span> |
+  | JAP & KOREAN CUISINE | 263 Compassvale Street, ST01,  S540263; | <span title="1.39484816528775,103.896042268385">1.39485, 103.89604</span> |
+  | LE DA CHICKEN RICE 110 | 110 Yishun Ring Road,  S760110; | <span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+  | LEE WEI HAINANESE CHICKEN RICE (T478) | 478 Tampines St 44, 1-219,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | MESHIYA | 6 Everton Park Everton Park Singapore 080006, #01-18,  S080006; | <span title="1.27667251302141,103.838682238027">1.27667, 103.83868</span> |
+  | SRI SWASTHIK MINIMART (JW502) | 502 Jurong West Avenue 1 Dbs Jurong West Avenue 1 Singapore 640502, #01-815,  S640502; | <span title="1.35043776611303,103.7181137591">1.35044, 103.71811</span> |
+  | U&T HAIR SALON | 494 Jurong West Street 41 Dbs Jurong West Street 41 Singapore 640494, #01-130,  S640494; | <span title="1.34950750219884,103.724914014154">1.34951, 103.72491</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HAJI OSMAN NASI AYAM | <del>293 Yishun Street 22, #01-207,  S760293;</del><br>291 Yishun Street 22, #01-369,  S760291; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | HAJI OSMAN SNACK SHOP | <del>293 Yishun Street 22, #01-207,  S760293;</del><br>291 Yishun Street 22, #01-369,  S760291; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.43576080400467,103.8367238745">1.43576, 103.83672</span> |
+  | TIAN TIAN NASI LEMAK (293 YISHUN) | <del>293 Yishun Street 22, #01-261,  S760293;</del><br>Blk 293 Yishun Street 22, #01-261,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-18
 
 </summary>
