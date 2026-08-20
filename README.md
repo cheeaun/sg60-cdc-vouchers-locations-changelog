@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-20
+
+</summary>
+
+Total locations: 25,883 → 25,899
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEAUTY NUTRITIOUS SOUP 503 JURONG WEST | 503 Jurong West Avenue 1,  S640503; | <span title="1.34995541462242,103.71770480961">1.34996, 103.71770</span> |
+  | DELI DELIGHTS HAINAN WESTERN | 57 New Upper Changi Road,  S461057; | <span title="1.32424554153984,103.941568704132">1.32425, 103.94157</span> |
+  | DRIED FRUIT EMPORIUM | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-266,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | DRINK STALL (TPY 94) | 94 Lorong 4 Toa Payoh,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | FISH BOSS 806 | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | HAJI OSMAN WESTERN (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | JAPANESE & KOREAN CUISINE (29 TUAS WEST AVENUE) | 29 Tuas West Avenue,  S638427; | <span title="1.33188537414028,103.638171919555">1.33189, 103.63817</span> |
+  | JIANG HU MAO CAI | 820 Tampines Street 81 Tampines Polyview Singapore 520820, #01-514,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | KANDAR HOUSE PTE. LTD. | 676 Woodlands Drive 71, #02-09,  S730676; | <span title="1.43991699638813,103.800779709518">1.43992, 103.80078</span> |
+  | KHADIJAH MINI RESTAURANT | 171 Yishun Avenue 7,  S760171; | <span title="1.43691621022976,103.832132015264">1.43692, 103.83213</span> |
+  | PORRIDGE & MIXED VEG RICE | 174C Hougang Ave 1,  S533174; | <span title="1.34912217494098,103.889093320959">1.34912, 103.88909</span> |
+  | SEAFOOD MINISTRY | 105 Hougang Avenue 1, #01-34,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | SGSQUISHIES | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-565,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | TENG JI ECONOMICAL BEE HOON | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | VIETFRESH (TPY 190) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-510,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | XIN HAINANESE BONELESS CHICKEN RICE 806 | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>LIN YU MEI KOLO MEE (306 WOODLANDS)</del><br>LIN YU MEI KOLO MEE | <del>306 Woodlands Street 31, ST8B,  S730306;</del><br>350A Anchorvale Road, Stall 2,  S541350; | <del title="1.42992991993554,103.774636554651">1.42993, 103.77464</del><br><span title="1.39298113080033,103.886895423183">1.39298, 103.88690</span> |
+  | <del>MINCED MEAT NOODLE - 683A KOUFU(STALL 04)</del><br>MINCED MEAT NOODLE - 94 TPY | <del>638A Jurong West Street 61,  S641638;</del><br>94 Lorong 4 Toa Payoh Toa Payoh Palm Spring, 01-30,  S310094; | <del title="1.34195861016793,103.697593081001">1.34196, 103.69759</del><br><span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | <del>PORRIDGE & MIXED VEG RICE @ 174C HOUGANG</del><br>PORRIDGE & MIXED VEG RICE | <del>174C Hougang Ave 1,  S533174;</del><br>56 New Upper Changi Road,  S461056; | <del title="1.34912217494098,103.889093320959">1.34912, 103.88909</del><br><span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+  | <del>SEVACO DATA SYSTEMS</del><br>SEVACO FASHION | 665 Buffalo Road, #02-109,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-19
 
 </summary>
