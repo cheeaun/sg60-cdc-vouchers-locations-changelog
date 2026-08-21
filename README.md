@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-21
+
+</summary>
+
+Total locations: 25,899 → 25,907
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FAMILY CLINIC ( GHIM MOH ) | 25 Ghim Moh Link Dbs Ghim Moh Road Singapore 270025, #01-08,  S270025; | <span title="1.3081474688469,103.786255228477">1.30815, 103.78626</span> |
+  | FU YUAN MIXED RICE (BEDOK136) | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | HAJJAH MARIAM MUSLIM STALL | 117 Aljunied Avenue 2, #01-67,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | JOFA MEEPOK/ OJI DONBURI | 531 Bedok North Street 3,  S460531; | <span title="1.33312991885913,103.926153139784">1.33313, 103.92615</span> |
+  | LIM KEE MEE POK | 126 Canberra Street, ST08,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | MERCE HAIR STUDIO (AMK) | 215 Ang Mo Kio Avenue 1 Ang Mo Kio 22 Singapore 560215, #01-891,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | TCM HANRAN (510735) | 735 Pasir Ris Street 72 Dbs Ntuc Pasir Ris West Plaza Singapore 510735, #01-350,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | THE JUICE PRINCE AMK 338 | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1665,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FISHBALL NOODLES</del><br>GAO SHENG MEE POK | <del>373 Bukit Batok Street 31,  S650373;</del><br>308 Clementi Avenue 4, 01-335,  S120308; | <del title="1.35892457118178,103.750397174291">1.35892, 103.75040</del><br><span title="1.32105185036523,103.766910446634">1.32105, 103.76691</span> |
+  | <del>IPOH BEANSPROUTS CHICKEN</del><br>HOUSE OF CHARCOAL ROASTED DELIGHT | 278D Compassvale Bow,  S544278; | <span title="1.38269271730514,103.89105712565">1.38269, 103.89106</span> |
+  | <del>STEVEN FRIED RICE 515A WOODLANDS</del><br>STEVEN FRIED RICE 212 HOUGANG | <del>515A Woodlands Drive 14,  S731515;</del><br>212 Hougang Street 21, #01-349,  S530212; | <del title="1.43420564787063,103.790081342564">1.43421, 103.79008</del><br><span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-20
 
 </summary>
