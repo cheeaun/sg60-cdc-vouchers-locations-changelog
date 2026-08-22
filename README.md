@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-22
+
+</summary>
+
+Total locations: 25,907 → 25,917
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | (631) RIVER VALLEY TEOCHEW KWAY CHAP | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | AH HUAT CHAR SIEW & ROAST | 21 Canberra Link, 13,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | D OLIVE BLOOMS | 152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-330,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+  | HOUSE OF DESSERT | 84 Marine Parade Central, #01-029,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | LE PARADISE NASI LEMAK PRAWN NOODLES | 433 Geylang Road Singapore 389397, #01-01,  S389397; | <span title="1.31319687215062,103.88155545431">1.31320, 103.88156</span> |
+  | LONG FA XIANG ZHUANG | 259 Bukit Panjang Ring Road Bukit Panjang Neighbourhood Centre Singapore 671259, #01-18,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | MEI WEI BAN MIAN , FISH SOUP & PORRIDGE (SENGKANG WEST) | 455 Sengkang West Ave,  S790455; | <span title="1.39183688254074,103.871190376558">1.39184, 103.87119</span> |
+  | NAGORE BHAI BIRYANI | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-08,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | THE BLEP CLUB PET SERVICES | 78 Indus Road Animal Medical Centre (vet@rv) Singapore 161078, #01-481,  S161078; | <span title="1.29129374515873,103.827476436671">1.29129, 103.82748</span> |
+  | WESTERN FOOD (BUANGKOK SQUARE) | 991 Buangkok Link, R02,  S530991; | <span title="1.38433426615655,103.881623070164">1.38433, 103.88162</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DRINKS STALL 846 (MR TEH TARIK)</del><br>DRINKS STALL 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | <del>INDIAN STALL 846 (MR TEH TARIK)</del><br>INDIAN STALL 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | <del>CHICKEN RICE 846 (MR TEH TARIK)</del><br>NASI AYAM CRISPY 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | <del>NASI PADANG 846 (MR TEH TARIK)</del><br>NASI PADANG & GORENG PISANG 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | TASTE LEGEND CHARCOAL ROASTED | <del>65 Circuit Road,  S370065;</del><br>65 Circuit Road, #01-361,  S370065; | <span title="1.32740031002016,103.887203611284">1.32740, 103.88720</span> |
+  | <del>GORENG PISANG AND SNACKS 846 (MR TEH TARIK)</del><br>THAI SEAFOOD & WESTERN FOOD 846 | 846 Yishun Ring Road,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-21
 
 </summary>
