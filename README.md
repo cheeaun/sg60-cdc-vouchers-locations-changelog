@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-25
+
+</summary>
+
+Total locations: 25,917 → 25,927
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AMARA MINIMART (AMK 128) | 128 Ang Mo Kio Avenue 3 Hdb-ang Mo Kio Singapore 560128, #01-1839,  S560128; | <span title="1.37083202800001,103.843546990613">1.37083, 103.84355</span> |
+  | CHENG YI KITCHEN | 351 Geylang Road Singapore 389372, #01-01,  S389372; | <span title="1.31297939302938,103.8800949743707">1.31298, 103.88009</span> |
+  | DAWOOD PROVISION PTE LTD | 137 Potong Pasir Avenue 3 Hdb-potong Pasir Singapore 350137, #01-146,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | HAT FACTOR | 1 Lorong Mambong, #01-02,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | JENNY | 270 Queen Street, #03-95,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | NIANG LU GUAN GUAN | 32 New Market Road, #01-1056,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | PROVIDENCE CAFE & BAKERY - UPPER BOON KENG | 1205 Upper Boon Keng Road,  S387311; | <span title="1.315691111066291,103.8723878541104">1.31569, 103.87239</span> |
+  | SIAO WAFFLE BY GAMBATEH (1 JBM) | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4516,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+  | XING LONG FISH SOUP | 808 French Road,  S200808; | <span title="1.30883002147893,103.861354748625">1.30883, 103.86135</span> |
+  | YONG LE (542B SERANGOON NORTH) | 542B Serangoon North Avenue 3, 3,  S552542; | <span title="1.37368393003779,103.871416978631">1.37368, 103.87142</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SEU GEK SEAFOOD SUPPLIER</del><br>AH SHUI SEAFOOD LLP | 475 Tampines Street 44, #01-127,  S520475; | <span title="1.36032331939995,103.953129640464">1.36032, 103.95313</span> |
+  | <del>CAHAYA TIMUR BRIYANI HOUSE</del><br>CAHAYA TIMUR ARANG | <del>5 Changi Village Road, #01-2063,  S500005;</del><br>5 Changi Village Road, #01-2021,  S500005; | <span title="1.38885339963623,103.986845986484">1.38885, 103.98685</span> |
+  | FLASHYLASHSG | <del>515 Bedok North Avenue 2 Kaki Bukit Green Singapore 460515, #01-207,  S460515;</del><br>509 Bedok North Street 3, #01-93,  S460509; | <del title="1.33186656511661,103.929960229584">1.33187, 103.92996</del><br><span title="1.33306648174585,103.931091390071">1.33307, 103.93109</span> |
+  | <del>MOBILEBRO98</del><br>KHATIB | 846 Yishun Ring Road, #01-3675,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-22
 
 </summary>
