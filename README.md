@@ -13,6 +13,37 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-26
+
+</summary>
+
+Total locations: 25,927 → 25,941
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 67 MART | 820 Tampines Street 81 Tampines Polyview Singapore 520820, #01-526,  S520820; | <span title="1.347929652568,103.936119933977">1.34793, 103.93612</span> |
+  | AH CHING CLAYPOT HOUSE | 22 Sin Ming Road Hdb-sin Ming Ind Est Singapore 570022, #01-256,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | AN-NUR SHENTON WAY FAMOUS | 507 Yishun Avenue 4,  S760507; | <span title="1.41517413065244,103.839827784744">1.41517, 103.83983</span> |
+  | CANTONESE SEAFOOD ZI CHAR | 399 Yung Sheng Road,  S610399; | <span title="1.3350420286067,103.72026802061">1.33504, 103.72027</span> |
+  | HAPPY NASI AYAM - BISHAN 533 | 533 Bishan Street 14, ST 4,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | JADE & LOVE FLORALS | 359 Bukit Batok Street 31 Hdb-bukit Batok Singapore 650359, #01-391,  S650359; | <span title="1.36134370379955,103.75123068355">1.36134, 103.75123</span> |
+  | JANET FLORIST | 105 Hougang Avenue 1, #01-75,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | JIA CHANG XIAO CHI | 1 Jalan Kukoh, #01-10,  S161001; | <span title="1.2882310152805,103.839934168065">1.28823, 103.83993</span> |
+  | MALA POWER (T478) | 478 Tampines St 44, 219,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | MAN LI KITCHEN (808) | 808 French Road,  S200808; | <span title="1.30883002147893,103.861354748625">1.30883, 103.86135</span> |
+  | MINMED CLINIC BL | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-108,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | REDHILL DUCK RICE KWAY CHAP | 17 Upper Boon Keng Road, #01-21,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | SG MAKAN MAKAN | 26A Chai Chee Road, 8,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | YU PAN KWAY TEOW SOUP & FISH SOUP | 106 Hougang Avenue 1,  S530106; | <span title="1.3537029714401,103.890680792553">1.35370, 103.89068</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-25
 
 </summary>
