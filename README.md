@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-27
+
+</summary>
+
+Total locations: 25,941 → 25,957
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 41 DRIED FOOD | 353 Clementi Avenue 2, #01-41,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | 53 FASHION | 353 Clementi Avenue 2, #01-53,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | DEGREE ONE MART (510506) | 506 Pasir Ris Street 52 Elias Parks Estate Singapore 510506, #01-189,  S510506; | <span title="1.376987940945691,103.9448462215138">1.37699, 103.94485</span> |
+  | DING XIANG | 1 Kadayanallur Street, #01-22,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | FONG HUP - HG 21 | 21 Hougang Street 51, 01-51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | HENG HUAT FRESH CHICKEN | 20 Ghim Moh Road, #01-197,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | HOCK LAN | 21 Hougang Street 51, 48-2,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | HUAT HUAT MART | 608 Ang Mo Kio Avenue 5 Yio Chu Kang Green Singapore 560608, #01-2779,  S560608; | <span title="1.37858209980487,103.836760311526">1.37858, 103.83676</span> |
+  | ICARE MEDICAL AND WELLNESS CLINIC PTE LTD | 22 Havelock Road Hdb-bukit Merah Singapore 160022, #01-701,  S160022; | <span title="1.28874603704088,103.828824191655">1.28875, 103.82882</span> |
+  | ICE & BEAN CO. | 531A Upper Cross Street, #02-35,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | MINMED CLINIC (ANCHORVALE) | 339 Anchorvale Road Anchorvale Village Singapore 540339, #B1-14,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | PENG FRESH FRUITS | 353 Clementi Avenue 2, #01-26,  S120353; | <span title="1.31437328536733,103.770805494512">1.31437, 103.77081</span> |
+  | TASTE LEGEND CHARCOAL ROASTED DELIGHTS (T844) | 844 Tampines Street 82, 1-131,  S520844; | <span title="1.35210299492899,103.936534321867">1.35210, 103.93653</span> |
+  | WAN KANG YUAN TCM (TOA PAYOH) | 178 Toa Payoh Central Toa Payoh Central Singapore 310178, #01-230,  S310178; | <span title="1.33358025794591,103.84926452128">1.33358, 103.84926</span> |
+  | Y & J TRADING | 61 Teban Gardens Road Dbs Teban Gardens Singapore 600061, #02-07,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | YAN 186 POPIAH. ROJAK. BANH MI | 186 Toa Payoh Central,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DRINK STALL (NUC59)</del><br>BEDOK 59 KOPI PLACE | 59 New Upper Changi Road, #01-1260,  S461059; | <span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-26
 
 </summary>
