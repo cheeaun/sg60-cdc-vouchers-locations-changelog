@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-28
+
+</summary>
+
+Total locations: 25,957 → 25,969
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 201D L&M SEAFOOD | 201D Tampines Street 21,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | BREAD & BUTTER | 7 Ang Mo Kio Street 66 Floravista Singapore 567708, #01-08,  S567708; | <span title="1.39127591953143,103.850468725185">1.39128, 103.85047</span> |
+  | DONG SHENG BAK CHOR MEE TG282 | 282A Toh Guan Road,  S601282; | <span title="1.3401011472358,103.747107216536">1.34010, 103.74711</span> |
+  | HUNGRY BOY | 146 Jalan Bukit Merah,  S160146; | <span title="1.27784876576774,103.830811459909">1.27785, 103.83081</span> |
+  | KELLER HAIR STUDIO | 261 Serangoon Central Drive Hdb-serangoon Estate Singapore 550261, #01-41,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | MING YUE MIXED RICE | 165 Bukit Merah Central,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | MISS MUFFET CAKE BOUTIQUE | 4 Queen's Road Farrer Gardens Singapore 260004, #02-109B,  S260004; | <span title="1.31883225284458,103.808061967625">1.31883, 103.80806</span> |
+  | NIGHT OWL WESTERN | 1001 Yishun Industrial Park A,  S768743; | <span title="1.44158276654703,103.831409812206">1.44158, 103.83141</span> |
+  | SHIOK POT | 2A Jalan Seh Chuan, #01-075,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | WARONG SAMAARAH - DRINKS | 218 Bedok North Street 1,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | WARONG SEAFOOD | 218 Bedok North Street 1,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | YU LAI XIAN | 18 Toh Yi Drive,  S590018; | <span title="1.33999732042821,103.772960761405">1.34000, 103.77296</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHEF WEI HK CHEONG FUN (352) | <del>352 Clementi Avenue 2,  S120352;</del><br>470B Yishun St 42, #01-335,  S762470; | <del title="1.31427265951788,103.771360860916">1.31427, 103.77136</del><br><span title="1.42584619116894,103.852260998106">1.42585, 103.85226</span> |
+  | <del>HENG WANG BAN MIAN FISH SOUP (460531)</del><br>HENG WANG BAN MIAN FISH SOUP | <del>531 Bedok North Street 3,  S460531;</del><br>128 Bedok North Street 2, #01-02,  S460128; | <del title="1.33312991885913,103.926153139784">1.33313, 103.92615</del><br><span title="1.327740236451,103.939005696963">1.32774, 103.93901</span> |
+  | I OPTICS STUDIO | <del>377 Hougang Street 32, #01-05,  S530377;</del><br>377 Hougang Street 32, #B1-22,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | PRAWN NOODLES | <del>732 Yishun Avenue 5,  S760732;</del><br>186 Toa Payoh Central, #01-402,  S310186; | <del title="1.42903445415475,103.830336353437">1.42903, 103.83034</del><br><span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-27
 
 </summary>
