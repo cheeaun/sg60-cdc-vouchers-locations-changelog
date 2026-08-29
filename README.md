@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-08-29
+
+</summary>
+
+Total locations: 25,969 → 25,979
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AUNT YEE DUMPLINGS | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | BOON HENG ATAS HAINANESE CHICKEN RICE | 221 Boon Lay Place,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | CANTONESE STYLE WHITE CHICKEN RICE | 10 Telok Blangah Crescent,  S090010; | <span title="1.27773153190559,103.819769431353">1.27773, 103.81977</span> |
+  | OMMA CHICKEN SOUP (REDHILL) | 85 Redhill Lane, #01-70,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | SHUN LONG FRESH SEA GOODS | 137 Tampines Street 11, #01-101,  S521137; | <span title="1.34537347373749,103.944629422828">1.34537, 103.94463</span> |
+  | TEK TEK BIDADARI | 106 Bidadari Park Drive,  S340106; | <span title="1.33369947750043,103.870796085779">1.33370, 103.87080</span> |
+  | THUMBS UP BBQ(JALAN KAYU) | 267 Jalan Kayu Jalan Kayu Estate Singapore 799495, #01-01,  S799495; | <span title="1.397062661828308,103.8729088488334">1.39706, 103.87291</span> |
+  | URFA GRILL@NEWTON | 500 Clemenceau Avenue North, #01-45,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | XPRESSFLOWER.COM (TOA PAYOH) | 500 Lorong 6 Toa Payoh Citibank Toa Payoh Hub Singapore 310500, #02-32,  S310500; | <span title="1.33296549735939,103.847050346651">1.33297, 103.84705</span> |
+  | YAN XIANG JU MIXED RICE@41A | 41A Cambridge Road, #01-47,  S211041; | <span title="1.31613128029458,103.850232935162">1.31613, 103.85023</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>PRAWN NOODLES</del><br>186 WANTON MEE | 186 Toa Payoh Central, #01-402,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | CHERYLLE NAIL & BEAUTY | <del>116 Aljunied Avenue 2 Hdb-geylang East Singapore 380116, #01-69,  S380116;</del><br>95 Aljunied Crescent, #01-495,  S380095; | <del title="1.32124570546254,103.886700619832">1.32125, 103.88670</del><br><span title="1.32170329030889,103.886195689242">1.32170, 103.88620</span> |
+  | KHUXI CORNER INDIAN CUISINE | <del>519A Tampines Central 8,  S521519;</del><br>587 Pasir Ris Drive 3, #01-06,  S510587; | <del title="1.35727594461393,103.940381600354">1.35728, 103.94038</del><br><span title="1.37742813949236,103.945551959341">1.37743, 103.94555</span> |
+  | <del>MINMED CLINIC BL</del><br>MINMED CLINIC (BOON LAY) | 221 Boon Lay Place Boon Lay Shopping Centre Singapore 640221, #01-108,  S640221; | <span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | POWER POPIAH AND BANH MI | <del>201C Tampines Street 21, #01-19,  S523201;</del><br>201C Tampines Street 21, #01-17B,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | WANG YUAN FISH SOUP 519A | <del>519A Tampines Central 8, #01-01,  S521519;</del><br>56 New Upper Changi Road, 01-1314,  S461056; | <del title="1.35727594461393,103.940381600354">1.35728, 103.94038</del><br><span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-08-28
 
 </summary>
