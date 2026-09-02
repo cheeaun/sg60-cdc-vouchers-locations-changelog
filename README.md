@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-02
+
+</summary>
+
+Total locations: 25,684 → 25,700
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 65 MIXED VEG RICE | 65 Circuit Road,  S370065; | <span title="1.32740031002016,103.887203611284">1.32740, 103.88720</span> |
+  | 97 NASI LEMAK | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | AH MA MEAT STALL | 44 Holland Drive, #01-28,  S270044; | <span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+  | AMPANG YONG TAU FOO(ZI JIA) | 118 Rivervale Drive,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | CHEF FOONG PORK & SEAFOOD NOODLES@121 | 121 Pasir Panjang Road, #01-39,  S118543; | <span title="1.27569879325348,103.791619964293">1.27570, 103.79162</span> |
+  | FRESH SEAFOOD (628 AMK) | 628 Ang Mo Kio Avenue 4, #01-176,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | FRESH SEAFOOD #32 | 21 Marsiling Lane, #01-32,  S730021; | <span title="1.44383165244262,103.777210383669">1.44383, 103.77721</span> |
+  | GIFTZ HUT | 30 Seng Poh Road, #01-231,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | INDONESIAN PORK | 58 New Upper Changi Road, #01-52,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | OLD FISHERMAN 8 (79) | 79 Circuit Road, #01-29,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | PURECARE MEDICAL CLINIC | 418 Yishun Avenue 11 Singapore 760418, #01-391,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | R&R FAMILY MART (RUMAH TINGGI) | 9 Jalan Rumah Tinggi Rumah Tinggi View Singapore 150009, #01-K1,  S150009; | <span title="1.28881615319913,103.8082052892796">1.28882, 103.80821</span> |
+  | SEE HAI SENG COMPANY | 504 West Coast Drive Singapore 120504, #01-228,  S120504; | <span title="1.31225340748607,103.759601815642">1.31225, 103.75960</span> |
+  | SINGTEL EXCLUSIVE RETAILER (190 TPY) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-538,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | SOUP | 5 Upper Boon Keng Road,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | TASTY WOK (T478) | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DAY NIGHT HERBAL SOUP (BPHC) | <del>2 Bukit Panjang Ring Road, #01-22,  S679947;</del><br>469 Bukit Batok West Ave 9, #01-06,  S650469; | <del title="1.37759742308947,103.772491526747">1.37760, 103.77249</del><br><span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | MING JI CANTONESE STYLE WANTON MEE | <del>59 Marine Terrace, #01-71,  S440059;</del><br>Blk 17 Upper Boon Keng Rd, #01-08,  S380017; | <del title="1.30585648473163,103.914729886792">1.30586, 103.91473</del><br><span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | <del>OLD FISHERMAN</del><br>OLD FISHERMAN 8 (89) | 89 Circuit Road, #01-12,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+  | SIGNATURE TRIMS | <del>930 Yishun Central 1 Hdb-yishun Singapore 760930, #01-127,  S760930;</del><br>930 Yishun Central 1, #01-123,  S760930; | <span title="1.42691548147226,103.837351206319">1.42692, 103.83735</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-01
 
 </summary>
