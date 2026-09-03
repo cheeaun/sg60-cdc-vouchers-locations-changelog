@@ -13,6 +13,50 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-03
+
+</summary>
+
+Total locations: 25,700 → 25,716
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 101 THAI CUISINE (T602B) | 602B Tampines Avenue 9, 1,  S522602; | <span title="1.36138884982369,103.937648040157">1.36139, 103.93765</span> |
+  | 168 MOBILE II (AMK) | 226C Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 563226, #01-653,  S563226; | <span title="1.36714737685637,103.839256279218">1.36715, 103.83926</span> |
+  | 806 DRINK STALL | 806 Woodlands Street 81,  S730806; | <span title="1.44098703141724,103.786759156347">1.44099, 103.78676</span> |
+  | CHEN JI HANDMADE SEAFOOD DUMPLINGS | 409 Ang Mo Kio Avenue 10, #01-90,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | DURIAN SIAO ( WOODLANDS 303 ) | 303 Woodlands Street 31 Dbs Woodlands West Branch Singapore 730303, #01-179F,  S730303; | <span title="1.43079961583478,103.774011078412">1.43080, 103.77401</span> |
+  | HTIKE MART | 152 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550152, #01-328,  S550152; | <span title="1.36934726797811,103.872613997697">1.36935, 103.87261</span> |
+  | ISTANBUL SHAWARMA SEDAP | 469 Bukit Batok West Avenue 9, #01-20,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | LONG CHENG ECON BEE HOON (510440) | 440 Pasir Ris Drive 4, 09,  S510440; | <span title="1.36900809318444,103.958696603631">1.36901, 103.95870</span> |
+  | NOVA SB HAIR STUDIO | 3 Everton Park Everton Park Singapore 080003, #01-71,  S080003; | <span title="1.27721730057752,103.838703998309">1.27722, 103.83870</span> |
+  | PRATA HUB MUSLIM FOOD | 204 Serangoon Central,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | SHIOK CHICKEN (REDHILL) | 75D Redhill Road,  S154075; | <span title="1.2884647680528,103.815711568541">1.28846, 103.81571</span> |
+  | TASTE OF GRACE | 163 Bukit Merah Central, #02-35,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | THE BAKERS (237) | 237 Serangoon Avenue 3 Hdb-serangoon Singapore 550237, #01-128,  S550237; | <span title="1.35381198342473,103.87013457465">1.35381, 103.87013</span> |
+  | TONG FONG FATT 469 BB | 469 Bukit Batok West Avenue 9, #01-08,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | X-TRIM HAIR SALON | 149 Silat Avenue Hdb-bukit Merah Singapore 160149, #01-62,  S160149; | <span title="1.27736066510423,103.831600213349">1.27736, 103.83160</span> |
+  | XIANG JI ROASTED DELIGHT BB279 | 279 Bukit Batok East Avenue 3,  S650279; | <span title="1.3481605165343,103.757337287929">1.34816, 103.75734</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | DAY NIGHT HERBAL SOUP (BPHC) | <del>469 Bukit Batok West Ave 9, #01-06,  S650469;</del><br>2 Bukit Panjang Ring Road, #01-22,  S679947; | <del title="1.35523395393666,103.741758756565">1.35523, 103.74176</del><br><span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+  | NARCISSUS NAIL SPA | <del>740 Bedok Reservoir Road, #01-3179,  S470740;</del><br>631 Bedok Reservoir Road, #01-966,  S470631; | <del title="1.3380258563727,103.922835001967">1.33803, 103.92284</del><br><span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | THE FISHERBOY | <del>605 Yishun Street 61 Nee Soon Central Meadows Singapore 760605, #01-317A,  S760605;</del><br>448 Clementi Avenue 3, #01-99,  S120448; | <del title="1.42172608902193,103.836336375801">1.42173, 103.83634</del><br><span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | <del>YI LU FA HONG KONG ROASTED MEAT</del><br>YI LU FA BONELESS HAINANESE CHICKEN RICE | 84 Marine Parade Central, #01-07,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-02
 
 </summary>
