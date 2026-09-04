@@ -13,6 +13,55 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-04
+
+</summary>
+
+Total locations: 25,716 → 25,732
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 717 KAI FA FOOD HOUSE | 717 Yishun Street 71, #01-335,  S760717; | <span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+  | ADLY'S KEBAB | 17 Beach Road,  S190017; | <span title="1.30368952030975,103.863575539303">1.30369, 103.86358</span> |
+  | CHIN SENG POULTRY | 50A Marine Terrace, #01-545,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | DELI DELIGHT (TEBAN GARDENS 61) | 61 Teban Gardens Road,  S600061; | <span title="1.32213636287766,103.738292803395">1.32214, 103.73829</span> |
+  | EATA | 18 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310018, #01-262,  S310018; | <span title="1.33575723665506,103.856789628423">1.33576, 103.85679</span> |
+  | FIVE TEN WESTERN GRILL (121) | 121 Geylang East Central,  S380121; | <span title="1.3179301794665,103.885314531751">1.31793, 103.88531</span> |
+  | GADGET MIX CANBERRA PLAZA | 133 Canberra View Canberra Plaza Singapore 750133, #02-17,  S750133; | <span title="1.44349544527985,103.830345369213">1.44350, 103.83035</span> |
+  | HONG LIM CURRY PUFF @TBM | 30 Seng Poh Road, #02-78,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | LAO JIANG NOODLE SPECIALTIES | 302 Tengah Park Avenue, #B1-K2,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | NIICE BEAUTY HAIR SALON | 183 Toa Payoh Central Toa Payoh Central Singapore 310183, #01-258,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | RUI JI ROASTED DELIGHTS | 1 Punggol Drive, #02-31,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | SINGA MINIWOK @ 540118 | 118 Rivervale Drive, S11,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | SPARKLE@PLANTATION PLAZA | 127 Plantation Crescent Plantation Village Singapore 690127, #01-03,  S690127; | <span title="1.35759319436135,103.734174851203">1.35759, 103.73417</span> |
+  | SUSAN COOKED FOOD | 17 Upper Boon Keng Road, #01-55,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | TECH BUDDIES | 927 Yishun Central 1 Hdb-yishun Singapore 760927, #01-163,  S760927; | <span title="1.42767464529376,103.837731455467">1.42767, 103.83773</span> |
+  | THE BAKERS (119) | 119 Aljunied Avenue 2 Dbs Aljunied Avenue 2 /119 Singapore 380119, #01-44B,  S380119; | <span title="1.32012887290025,103.886058091225">1.32013, 103.88606</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEO CRESCENT LOR MEE | <del>85 Bedok North Street 4, #01-46,  S460085;</del><br>85 Bedok North Street 4, #01-45,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | BOYZ 2 MEN | <del>Jurong West Street 75, #01-296,  S640762;</del><br>221 Boon Lay Place, Boon Lay Shopping Centre, #02-182,  S640221; | <del title="1.34874357136408,103.697732091001">1.34874, 103.69773</del><br><span title="1.34633552457315,103.712430373455">1.34634, 103.71243</span> |
+  | <del>DAY NIGHT HERBAL SOUP (BPHC)</del><br>JIN HO WANTON NOODLE (BBWHC) | <del>2 Bukit Panjang Ring Road, #01-22,  S679947;</del><br>469 Bukit Batok West Avenue 9, #01-06,  S650469; | <del title="1.37759742308947,103.772491526747">1.37760, 103.77249</del><br><span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | LC HOMES | <del>20 Ghim Moh Road, #01-91,  S270020;</del><br>20 Ghim Moh Road, #01-77,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | <del>SARAWAK TASTY KOLO MEE</del><br>MUSHROOM MINCED MEAT NOODLES (121) | 121 Geylang East Central, 01-90,  S380121; | <span title="1.3179301794665,103.885314531751">1.31793, 103.88531</span> |
+  | MY FIRST SHOP (SUNDRY GOODS) | <del>119 Aljunied Avenue 2 Dbs Aljunied Avenue 2 /119 Singapore 380119, #01-48,  S380119;</del><br>113 Aljunied Avenue 2, #01-13/15,  S380113; | <del title="1.32012887290025,103.886058091225">1.32013, 103.88606</del><br><span title="1.32052595935167,103.886159306934">1.32053, 103.88616</span> |
+  | THE BAKER'S | <del>84 Bedok North Street 4, #01-71A,  S460084;</del><br>84 Bedok North Street 4, #01-61B,  S460084; | <span title="1.33178245077456,103.939208398976">1.33178, 103.93921</span> |
+  | <del>UBI LE SHENG YONG TAU FU (PCHC)</del><br>UBI LE SHENG YONG TAU FU | <del>84 Punggol Way, #02-71,  S829911;</del><br>808 French Road, #01-03,  S200808; | <del title="1.41455331350836,103.908235308668">1.41455, 103.90824</del><br><span title="1.30883002147893,103.861354748625">1.30883, 103.86135</span> |
+  | <del>LEZHONG SEAFOOD ZICHAR</del><br>XING WANG ZHONG SEAFOOD ZI CHAR | 11 Upper Boon Keng Road, #01-939,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-03
 
 </summary>
