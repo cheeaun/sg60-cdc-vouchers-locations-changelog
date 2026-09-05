@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-05
+
+</summary>
+
+Total locations: 25,732 → 25,740
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 272 ECONOMIC BEE HOON | 272 Bukit Batok East Avenue 4,  S650272; | <span title="1.34879030700149,103.757864718209">1.34879, 103.75786</span> |
+  | ASIAN (BULIM) | 1 Bulim Lane 2, Bulim Walk, Tower 1,  S648110; | <span title="1.356261190246239,103.7037394653365">1.35626, 103.70374</span> |
+  | BLACK SAUCE KING WANTON NOODLES | 109 Bukit Batok West Avenue 6,  S650109; | <span title="1.34700376747987,103.746170410388">1.34700, 103.74617</span> |
+  | GADGET MIX (OTH) | 1 Tampines Walk Dbs Our Tampines Hub Singapore 528523, #B1-K19,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+  | MIXED VEG RICE ( TP 476) | 476 Tampines Street 44,  S520476; | <span title="1.36092283930264,103.953359364582">1.36092, 103.95336</span> |
+  | SHI SHANG TASTE (BULIM) | 1 Bulim Lane 2, Bulim Walk, Tower 1,  S648110; | <span title="1.356261190246239,103.7037394653365">1.35626, 103.70374</span> |
+  | TGIF THANK GOODNESS IT'S FRUITS (BULIM) | 1 Bulim Lane 2, Bulim Walk, Tower 1,  S648110; | <span title="1.356261190246239,103.7037394653365">1.35626, 103.70374</span> |
+  | VETEXPRESS@108 | 108 Depot Road Dbs Ntuc Depot Road Singapore 100108, #01-07,  S100108; | <span title="1.28096680702384,103.810298189643">1.28097, 103.81030</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>201 YONG TAU FOO</del><br>826 YONG TAU FOO | <del>201 Tampines Street 21,  S520201;</del><br>826 Tampines St 81, #01-86,  S520826; | <del title="1.35289506312913,103.953585683185">1.35290, 103.95359</del><br><span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | <del>MASTER PORK BALL NOODLE SOUP</del><br>ITIK & CO. | Blk 226F Amk Ave 1, #01-697,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | JIN KIMCHI | <del>524A Jelapang Road, 4,  S671524;</del><br>16 Jalan Teck Whye, #01-101,  S680016; | <del title="1.38529556252963,103.766170532051">1.38530, 103.76617</del><br><span title="1.37842710387364,103.754911815576">1.37843, 103.75491</span> |
+  | PEACE FAMILY TCM CLINIC PTE LTD | <del>Ang Mo Kio Avenue 6, #01-4266,  S560727;</del><br>Ang Mo Kio Avenue 6, #01-4252,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-04
 
 </summary>
