@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "05 Sep 2026",
+  "lastUpdated": "06 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -268665,11 +268665,11 @@
       "id": "merchant_cffde614-ab99-4013-bb97-2bebd4db9233",
       "entityId": "merchant_cffde614-ab99-4013-bb97-2bebd4db9233",
       "name": "LAI HUAT SIGNATURES (1550 BEDOK)",
-      "address": "1550 Bedok North Ave 5,  S489950;",
-      "postalCode": "489950",
+      "address": "1 Bulim Lane 2 Tower 1, #02-56,  S648110;",
+      "postalCode": "648110",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33763731957014,
-      "LON": 103.944539180358,
+      "LAT": 1.356261190246239,
+      "LON": 103.7037394653365,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -268679,7 +268679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-18"
+      "lastResetDate": "2026-09-05"
     },
     {
       "id": "merchant_03c7a509-93af-4c96-ab30-45ccd7e294f0",

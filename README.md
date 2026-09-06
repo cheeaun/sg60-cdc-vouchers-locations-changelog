@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-06
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | LAI HUAT SIGNATURES (1550 BEDOK) | <del>1550 Bedok North Ave 5,  S489950;</del><br>1 Bulim Lane 2 Tower 1, #02-56,  S648110; | <del title="1.33763731957014,103.944539180358">1.33764, 103.94454</del><br><span title="1.356261190246239,103.7037394653365">1.35626, 103.70374</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-05
 
 </summary>
