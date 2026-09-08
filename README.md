@@ -13,6 +13,73 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-08
+
+</summary>
+
+Total locations: 25,740 → 25,746
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALIYAN FAST FOOD | 115 Bukit Merah View, #01-01,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | CHOCOLATEA @41 CAMBRIDGE | 41 Cambridge Road Hdb-kallang/whampoa Singapore 210041, #01-18,  S210041; | <span title="1.31543762081432,103.849817677057">1.31544, 103.84982</span> |
+  | EE VISION | 330 Ang Mo Kio Avenue 1 Teck Ghee View Singapore 560330, #01-1825,  S560330; | <span title="1.36243186402478,103.851030689651">1.36243, 103.85103</span> |
+  | GO2EAT SENGKANG | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | JN ALLEY | 259 Pasir Ris Street 21 Loyang Point Singapore 510259, #02-44,  S510259; | <span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+  | MY SAIGON PHO | 10 Marsiling Industrial Estate,  S739276; | <span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+
+  </details>
+
+- <details><summary>Changed (37)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 01143 | <del>453A Ang Mo Kio Avenue 10, #01-143,  S561453;</del><br>453A Ang Mo Kio Avenue 10, #01-43,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | 83 HAIR DRESSING DAWSON | <del>Dawson Road, #01-04,  S141085;</del><br>932B Hougang Ave 9, #01-01,  S532932; | <del title="1.29531966312622,103.809758591447">1.29532, 103.80976</del><br><span title="1.37512666113384,103.882234927883">1.37513, 103.88223</span> |
+  | <del>HOUSE OF FISH HEAD</del><br>85 XIAO CHAO | 270 Queen Street Albert Centre, #01-85,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>97 NASI LEMAK</del><br>97 NASI LEMAK - TOA PAYOH | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | BIANG BIANG NOODLES XI AN FAMOUS FOOD | <del>Lorong 6 Toa Payoh, #01-518,  S310190;</del><br>177 Toa Payoh Central, #01-102,  S310177; | <del title="1.33297850244995,103.848832062985">1.33298, 103.84883</del><br><span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | CHUN LIH MEDICAL HALL | <del>North Bridge Road, #02-5035,  S190467;</del><br>465 North Bridge Road, #02-5035,  S190467; | <span title="1.30522205395223,103.862906450772">1.30522, 103.86291</span> |
+  | CITY HAIR BEAUTY | <del>71 Kallang Bahru Singapore 330071, #01-529G,  S330071;</del><br>71 Kallang Bahru Singapore 330071, #01-529F,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | <del>XINFU MALA XIANGGUO</del><br>DANDAN MALA HOTPOT | <del>465 North Bridge Road,  S191465;</del><br>303 Jurong East St 32, 01-98,  S600302; | <del title="1.30522426727313,103.863097963132">1.30522, 103.86310</del><br><span title="1.344653024536552,103.734485227961">1.34465, 103.73449</span> |
+  | DL LIFESTYLE | <del>53 Chin Swee Road Hdb-central Area Singapore 160053, #01-07,  S160053;</del><br>374 Bukit Batok Street 31, #01-188,  S650374; | <del title="1.28762316970348,103.841462885627">1.28762, 103.84146</del><br><span title="1.35798291106742,103.750736425731">1.35798, 103.75074</span> |
+  | <del>NIU XIAO ER DONGBEI CUISINE</del><br>DONGBEI VEGETABLE GARDEN | 32 New Market Road, #01-1054,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | EYE GLASS | <del>Upper Cross Street, #02-66,  S050531;</del><br>Blk 269 Queen Street, #01-229,  S180269; | <del title="1.28439238217482,103.846101471997">1.28439, 103.84610</del><br><span title="1.30048013687566,103.85391368667">1.30048, 103.85391</span> |
+  | <del>FACE BAN MIAN 631</del><br>FACE BAN MIAN (AMK 505) | <del>631 Ang Mo Kio Avenue 4,  S560631;</del><br>505 Ang Mo Kio Avenue 8, 01-2688,  S560631; | <span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+  | <del>C MEAL (TANGLIN HALT)</del><br>FISH SOUP | 48A Tanglin Halt Road, #01-06,  S148813; | <span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+  | <del>YAN XIA TRADITIONAL NOODLE HOUSE</del><br>HANDMADE YONG TAU FOO | <del>20 Ghim Moh Road, #01-55,  S270020;</del><br>270 Queen Street, Albert Centre Market & Food Centre, #01-53,  S180270; | <del title="1.31099663218896,103.78823030662">1.31100, 103.78823</del><br><span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>HEE HEE HEE STEAMED FISH - 116</del><br>HEE HEE HEE STEAM FISH CLEMENTI | <del>116 Bukit Merah View,  S151116;</del><br>431 Clementi Ave 3, 01-296,  S120431; | <del title="1.28513427067055,103.821532226321">1.28513, 103.82153</del><br><span title="1.31377438724798,103.762535189721">1.31377, 103.76254</span> |
+  | <del>HONG LIM CURRY PUFF (ABC)</del><br>HONG LIM CURRY PUFF (REDHILL) | <del>6 Jalan Bukit Merah, #01-03,  S150006;</del><br>85 Redhill Lane, #01-44,  S150085; | <del title="1.28688297261475,103.808131274161">1.28688, 103.80813</del><br><span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | JOHONG HARDWARE & PAINTS PTE LTD ( HOUGANG ) | <del>Hougang Street 61, #01-6C,  S530698;</del><br>684 Hougang Ave 8, #01-984,  S530684; | <del title="1.3750613898604,103.886910503596">1.37506, 103.88691</del><br><span title="1.3739584050047,103.886898456705">1.37396, 103.88690</span> |
+  | KM HAIR SALON | <del>89 Whampoa Drive Singapore 320089, #01-951,  S320089;</del><br>89 Whampoa Drive Singapore 320089, #01-843,  S320089; | <span title="1.32363913722346,103.854988582241">1.32364, 103.85499</span> |
+  | <del>LINDA FINE CUTS AMK628</del><br>LINDA FINE CUTS AMK | <del>628 Ang Mo Kio Avenue 4, #01-138,  S560628;</del><br>453A Ang Mo Kio Ave 10, #01-82,  S561453; | <del title="1.38098761665454,103.840628087484">1.38099, 103.84063</del><br><span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | <del>SOON SOON NOODLE HOUSE</del><br>LINJI TRADING | 802 French Road Hdb-kallang/whampoa Singapore 200802, #01-59,  S200802; | <span title="1.30764582367725,103.860269172676">1.30765, 103.86027</span> |
+  | <del>LUCKY SEAFOOD (447A JLN KAYU)</del><br>LUCKY SEAFOOD (539 BEDOK NORTH) | <del>447A Jalan Kayu,  S791447;</del><br>539 Bedok North Street 3, 01-619,  S460539; | <del title="1.3921382852483,103.872490556246">1.39214, 103.87249</del><br><span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | LUXUS SKIN | <del>531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-57,  S050531;</del><br>531 Upper Cross Street Dbs South Bridge Branch Singapore 050531, #02-56A,  S050531; | <span title="1.28439238217482,103.846101471997">1.28439, 103.84610</span> |
+  | <del>ARIFFS CURRY</del><br>MUFIZ RESTAURANT | 381 Lorong 1 Toa Payoh Onepeople.sg Singapore 319758, #01-08,  S319758; | <span title="1.34026811845608,103.845079860564">1.34027, 103.84508</span> |
+  | <del>MAN YUAN GOURMET FISHBALL NOODLE (409 AMK)</del><br>NO.36 BAN MIAN | 409 Ang Mo Kio Avenue 10, #01-02,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | <del>LIU SAN JIE</del><br>OMU OMU | 206 Toa Payoh North,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | <del>SINGA SNACKS BUKIT MERAH</del><br>PANCAKE HOUSE BUKIT MERAH | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | PENGCHENG MUTTON NOODLE | <del>115 Bukit Merah View, #01-58,  S151115;</del><br>335 Smith Street, #02-210,  S050335; | <del title="1.28550445567433,103.821823256087">1.28550, 103.82182</del><br><span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>SING YI WANG PTE LTD</del><br>SHUN YI PORK STALL | <del>Bukit Purmei Road, #B1-217,  S090112;</del><br>Bukit Purmei Road, #01-217D,  S090112; | <span title="1.27452852560807,103.825932928075">1.27453, 103.82593</span> |
+  | SUNRISE HK-STYLE DOUBLE-BOILED SOUPS & RICE POTS | <del>17 Upper Boon Keng Road, #01-40,  S380017;</del><br>17 Upper Boon Keng Road, #01-47,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | TECHMOBILE | <del>71 Kallang Bahru Singapore 330071, #01-529,  S330071;</del><br>71 Kallang Bahru Singapore 330071, #01-529F,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | THE COFFEE XPRESS | <del>505 Beach Road, #02-216,  S199583;</del><br>270 Queen Street, #01-75,  S180270; | <del title="1.30314151533241,103.863877368653">1.30314, 103.86388</del><br><span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | <del>TPY 22 01-73 PORK</del><br>TPY 22 01-75 PORK | <del>22 Toa Payoh Lorong 7, #01-73,  S310022;</del><br>22 Toa Payoh Lorong 7, #01-75,  S310022; | <span title="1.33538261333779,103.857003709119">1.33538, 103.85700</span> |
+  | <del>BAO CARROT CAKE</del><br>UNCLE BAO CARROT CAKE | <del>162 Ang Mo Kio Avenue 4, #01-19,  S560162;</del><br>6 Jalan Bukit Merah, #01-03,  S150006; | <del title="1.3741075702016,103.838863921122">1.37411, 103.83886</del><br><span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | <del>SA-TAY & CO</del><br>WARISAN UTAMA 1@NEWTON | 500 Clemenceau Avenue North, #01-80,  S229495; | <span title="1.31191552031274,103.839569728721">1.31192, 103.83957</span> |
+  | <del>XIANG JI</del><br>XIANG JI PLASTIC SHOP | 79 Redhill Lane, #01-02,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+  | XIN LIN SEAFOOD | <del>53 Sims Place, #01-150,  S380052;</del><br>53 Sims Place, #01-150,  S380053; | <del title="1.316665447396119,103.8803905265658">1.31667, 103.88039</del><br><span title="1.31782374680828,103.88007758537">1.31782, 103.88008</span> |
+  | <del>SH CAFE</del><br>YOKO CAFE | 38A Margaret Drive, #02-40,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-06
 
 </summary>
