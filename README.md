@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-09
+
+</summary>
+
+Total locations: 25,746 → 25,754
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 112 FISH | 112 Jalan Bukit Merah, #01-43,  S160112; | <span title="1.28000480135122,103.82601329621">1.28000, 103.82601</span> |
+  | 347 TJR WANTON MEE | 347 Bukit Batok Street 34,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+  | 376 RV KWAY CHAP | 376 Bukit Batok Street 31,  S650376; | <span title="1.35831705249927,103.749579868748">1.35832, 103.74958</span> |
+  | ABU NAWAS BARBER SHOP | 94 Lorong 4 Toa Payoh Toa Payoh Palm Spring Singapore 310094, #01-46,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | AL ZION MAMAK | 70 Zion Road, #01-21,  S247792; | <span title="1.29231113322494,103.830973312857">1.29231, 103.83097</span> |
+  | N & T (BANH MI/POPIAH/ROJAK) | 239 Yishun Ring Road,  S760239; | <span title="1.43359453113734,103.839686662816">1.43359, 103.83969</span> |
+  | PENG GUAN BAK KWA (259 BP) | 259 Bukit Panjang Ring Road,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | PENG GUAN CAFE - KB | 71 Kallang Bahru Singapore 330071, #01-531H,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+
+  </details>
+
+- <details><summary>Changed (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FONG HUP KOKA NOODLE (130 JURONG EAST) | <del>130 Jurong Gateway Road,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | HE JIA MIXED VEG RICE (600130) | <del>130 Jurong Gateway Road, 01,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | IPOH HOME CUISINE TAI PAI TONG | <del>130 Jurong Gateway Road, 03,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | <del>CHANG HENG FAN ZHUANG & ECON BEE HOON</del><br>MEI FENG WEI | <del>267 Serangoon Avenue 3, ST 06,  S550267;</del><br>267 Serangoon Avenue 3, #01-01,  S550267; | <span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | MOBILE CONCEPTZ | <del>Bukit Batok Central, #01-130E,  S650633;</del><br>Bukit Batok Central, #01-112,  S650634; | <del title="1.34915709980563,103.751134497377">1.34916, 103.75113</del><br><span title="1.34971147504309,103.751535988573">1.34971, 103.75154</span> |
+  | NENE CHICKEN JE130 | <del>130 Jurong Gateway Road,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | PUTIAN FUSION | <del>211 New Upper Changi Road, #01-763,  S460211;</del><br>1 Bulim Drive, #02-56,  S648110; | <del title="1.32550084519552,103.931967583359">1.32550, 103.93197</del><br><span title="1.356261190246239,103.7037394653365">1.35626, 103.70374</span> |
+  | SHIOK HOKKIEN NOODLE JE130 | <del>130 Jurong Gateway Road,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | SHUN FENG ROASTED DELIGHT (JE) | <del>130 Jurong Gateway Road,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | THUMB UP MINCED MEAT NOODLE | <del>130 Jurong Gateway Road,  S600130;</del><br>130 Jurong Gateway Road, #01-211,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-08
 
 </summary>
