@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09 Sep 2026",
+  "lastUpdated": "10 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -5939,7 +5939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-08"
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_6e78a898-670e-4c51-b840-8709db3107dd",
@@ -108822,26 +108822,6 @@
       "lastResetDate": "2022-11-08"
     },
     {
-      "id": "merchant_985e467c-e26a-4f8c-a18c-90f5b9536168",
-      "entityId": "merchant_985e467c-e26a-4f8c-a18c-90f5b9536168",
-      "name": "CURRY RICE",
-      "address": "105 Hougang Avenue 1, #02-44,  S530105;",
-      "postalCode": "530105",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35408273910145,
-      "LON": 103.890130407955,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-01-24"
-    },
-    {
       "id": "merchant_0a40f2b6-3305-450f-b758-476a2e58307b",
       "entityId": "merchant_0a40f2b6-3305-450f-b758-476a2e58307b",
       "name": "CURRY SPICES (WET MARKET)",
@@ -176922,6 +176902,26 @@
       "lastResetDate": "2026-03-02"
     },
     {
+      "id": "merchant_0fa3b371-6a3e-4d70-9a2a-442fda6e51a9",
+      "entityId": "merchant_0fa3b371-6a3e-4d70-9a2a-442fda6e51a9",
+      "name": "GRILL & PASTAS",
+      "address": "151 Bishan Street 11,  S570151;",
+      "postalCode": "570151",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34507321944682,
+      "LON": 103.855542321231,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
+    },
+    {
       "id": "merchant_ccb0662a-938f-4c8e-9d0f-a700955c4aa3",
       "entityId": "merchant_ccb0662a-938f-4c8e-9d0f-a700955c4aa3",
       "name": "GRILL DYNASTY",
@@ -237199,7 +237199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-08"
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_ed758d13-c6a9-4350-b9c0-0165e68c7632",
@@ -291965,7 +291965,7 @@
       "id": "merchant_d36ff046-18cd-4eda-b651-a229ef6adb5f",
       "entityId": "merchant_d36ff046-18cd-4eda-b651-a229ef6adb5f",
       "name": "MAISON ECLAT",
-      "address": "846 Yishun Ring Road Khatib Central Singapore 760846, #01-3651D,  S760846;",
+      "address": "846 Yishun Ring Road Khatib Central Singapore 760846, #01-3689,  S760846;",
       "postalCode": "760846",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.41678634718118,
@@ -291979,7 +291979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-08-06"
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_8843bebc-8e66-409b-a0dc-aa5b3b099542",
@@ -297420,6 +297420,26 @@
         }
       },
       "lastResetDate": "2025-07-30"
+    },
+    {
+      "id": "merchant_1831721a-85d2-4903-b289-2f56150d53bf",
+      "entityId": "merchant_1831721a-85d2-4903-b289-2f56150d53bf",
+      "name": "MARYMOUNT BAKEHOUSE",
+      "address": "9 Upper Thomson Ridge, 9,  S574637;",
+      "postalCode": "574637",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.352894723872784,
+      "LON": 103.8337871032532,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_7840eec9-62c0-4a6d-9e2f-e6dbfa7fb14e",
@@ -330742,6 +330762,26 @@
       "lastResetDate": "2024-01-16"
     },
     {
+      "id": "merchant_35cde507-79be-4edd-8f82-6e6529f5956a",
+      "entityId": "merchant_35cde507-79be-4edd-8f82-6e6529f5956a",
+      "name": "NITRO",
+      "address": "418 Bedok North Avenue 2,  S460418;",
+      "postalCode": "460418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32856421177174,
+      "LON": 103.930036524233,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
+    },
+    {
       "id": "merchant_e60c2e0b-0111-4928-b2bd-9e39ad4e9e96",
       "entityId": "merchant_e60c2e0b-0111-4928-b2bd-9e39ad4e9e96",
       "name": "NIU NIU FU BAN MIAN",
@@ -331420,6 +331460,26 @@
         }
       },
       "lastResetDate": "2025-12-30"
+    },
+    {
+      "id": "merchant_c19994c7-c5d2-43f7-8343-1bf43aa9297c",
+      "entityId": "merchant_c19994c7-c5d2-43f7-8343-1bf43aa9297c",
+      "name": "NO ORDINARY CHICKEN - TJP",
+      "address": "6 Tanjong Pagar Plaza, #02-48,  S081006;",
+      "postalCode": "081006",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27661464758769,
+      "LON": 103.843167023188,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_a8f00483-bc38-4819-b750-ea287efaf5ba",
@@ -349242,6 +349302,26 @@
       "lastResetDate": "2022-02-03"
     },
     {
+      "id": "merchant_9ec17b18-b5d9-442b-ad10-dac2d7229f89",
+      "entityId": "merchant_9ec17b18-b5d9-442b-ad10-dac2d7229f89",
+      "name": "PETS PHILOSOPHY",
+      "address": "932 Yishun Central 1 Hdb-yishun Singapore 760932, #01-91A,  S760932;",
+      "postalCode": "760932",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42636217632588,
+      "LON": 103.837150418219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
+    },
+    {
       "id": "merchant_04f4970b-0132-4e57-a91f-8aafca723d36",
       "entityId": "merchant_04f4970b-0132-4e57-a91f-8aafca723d36",
       "name": "PETS PHILOSOPHY",
@@ -362020,6 +362100,26 @@
         }
       },
       "lastResetDate": "2023-06-28"
+    },
+    {
+      "id": "merchant_d9fbbbae-7fcc-46c6-9c8d-a9130c75c650",
+      "entityId": "merchant_d9fbbbae-7fcc-46c6-9c8d-a9130c75c650",
+      "name": "QINGQING FASHION",
+      "address": "105 Hougang Avenue 1, #01-104,  S530105;",
+      "postalCode": "530105",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35408273910145,
+      "LON": 103.890130407955,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_12094ac7-91df-4906-b7f6-9845f0e0a859",
@@ -420919,7 +421019,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-12"
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_75b1537e-2934-4e6a-a3c8-e22ff21eeb97",
@@ -469342,6 +469442,26 @@
       "lastResetDate": "2024-04-09"
     },
     {
+      "id": "merchant_42673c45-be4c-439d-a820-dedab1e79eaf",
+      "entityId": "merchant_42673c45-be4c-439d-a820-dedab1e79eaf",
+      "name": "VIP HAIR SALON",
+      "address": "108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1285B,  S530108;",
+      "postalCode": "530108",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35277393315533,
+      "LON": 103.890093177026,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
+    },
+    {
       "id": "merchant_ddf8724e-8fe7-40d0-aea4-10a2211ed95b",
       "entityId": "merchant_ddf8724e-8fe7-40d0-aea4-10a2211ed95b",
       "name": "VIRTUE FAMILY CLINIC -168 PUNGGOL PLAZA",
@@ -472500,6 +472620,26 @@
         }
       },
       "lastResetDate": "2023-01-18"
+    },
+    {
+      "id": "merchant_985e467c-e26a-4f8c-a18c-90f5b9536168",
+      "entityId": "merchant_985e467c-e26a-4f8c-a18c-90f5b9536168",
+      "name": "WAN ZI NOODLES",
+      "address": "105 Hougang Avenue 1, #02-44,  S530105;",
+      "postalCode": "530105",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35408273910145,
+      "LON": 103.890130407955,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_e72a287c-e576-4dab-9333-cfda6d481a39",
@@ -477660,26 +477800,6 @@
         }
       },
       "lastResetDate": "2025-03-19"
-    },
-    {
-      "id": "merchant_d9fbbbae-7fcc-46c6-9c8d-a9130c75c650",
-      "entityId": "merchant_d9fbbbae-7fcc-46c6-9c8d-a9130c75c650",
-      "name": "WENDY'S FASHION",
-      "address": "105 Hougang Avenue 1, #01-104,  S530105;",
-      "postalCode": "530105",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35408273910145,
-      "LON": 103.890130407955,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2023-03-23"
     },
     {
       "id": "merchant_62ba8843-8e43-4c47-b7cc-39794c436923",
@@ -486700,6 +486820,26 @@
         }
       },
       "lastResetDate": "2021-11-25"
+    },
+    {
+      "id": "merchant_377b5a41-5156-43d1-8a4c-9d33421ac20a",
+      "entityId": "merchant_377b5a41-5156-43d1-8a4c-9d33421ac20a",
+      "name": "XIAO XIAO HOTPLATE NOODLES",
+      "address": "443 Ang Mo Kio Avenue 10, ST8,  S560443;",
+      "postalCode": "560443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36604388871674,
+      "LON": 103.855368968681,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-09"
     },
     {
       "id": "merchant_ec2f0ed2-312c-41f9-b41e-d359487c5eaa",

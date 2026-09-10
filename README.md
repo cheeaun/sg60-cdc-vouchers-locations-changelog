@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-10
+
+</summary>
+
+Total locations: 25,754 → 25,761
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GRILL & PASTAS | 151 Bishan Street 11,  S570151; | <span title="1.34507321944682,103.855542321231">1.34507, 103.85554</span> |
+  | MARYMOUNT BAKEHOUSE | 9 Upper Thomson Ridge, 9,  S574637; | <span title="1.352894723872784,103.8337871032532">1.35289, 103.83379</span> |
+  | NITRO | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | NO ORDINARY CHICKEN - TJP | 6 Tanjong Pagar Plaza, #02-48,  S081006; | <span title="1.27661464758769,103.843167023188">1.27661, 103.84317</span> |
+  | PETS PHILOSOPHY | 932 Yishun Central 1 Hdb-yishun Singapore 760932, #01-91A,  S760932; | <span title="1.42636217632588,103.837150418219">1.42636, 103.83715</span> |
+  | VIP HAIR SALON | 108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1285B,  S530108; | <span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+  | XIAO XIAO HOTPLATE NOODLES | 443 Ang Mo Kio Avenue 10, ST8,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MAISON ECLAT | <del>846 Yishun Ring Road Khatib Central Singapore 760846, #01-3651D,  S760846;</del><br>846 Yishun Ring Road Khatib Central Singapore 760846, #01-3689,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | <del>WENDY'S FASHION</del><br>QINGQING FASHION | 105 Hougang Avenue 1, #01-104,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | <del>CURRY RICE</del><br>WAN ZI NOODLES | 105 Hougang Avenue 1, #02-44,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-09
 
 </summary>
