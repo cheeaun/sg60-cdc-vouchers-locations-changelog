@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "10 Sep 2026",
+  "lastUpdated": "11 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -21819,7 +21819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-04"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_7e4da6bb-25cb-4abd-a2b3-5c6133f2a95e",
@@ -24259,7 +24259,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-12-19"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_a3105a11-48e1-458c-9a78-a8356d88ecec",
@@ -56659,7 +56659,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-29"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_098d9f9e-4f75-4e3d-9205-723d5163919e",
@@ -84119,7 +84119,7 @@
           "budgetmeal": true
         }
       },
-      "lastResetDate": "2024-07-11"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_a5d7d869-3f71-4ad2-9408-2b594e93e9b3",
@@ -137584,12 +137584,12 @@
     {
       "id": "merchant_880d8750-bf65-42ec-8a66-2967add759e4",
       "entityId": "merchant_880d8750-bf65-42ec-8a66-2967add759e4",
-      "name": "ENGKEE CHICKEN WINGS (293 YISHUN)",
-      "address": "293 Yishun Street 22,  S760293;",
-      "postalCode": "760293",
+      "name": "ENGKEE CHICKEN WINGS",
+      "address": "416 Bedok North Avenue 2, #01-53,  S460416;",
+      "postalCode": "460416",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43611425409216,
-      "LON": 103.837605235958,
+      "LAT": 1.32840382815915,
+      "LON": 103.930684870347,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -137599,7 +137599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-26"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_fdae940c-9b1b-4f61-ba5b-ac4633604744",
@@ -144779,7 +144779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-09-17"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_af0a0335-1024-4740-97d3-465c86401322",
@@ -147480,6 +147480,26 @@
         }
       },
       "lastResetDate": "2025-10-21"
+    },
+    {
+      "id": "merchant_794e3cad-31e2-4e6d-8abf-2052ac353553",
+      "entityId": "merchant_794e3cad-31e2-4e6d-8abf-2052ac353553",
+      "name": "FENG HUANG ROAST GOURMET",
+      "address": "204 Bedok North Street 1,  S460204;",
+      "postalCode": "460204",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32635909520616,
+      "LON": 103.929995919076,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_6b15d653-dc9b-4d0f-b170-5ccfb18e5395",
@@ -156659,7 +156679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-23"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_08952b83-9cc0-4458-a8e7-eed2927862a1",
@@ -163260,6 +163280,26 @@
         }
       },
       "lastResetDate": "2025-04-30"
+    },
+    {
+      "id": "merchant_5a798556-0067-4806-9d73-50d72cc70bd8",
+      "entityId": "merchant_5a798556-0067-4806-9d73-50d72cc70bd8",
+      "name": "FU REN JIA(YISHUN 418)",
+      "address": "418 Yishun Avenue 11,  S760418;",
+      "postalCode": "760418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.4248993192219,
+      "LON": 103.847249789758,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_21a3e1d4-bd42-406e-9a35-86e096ea05b8",
@@ -204280,26 +204320,6 @@
         }
       },
       "lastResetDate": "2025-06-18"
-    },
-    {
-      "id": "merchant_bcf2a7a6-1d96-4c14-981d-07e3a67742f1",
-      "entityId": "merchant_bcf2a7a6-1d96-4c14-981d-07e3a67742f1",
-      "name": "HOME STYLE ECONOMICAL RICE",
-      "address": "49A Serangoon Road, Serangoon Garden Market, #01-41,  S555495;",
-      "postalCode": "555495",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35623271657844,
-      "LON": 103.859182470943,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-06-04"
     },
     {
       "id": "merchant_58696b21-c127-4b7a-a9aa-ffc585041589",
@@ -252942,6 +252962,26 @@
       "lastResetDate": "2022-01-06"
     },
     {
+      "id": "merchant_4cbede65-be4a-477d-9c8f-63766f8d7116",
+      "entityId": "merchant_4cbede65-be4a-477d-9c8f-63766f8d7116",
+      "name": "KIDIFY",
+      "address": "377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #01-27,  S530377;",
+      "postalCode": "530377",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36274853896076,
+      "LON": 103.894907010198,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
+    },
+    {
       "id": "merchant_daf0b9cf-1d5b-49c8-a100-79ce56634015",
       "entityId": "merchant_daf0b9cf-1d5b-49c8-a100-79ce56634015",
       "name": "KIDS CLINIC @ TOA PAYOH",
@@ -284422,6 +284462,26 @@
       "lastResetDate": "2024-09-30"
     },
     {
+      "id": "merchant_1319840d-feb9-4666-a9e6-e6809448bdac",
+      "entityId": "merchant_1319840d-feb9-4666-a9e6-e6809448bdac",
+      "name": "LIXIANG NOODLE HOUSE",
+      "address": "267 Compassvale Link, ST4,  S540267;",
+      "postalCode": "540267",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38374441748547,
+      "LON": 103.897046557237,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
+    },
+    {
       "id": "merchant_9a4a99e5-3501-4233-8913-ca9ee97556fa",
       "entityId": "merchant_9a4a99e5-3501-4233-8913-ca9ee97556fa",
       "name": "LIXIANG NOODLE HOUSE@665 TEKKA",
@@ -290780,6 +290840,26 @@
         }
       },
       "lastResetDate": "2025-09-01"
+    },
+    {
+      "id": "merchant_bcf2a7a6-1d96-4c14-981d-07e3a67742f1",
+      "entityId": "merchant_bcf2a7a6-1d96-4c14-981d-07e3a67742f1",
+      "name": "MACPHERSON BBQ (JACKSON MARKET)",
+      "address": "49A Serangoon Road, Serangoon Garden Market, #01-41,  S555495;",
+      "postalCode": "555495",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35623271657844,
+      "LON": 103.859182470943,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_8ef0cdfb-f17f-4062-ad6c-15030cde580b",
@@ -313920,6 +314000,26 @@
         }
       },
       "lastResetDate": "2022-10-25"
+    },
+    {
+      "id": "merchant_2f50bdd1-6a32-4dba-b1e4-ae1ad183bc1c",
+      "entityId": "merchant_2f50bdd1-6a32-4dba-b1e4-ae1ad183bc1c",
+      "name": "MOUNT ZION HAINANESE CHICKEN RICE",
+      "address": "26 New Upper Changi Road,  S462026;",
+      "postalCode": "462026",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3233383625591,
+      "LON": 103.934207271148,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_b1ce6bbb-ddcd-450c-a036-89f910b8af43",
@@ -348042,6 +348142,26 @@
       "lastResetDate": "2021-12-22"
     },
     {
+      "id": "merchant_a9595f63-4d99-457d-9f8e-315b3cfd106e",
+      "entityId": "merchant_a9595f63-4d99-457d-9f8e-315b3cfd106e",
+      "name": "PEOPLE'S OPTICS",
+      "address": "622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-05,  S521622;",
+      "postalCode": "521622",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3610618534932,
+      "LON": 103.940017022156,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
+    },
+    {
       "id": "merchant_f8e253c0-b56e-4791-b3b1-15bdf83ee9c2",
       "entityId": "merchant_f8e253c0-b56e-4791-b3b1-15bdf83ee9c2",
       "name": "PEOPLE'S PARK ROASTED DELIGHTS",
@@ -348060,26 +348180,6 @@
         }
       },
       "lastResetDate": "2023-11-28"
-    },
-    {
-      "id": "merchant_a9595f63-4d99-457d-9f8e-315b3cfd106e",
-      "entityId": "merchant_a9595f63-4d99-457d-9f8e-315b3cfd106e",
-      "name": "PEOPLE&APOS;S OPTICS",
-      "address": "622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-05,  S521622;",
-      "postalCode": "521622",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.3610618534932,
-      "LON": 103.940017022156,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2023-02-27"
     },
     {
       "id": "merchant_cde33b6d-eff8-48dd-bd20-dcb55a329bb4",
@@ -357360,6 +357460,26 @@
         }
       },
       "lastResetDate": "2025-06-13"
+    },
+    {
+      "id": "merchant_892413c4-3dd3-4f98-b878-257d42c9758a",
+      "entityId": "merchant_892413c4-3dd3-4f98-b878-257d42c9758a",
+      "name": "PRINCE HAIR SALON",
+      "address": "66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-519,  S330066;",
+      "postalCode": "330066",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32053917107956,
+      "LON": 103.86969083666,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_530db5e9-1b10-48f2-a5a1-ff4972f0fa02",
@@ -378659,7 +378779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-12-12"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_a14c34be-a59a-4b9b-935e-9b5ffc9d6da8",
@@ -379299,7 +379419,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-28"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_003ec406-4f78-4cbe-95a2-be7cf2486f34",
@@ -390185,11 +390305,11 @@
       "id": "merchant_f3ee8167-2ddb-4496-bcd3-7315eeddd75f",
       "entityId": "merchant_f3ee8167-2ddb-4496-bcd3-7315eeddd75f",
       "name": "SHAHITH AR RAHEEQ",
-      "address": "170A Sengkang East Drive, #01-09 (ST 6),  S541170;",
-      "postalCode": "541170",
+      "address": "478 Tampines Street 44, #01-219,  S520478;",
+      "postalCode": "520478",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.3864108050086,
-      "LON": 103.908822177398,
+      "LAT": 1.3611863066398,
+      "LON": 103.953084873919,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -390199,7 +390319,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-08-29"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_2416fa91-b5f7-4849-84ae-9649d83b8b30",
@@ -436082,6 +436202,26 @@
       "lastResetDate": "2021-12-28"
     },
     {
+      "id": "merchant_223e1d49-9805-4f85-9638-1c0720cc01ec",
+      "entityId": "merchant_223e1d49-9805-4f85-9638-1c0720cc01ec",
+      "name": "TEOCHEW BAK CHOR MEE",
+      "address": "548 Woodlands Drive 44, 9,  S730548;",
+      "postalCode": "730548",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43044361849124,
+      "LON": 103.793804884379,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-10"
+    },
+    {
       "id": "merchant_2f43af7d-31b5-45e4-96b7-d835aa8ab12d",
       "entityId": "merchant_2f43af7d-31b5-45e4-96b7-d835aa8ab12d",
       "name": "TEOCHEW BRAISED DUCK RICE",
@@ -473079,7 +473219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-28"
+      "lastResetDate": "2026-09-10"
     },
     {
       "id": "merchant_f1d91781-1a70-4758-a139-91cbefea80c5",

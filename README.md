@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-11
+
+</summary>
+
+Total locations: 25,761 → 25,768
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FENG HUANG ROAST GOURMET | 204 Bedok North Street 1,  S460204; | <span title="1.32635909520616,103.929995919076">1.32636, 103.93000</span> |
+  | FU REN JIA(YISHUN 418) | 418 Yishun Avenue 11,  S760418; | <span title="1.4248993192219,103.847249789758">1.42490, 103.84725</span> |
+  | KIDIFY | 377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #01-27,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | LIXIANG NOODLE HOUSE | 267 Compassvale Link, ST4,  S540267; | <span title="1.38374441748547,103.897046557237">1.38374, 103.89705</span> |
+  | MOUNT ZION HAINANESE CHICKEN RICE | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | PRINCE HAIR SALON | 66 Kallang Bahru Geylang Bahru Ville Singapore 330066, #01-519,  S330066; | <span title="1.32053917107956,103.86969083666">1.32054, 103.86969</span> |
+  | TEOCHEW BAK CHOR MEE | 548 Woodlands Drive 44, 9,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ENGKEE CHICKEN WINGS (293 YISHUN)</del><br>ENGKEE CHICKEN WINGS | <del>293 Yishun Street 22,  S760293;</del><br>416 Bedok North Avenue 2, #01-53,  S460416; | <del title="1.43611425409216,103.837605235958">1.43611, 103.83761</del><br><span title="1.32840382815915,103.930684870347">1.32840, 103.93068</span> |
+  | <del>HOME STYLE ECONOMICAL RICE</del><br>MACPHERSON BBQ (JACKSON MARKET) | 49A Serangoon Road, Serangoon Garden Market, #01-41,  S555495; | <span title="1.35623271657844,103.859182470943">1.35623, 103.85918</span> |
+  | <del>PEOPLE&APOS;S OPTICS</del><br>PEOPLE'S OPTICS | 622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-05,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | SHAHITH AR RAHEEQ | <del>170A Sengkang East Drive, #01-09 (ST 6),  S541170;</del><br>478 Tampines Street 44, #01-219,  S520478; | <del title="1.3864108050086,103.908822177398">1.38641, 103.90882</del><br><span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-10
 
 </summary>
