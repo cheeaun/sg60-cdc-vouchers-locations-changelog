@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "11 Sep 2026",
+  "lastUpdated": "12 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -209642,6 +209642,26 @@
       "lastResetDate": "2025-05-29"
     },
     {
+      "id": "merchant_279cc151-51d4-4541-97fe-018913ccb8f2",
+      "entityId": "merchant_279cc151-51d4-4541-97fe-018913ccb8f2",
+      "name": "HONGWEI SEAFOOD (TPY 94)",
+      "address": "94 Lorong 4 Toa Payoh,  S310094;",
+      "postalCode": "310094",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33889442783825,
+      "LON": 103.849538318068,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-11"
+    },
+    {
       "id": "merchant_7f6e8edd-4a8a-40d3-8740-63bc6ab07d23",
       "entityId": "merchant_7f6e8edd-4a8a-40d3-8740-63bc6ab07d23",
       "name": "HONGXING FISHBALL JE132",
@@ -216920,6 +216940,26 @@
         }
       },
       "lastResetDate": "2023-10-04"
+    },
+    {
+      "id": "merchant_142d78a2-f131-4d35-859f-f63dc2b4abc4",
+      "entityId": "merchant_142d78a2-f131-4d35-859f-f63dc2b4abc4",
+      "name": "HYPER DRINK STALL",
+      "address": "31 Commonwealth Crescent, #02-73,  S149644;",
+      "postalCode": "149644",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30690013206335,
+      "LON": 103.800367271218,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-11"
     },
     {
       "id": "merchant_db58a684-3be9-4b51-84f5-e98ed47bc57c",
@@ -475142,6 +475182,26 @@
       "lastResetDate": "2022-03-10"
     },
     {
+      "id": "merchant_03150360-aa6b-4c12-934b-2b5af95e15a7",
+      "entityId": "merchant_03150360-aa6b-4c12-934b-2b5af95e15a7",
+      "name": "WARUNG BUK UMMI - BISHAN",
+      "address": "150 Bishan Street 11,  S570150;",
+      "postalCode": "570150",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34452706951365,
+      "LON": 103.855213610381,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-11"
+    },
+    {
       "id": "merchant_cb2ec6d8-8f42-4cfa-aeeb-8a4c34693b9a",
       "entityId": "merchant_cb2ec6d8-8f42-4cfa-aeeb-8a4c34693b9a",
       "name": "WARUNG DIM SUM",
@@ -492160,6 +492220,26 @@
         }
       },
       "lastResetDate": "2024-10-15"
+    },
+    {
+      "id": "merchant_9f8e7a54-fc78-4248-ba87-a5581aee8e56",
+      "entityId": "merchant_9f8e7a54-fc78-4248-ba87-a5581aee8e56",
+      "name": "XUAN YUAN VEGETARIAN TG286",
+      "address": "286E Toh Guan Road,  S605286;",
+      "postalCode": "605286",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33926892716701,
+      "LON": 103.745167769149,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-11"
     },
     {
       "id": "merchant_c6f8953f-9375-4757-bd6d-a7b11e505e09",

@@ -13,6 +13,27 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-12
+
+</summary>
+
+Total locations: 25,768 → 25,772
+
+- <details><summary>Added (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HONGWEI SEAFOOD (TPY 94) | 94 Lorong 4 Toa Payoh,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | HYPER DRINK STALL | 31 Commonwealth Crescent, #02-73,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | WARUNG BUK UMMI - BISHAN | 150 Bishan Street 11,  S570150; | <span title="1.34452706951365,103.855213610381">1.34453, 103.85521</span> |
+  | XUAN YUAN VEGETARIAN TG286 | 286E Toh Guan Road,  S605286; | <span title="1.33926892716701,103.745167769149">1.33927, 103.74517</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-11
 
 </summary>
