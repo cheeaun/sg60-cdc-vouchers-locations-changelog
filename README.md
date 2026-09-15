@@ -13,6 +13,52 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-15
+
+</summary>
+
+Total locations: 25,772 → 25,791
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 201D CHEF CHICKEN CR | 201D Tampines Street 21,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+  | A CUT ABOVE SALON | 208 New Upper Changi Road Bedok Town Centre Singapore 460208, #01-657,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | AH MA CHI MIAN EXPRESS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | ANNA K. BEAUTY & HAIR SALON | 208 New Upper Changi Road Bedok Town Centre Singapore 460208, #01-659,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+  | DING FENG MIXED VEG RICE | 511 Hougang Avenue 10,  S530511; | <span title="1.37207420608508,103.888728981515">1.37207, 103.88873</span> |
+  | ENYA HOUSE JE259 | 259 Jurong East Street 24 Hdb-jurong East Singapore 600259, #01-443C,  S600259; | <span title="1.34417454623856,103.739875551045">1.34417, 103.73988</span> |
+  | FENG SHAN - 91 JS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | FIVE TEN WESTERN GRILL - 91 JS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | HEI KITCHEN | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | KLANG BAK KUT TEH - 91 JS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | LAO XIANG MALA XIANG GUO - 91 JS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | MAN-NA TRADITIONAL HOKKIEN MEE (111) | 111 Woodlands Street 13,  S730111; | <span title="1.43794381732231,103.782059433742">1.43794, 103.78206</span> |
+  | PENYET BRO | 861 North Bridge Road, #01-91,  S198783; | <span title="1.30563433652207,103.863909336656">1.30563, 103.86391</span> |
+  | RRR CUTS & STYLES (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3675,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | SANVISHA MINIMART | 57 Marine Terrace Dbs Marine Terrace Singapore 440057, #01-123B,  S440057; | <span title="1.30624749596698,103.915275474904">1.30625, 103.91528</span> |
+  | SIN LONG JI RICE.NOODLE - 91 JS | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | TOOFUS DENTAL (TPY 83) | 83 Lorong 2 Toa Payoh Hdb-toa Payoh Singapore 310083, #01-459,  S310083; | <span title="1.33578791220733,103.847991955843">1.33579, 103.84799</span> |
+  | WELCOME SUPERMARKET 416 | 416 Pandan Gardens Singapore 600416, #01-129,  S600416; | <span title="1.3210261097978,103.748313133948">1.32103, 103.74831</span> |
+  | XUAN BEAUTY (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3657,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>DING JIAN ROASTED 279 BBE</del><br>DING JIAN 740 BEDOK | <del>279 Bukit Batok East Avenue 3,  S650279;</del><br>740 Bedok Reservoir Road, #01-3143,  S470740; | <del title="1.3481605165343,103.757337287929">1.34816, 103.75734</del><br><span title="1.3380258563727,103.922835001967">1.33803, 103.92284</span> |
+  | HONG KONG STREET SEAFOOD | <del>152A Bedok Sth Road,  S461152;</del><br>110 Lengkong Tiga, #01-239,  S410110; | <del title="1.31767817684758,103.947397456277">1.31768, 103.94740</del><br><span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+  | LUCKY HEIGHTS WESTERN | <del>152A Bedok Sth Road,  S461152;</del><br>110 Lengkong Tiga, #01-239,  S410110; | <del title="1.31767817684758,103.947397456277">1.31768, 103.94740</del><br><span title="1.32387836492081,103.910715006466">1.32388, 103.91072</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-12
 
 </summary>
