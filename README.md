@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-16
+
+</summary>
+
+Total locations: 25,791 → 25,806
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | #28/29 ZAID MEAT STORE | 548 Woodlands Drive 44, 28,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | AJ DELIGHTS (REDHILL) | 85 Redhill Lane, #01-16,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | AL QUBA INDIAN MUSLIM FOOD (T610) | 610 Tampines North Drive 1,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+  | GAGA ROASTED DELIGHTS (256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | HJH LYN SHARIN (BEDOK218) | 218 Bedok North Street 1,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | HYPERFUME | 270 Queen Street, #03-12,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | INDIAN MUSLIM FOOD | 32 Defu Lane 10,  S539213; | <span title="1.35105565771311,103.89176877097">1.35106, 103.89177</span> |
+  | J TEAM HAIR STUDIO (T622A) | 622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-06,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | K2 BEAUTY HOME | 308 Anchorvale Road Dbs Anchorvale Road Singapore 540308, #01-04,  S540308; | <span title="1.38955848510235,103.886426650492">1.38956, 103.88643</span> |
+  | KING DAE BAK KOREAN & JAPANESE CUISINE (256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | MING FEI MALA CUISINE 165 | 165 Bukit Merah Central,  S150165; | <span title="1.2829569880635,103.816934790553">1.28296, 103.81693</span> |
+  | PUNGGOL FRIED RICE (PCHC) | 84 Punggol Way, #02-71,  S829911; | <span title="1.41455331350836,103.908235308668">1.41455, 103.90824</span> |
+  | SONG FU JAPANESE RAMEN (T478) | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | THE LOCAL DOCTOR CLINIC ( CLEMENTI) PTE LTD | 612 Clementi West Street 1 Hdb-clementi Singapore 120612, #01-304,  S120612; | <span title="1.303442198537,103.768633365525">1.30344, 103.76863</span> |
+  | XING LONG FISH SOUP - BB347 | 347 Bukit Batok Street 34,  S650347; | <span title="1.36227034200422,103.75119293891">1.36227, 103.75119</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHARNG THAI STREET FOOD | <del>312 Sumang Link, #01-05,  S821312;</del><br>504 Bishan Street 11, #01-444,  S570504; | <del title="1.41081926900094,103.900371677782">1.41082, 103.90037</del><br><span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-15
 
 </summary>
