@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-17
+
+</summary>
+
+Total locations: 25,806 → 25,819
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAK KEE TEOCHEW SATAY BEEHOON | 324 Bukit Batok Street 33,  S650324; | <span title="1.36216472766267,103.747628122263">1.36216, 103.74763</span> |
+  | BORDERLESSBUTTER | 713A Ang Mo Kio Avenue 6, #01-05,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | CRUST GOURMET PIZZA | 215 Upper Thomson Road, #01-215R,  S574349; | <span title="1.35222366774849,103.834995268368">1.35222, 103.83500</span> |
+  | DING XIANG (126) DIM SUM | 126 Canberra Street, 01,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | GOLDEN STITCH - SIMS PLACE | 49 Sims Place, #01-76,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | HN MART ( TP142) | 142 Tampines Street 12 Hdb-tampines Singapore 521142, #01-01,  S521142; | <span title="1.3486971218162,103.9448596214717">1.34870, 103.94486</span> |
+  | HOME & LIFESTYLE (TP 826) | 826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-80,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+  | LAU PA SAT PIG'S ORGAN SOUP (MM) | 4 Woodlands Street 12, #01-070,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | LIM KEE MEEPOK | 126 Canberra Street, 2,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | MUNEY BEAN | 927 Yishun Central 1 Hdb-yishun Singapore 760927, #01-163,  S760927; | <span title="1.42767464529376,103.837731455467">1.42767, 103.83773</span> |
+  | PANCAKE KING (3014) | 3014 Ubi Road 1,  S408702; | <span title="1.3302851056327,103.894276496981">1.33029, 103.89428</span> |
+  | SEABAY DELIGHTS ( TP824) | 824 Tampines Street 81,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | TONG XING FOOD STALL | 44 Holland Drive, #01-17,  S270044; | <span title="1.30811780015992,103.792773769341">1.30812, 103.79277</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SALMAH'S KITCHEN</del><br>HAJI MAHMUDA NASI PADANG | <del>1 Geylang Serai, 167,  S402001;</del><br>1 Geylang Serai, #02-167,  S402001; | <span title="1.31672515005311,103.897977411392">1.31673, 103.89798</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-16
 
 </summary>
