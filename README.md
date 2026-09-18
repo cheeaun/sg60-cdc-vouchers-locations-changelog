@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-18
+
+</summary>
+
+Total locations: 25,819 → 25,830
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP (643 SENJA) | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | BOMBAY LAH! (MARGARET DRIVE) | 38A Margaret Drive, #02-35,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | BUI BUI WESTERN | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | EATTITUDE | Jtc 1 North Coast Avenue, S04,  S737663; | <span title="1.44654348385282,103.791383739642">1.44654, 103.79138</span> |
+  | GENERAL 66 STIR FRY | 530 Ang Mo Kio Avenue 10,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | JU XIANG BAK KUT TEH | 530 Ang Mo Kio Avenue 10,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | MEDIHEALTH CLINIC AND SURGERY (KALLANG BAHRU) | 71 Kallang Bahru Singapore 330071, #01-529,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | MR BEAN CHONG PANG | 103 Yishun Ring Road Singapore 760103, #01-53,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | REDDIE SEAFOOD -146 TECK WHYE | 146 Teck Whye Avenue Singapore 680146, #01-175,  S680146; | <span title="1.3811166785123,103.752527098337">1.38112, 103.75253</span> |
+  | SE7EN CLAYPOT | 17 Upper Boon Keng Road, #01-02,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | SWEE SWEE YONG TO FU | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>IN LOVE BEAUTY</del><br>AX BEAUTY | 214 Serangoon Avenue 4, #01-102,  S550214; | <span title="1.35732435176205,103.873633486803">1.35732, 103.87363</span> |
+  | <del>PRIMA DELI (494 JURONG WEST)</del><br>PRIMA DELI (PUNGGOL PLAZA) | <del>494 Jurong West Street 41 Dbs Jurong West Street 41 Singapore 640494, #01-130,  S640494;</del><br>168 Punggol Field, Punggol Plaza, #01-18,  S820168; | <del title="1.34950750219884,103.724914014154">1.34951, 103.72491</del><br><span title="1.39417447299355,103.913120037036">1.39417, 103.91312</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-17
 
 </summary>
