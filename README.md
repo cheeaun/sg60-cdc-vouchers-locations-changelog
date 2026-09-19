@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-19
+
+</summary>
+
+Total locations: 25,830 → 25,843
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 0090 NAIL STUDIO | 414 Yishun Ring Road Singapore 760414, #01-1831A,  S760414; | <span title="1.42452849741737,103.846595546746">1.42453, 103.84660</span> |
+  | AL SHAFAH 207 | 207 Bukit Batok Street 21,  S650207; | <span title="1.34624866176031,103.749382188265">1.34625, 103.74938</span> |
+  | BURGERPREK | 883 Woodlands Street 82, 23,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | DOODEEDUM | 713A Ang Mo Kio Avenue 6, #01-14,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | FIVE TEN (SN 151) | 151 Serangoon North Avenue 2,  S550151; | <span title="1.36934535015796,103.873778334096">1.36935, 103.87378</span> |
+  | HENG GI COFFEE STALL@TEKKA | 665 Buffalo Road, #01-334,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | PIN SIN KOREAN AND JAPANESE CUISINE (301 PUNGGOL) | 301 Punggol Central,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+  | PRIMA DELI ( TP828) | 828 Tampines Street 81 Hdb-tampines Singapore 520828, #01-250,  S520828; | <span title="1.34893084103853,103.934588111014">1.34893, 103.93459</span> |
+  | PRIMA DELI (T866A) | 866A Tampines Street 83 Dbs Ntuc Tampines Central Community Club Singapore 521866, #01-01,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | PURRFECT COLLECTIVE | 463 Crawford Lane Crawford Court Singapore 190463, #01-19A,  S190463; | <span title="1.30505411579746,103.861916751532">1.30505, 103.86192</span> |
+  | SKW UNITY (325) | 325 Woodlands Street 32 Hdb-woodlands Singapore 730325, #01-135,  S730325; | <span title="1.43078891155605,103.779517722142">1.43079, 103.77952</span> |
+  | STR JAPAN (T622A) | 622A Tampines Avenue 12 Tampines Greenverge Singapore 521622, #01-03,  S521622; | <span title="1.3610618534932,103.940017022156">1.36106, 103.94002</span> |
+  | WANSHI OK EGG RICE BOWL@SP | 500 Dover Road, St15,  S139651; | <span title="1.30787792644497,103.7795746708">1.30788, 103.77957</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 207 AL-MADINA | <del>207 Bukit Batok Street 21,  S650207;</del><br>496 Jurong West Street 41, #01-84,  S640496; | <del title="1.34624866176031,103.749382188265">1.34625, 103.74938</del><br><span title="1.34998960720747,103.723836476095">1.34999, 103.72384</span> |
+  | <del>UAN FANG BB477</del><br>BING FANG 174 HOUGANG | <del>447 Bukit Batok West Avenue 9,  S650447;</del><br>174C Hougang Ave 1, #01-01,  S533174; | <del title="1.35269613917058,103.739809933376">1.35270, 103.73981</del><br><span title="1.34912217494098,103.889093320959">1.34912, 103.88909</span> |
+  | U & ME TEA | <del>Teck Whye Lane, #01-253,  S680141;</del><br>Teck Whye Lane, #01-333C,  S680139; | <del title="1.38041161319004,103.75257991701">1.38041, 103.75258</del><br><span title="1.38022680750527,103.752577308156">1.38023, 103.75258</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-18
 
 </summary>
