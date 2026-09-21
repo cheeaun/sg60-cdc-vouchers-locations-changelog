@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-21
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HOCK KEE PRAWN NOODLES | <del>80 Marine Parade Central, #01-770,  S440080;</del><br>211 Lorong 8 Toa Payoh, #01-01,  S310211; | <del title="1.30248202632175,103.9077387936">1.30248, 103.90774</del><br><span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-19
 
 </summary>

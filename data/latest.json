@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20 Sep 2026",
+  "lastUpdated": "21 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -202785,11 +202785,11 @@
       "id": "merchant_15678171-85b3-4975-ad4f-f9c8e0f4b4a2",
       "entityId": "merchant_15678171-85b3-4975-ad4f-f9c8e0f4b4a2",
       "name": "HOCK KEE PRAWN NOODLES",
-      "address": "80 Marine Parade Central, #01-770,  S440080;",
-      "postalCode": "440080",
+      "address": "211 Lorong 8 Toa Payoh, #01-01,  S310211;",
+      "postalCode": "310211",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30248202632175,
-      "LON": 103.9077387936,
+      "LAT": 1.34042178857688,
+      "LON": 103.853768900549,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -202799,7 +202799,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-03-06"
+      "lastResetDate": "2026-09-20"
     },
     {
       "id": "merchant_5faeb4a5-7d82-41e2-baf0-20e025aa2931",
