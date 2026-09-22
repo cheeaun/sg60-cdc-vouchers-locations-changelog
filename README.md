@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-22
+
+</summary>
+
+Total locations: 25,843 → 25,853
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1008 WANTON NOODLES | 285 Yishun Avenue 6,  S760285; | <span title="1.43993982621554,103.839382313028">1.43994, 103.83938</span> |
+  | CARING MEDICAL TG289 | 289A Toh Guan Road Toh Guan Grove, #01-04,  S601289; | <span title="1.34017411800651,103.745233260585">1.34017, 103.74523</span> |
+  | DELI DELIGHT HAINAN WESTERN | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | ESILK | 377 Hougang Street 32 Hougang Rivercourt Singapore 530377, #01-21,  S530377; | <span title="1.36274853896076,103.894907010198">1.36275, 103.89491</span> |
+  | HAINANESE CURRY RICE | 2 Changi Village Road, #01-40,  S500002; | <span title="1.38915166172556,103.988245236848">1.38915, 103.98825</span> |
+  | KUAN ZHAI EATERY | 505 Tampines Central 1, #01-351,  S520505; | <span title="1.3555484823662,103.945616071023">1.35555, 103.94562</span> |
+  | MIZU KURIA JAPANESE CUISINE (107AMK) | 107 Ang Mo Kio Avenue 4,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | NOOK.57 COFFEE | 57A New Upper Changi Road Singapore 462057, #01-1370,  S462057; | <span title="1.32371678676907,103.94128871491">1.32372, 103.94129</span> |
+  | SHENG YUAN COFFEEHOUSE | 505 West Coast Drive,  S120505; | <span title="1.31228054125456,103.759981529056">1.31228, 103.75998</span> |
+  | WESTERN FOOD (SIMEI) | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BING FANG 174 HOUGANG</del><br>BING FANG WANTON NOODLE | 174C Hougang Ave 1, #01-01,  S533174; | <span title="1.34912217494098,103.889093320959">1.34912, 103.88909</span> |
+  | <del>ANT TCM WELLNESS</del><br>SKYLINE WELLNESS 123 | <del>123 Hougang Ave 1, 01-1430,  S530123;</del><br>123 Hougang Ave 1 #01-1430, 01-1430,  S530123; | <span title="1.35338313541393,103.886258951798">1.35338, 103.88626</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-21
 
 </summary>
