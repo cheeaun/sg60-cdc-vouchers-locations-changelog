@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-23
+
+</summary>
+
+Total locations: 25,853 → 25,861
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 233 MINI MART | 233 Tampines Street 21 Hdb-tampines Singapore 521233, #01-K1,  S521233; | <span title="1.356409335806168,103.9475286769826">1.35641, 103.94753</span> |
+  | BIJILI BHAI INDIAN MUSLIM FOOD | 81 Marine Parade Central, #01-654,  S440081; | <span title="1.30264128647966,103.907073248351">1.30264, 103.90707</span> |
+  | EMILY'S CAMPING & INDUSTRIAL SUPPLY | 505 Beach Road, #02-123,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | HAPPYTIME DESSERTS | 202C Woodleigh Link, #01-13,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | MD FAMILY CLINIC (TAMPINES) | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-116,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE@530 AMK | 530 Ang Mo Kio Avenue 10, ST5,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | ROJAK & POPIAH 653A PUNGGOL DRIVE | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | VAN HE SALON | 108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1279A,  S530108; | <span title="1.35277393315533,103.890093177026">1.35277, 103.89009</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | RUAN FANG WANTON NOODLE | <del>151 Serangoon North Avenue 2, #01-41,  S550151;</del><br>85 Bedok North Street 4, #01-02,  S460085; | <del title="1.36934535015796,103.873778334096">1.36935, 103.87378</del><br><span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | <del>SHIXIANG KITCHEN</del><br>SHUXIANG KITCHEN | 51 Hougang Avenue 9, #01-37,  S538776; | <span title="1.37532253773567,103.88293193004">1.37532, 103.88293</span> |
+  | SKYLINE WELLNESS 123 | <del>123 Hougang Ave 1 #01-1430, 01-1430,  S530123;</del><br>123 Hougang Ave 1, #01-1430,  S530123; | <span title="1.35338313541393,103.886258951798">1.35338, 103.88626</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-22
 
 </summary>

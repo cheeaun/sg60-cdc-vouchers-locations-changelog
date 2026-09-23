@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Sep 2026",
+  "lastUpdated": "23 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -11860,6 +11860,26 @@
         }
       },
       "lastResetDate": "2023-12-29"
+    },
+    {
+      "id": "merchant_414399a7-fdea-4299-9cd6-4884e0d4da83",
+      "entityId": "merchant_414399a7-fdea-4299-9cd6-4884e0d4da83",
+      "name": "233 MINI MART",
+      "address": "233 Tampines Street 21 Hdb-tampines Singapore 521233, #01-K1,  S521233;",
+      "postalCode": "521233",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.356409335806168,
+      "LON": 103.9475286769826,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_23898761-1d38-4508-be4a-7fc68ac5f16a",
@@ -71260,6 +71280,26 @@
         }
       },
       "lastResetDate": "2025-11-06"
+    },
+    {
+      "id": "merchant_53db3235-339a-462e-984c-7a1be23a1cbe",
+      "entityId": "merchant_53db3235-339a-462e-984c-7a1be23a1cbe",
+      "name": "BIJILI BHAI INDIAN MUSLIM FOOD",
+      "address": "81 Marine Parade Central, #01-654,  S440081;",
+      "postalCode": "440081",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30264128647966,
+      "LON": 103.907073248351,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_1215b4ab-5a07-4a0d-9baa-3a9191ebce04",
@@ -136542,6 +136582,26 @@
       "lastResetDate": "2022-01-18"
     },
     {
+      "id": "merchant_19678864-0a5b-427f-9ab8-4677872e3942",
+      "entityId": "merchant_19678864-0a5b-427f-9ab8-4677872e3942",
+      "name": "EMILY'S CAMPING & INDUSTRIAL SUPPLY",
+      "address": "505 Beach Road, #02-123,  S199583;",
+      "postalCode": "199583",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30314151533241,
+      "LON": 103.863877368653,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
+    },
+    {
       "id": "merchant_ae72a895-8686-45ae-94d7-03005845c367",
       "entityId": "merchant_ae72a895-8686-45ae-94d7-03005845c367",
       "name": "EMILY'S HEAVENLY NAILS",
@@ -191060,6 +191120,26 @@
         }
       },
       "lastResetDate": "2025-11-05"
+    },
+    {
+      "id": "merchant_3b934610-7f29-423e-9a9a-b0b30ffaf551",
+      "entityId": "merchant_3b934610-7f29-423e-9a9a-b0b30ffaf551",
+      "name": "HAPPYTIME DESSERTS",
+      "address": "202C Woodleigh Link, #01-13,  S363202;",
+      "postalCode": "363202",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33979101407355,
+      "LON": 103.872013773148,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_dcb2a31b-2f99-427e-8716-6e7984e05754",
@@ -300702,6 +300782,26 @@
       "lastResetDate": "2022-01-12"
     },
     {
+      "id": "merchant_c04d41ab-6815-4841-ac20-3bad945bf007",
+      "entityId": "merchant_c04d41ab-6815-4841-ac20-3bad945bf007",
+      "name": "MD FAMILY CLINIC (TAMPINES)",
+      "address": "201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-116,  S527201;",
+      "postalCode": "527201",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35292162536007,
+      "LON": 103.953858335355,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
+    },
+    {
       "id": "merchant_f77f6ccc-d1e9-4c66-a733-86d18e2eabc0",
       "entityId": "merchant_f77f6ccc-d1e9-4c66-a733-86d18e2eabc0",
       "name": "MD FAMILY CLINIC (YISHUN 160)",
@@ -338682,6 +338782,26 @@
       "lastResetDate": "2025-11-14"
     },
     {
+      "id": "merchant_a473507c-8026-4f2d-9746-96ea7dcfbcd1",
+      "entityId": "merchant_a473507c-8026-4f2d-9746-96ea7dcfbcd1",
+      "name": "OLD STREET SCISSORS CUT CURRY RICE@530 AMK",
+      "address": "530 Ang Mo Kio Avenue 10, ST5,  S560530;",
+      "postalCode": "560530",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37273243763236,
+      "LON": 103.85527326009,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
+    },
+    {
       "id": "merchant_ace77326-db77-42ab-8371-0c191b20ffe5",
       "entityId": "merchant_ace77326-db77-42ab-8371-0c191b20ffe5",
       "name": "OLD TIMES",
@@ -373842,6 +373962,26 @@
       "lastResetDate": "2025-06-04"
     },
     {
+      "id": "merchant_e7e6d327-d8c0-4198-b6c3-0a5805c52bc5",
+      "entityId": "merchant_e7e6d327-d8c0-4198-b6c3-0a5805c52bc5",
+      "name": "ROJAK & POPIAH 653A PUNGGOL DRIVE",
+      "address": "653A Punggol Drive,  S821653;",
+      "postalCode": "821653",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39791727536559,
+      "LON": 103.91930782216,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
+    },
+    {
       "id": "merchant_cdf633f1-519e-4b41-abb3-8ba8158f7e3b",
       "entityId": "merchant_cdf633f1-519e-4b41-abb3-8ba8158f7e3b",
       "name": "ROJAK & SATAY (AFTERNOON STALL)",
@@ -377085,11 +377225,11 @@
       "id": "merchant_c210ef4f-b1dc-4120-a1e4-19f499aadcc8",
       "entityId": "merchant_c210ef4f-b1dc-4120-a1e4-19f499aadcc8",
       "name": "RUAN FANG WANTON NOODLE",
-      "address": "151 Serangoon North Avenue 2, #01-41,  S550151;",
-      "postalCode": "550151",
+      "address": "85 Bedok North Street 4, #01-02,  S460085;",
+      "postalCode": "460085",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36934535015796,
-      "LON": 103.873778334096,
+      "LAT": 1.33200482399436,
+      "LON": 103.93876843919,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -377099,7 +377239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-07-27"
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_fce37f50-c8ef-4964-8c6f-f74390dc7f9a",
@@ -396722,26 +396862,6 @@
       "lastResetDate": "2025-10-01"
     },
     {
-      "id": "merchant_a0554ca9-1a51-41c4-95f4-33eeba702eae",
-      "entityId": "merchant_a0554ca9-1a51-41c4-95f4-33eeba702eae",
-      "name": "SHIXIANG KITCHEN",
-      "address": "51 Hougang Avenue 9, #01-37,  S538776;",
-      "postalCode": "538776",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37532253773567,
-      "LON": 103.88293193004,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-03-19"
-    },
-    {
       "id": "merchant_e2f2ecac-2746-4c02-9c6d-e7f8206672b1",
       "entityId": "merchant_e2f2ecac-2746-4c02-9c6d-e7f8206672b1",
       "name": "SHOCK JAPANESE & KOREAN CUISINE - 309 CCK",
@@ -398940,6 +399060,26 @@
         }
       },
       "lastResetDate": "2024-12-19"
+    },
+    {
+      "id": "merchant_a0554ca9-1a51-41c4-95f4-33eeba702eae",
+      "entityId": "merchant_a0554ca9-1a51-41c4-95f4-33eeba702eae",
+      "name": "SHUXIANG KITCHEN",
+      "address": "51 Hougang Avenue 9, #01-37,  S538776;",
+      "postalCode": "538776",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37532253773567,
+      "LON": 103.88293193004,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_4588b6a7-baef-4e33-8136-d33e0a670191",
@@ -407325,7 +407465,7 @@
       "id": "merchant_82e1a24c-0732-4e92-bdd8-efbfe26c5c3b",
       "entityId": "merchant_82e1a24c-0732-4e92-bdd8-efbfe26c5c3b",
       "name": "SKYLINE WELLNESS 123",
-      "address": "123 Hougang Ave 1 #01-1430, 01-1430,  S530123;",
+      "address": "123 Hougang Ave 1, #01-1430,  S530123;",
       "postalCode": "530123",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.35338313541393,
@@ -407339,7 +407479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-21"
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_25718231-84fe-4620-b699-76481e8b82e7",
@@ -467560,6 +467700,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_7b5095db-cc86-4940-ae75-f0293c114454",
+      "entityId": "merchant_7b5095db-cc86-4940-ae75-f0293c114454",
+      "name": "VAN HE SALON",
+      "address": "108 Hougang Avenue 1 Hdb-hougang Singapore 530108, #01-1279A,  S530108;",
+      "postalCode": "530108",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35277393315533,
+      "LON": 103.890093177026,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-22"
     },
     {
       "id": "merchant_c7019014-1e86-4197-852a-cb8e010c1f16",
