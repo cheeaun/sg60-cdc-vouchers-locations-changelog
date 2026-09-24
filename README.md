@@ -13,6 +13,44 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-24
+
+</summary>
+
+Total locations: 25,861 → 25,871
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACE FRESH | 477 Tampines Street 43 Hdb-tampines Singapore 520477, #01-158,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | AUTHENTIC SARAWAK KOLO MEE & LAKSA | 85 Redhill Lane, #01-59,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | BABY ANGEL | 713A Ang Mo Kio Avenue 6, #01-10,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | CHATTERS -PP | 302 Tengah Park Avenue, #01-01,  S690302; | <span title="1.36062515100842,103.738767971079">1.36063, 103.73877</span> |
+  | FEEL 5 | 186 Toa Payoh Central Toa Payoh Central Singapore 310186, #01-430,  S310186; | <span title="1.3326539531256,103.85021164455">1.33265, 103.85021</span> |
+  | HI LITE KEBAB CAFE- TELOK BLANGAH | 12 Telok Blangah Crescent Hdb-bukit Merah Singapore 090012, #01-95,  S090012; | <span title="1.27718546024846,103.819516181006">1.27719, 103.81952</span> |
+  | MING JI MIX RICE | 69 Geylang Bahru, #01-07,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | SELESA SEDAP CHICKEN RICE | 31 Kelantan Lane,  S200031; | <span title="1.30630368530972,103.856826784017">1.30630, 103.85683</span> |
+  | YI PIN TANG | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | YUAN DIAN WORKSHOP | 361 Sembawang Crescent Sun Natura Singapore 750361, #01-06,  S750361; | <span title="1.44631506781839,103.813936813705">1.44632, 103.81394</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>CHICKEN RICE</del><br>HAI NAN XING | <del>263 Compassvale Street, ST05,  S540263;</del><br>638A Jurong Wes Street 61, #01-22,  S641638; | <del title="1.39484816528775,103.896042268385">1.39485, 103.89604</del><br><span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | KIM FRUIT JUICE | <del>633 Bukit Batok Central Singapore 650633, #01-130,  S650633;</del><br>634 Bukit Batok Central Singapore 650634, #01-112,  S650634; | <del title="1.34915709980563,103.751134497377">1.34916, 103.75113</del><br><span title="1.34971147504309,103.751535988573">1.34971, 103.75154</span> |
+  | MISS THAI CHEF | <del>128 Lorong 1 Toa Payoh,  S310128;</del><br>308C Punggol Walk, #01-306,  S823308; | <del title="1.33781295353996,103.844331928876">1.33781, 103.84433</del><br><span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | POPO UNISEX HAIR & BEAUTY SALON | <del>Yishun Avenue 5, #01-29,  S760101;</del><br>110 Yishun Ring Road, #01-397A,  S760110; | <del title="1.4305357538408,103.827667722074">1.43054, 103.82767</del><br><span title="1.43376057937716,103.828993389444">1.43376, 103.82899</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-23
 
 </summary>
