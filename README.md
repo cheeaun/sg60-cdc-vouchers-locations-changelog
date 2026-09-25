@@ -13,6 +13,37 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-25
+
+</summary>
+
+Total locations: 25,871 → 25,877
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BRIYANI & KEBAB BY BIJAN | 631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-934,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | GOLDEN HOUR STEMS | 115 Bukit Merah View, #01-124,  S151115; | <span title="1.28550445567433,103.821823256087">1.28550, 103.82182</span> |
+  | HUA DEE HONG KONG STYLE ROASTED DELIGHT (BEDOK418) | 418 Bedok North Avenue 2,  S460418; | <span title="1.32856421177174,103.930036524233">1.32856, 103.93004</span> |
+  | PURELY NZ PET FOOD CO | 112 Bukit Purmei Road Bukit Purmei Ville Singapore 090112, #01-203,  S090112; | <span title="1.27452852560807,103.825932928075">1.27453, 103.82593</span> |
+  | SAVOURY FRAGRANT ECONOMIC VEGETABLE RICE | 335 Smith Street, #02-95,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | SERUMPUN | 1010 Tai Seng Avenue,  S534417; | <span title="1.33857145928786,103.891412428756">1.33857, 103.89141</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HAI NAN XING | <del>638A Jurong Wes Street 61, #01-22,  S641638;</del><br>638A Jurong West Street 61, #01-22,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-24
 
 </summary>

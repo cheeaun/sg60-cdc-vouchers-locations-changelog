@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "24 Sep 2026",
+  "lastUpdated": "25 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -2819,7 +2819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-07-13"
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_bbf38b3f-a3c7-4821-a7cb-b8edf77bd68a",
@@ -59979,7 +59979,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-10-21"
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_e716ff6c-ee8e-45c5-8307-b47f54be13a2",
@@ -78460,6 +78460,26 @@
         }
       },
       "lastResetDate": "2025-10-31"
+    },
+    {
+      "id": "merchant_2e8ab33e-2ffe-4d28-baf4-31b5fb8562dc",
+      "entityId": "merchant_2e8ab33e-2ffe-4d28-baf4-31b5fb8562dc",
+      "name": "BRIYANI & KEBAB BY BIJAN",
+      "address": "631 Bedok Reservoir Road Eunos Grove Singapore 470631, #01-934,  S470631;",
+      "postalCode": "470631",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33295873271663,
+      "LON": 103.914941831215,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_66fc0f97-8374-44f1-9c42-e0f4f0e1851a",
@@ -133359,7 +133379,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-01-24"
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_a7f801dc-9df7-4160-b412-1ba79ff7fc67",
@@ -172642,6 +172662,26 @@
       "lastResetDate": "2022-07-20"
     },
     {
+      "id": "merchant_98ac52c2-d77b-4760-880a-2d8ebdcf8dcd",
+      "entityId": "merchant_98ac52c2-d77b-4760-880a-2d8ebdcf8dcd",
+      "name": "GOLDEN HOUR STEMS",
+      "address": "115 Bukit Merah View, #01-124,  S151115;",
+      "postalCode": "151115",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28550445567433,
+      "LON": 103.821823256087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
+    },
+    {
       "id": "merchant_854096df-e472-4a6b-a140-da9c37bbb374",
       "entityId": "merchant_854096df-e472-4a6b-a140-da9c37bbb374",
       "name": "GOLDEN JADE H.K DESSERT CAFE (TAMPINES 474)",
@@ -182565,7 +182605,7 @@
       "id": "merchant_cfe48aa6-0642-42bd-9b07-91c393325558",
       "entityId": "merchant_cfe48aa6-0642-42bd-9b07-91c393325558",
       "name": "HAI NAN XING",
-      "address": "638A Jurong Wes Street 61, #01-22,  S641638;",
+      "address": "638A Jurong West Street 61, #01-22,  S641638;",
       "postalCode": "641638",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34195861016793,
@@ -182579,7 +182619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-23"
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_644954b6-417f-4448-936e-5ca26a9707a3",
@@ -213040,6 +213080,26 @@
         }
       },
       "lastResetDate": "2025-10-08"
+    },
+    {
+      "id": "merchant_a02f64b1-6bd9-49d1-b3d0-6a1695861bc0",
+      "entityId": "merchant_a02f64b1-6bd9-49d1-b3d0-6a1695861bc0",
+      "name": "HUA DEE HONG KONG STYLE ROASTED DELIGHT (BEDOK418)",
+      "address": "418 Bedok North Avenue 2,  S460418;",
+      "postalCode": "460418",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32856421177174,
+      "LON": 103.930036524233,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_2d60bfd3-5c5d-407d-8875-9518f997111e",
@@ -361282,6 +361342,26 @@
       "lastResetDate": "2022-01-19"
     },
     {
+      "id": "merchant_4ff85750-c8ed-4d7d-8da4-59c17a73e3c8",
+      "entityId": "merchant_4ff85750-c8ed-4d7d-8da4-59c17a73e3c8",
+      "name": "PURELY NZ PET FOOD CO",
+      "address": "112 Bukit Purmei Road Bukit Purmei Ville Singapore 090112, #01-203,  S090112;",
+      "postalCode": "090112",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27452852560807,
+      "LON": 103.825932928075,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
+    },
+    {
       "id": "merchant_ef68a0c6-1e7d-4a33-b9a7-46f24e614327",
       "entityId": "merchant_ef68a0c6-1e7d-4a33-b9a7-46f24e614327",
       "name": "PURPLE HAIR CLUB",
@@ -385202,6 +385282,26 @@
       "lastResetDate": "2024-07-18"
     },
     {
+      "id": "merchant_3e0fa01e-16b3-49a7-b9cf-460c95bd3429",
+      "entityId": "merchant_3e0fa01e-16b3-49a7-b9cf-460c95bd3429",
+      "name": "SAVOURY FRAGRANT ECONOMIC VEGETABLE RICE",
+      "address": "335 Smith Street, #02-95,  S050335;",
+      "postalCode": "050335",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2822749605271,
+      "LON": 103.843238518071,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
+    },
+    {
       "id": "merchant_43aaa772-22ba-4971-85c6-0cdc3caec89e",
       "entityId": "merchant_43aaa772-22ba-4971-85c6-0cdc3caec89e",
       "name": "SAVOURY SEAFOOD 542B",
@@ -390660,6 +390760,26 @@
         }
       },
       "lastResetDate": "2021-11-30"
+    },
+    {
+      "id": "merchant_18d5f82d-f573-419d-97e4-33ba8cb445ad",
+      "entityId": "merchant_18d5f82d-f573-419d-97e4-33ba8cb445ad",
+      "name": "SERUMPUN",
+      "address": "1010 Tai Seng Avenue,  S534417;",
+      "postalCode": "534417",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33857145928786,
+      "LON": 103.891412428756,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-24"
     },
     {
       "id": "merchant_d1f620f4-e74b-4d51-bdf8-3eac043eaf53",
