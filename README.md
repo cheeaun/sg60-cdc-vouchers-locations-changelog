@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-26
+
+</summary>
+
+Total locations: 25,877 → 25,882
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FASHION WORLD COLLECTION'S (MEN'S & LADIES WEAR) | 633 Veerasamy Road Lavender Meadows Academy Pte. Ltd. Singapore 200633, #01-108,  S200633; | <span title="1.30570669675965,103.854943251549">1.30571, 103.85494</span> |
+  | HONEYMILL | 713A Ang Mo Kio Avenue 6, #01-04,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | HUANG AH YI NOODLE STORE 253 /HAY 253 | 253 Choa Chu Kang Avenue 1, ST08,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | JIN LONG WU XIANG PRAWN CRACKERS | 530 Ang Mo Kio Avenue 10,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | SUPER GEPUK 1 - TAMPINES | 201D Tampines Street 21,  S524201; | <span title="1.35226231425316,103.953586491358">1.35226, 103.95359</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BORN HOKKIEN PRAWN MEE - BUKIT BATOK | <del>324 Bukit Batok Street 33,  S650324;</del><br>283 Bukit Batok East Ave 3, #01-285,  S650283; | <del title="1.36216472766267,103.747628122263">1.36216, 103.74763</del><br><span title="1.34694365753899,103.757539380939">1.34694, 103.75754</span> |
+  | <del>HELEN'S CLAYPOT 302</del><br>HELEN'S CLAYPOT | <del>302 Woodlands Street 31,  S730302;</del><br>35 Students Walk, Canteen 2 - Nanyang Technological University (ntu),  S639548; | <del title="1.43151114760042,103.774428425787">1.43151, 103.77443</del><br><span title="1.34842266576961,103.685434201207">1.34842, 103.68543</span> |
+  | <del>HONG KAO LIAO LI (291)</del><br>HONG KAO LIAO LI (417) | <del>291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-355,  S760291;</del><br>417 Yishun Avenue 11, #01-335,  S760417; | <del title="1.43576080400467,103.8367238745">1.43576, 103.83672</del><br><span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+  | <del>THE WOK MEN PTE LTD</del><br>XIONG KEE FAMOUS CARROT CAKE@ 529 AMK | 529 Ang Mo Kio Avenue 10,  S560529; | <span title="1.37234358233883,103.855455428073">1.37234, 103.85546</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-25
 
 </summary>

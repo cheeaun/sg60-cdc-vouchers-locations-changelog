@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "25 Sep 2026",
+  "lastUpdated": "26 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -75985,11 +75985,11 @@
       "id": "merchant_3618d943-cf66-4b28-a984-d3b4217ed13b",
       "entityId": "merchant_3618d943-cf66-4b28-a984-d3b4217ed13b",
       "name": "BORN HOKKIEN PRAWN MEE - BUKIT BATOK",
-      "address": "324 Bukit Batok Street 33,  S650324;",
-      "postalCode": "650324",
+      "address": "283 Bukit Batok East Ave 3, #01-285,  S650283;",
+      "postalCode": "650283",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36216472766267,
-      "LON": 103.747628122263,
+      "LAT": 1.34694365753899,
+      "LON": 103.757539380939,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -75999,7 +75999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-10"
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_3ab7020a-721a-409f-846a-3d6163d67672",
@@ -146282,6 +146282,26 @@
       "lastResetDate": "2025-01-22"
     },
     {
+      "id": "merchant_e614fccb-da89-4bee-bb11-d0928f1b4b9e",
+      "entityId": "merchant_e614fccb-da89-4bee-bb11-d0928f1b4b9e",
+      "name": "FASHION WORLD COLLECTION'S (MEN'S & LADIES WEAR)",
+      "address": "633 Veerasamy Road Lavender Meadows Academy Pte. Ltd. Singapore 200633, #01-108,  S200633;",
+      "postalCode": "200633",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30570669675965,
+      "LON": 103.854943251549,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
+    },
+    {
       "id": "merchant_75f268c6-9420-44b0-a268-28a56afbbff9",
       "entityId": "merchant_75f268c6-9420-44b0-a268-28a56afbbff9",
       "name": "FASHION ZONE ALTERATION SERVICE",
@@ -195764,12 +195784,12 @@
     {
       "id": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
       "entityId": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
-      "name": "HELEN'S CLAYPOT 302",
-      "address": "302 Woodlands Street 31,  S730302;",
-      "postalCode": "730302",
+      "name": "HELEN'S CLAYPOT",
+      "address": "35 Students Walk, Canteen 2 - Nanyang Technological University (ntu),  S639548;",
+      "postalCode": "639548",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43151114760042,
-      "LON": 103.774428425787,
+      "LAT": 1.34842266576961,
+      "LON": 103.685434201207,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -195779,7 +195799,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-28"
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_a1e4c9c5-a719-451f-9247-143facbd2f9b",
@@ -206042,6 +206062,26 @@
       "lastResetDate": "2022-05-20"
     },
     {
+      "id": "merchant_6157608b-df52-4e25-aad9-ac2aa8f9d6c9",
+      "entityId": "merchant_6157608b-df52-4e25-aad9-ac2aa8f9d6c9",
+      "name": "HONEYMILL",
+      "address": "713A Ang Mo Kio Avenue 6, #01-04,  S561713;",
+      "postalCode": "561713",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37165321215295,
+      "LON": 103.846216180211,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
+    },
+    {
       "id": "merchant_7d73ed91-7a83-4122-bca1-d9d53ae9a389",
       "entityId": "merchant_7d73ed91-7a83-4122-bca1-d9d53ae9a389",
       "name": "HONG & LEONG ICE-CREAM",
@@ -207244,12 +207284,12 @@
     {
       "id": "merchant_c51ae591-a8e4-408b-9e60-23f9270759e5",
       "entityId": "merchant_c51ae591-a8e4-408b-9e60-23f9270759e5",
-      "name": "HONG KAO LIAO LI (291)",
-      "address": "291 Yishun Street 22 Hdb-yishun Singapore 760291, #01-355,  S760291;",
-      "postalCode": "760291",
+      "name": "HONG KAO LIAO LI (417)",
+      "address": "417 Yishun Avenue 11, #01-335,  S760417;",
+      "postalCode": "760417",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43576080400467,
-      "LON": 103.8367238745,
+      "LAT": 1.42442095783169,
+      "LON": 103.846284488667,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -207259,7 +207299,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-10-04"
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_2af2bf00-8f23-4e08-862a-39a1c3d46e48",
@@ -214520,6 +214560,26 @@
         }
       },
       "lastResetDate": "2025-07-28"
+    },
+    {
+      "id": "merchant_42faa430-fbd8-4cbb-9d48-c0b50f6ddbfc",
+      "entityId": "merchant_42faa430-fbd8-4cbb-9d48-c0b50f6ddbfc",
+      "name": "HUANG AH YI NOODLE STORE 253 /HAY 253",
+      "address": "253 Choa Chu Kang Avenue 1, ST08,  S680253;",
+      "postalCode": "680253",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37743962648904,
+      "LON": 103.744383226772,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_627f1983-5ee7-47d9-add8-8c153ce35280",
@@ -236620,6 +236680,26 @@
         }
       },
       "lastResetDate": "2025-04-14"
+    },
+    {
+      "id": "merchant_8108c423-6706-44fe-b84e-0cd33d472818",
+      "entityId": "merchant_8108c423-6706-44fe-b84e-0cd33d472818",
+      "name": "JIN LONG WU XIANG PRAWN CRACKERS",
+      "address": "530 Ang Mo Kio Avenue 10,  S560530;",
+      "postalCode": "560530",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37273243763236,
+      "LON": 103.85527326009,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_bf24f5af-7cec-432c-a3cd-4b0f1965adfe",
@@ -423722,6 +423802,26 @@
       "lastResetDate": "2025-08-11"
     },
     {
+      "id": "merchant_a6aba59f-0b1a-42a4-bc62-9982133ddd05",
+      "entityId": "merchant_a6aba59f-0b1a-42a4-bc62-9982133ddd05",
+      "name": "SUPER GEPUK 1 - TAMPINES",
+      "address": "201D Tampines Street 21,  S524201;",
+      "postalCode": "524201",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35226231425316,
+      "LON": 103.953586491358,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
+    },
+    {
       "id": "merchant_83a81ed3-b7f4-459f-862e-9e50b123cd63",
       "entityId": "merchant_83a81ed3-b7f4-459f-862e-9e50b123cd63",
       "name": "SUPER MINI MARKET",
@@ -447060,26 +447160,6 @@
         }
       },
       "lastResetDate": "2025-11-27"
-    },
-    {
-      "id": "merchant_95405775-b3c7-4838-82d1-9b49691261e1",
-      "entityId": "merchant_95405775-b3c7-4838-82d1-9b49691261e1",
-      "name": "THE WOK MEN PTE LTD",
-      "address": "529 Ang Mo Kio Avenue 10,  S560529;",
-      "postalCode": "560529",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37234358233883,
-      "LON": 103.855455428073,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2023-09-14"
     },
     {
       "id": "merchant_4d0e1361-2742-45c8-92af-30a8be8a4bd9",
@@ -493780,6 +493860,26 @@
         }
       },
       "lastResetDate": "2025-03-18"
+    },
+    {
+      "id": "merchant_95405775-b3c7-4838-82d1-9b49691261e1",
+      "entityId": "merchant_95405775-b3c7-4838-82d1-9b49691261e1",
+      "name": "XIONG KEE FAMOUS CARROT CAKE@ 529 AMK",
+      "address": "529 Ang Mo Kio Avenue 10,  S560529;",
+      "postalCode": "560529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37234358233883,
+      "LON": 103.855455428073,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_4d7c0f26-9e0c-4c2b-aba4-914d39ab6bd7",
