@@ -13,6 +13,24 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-28
+
+</summary>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAN MIAN FISH SOUP | <del>352 Clementi Avenue 2, ST5,  S120352;</del><br>48A Tanglin Halt Road, #01-06,  S148813; | <del title="1.31427265951788,103.771360860916">1.31427, 103.77136</del><br><span title="1.30054407507427,103.797737980247">1.30054, 103.79774</span> |
+  | HAI NAN XING | <del>638A Jurong West Street 61, #01-22,  S641638;</del><br>638A Jurong West Street 61, #01-21,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | <del>HELEN'S CLAYPOT</del><br>MINI WOK | <del>35 Students Walk, Canteen 2 - Nanyang Technological University (ntu),  S639548;</del><br>35 Students Walk, Canteen 2 - Nanyang Technological University (ntu), MR3,  S639548; | <span title="1.34842266576961,103.685434201207">1.34842, 103.68543</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-26
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "27 Sep 2026",
+  "lastUpdated": "28 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -60905,11 +60905,11 @@
       "id": "merchant_09b4dbc7-0cee-4de8-8206-199e6d516126",
       "entityId": "merchant_09b4dbc7-0cee-4de8-8206-199e6d516126",
       "name": "BAN MIAN FISH SOUP",
-      "address": "352 Clementi Avenue 2, ST5,  S120352;",
-      "postalCode": "120352",
+      "address": "48A Tanglin Halt Road, #01-06,  S148813;",
+      "postalCode": "148813",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.31427265951788,
-      "LON": 103.771360860916,
+      "LAT": 1.30054407507427,
+      "LON": 103.797737980247,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -60919,7 +60919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-02-23"
+      "lastResetDate": "2026-09-27"
     },
     {
       "id": "merchant_48a3badd-f418-4b8a-b735-650dd62cf2fa",
@@ -182625,7 +182625,7 @@
       "id": "merchant_cfe48aa6-0642-42bd-9b07-91c393325558",
       "entityId": "merchant_cfe48aa6-0642-42bd-9b07-91c393325558",
       "name": "HAI NAN XING",
-      "address": "638A Jurong West Street 61, #01-22,  S641638;",
+      "address": "638A Jurong West Street 61, #01-21,  S641638;",
       "postalCode": "641638",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.34195861016793,
@@ -182639,7 +182639,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-24"
+      "lastResetDate": "2026-09-27"
     },
     {
       "id": "merchant_644954b6-417f-4448-936e-5ca26a9707a3",
@@ -195780,26 +195780,6 @@
         }
       },
       "lastResetDate": "2021-11-24"
-    },
-    {
-      "id": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
-      "entityId": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
-      "name": "HELEN'S CLAYPOT",
-      "address": "35 Students Walk, Canteen 2 - Nanyang Technological University (ntu),  S639548;",
-      "postalCode": "639548",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34842266576961,
-      "LON": 103.685434201207,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-09-25"
     },
     {
       "id": "merchant_a1e4c9c5-a719-451f-9247-143facbd2f9b",
@@ -310140,6 +310120,26 @@
         }
       },
       "lastResetDate": "2026-06-17"
+    },
+    {
+      "id": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
+      "entityId": "merchant_660829d4-5768-4e37-ac46-5699718e345e",
+      "name": "MINI WOK",
+      "address": "35 Students Walk, Canteen 2 - Nanyang Technological University (ntu), MR3,  S639548;",
+      "postalCode": "639548",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34842266576961,
+      "LON": 103.685434201207,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-27"
     },
     {
       "id": "merchant_ab34ba3b-c485-4b71-b86e-3df1289b90b1",
