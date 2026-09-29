@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-29
+
+</summary>
+
+Total locations: 25,882 → 25,893
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AROMDEE@HG GREEN | 21 Hougang Street 51, 48B,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | ENG HIN MINCED MEAT NOODLE - MT59 | 59 Marine Terrace, #01-71,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | ENG HIN ROASTED DELIGHTS - MT59 | 59 Marine Terrace, #01-71,  S440059; | <span title="1.30585648473163,103.914729886792">1.30586, 103.91473</span> |
+  | FATHIMA INDIAN MUSLIM (POWER DUM BRIYANI) | 177 Bukit Batok West Avenue 8,  S650177; | <span title="1.3463440745148,103.741742087315">1.34634, 103.74174</span> |
+  | HOMELY HOMEY MINIMART - BISHAN 533 | 533 Bishan Street 14 #01-06, #01-06,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | JAPANESE KOREAN @HG GREEN | 21 Hougang Street 51, 51,  S538719; | <span title="1.37924528796406,103.887832026893">1.37925, 103.88783</span> |
+  | JUSTB BABA - MP80 | 80 Marine Parade Central Marine Parade Promenade Singapore 440080, #01-782A,  S440080; | <span title="1.30248202632175,103.9077387936">1.30248, 103.90774</span> |
+  | KATAOMO HAIR STUDIO | 533 Bishan Street 14 #01-03, #01-03,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | LAKKI KITCHEN JE130 | 130 Jurong Gateway Road,  S600130; | <span title="1.33472490467434,103.739321261736">1.33472, 103.73932</span> |
+  | OUR FAMILY NEST MEDICAL | 533 Bishan Street 14 #01-04, #01-04,  S570533; | <span title="1.35153278543815,103.852873809087">1.35153, 103.85287</span> |
+  | PHONE CENTURY | 13 Haig Road Haig Road Market And Cooked Food Centre Singapore 430013, #01-156,  S430013; | <span title="1.31510752106275,103.895587944619">1.31511, 103.89559</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FRESH DURIAN & FRUITS (304 WOODLANDS) | <del>304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-147,  S730304;</del><br>304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-135B,  S730304; | <span title="1.42989255980863,103.773853927578">1.42989, 103.77385</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-28
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28 Sep 2026",
+  "lastUpdated": "29 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -52320,6 +52320,26 @@
         }
       },
       "lastResetDate": "2026-08-12"
+    },
+    {
+      "id": "merchant_e38c66d6-f97f-4a8a-9662-93b5c6a47f66",
+      "entityId": "merchant_e38c66d6-f97f-4a8a-9662-93b5c6a47f66",
+      "name": "AROMDEE@HG GREEN",
+      "address": "21 Hougang Street 51, 48B,  S538719;",
+      "postalCode": "538719",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37924528796406,
+      "LON": 103.887832026893,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_eecc79e6-6c10-4298-b5be-b5007f9ae942",
@@ -137582,6 +137602,46 @@
       "lastResetDate": "2021-12-17"
     },
     {
+      "id": "merchant_c69cfe66-bafe-4829-8ec2-f68bec102dd4",
+      "entityId": "merchant_c69cfe66-bafe-4829-8ec2-f68bec102dd4",
+      "name": "ENG HIN MINCED MEAT NOODLE - MT59",
+      "address": "59 Marine Terrace, #01-71,  S440059;",
+      "postalCode": "440059",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30585648473163,
+      "LON": 103.914729886792,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
+      "id": "merchant_cbba7234-f752-45dd-a898-090ad97fe4cf",
+      "entityId": "merchant_cbba7234-f752-45dd-a898-090ad97fe4cf",
+      "name": "ENG HIN ROASTED DELIGHTS - MT59",
+      "address": "59 Marine Terrace, #01-71,  S440059;",
+      "postalCode": "440059",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30585648473163,
+      "LON": 103.914729886792,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_f61051fd-e9d6-4039-ae43-6fbafcb701db",
       "entityId": "merchant_f61051fd-e9d6-4039-ae43-6fbafcb701db",
       "name": "ENG HOCK KEE",
@@ -146580,6 +146640,26 @@
         }
       },
       "lastResetDate": "2025-04-15"
+    },
+    {
+      "id": "merchant_c6c6c32b-5a6d-4e66-a27c-915e29158a16",
+      "entityId": "merchant_c6c6c32b-5a6d-4e66-a27c-915e29158a16",
+      "name": "FATHIMA INDIAN MUSLIM (POWER DUM BRIYANI)",
+      "address": "177 Bukit Batok West Avenue 8,  S650177;",
+      "postalCode": "650177",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3463440745148,
+      "LON": 103.741742087315,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_6f6d192c-6051-4a82-b4dd-f15c50afe22d",
@@ -158145,7 +158225,7 @@
       "id": "merchant_453f72cf-9178-487e-806d-3a0959a71d3b",
       "entityId": "merchant_453f72cf-9178-487e-806d-3a0959a71d3b",
       "name": "FRESH DURIAN & FRUITS (304 WOODLANDS)",
-      "address": "304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-147,  S730304;",
+      "address": "304 Woodlands Street 31 Hdb-woodlands Singapore 730304, #01-135B,  S730304;",
       "postalCode": "730304",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.42989255980863,
@@ -158159,7 +158239,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-28"
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_4162bbfd-d447-4e40-9c54-391d52be8241",
@@ -205482,6 +205562,26 @@
       "lastResetDate": "2026-02-26"
     },
     {
+      "id": "merchant_8186687d-2460-4e3d-bc6f-852af51daaec",
+      "entityId": "merchant_8186687d-2460-4e3d-bc6f-852af51daaec",
+      "name": "HOMELY HOMEY MINIMART - BISHAN 533",
+      "address": "533 Bishan Street 14 #01-06, #01-06,  S570533;",
+      "postalCode": "570533",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35153278543815,
+      "LON": 103.852873809087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_6cda44de-83e8-4f41-8d36-7d0b65cfe4d6",
       "entityId": "merchant_6cda44de-83e8-4f41-8d36-7d0b65cfe4d6",
       "name": "HOMEMADE BAN MAIN",
@@ -228762,6 +228862,26 @@
       "lastResetDate": "2021-11-02"
     },
     {
+      "id": "merchant_3468e0df-995d-4001-8fe2-174299556012",
+      "entityId": "merchant_3468e0df-995d-4001-8fe2-174299556012",
+      "name": "JAPANESE KOREAN @HG GREEN",
+      "address": "21 Hougang Street 51, 51,  S538719;",
+      "postalCode": "538719",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37924528796406,
+      "LON": 103.887832026893,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_f64a3251-cc56-4fbe-8730-c47abdae4ea9",
       "entityId": "merchant_f64a3251-cc56-4fbe-8730-c47abdae4ea9",
       "name": "JAPANESE KOREAN CUISINE",
@@ -244642,6 +244762,26 @@
       "lastResetDate": "2024-03-15"
     },
     {
+      "id": "merchant_476d1397-f3a5-483c-b073-a36b2c1827c4",
+      "entityId": "merchant_476d1397-f3a5-483c-b073-a36b2c1827c4",
+      "name": "JUSTB BABA - MP80",
+      "address": "80 Marine Parade Central Marine Parade Promenade Singapore 440080, #01-782A,  S440080;",
+      "postalCode": "440080",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30248202632175,
+      "LON": 103.9077387936,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_424c2b7a-b423-4c74-88bd-42cdb6d53091",
       "entityId": "merchant_424c2b7a-b423-4c74-88bd-42cdb6d53091",
       "name": "JUSTBUYZONE",
@@ -249260,6 +249400,26 @@
         }
       },
       "lastResetDate": "2021-12-27"
+    },
+    {
+      "id": "merchant_7a4944c3-da90-4ee6-9ff1-fd8c77704f96",
+      "entityId": "merchant_7a4944c3-da90-4ee6-9ff1-fd8c77704f96",
+      "name": "KATAOMO HAIR STUDIO",
+      "address": "533 Bishan Street 14 #01-03, #01-03,  S570533;",
+      "postalCode": "570533",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35153278543815,
+      "LON": 103.852873809087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_a443a313-50a1-4eb2-91af-44c9da41594d",
@@ -270940,6 +271100,26 @@
         }
       },
       "lastResetDate": "2022-08-08"
+    },
+    {
+      "id": "merchant_b88b4801-48e2-42ab-859e-ae3a58872cb4",
+      "entityId": "merchant_b88b4801-48e2-42ab-859e-ae3a58872cb4",
+      "name": "LAKKI KITCHEN JE130",
+      "address": "130 Jurong Gateway Road,  S600130;",
+      "postalCode": "600130",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33472490467434,
+      "LON": 103.739321261736,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_d1df79ee-d1c1-45d6-a54a-a8bb3128ca81",
@@ -344062,6 +344242,26 @@
       "lastResetDate": "2024-09-13"
     },
     {
+      "id": "merchant_db418ac2-9b6f-46a1-b56a-d06b8f7a3b93",
+      "entityId": "merchant_db418ac2-9b6f-46a1-b56a-d06b8f7a3b93",
+      "name": "OUR FAMILY NEST MEDICAL",
+      "address": "533 Bishan Street 14 #01-04, #01-04,  S570533;",
+      "postalCode": "570533",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35153278543815,
+      "LON": 103.852873809087,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_d69b9421-68ea-468f-aa71-3f0114ad191d",
       "entityId": "merchant_d69b9421-68ea-468f-aa71-3f0114ad191d",
       "name": "OUR FAMILY PHYSICIAN CLINIC & SURGERY",
@@ -351602,6 +351802,26 @@
       "lastResetDate": "2022-08-19"
     },
     {
+      "id": "merchant_adae45ca-30f4-43d4-9c07-8211fa1454f7",
+      "entityId": "merchant_adae45ca-30f4-43d4-9c07-8211fa1454f7",
+      "name": "PHONE CENTURY",
+      "address": "13 Haig Road Haig Road Market And Cooked Food Centre Singapore 430013, #01-156,  S430013;",
+      "postalCode": "430013",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31510752106275,
+      "LON": 103.895587944619,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-28"
+    },
+    {
       "id": "merchant_fe4e7a43-0b96-45ac-a6f7-91aefced4a87",
       "entityId": "merchant_fe4e7a43-0b96-45ac-a6f7-91aefced4a87",
       "name": "PHONE GALLERY",
@@ -355739,7 +355959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-03-06"
+      "lastResetDate": "2026-09-28"
     },
     {
       "id": "merchant_43ae0cf7-70f6-43c1-be83-cad0c1f7e80b",
