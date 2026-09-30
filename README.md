@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-09-30
+
+</summary>
+
+Total locations: 25,893 → 25,900
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BEDOK 216 POULTRY | 216 Bedok North Street 1, #01-89,  S460216; | <span title="1.32706274205746,103.933217970746">1.32706, 103.93322</span> |
+  | CHAI YUEN FEI BEAUTY SALON | 131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-190C,  S730131; | <span title="1.43847983955609,103.778613439344">1.43848, 103.77861</span> |
+  | MEITOTO JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-153B,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | PURE PET CARE | 532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2475,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | RATU CHILLI CHICKEN RICE | 127 Toa Payoh Lorong 1, #02-06,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | THE FAMILY CLINIC (EVERTON PARK) | 7 Everton Park Singapore 080007, #01-03B,  S080007; | <span title="1.27692435153003,103.838679504443">1.27692, 103.83868</span> |
+  | TOBOSOYA | 154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-404,  S550154; | <span title="1.37012983399512,103.873115537451">1.37013, 103.87312</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 65 FRANKEL AVE DRINK STALL | <del>65 Frankle Ave, 2,  S458192;</del><br>65 Frankle Ave,  S458192; | <span title="1.3157184591772,103.918887680003">1.31572, 103.91889</span> |
+  | FU FA 805 | <del>805 Hougang Central,  S530805;</del><br>805 Hougang Central, #01-116,  S530805; | <span title="1.37068333577328,103.894356609963">1.37068, 103.89436</span> |
+  | IPOH STYLE IPOH SAN LOU HOR FUN | <del>50A Marine Terrance, 275,  S441050;</del><br>50A Marine Terrance, 01-275,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | <del>LAI SENG FRESH PORK  (294 YISHUN)</del><br>LAI SENG FRESH PORK | <del>294 Yishun Street 22, #01-333,  S760294;</del><br>681 Hougang Avenue 8, 01-871,  S530681; | <del title="1.43646141541631,103.837066339313">1.43646, 103.83707</del><br><span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | <del>ELIM CALM</del><br>SALON ONE BEAUTY | 83 Marine Parade Central, #01-560,  S440083; | <span title="1.30255976878216,103.90607458727">1.30256, 103.90607</span> |
+  | <del>BREAD FRESH (445 FAJAR ROAD)</del><br>SUM MORE | <del>445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-524,  S670445;</del><br>678A Woodlands Avenue 6, #01-28,  S731678; | <del title="1.38339951629579,103.771086145173">1.38340, 103.77109</del><br><span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-29
 
 </summary>

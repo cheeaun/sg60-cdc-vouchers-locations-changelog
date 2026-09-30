@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29 Sep 2026",
+  "lastUpdated": "30 Sep 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -19765,7 +19765,7 @@
       "id": "merchant_2d127925-5069-44cd-b7b8-215e4bdb0048",
       "entityId": "merchant_2d127925-5069-44cd-b7b8-215e4bdb0048",
       "name": "65 FRANKEL AVE DRINK STALL",
-      "address": "65 Frankle Ave, 2,  S458192;",
+      "address": "65 Frankle Ave,  S458192;",
       "postalCode": "458192",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.3157184591772,
@@ -19779,7 +19779,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-09-15"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_acdf07df-c14e-49b8-9964-1d306d36e072",
@@ -36479,7 +36479,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-07-06"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_52917654-f178-4cd1-99c7-401b0a0ffee1",
@@ -65962,6 +65962,26 @@
       "lastResetDate": "2026-03-16"
     },
     {
+      "id": "merchant_c417b73e-8b25-4681-b4b1-2b366a83bd26",
+      "entityId": "merchant_c417b73e-8b25-4681-b4b1-2b366a83bd26",
+      "name": "BEDOK 216 POULTRY",
+      "address": "216 Bedok North Street 1, #01-89,  S460216;",
+      "postalCode": "460216",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32706274205746,
+      "LON": 103.933217970746,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
+    },
+    {
       "id": "merchant_1189f1e5-58aa-40b0-8d3e-4c66edb52c37",
       "entityId": "merchant_1189f1e5-58aa-40b0-8d3e-4c66edb52c37",
       "name": "BEDOK 511 BBQ",
@@ -77122,26 +77142,6 @@
       "lastResetDate": "2022-12-20"
     },
     {
-      "id": "merchant_89bcc15c-6292-4bd8-854d-de7b9fbfff2e",
-      "entityId": "merchant_89bcc15c-6292-4bd8-854d-de7b9fbfff2e",
-      "name": "BREAD FRESH (445 FAJAR ROAD)",
-      "address": "445 Fajar Road Carpe Diem Young Joy Pte. Ltd. Singapore 670445, #01-524,  S670445;",
-      "postalCode": "670445",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.38339951629579,
-      "LON": 103.771086145173,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-12-28"
-    },
-    {
       "id": "merchant_1f970955-021f-4fbc-8e7a-69f475d28b6d",
       "entityId": "merchant_1f970955-021f-4fbc-8e7a-69f475d28b6d",
       "name": "BREAD FRESH (461 YISHUN AVE 6)",
@@ -85700,6 +85700,26 @@
         }
       },
       "lastResetDate": "2021-11-24"
+    },
+    {
+      "id": "merchant_111be56d-fec2-4021-a938-573f32355a18",
+      "entityId": "merchant_111be56d-fec2-4021-a938-573f32355a18",
+      "name": "CHAI YUEN FEI BEAUTY SALON",
+      "address": "131 Marsiling Rise Dbs Marsiling Rise Singapore 730131, #01-190C,  S730131;",
+      "postalCode": "730131",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43847983955609,
+      "LON": 103.778613439344,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_2bf3e8f3-e356-48fb-9498-032c0016a4e2",
@@ -135922,26 +135942,6 @@
       "lastResetDate": "2025-08-13"
     },
     {
-      "id": "merchant_ffdf7fd3-eeb2-47cc-8cd9-b128e2afa2fa",
-      "entityId": "merchant_ffdf7fd3-eeb2-47cc-8cd9-b128e2afa2fa",
-      "name": "ELIM CALM",
-      "address": "83 Marine Parade Central, #01-560,  S440083;",
-      "postalCode": "440083",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30255976878216,
-      "LON": 103.90607458727,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-06-22"
-    },
-    {
       "id": "merchant_aacf0eb0-347b-4657-98ef-a0b4e9ddc3b2",
       "entityId": "merchant_aacf0eb0-347b-4657-98ef-a0b4e9ddc3b2",
       "name": "ELIN CHINESE PHYSICIAN & MEDICAL HALL",
@@ -137639,7 +137639,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-28"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_f61051fd-e9d6-4039-ae43-6fbafcb701db",
@@ -163245,7 +163245,7 @@
       "id": "merchant_2c7205e8-5925-4f5a-85c2-0a88a67a587c",
       "entityId": "merchant_2c7205e8-5925-4f5a-85c2-0a88a67a587c",
       "name": "FU FA 805",
-      "address": "805 Hougang Central,  S530805;",
+      "address": "805 Hougang Central, #01-116,  S530805;",
       "postalCode": "530805",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.37068333577328,
@@ -163259,7 +163259,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-07-02"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_baf45e74-a6f0-408e-ad96-ae4f724f8e26",
@@ -223485,7 +223485,7 @@
       "id": "merchant_19b15601-d045-4147-98e8-28770b335175",
       "entityId": "merchant_19b15601-d045-4147-98e8-28770b335175",
       "name": "IPOH STYLE IPOH SAN LOU HOR FUN",
-      "address": "50A Marine Terrance, 275,  S441050;",
+      "address": "50A Marine Terrance, 01-275,  S441050;",
       "postalCode": "441050",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.30572973591916,
@@ -223499,7 +223499,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-05-12"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_7708c830-897d-4027-8fe1-c685356903c1",
@@ -248859,7 +248859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-03-07"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_ccb629bf-bd2f-4a3a-a6dd-2e47bf0b42db",
@@ -270824,12 +270824,12 @@
     {
       "id": "merchant_2021385d-d1fb-44cf-802c-c4b3d6345d13",
       "entityId": "merchant_2021385d-d1fb-44cf-802c-c4b3d6345d13",
-      "name": "LAI SENG FRESH PORK  (294 YISHUN)",
-      "address": "294 Yishun Street 22, #01-333,  S760294;",
-      "postalCode": "760294",
+      "name": "LAI SENG FRESH PORK",
+      "address": "681 Hougang Avenue 8, 01-871,  S530681;",
+      "postalCode": "530681",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43646141541631,
-      "LON": 103.837066339313,
+      "LAT": 1.37297840284804,
+      "LON": 103.88567915953,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -270839,7 +270839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-11"
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_ac3b2230-2aef-4409-a85c-3e7797cdf420",
@@ -304860,6 +304860,26 @@
         }
       },
       "lastResetDate": "2025-03-07"
+    },
+    {
+      "id": "merchant_d26a8807-615a-4bb2-90a0-da659354fbb7",
+      "entityId": "merchant_d26a8807-615a-4bb2-90a0-da659354fbb7",
+      "name": "MEITOTO JE252",
+      "address": "252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-153B,  S600252;",
+      "postalCode": "600252",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34302026715262,
+      "LON": 103.738115504821,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_dfd949ab-96cb-4da4-9cfc-edf9f9f88198",
@@ -361502,6 +361522,26 @@
       "lastResetDate": "2021-11-08"
     },
     {
+      "id": "merchant_ef003597-2d2b-43ea-95be-9ade6c37d550",
+      "entityId": "merchant_ef003597-2d2b-43ea-95be-9ade6c37d550",
+      "name": "PURE PET CARE",
+      "address": "532 Ang Mo Kio Avenue 10 Cheng San Centre Singapore 560532, #01-2475,  S560532;",
+      "postalCode": "560532",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37381204877253,
+      "LON": 103.854590377124,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
+    },
+    {
       "id": "merchant_a3245d1d-8db1-4756-a93e-df74ac3afbd9",
       "entityId": "merchant_a3245d1d-8db1-4756-a93e-df74ac3afbd9",
       "name": "PURE PET CARE",
@@ -368380,6 +368420,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_e55e8278-43bb-46a3-b7e3-c6349dc8cd0d",
+      "entityId": "merchant_e55e8278-43bb-46a3-b7e3-c6349dc8cd0d",
+      "name": "RATU CHILLI CHICKEN RICE",
+      "address": "127 Toa Payoh Lorong 1, #02-06,  S310127;",
+      "postalCode": "310127",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33804625287728,
+      "LON": 103.844733922883,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_4621754e-3489-4f2f-9fcc-bd09cd5c9e1b",
@@ -382420,6 +382480,26 @@
         }
       },
       "lastResetDate": "2022-09-29"
+    },
+    {
+      "id": "merchant_ffdf7fd3-eeb2-47cc-8cd9-b128e2afa2fa",
+      "entityId": "merchant_ffdf7fd3-eeb2-47cc-8cd9-b128e2afa2fa",
+      "name": "SALON ONE BEAUTY",
+      "address": "83 Marine Parade Central, #01-560,  S440083;",
+      "postalCode": "440083",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30255976878216,
+      "LON": 103.90607458727,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_25f17db9-73e6-4e4f-88ce-afc026e4bbc8",
@@ -422202,6 +422282,26 @@
       "lastResetDate": "2021-11-19"
     },
     {
+      "id": "merchant_89bcc15c-6292-4bd8-854d-de7b9fbfff2e",
+      "entityId": "merchant_89bcc15c-6292-4bd8-854d-de7b9fbfff2e",
+      "name": "SUM MORE",
+      "address": "678A Woodlands Avenue 6, #01-28,  S731678;",
+      "postalCode": "731678",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44036367556377,
+      "LON": 103.801537354932,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
+    },
+    {
       "id": "merchant_a22d848d-5072-4446-97e6-7e43e31eda74",
       "entityId": "merchant_a22d848d-5072-4446-97e6-7e43e31eda74",
       "name": "SUMBER REZEKI (BLK 532 CCK)",
@@ -443362,6 +443462,26 @@
       "lastResetDate": "2024-06-28"
     },
     {
+      "id": "merchant_71a173e8-95aa-4170-a4a3-f89b8f404615",
+      "entityId": "merchant_71a173e8-95aa-4170-a4a3-f89b8f404615",
+      "name": "THE FAMILY CLINIC (EVERTON PARK)",
+      "address": "7 Everton Park Singapore 080007, #01-03B,  S080007;",
+      "postalCode": "080007",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27692435153003,
+      "LON": 103.838679504443,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
+    },
+    {
       "id": "merchant_3a469dea-54df-48df-b928-8d87ba6fa7d9",
       "entityId": "merchant_3a469dea-54df-48df-b928-8d87ba6fa7d9",
       "name": "THE FAMILY CLINIC @ TOWNER",
@@ -454140,6 +454260,26 @@
         }
       },
       "lastResetDate": "2025-06-12"
+    },
+    {
+      "id": "merchant_52ad5e3f-5646-4051-b817-462279dc079c",
+      "entityId": "merchant_52ad5e3f-5646-4051-b817-462279dc079c",
+      "name": "TOBOSOYA",
+      "address": "154 Serangoon North Avenue 1 Hdb-serangoon North Estate Singapore 550154, #01-404,  S550154;",
+      "postalCode": "550154",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37012983399512,
+      "LON": 103.873115537451,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-29"
     },
     {
       "id": "merchant_ccd2074c-4359-41a7-8522-550b54f1d75d",
