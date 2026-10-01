@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30 Sep 2026",
+  "lastUpdated": "01 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -14460,6 +14460,26 @@
         }
       },
       "lastResetDate": "2024-05-02"
+    },
+    {
+      "id": "merchant_1a009631-9bd5-48e2-93e1-f663961e0442",
+      "entityId": "merchant_1a009631-9bd5-48e2-93e1-f663961e0442",
+      "name": "333C HOUSE OF MIXED RICE",
+      "address": "333C Yishun Street 31,  S763333;",
+      "postalCode": "763333",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43188998756065,
+      "LON": 103.845790190244,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_962af4e5-1981-4622-9183-6f1c3b197d28",
@@ -76300,6 +76320,26 @@
         }
       },
       "lastResetDate": "2023-10-29"
+    },
+    {
+      "id": "merchant_8ddec5ae-6885-4985-9fbf-f61c33a60de7",
+      "entityId": "merchant_8ddec5ae-6885-4985-9fbf-f61c33a60de7",
+      "name": "BOTTLESHOP HILLVIEW",
+      "address": "91 Hillview Link, K15,  S669723;",
+      "postalCode": "669723",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36762825300103,
+      "LON": 103.764025830065,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_217baa89-d251-4e61-a485-ee6f7e3f617f",
@@ -147422,26 +147462,6 @@
       "lastResetDate": "2025-05-05"
     },
     {
-      "id": "merchant_dcc37887-ba37-43fe-ac6c-4a72f5074b25",
-      "entityId": "merchant_dcc37887-ba37-43fe-ac6c-4a72f5074b25",
-      "name": "FAVOUR WESTERN",
-      "address": "153A Serangoon North Avenue 1,  S551153;",
-      "postalCode": "551153",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36965187438477,
-      "LON": 103.871952820503,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-11-24"
-    },
-    {
       "id": "merchant_693a5605-a294-4c81-b2cb-6eb554682daa",
       "entityId": "merchant_693a5605-a294-4c81-b2cb-6eb554682daa",
       "name": "FAYIZ ENTERPRISE",
@@ -154640,6 +154660,26 @@
         }
       },
       "lastResetDate": "2024-12-23"
+    },
+    {
+      "id": "merchant_9704f808-f802-49d1-a8ee-608cb009f7a7",
+      "entityId": "merchant_9704f808-f802-49d1-a8ee-608cb009f7a7",
+      "name": "FONG HUP KOKA NOODLE (AMK 631)",
+      "address": "631 Ang Mo Kio Avenue 4,  S560631;",
+      "postalCode": "560631",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3795572819161,
+      "LON": 103.840735651035,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_b4bbb571-5e3c-4d31-9af5-ae3b840a25a6",
@@ -166980,6 +167020,26 @@
         }
       },
       "lastResetDate": "2024-01-15"
+    },
+    {
+      "id": "merchant_670c8e80-50fb-455b-b668-eed23df00ce8",
+      "entityId": "merchant_670c8e80-50fb-455b-b668-eed23df00ce8",
+      "name": "GA NGIN NOODLE (326)",
+      "address": "326 Woodlands Street 32,  S730326;",
+      "postalCode": "730326",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43042123905158,
+      "LON": 103.77958246528,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_ae427ae0-211b-4fd8-8850-e3e36491c05d",
@@ -221639,7 +221699,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-02-06"
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_25fdc64d-2d5f-4053-a163-45834135e935",
@@ -272660,6 +272720,26 @@
         }
       },
       "lastResetDate": "2024-01-10"
+    },
+    {
+      "id": "merchant_b41bc058-fa49-4af4-b45e-ff59966d3a80",
+      "entityId": "merchant_b41bc058-fa49-4af4-b45e-ff59966d3a80",
+      "name": "LAO WANG CURRY CHICKEN BEE HOON NOODLE",
+      "address": "69 Geylang Bahru, #01-51,  S330069;",
+      "postalCode": "330069",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32146311046779,
+      "LON": 103.870005014547,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_4b1407a1-a820-4860-b417-1b2b6fee50bf",
@@ -348379,7 +348459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-07-29"
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_59cc8b4a-9f1e-4c91-b586-d8c29a5e966a",
@@ -379739,7 +379819,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-07"
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_f6e3bf51-66c9-454a-a07d-9fb177c2ef1a",
@@ -385340,6 +385420,26 @@
         }
       },
       "lastResetDate": "2022-06-23"
+    },
+    {
+      "id": "merchant_3ad31f0b-9b27-4c17-9872-5348769237c8",
+      "entityId": "merchant_3ad31f0b-9b27-4c17-9872-5348769237c8",
+      "name": "SATHANA STORE (510442)",
+      "address": "442 Pasir Ris Drive 6 Dbs Pasir Ris East Branch Singapore 510442, #01-48,  S510442;",
+      "postalCode": "510442",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36893288711175,
+      "LON": 103.957951722203,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_a838ec3e-4d1e-4fd9-8cdd-1c755ae3b04a",
@@ -395002,6 +395102,26 @@
       "lastResetDate": "2022-01-03"
     },
     {
+      "id": "merchant_e1963e33-8e51-40f9-804a-97dc25930dfb",
+      "entityId": "merchant_e1963e33-8e51-40f9-804a-97dc25930dfb",
+      "name": "SHENG HUAT COFFEE ROTI",
+      "address": "320 Shunfu Road, #02-08,  S570320;",
+      "postalCode": "570320",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35200745374218,
+      "LON": 103.837031862103,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
+    },
+    {
       "id": "merchant_48bb6280-57fe-42a0-a53d-4dab5f3b48b4",
       "entityId": "merchant_48bb6280-57fe-42a0-a53d-4dab5f3b48b4",
       "name": "SHENG HUAT COFFEE ROTI - REDHILL",
@@ -395600,6 +395720,26 @@
         }
       },
       "lastResetDate": "2026-09-21"
+    },
+    {
+      "id": "merchant_f677ab8b-533a-40c2-b762-72fd76fd74e5",
+      "entityId": "merchant_f677ab8b-533a-40c2-b762-72fd76fd74e5",
+      "name": "SHENTON BAKERY (LIMBANG)",
+      "address": "533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-03A,  S680533;",
+      "postalCode": "680533",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3920738867617,
+      "LON": 103.743099573442,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_fcb2f914-d6a7-428f-92d6-ab42b570463a",
@@ -424760,6 +424900,26 @@
         }
       },
       "lastResetDate": "2022-06-24"
+    },
+    {
+      "id": "merchant_250c748f-5b8c-4957-b79d-3c8ac9e64f5e",
+      "entityId": "merchant_250c748f-5b8c-4957-b79d-3c8ac9e64f5e",
+      "name": "SUPREME POT",
+      "address": "2 Bukit Panjang Ring Road, #01-18,  S679947;",
+      "postalCode": "679947",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37759742308947,
+      "LON": 103.772491526747,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_87df5a17-b7a2-4a59-b175-9ecb3febd83d",
@@ -510660,6 +510820,26 @@
         }
       },
       "lastResetDate": "2021-10-22"
+    },
+    {
+      "id": "merchant_dcc37887-ba37-43fe-ac6c-4a72f5074b25",
+      "entityId": "merchant_dcc37887-ba37-43fe-ac6c-4a72f5074b25",
+      "name": "YUMACE",
+      "address": "153A Serangoon North Avenue 1,  S551153;",
+      "postalCode": "551153",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36965187438477,
+      "LON": 103.871952820503,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-09-30"
     },
     {
       "id": "merchant_b566da90-82c6-4fb2-96d6-f4b491d8d2aa",

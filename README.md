@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-01
+
+</summary>
+
+Total locations: 25,900 → 25,909
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 333C HOUSE OF MIXED RICE | 333C Yishun Street 31,  S763333; | <span title="1.43188998756065,103.845790190244">1.43189, 103.84579</span> |
+  | BOTTLESHOP HILLVIEW | 91 Hillview Link, K15,  S669723; | <span title="1.36762825300103,103.764025830065">1.36763, 103.76403</span> |
+  | FONG HUP KOKA NOODLE (AMK 631) | 631 Ang Mo Kio Avenue 4,  S560631; | <span title="1.3795572819161,103.840735651035">1.37956, 103.84074</span> |
+  | GA NGIN NOODLE (326) | 326 Woodlands Street 32,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | LAO WANG CURRY CHICKEN BEE HOON NOODLE | 69 Geylang Bahru, #01-51,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | SATHANA STORE (510442) | 442 Pasir Ris Drive 6 Dbs Pasir Ris East Branch Singapore 510442, #01-48,  S510442; | <span title="1.36893288711175,103.957951722203">1.36893, 103.95795</span> |
+  | SHENG HUAT COFFEE ROTI | 320 Shunfu Road, #02-08,  S570320; | <span title="1.35200745374218,103.837031862103">1.35201, 103.83703</span> |
+  | SHENTON BAKERY (LIMBANG) | 533 Choa Chu Kang Street 51 Cherie Hearts Holdings Pte. Ltd. Singapore 680533, #01-03A,  S680533; | <span title="1.3920738867617,103.743099573442">1.39207, 103.74310</span> |
+  | SUPREME POT | 2 Bukit Panjang Ring Road, #01-18,  S679947; | <span title="1.37759742308947,103.772491526747">1.37760, 103.77249</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>FAVOUR WESTERN</del><br>YUMACE | 153A Serangoon North Avenue 1,  S551153; | <span title="1.36965187438477,103.871952820503">1.36965, 103.87195</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-09-30
 
 </summary>
