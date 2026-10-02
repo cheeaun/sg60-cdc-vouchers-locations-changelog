@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-02
+
+</summary>
+
+Total locations: 25,909 → 25,924
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 361 KUBIS KOREAN | 361 Sembawang Crescent, 01,  S750361; | <span title="1.44631506781839,103.813936813705">1.44632, 103.81394</span> |
+  | 61TH FNB PL | 449 Clementi Avenue 3,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | AA RAMAN FISH SOUP - 464B CLEMENTI | 464B Clementi Avenue 1, #01-08,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+  | DING FENG FISHBALL NOODLE - 325 CLEMENTI | 325 Clementi Avenue 5,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | HE SHUN HAKKA YONG TAU FOO | 70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K11,  S544692; | <span title="1.38389417561466,103.892418758836">1.38389, 103.89242</span> |
+  | JIAN BO SHUI KUEH(TPY) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-514,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | KIN FISH | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | PORK STALL (510441) | 441 Pasir Ris Drive 6, 76B,  S510441; | <span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+  | RASA HOUSE | 542B Serangoon North Avenue 3,  S552542; | <span title="1.37368393003779,103.871416978631">1.37368, 103.87142</span> |
+  | SASA SALON | 365 Sembawang Crescent Sun Breeze Singapore 750365, #01-05,  S750365; | <span title="1.44436832551494,103.816263881257">1.44437, 103.81626</span> |
+  | SEDAP GRILL WESTERN CUISINE | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | SL II MUFFIN | 166 Jalan Besar, #02-38,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | THE SCALP WELLNESS (846 YISHUN #01-3617 (2ND FLOOR) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3617,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | WEST FAMILY CLINIC | 464B Clementi Avenue 1 Clementi Peaks Singapore 122464, #01-08,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+  | XIAO MIANDIAN | 86 Market Street, #02-18,  S048947; | <span title="1.28390006495234,103.850005961205">1.28390, 103.85001</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>TECK EE SEAFOOD ZICHAR</del><br>FAMOUS MINCED MEAT NOODLE | <del>59 Marine Terrace, 01-71,  S440059;</del><br>936 East Coast Road,  S459129; | <del title="1.30585648473163,103.914729886792">1.30586, 103.91473</del><br><span title="1.3122852676271,103.925353651914">1.31229, 103.92535</span> |
+  | <del>BUBBLE TEA AND POINT 99 CENTS CONFECTIONERY</del><br>MR PEARL TEA | 266 Serangoon Central Drive, #01-253,  S550266; | <span title="1.35323212759899,103.871503595573">1.35323, 103.87150</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-01
 
 </summary>
