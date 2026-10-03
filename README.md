@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-03
+
+</summary>
+
+Total locations: 25,924 → 25,932
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CECILIA CLOSET | 105 Hougang Avenue 1, #01-112,  S530105; | <span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+  | HUANG NOODLES HOUSE - 325 CLEMENTI | 325 Clementi Avenue 5,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | MEI DE HANDMADE PAO.DIM SUM | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | MOHAMED WAFEER ROJAK&PARATA PARADISE | 469 Bukit Batok West Avenue 9, #01-18,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | PENDEK FRIED RICE | 340 Ang Mo Kio Avenue 1,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | PEPPLE STUDIOMARKET | 866A Tampines Street 83 Dbs Ntuc Tampines Central Community Club Singapore 521866, #03-06,  S521866; | <span title="1.35539306251992,103.934429348334">1.35539, 103.93443</span> |
+  | SLICE LAH - AMK 338 | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1653,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | THE INDIAN SALON | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-12,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 777 FOODBIZ | <del>10 Sengkang Square Dbs Kopitiam Square Singapore 544829, #01-78,  S544829;</del><br>105 Hougang Ave 1, #01-22,  S530105; | <del title="1.39152651487694,103.89365715873">1.39153, 103.89366</del><br><span title="1.35408273910145,103.890130407955">1.35408, 103.89013</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-02
 
 </summary>
