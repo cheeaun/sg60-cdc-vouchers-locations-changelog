@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-06
+
+</summary>
+
+Total locations: 25,932 → 25,943
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BE TELECOMMUNICATIONS TRADING | 122 Bedok North Street 2 Hdb-bedok Singapore 460122, #01-114,  S460122; | <span title="1.32861719819893,103.937787149387">1.32862, 103.93779</span> |
+  | BOON HENG JE132 | 132 Jurong Gateway Road,  S600132; | <span title="1.33431017803422,103.739636644243">1.33431, 103.73964</span> |
+  | CHOPS & SEAR (CB 126) | 126 Canberra Street,  S750126; | <span title="1.44602265750894,103.834372150393">1.44602, 103.83437</span> |
+  | HAKKA LEICHA & YONG TOFU | 150 Bukit Batok Street 11,  S650150; | <span title="1.34878467496741,103.743672838723">1.34878, 103.74367</span> |
+  | HAO JIA BAN MIAN JW491 | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | HONGXING FISHBALL NOODLE | 259 Pasir Ris Street 21,  S510259; | <span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+  | LUMEN ARTISTRY | 339 Ang Mo Kio Avenue 1 Singapore 560339, #01-1591A,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | QIANG KEE SEAFOOD JE215 | 215 Jurong East Street 21,  S600215; | <span title="1.33993327217519,103.738514477739">1.33993, 103.73851</span> |
+  | SAMHAN KITCHEN KOREAN CUISINE | 118 Rivervale Drive, S12,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | UNIQUE-TEAMX ELIAS (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #01-330F,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | YI FA BAK KUT TEH | 78C Toa Payoh Central,  S313078; | <span title="1.3344922010528,103.849799119942">1.33449, 103.84980</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>SOYA AND LAKSA</del><br>824 WANTON NOODLES & LASKSA | 824 Tampines Street 81 Hdb-tampines Singapore 520824, #01-08,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | BAI JIA MEI SHI | <del>Tampines Street 32,  S529286;</del><br>507 Yishun Ave 4, #01-01,  S760507; | <del title="1.35436493607477,103.960042189097">1.35436, 103.96004</del><br><span title="1.41517413065244,103.839827784744">1.41517, 103.83983</span> |
+  | <del>HOMEMADE BAN MAIN</del><br>DING FENG HOMEMADE NOODLE | <del>443 Ang Mo Kio Avenue 10,  S560443;</del><br>210 Hougang Street 1, 01-261,  S530210; | <del title="1.36604388871674,103.855368968681">1.36604, 103.85537</del><br><span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | KEEPBEAUTY2025 | <del>236 Yishun Ring Road After School Adventure Club (yishun) Singapore 760236, #01-1022,  S760236;</del><br>769 Yishun Ave 3, #01-279,  S760769; | <del title="1.43403211971292,103.83882419471">1.43403, 103.83882</del><br><span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | <del>RONG SHENG BEE HOON (201 TAMPINES)</del><br>MEI WEI BEE HOON (201 TAMPINES) | 201 Tampines Street 21,  S520201; | <span title="1.35289506312913,103.953585683185">1.35290, 103.95359</span> |
+  | SO - FISH | <del>146 Teck Whye Avenue Singapore 680146, #01-175,  S680146;</del><br>146 Teck Whye Avenue Singapore 680146, #01-179,  S680146; | <span title="1.3811166785123,103.752527098337">1.38112, 103.75253</span> |
+  | <del>SK WELLNESS BEAUTY SALON (TOP BEAUTY SALON SHANG CAI YI)</del><br>TOP BEAUTY SALON SHANG CAI YI | 513 Tampines Central 1 Singapore 520513, #01-162,  S520513; | <span title="1.35391812778833,103.944395754525">1.35392, 103.94440</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-03
 
 </summary>
