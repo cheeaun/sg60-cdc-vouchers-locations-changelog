@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-07
+
+</summary>
+
+Total locations: 25,943 → 25,955
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 143 FASHION | 453A Ang Mo Kio Avenue 10, #01-143,  S561453; | <span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | BAN MIAN FISH SOUP PORRIDGE | 467 Bukit Batok West Avenue 9 West Plains @ Bukit Batok Singapore 650467, #01-01,  S650467; | <span title="1.35713012350104,103.743465010621">1.35713, 103.74347</span> |
+  | HAO JIA BAN MIAN(Y747) | 747 Yishun Street 72,  S760747; | <span title="1.42822554342155,103.833488111349">1.42823, 103.83349</span> |
+  | HONG KONG ROASTED CHICKEN RICE | 103 Gangsa Road,  S670103; | <span title="1.37867070821171,103.768538440957">1.37867, 103.76854</span> |
+  | JUMBO HUB | 264 Serangoon Central Braddell Heights Community Hub Singapore 550264, #01-225,  S550264; | <span title="1.35246730993198,103.872102766359">1.35247, 103.87210</span> |
+  | KNS RESTAURANT (KEBUN BARU CC) | 216 Ang Mo Kio Avenue 4 Kebun Baru Community Club Singapore 569897, #01-03,  S569897; | <span title="1.373007501602539,103.8376124212941">1.37301, 103.83761</span> |
+  | POPULAR FOOD (218 SUMANG WALK) | 218 Sumang Walk,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+  | SAFAYA INDIAN MUSLIM FOOD | 1 Binjai Park Binjai Park Singapore 589818, #01-01B,  S589818; | <span title="1.33583983703733,103.786493273519">1.33584, 103.78649</span> |
+  | SRI BHAVANI JE338 | 338 Jurong East Avenue 1 Hdb-jurong East Singapore 600338, #01-1644,  S600338; | <span title="1.3502205690563,103.731260625944">1.35022, 103.73126</span> |
+  | TRADITIONAL MEE HOON KUEH | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #01-09,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | UNCLE WONG WESTERN FOOD BEDOK136 | 136 Bedok North Avenue 3,  S460136; | <span title="1.32815498828204,103.93522082327">1.32815, 103.93522</span> |
+  | YU PAN - 810 CCK | 810 Choa Chu Kang Avenue 7,  S680810; | <span title="1.3740546176425,103.746160942106">1.37405, 103.74616</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HAIRTAG STUDIO | <del>67 Kallang Bahru Geylang Bahru Ville Singapore 330067, #01-451,  S330067;</del><br>710A Ang Mo Kio Ave 8, #01-2631,  S561710; | <del title="1.32139446427243,103.869336174701">1.32139, 103.86934</del><br><span title="1.37060312281517,103.847944273384">1.37060, 103.84794</span> |
+  | <del>LUCY BBQ</del><br>LUCY BBQ SEAFOOD | <del>20 Kensington Park Road, #01-05,  S557269;</del><br>20 Kensington Park Road, #01-22,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | WOK N WING THAI & LOCAL FOOD | <del>982 Buangkok Crescent,  S530982;</del><br>Ang Mo Kio Industrial Park 2, #01-401,  S569539; | <del title="1.3808503546459,103.879309094304">1.38085, 103.87931</del><br><span title="1.3722933064188,103.861759518041">1.37229, 103.86176</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-06
 
 </summary>
