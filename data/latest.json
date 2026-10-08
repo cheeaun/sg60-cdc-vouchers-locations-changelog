@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07 Oct 2026",
+  "lastUpdated": "08 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -21199,7 +21199,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-02"
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_3a5bf5a7-a5a4-4763-a10e-70ada14ccd25",
@@ -32560,6 +32560,26 @@
         }
       },
       "lastResetDate": "2026-06-19"
+    },
+    {
+      "id": "merchant_d50ac88c-5317-4539-9387-7467d1b5a3cb",
+      "entityId": "merchant_d50ac88c-5317-4539-9387-7467d1b5a3cb",
+      "name": "AH FANG FISH SOUP . BAN MIAN(653A PUNGGOL DRIVE)",
+      "address": "653A Punggol Drive,  S821653;",
+      "postalCode": "821653",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39791727536559,
+      "LON": 103.91930782216,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_5a1b71f5-2658-4daf-9b04-af6661032db7",
@@ -75122,26 +75142,6 @@
       "lastResetDate": "2022-01-28"
     },
     {
-      "id": "merchant_4511dab3-98b2-4ab8-a5fe-0a68d50714c0",
-      "entityId": "merchant_4511dab3-98b2-4ab8-a5fe-0a68d50714c0",
-      "name": "BOON CHIANG HAINANESE CHICKEN RICE (TPY 177)",
-      "address": "177 Toa Payoh Central,  S310177;",
-      "postalCode": "310177",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33390034057387,
-      "LON": 103.848854818382,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-05-08"
-    },
-    {
       "id": "merchant_6bb3a4e2-2a9d-42fb-9274-c0f7baae0e22",
       "entityId": "merchant_6bb3a4e2-2a9d-42fb-9274-c0f7baae0e22",
       "name": "BOON HENG ATAS HAINANESE CHICKEN RICE",
@@ -116702,6 +116702,26 @@
       "lastResetDate": "2024-01-11"
     },
     {
+      "id": "merchant_4fc445b5-6392-4076-bb43-eb14bab94553",
+      "entityId": "merchant_4fc445b5-6392-4076-bb43-eb14bab94553",
+      "name": "DELI.CASSE",
+      "address": "713A Ang Mo Kio Avenue 6, #01-06,  S561713;",
+      "postalCode": "561713",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37165321215295,
+      "LON": 103.846216180211,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_b2467e61-e847-428a-a52f-45a19f628ece",
       "entityId": "merchant_b2467e61-e847-428a-a52f-45a19f628ece",
       "name": "DELICACY FISH SOUP",
@@ -133600,6 +133620,26 @@
         }
       },
       "lastResetDate": "2022-09-16"
+    },
+    {
+      "id": "merchant_337a1422-a6fc-4100-a3d7-d055e8b1481a",
+      "entityId": "merchant_337a1422-a6fc-4100-a3d7-d055e8b1481a",
+      "name": "ECONOMIC BEE HOON 888",
+      "address": "888 Woodlands Drive 50,  S730888;",
+      "postalCode": "730888",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43712301500434,
+      "LON": 103.795314383823,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_99448960-56f9-4c51-8e78-79a2f549d17f",
@@ -168019,7 +168059,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-30"
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_7b207199-a579-407a-bfc8-0549c5d09191",
@@ -182300,6 +182340,26 @@
         }
       },
       "lastResetDate": "2022-05-09"
+    },
+    {
+      "id": "merchant_894da5fd-7dd3-41fd-9225-85d3cd0d2232",
+      "entityId": "merchant_894da5fd-7dd3-41fd-9225-85d3cd0d2232",
+      "name": "HABIBS EXPRESS - 325 CLEMENTI",
+      "address": "325 Clementi Avenue 5,  S120325;",
+      "postalCode": "120325",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.315096685325,
+      "LON": 103.766817400667,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_3b575a9f-7833-41bb-a199-d0fe15cabd37",
@@ -208525,11 +208585,11 @@
       "id": "merchant_a0abb8ed-5653-40a7-85a8-a2e687e47f3d",
       "entityId": "merchant_a0abb8ed-5653-40a7-85a8-a2e687e47f3d",
       "name": "HONG KONG STREET RED GROUPER FISH",
-      "address": "494 Tampines Street 45, #01-06,  S523494;",
-      "postalCode": "523494",
+      "address": "259 Pasir Ris St 21, #02-30,  S510259;",
+      "postalCode": "510259",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36287260065239,
-      "LON": 103.955717524059,
+      "LAT": 1.36645364037722,
+      "LON": 103.964598499523,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -208539,7 +208599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-09-23"
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_f826d7a2-e22b-4ce1-b5cd-f6216fa4a6c9",
@@ -212240,6 +212300,26 @@
         }
       },
       "lastResetDate": "2022-08-04"
+    },
+    {
+      "id": "merchant_9dc7558d-1f75-4034-9c90-1630dcd7ac82",
+      "entityId": "merchant_9dc7558d-1f75-4034-9c90-1630dcd7ac82",
+      "name": "HOUGANG SOON HENG BONELESS CHICKEN RICE",
+      "address": "1 Ang Mo Kio Street 65 Jtc Space @ Ang Mo Kio,  S569063;",
+      "postalCode": "569063",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38850804430263,
+      "LON": 103.847371291474,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_e871d60b-19e4-4744-b451-21c9da3a369b",
@@ -227680,26 +227760,6 @@
         }
       },
       "lastResetDate": "2022-11-16"
-    },
-    {
-      "id": "merchant_81b4e503-4d69-4a99-af9f-d6d144e8fea0",
-      "entityId": "merchant_81b4e503-4d69-4a99-af9f-d6d144e8fea0",
-      "name": "JADES CHICKEN",
-      "address": "84 Punggol Way, #02-78,  S829911;",
-      "postalCode": "829911",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.41455331350836,
-      "LON": 103.908235308668,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-07-25"
     },
     {
       "id": "merchant_7d7ba0a0-9385-49bd-a63a-1da57a8b60bb",
@@ -265062,6 +265122,26 @@
       "lastResetDate": "2025-07-07"
     },
     {
+      "id": "merchant_9624c68c-2943-4463-9d85-005425b0fc0e",
+      "entityId": "merchant_9624c68c-2943-4463-9d85-005425b0fc0e",
+      "name": "KOPI PAGI (704 AMK)",
+      "address": "704 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560704, #01-2559,  S560704;",
+      "postalCode": "560704",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37040712097271,
+      "LON": 103.847230717119,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_28fb64a5-6e41-405a-91c5-869c0abc74e6",
       "entityId": "merchant_28fb64a5-6e41-405a-91c5-869c0abc74e6",
       "name": "KOPI PHIN",
@@ -290319,7 +290399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-06"
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_2a84b1a6-a14e-4774-be50-70dff1ed80d7",
@@ -334522,6 +334602,26 @@
       "lastResetDate": "2021-11-11"
     },
     {
+      "id": "merchant_2b253df4-fd7e-4dfa-96fd-52c0c3506971",
+      "entityId": "merchant_2b253df4-fd7e-4dfa-96fd-52c0c3506971",
+      "name": "NONYA KUEH KUEH",
+      "address": "478 Tampines St 44,  S520478;",
+      "postalCode": "520478",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3611863066398,
+      "LON": 103.953084873919,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_b41f648a-8422-422e-b8f6-2ee3f6192c6d",
       "entityId": "merchant_b41f648a-8422-422e-b8f6-2ee3f6192c6d",
       "name": "NOODLE & FISH SOUP 530991",
@@ -339342,6 +339442,26 @@
       "lastResetDate": "2026-09-18"
     },
     {
+      "id": "merchant_9f650dd4-c687-4f7c-8adb-2178e9536eb2",
+      "entityId": "merchant_9f650dd4-c687-4f7c-8adb-2178e9536eb2",
+      "name": "OLD AIRPORT ROAD WANTON NOODLES - CLEMENTI",
+      "address": "450 Clementi Avenue 3,  S120450;",
+      "postalCode": "120450",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31353886128,
+      "LON": 103.765476305204,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_f616d478-3234-47e3-9388-0f8deea6b982",
       "entityId": "merchant_f616d478-3234-47e3-9388-0f8deea6b982",
       "name": "OLD AIRPORT WANTON NOODLE",
@@ -340620,6 +340740,26 @@
         }
       },
       "lastResetDate": "2026-06-22"
+    },
+    {
+      "id": "merchant_81b4e503-4d69-4a99-af9f-d6d144e8fea0",
+      "entityId": "merchant_81b4e503-4d69-4a99-af9f-d6d144e8fea0",
+      "name": "OMMA CHICKEN SOUP",
+      "address": "84 Punggol Way, #02-78,  S829911;",
+      "postalCode": "829911",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.41455331350836,
+      "LON": 103.908235308668,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_ffd38d50-b5c4-45fb-baf8-f18ce1c5bc1e",
@@ -397362,6 +397502,26 @@
       "lastResetDate": "2026-06-29"
     },
     {
+      "id": "merchant_e7bc7ca1-b8cc-44cd-9c46-c71a6c01b5fe",
+      "entityId": "merchant_e7bc7ca1-b8cc-44cd-9c46-c71a6c01b5fe",
+      "name": "SHIFU HARU HARU RAMEN",
+      "address": "445 Tampines Street 42,  S520445;",
+      "postalCode": "520445",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35830242194338,
+      "LON": 103.950658405067,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_7030363c-cf09-4118-8b24-5b8e2cf6b587",
       "entityId": "merchant_7030363c-cf09-4118-8b24-5b8e2cf6b587",
       "name": "SHIHUI COMMODITY STORE",
@@ -404022,6 +404182,26 @@
       "lastResetDate": "2022-07-22"
     },
     {
+      "id": "merchant_c16519c6-1956-4b20-8f6c-e2357603037b",
+      "entityId": "merchant_c16519c6-1956-4b20-8f6c-e2357603037b",
+      "name": "SIN MING RD HANDMADE NOODLE(218 SUMANG WALK)",
+      "address": "218 Sumang Walk,  S820218;",
+      "postalCode": "820218",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40322712524584,
+      "LON": 103.89538702242,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_25326825-00bc-47d2-b9c1-53c5c70c58a0",
       "entityId": "merchant_25326825-00bc-47d2-b9c1-53c5c70c58a0",
       "name": "SIN MING ROAD HANDMADE NOODLE & FISH SOUP",
@@ -407620,6 +407800,26 @@
         }
       },
       "lastResetDate": "2025-07-01"
+    },
+    {
+      "id": "merchant_529e539a-3f6b-4766-8094-e30206b3bf3b",
+      "entityId": "merchant_529e539a-3f6b-4766-8094-e30206b3bf3b",
+      "name": "SJH DELIGHTS (218 SUMANG WALK)",
+      "address": "218 Sumang Walk,  S820218;",
+      "postalCode": "820218",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40322712524584,
+      "LON": 103.89538702242,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_ff5f50c6-1f8f-4d99-b376-cbef08e212b6",
@@ -447802,6 +448002,26 @@
       "lastResetDate": "2026-06-19"
     },
     {
+      "id": "merchant_4511dab3-98b2-4ab8-a5fe-0a68d50714c0",
+      "entityId": "merchant_4511dab3-98b2-4ab8-a5fe-0a68d50714c0",
+      "name": "THE STEAK LAB",
+      "address": "325 Clementi Avenue 5, #01-155,  S120325;",
+      "postalCode": "120325",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.315096685325,
+      "LON": 103.766817400667,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_23dbac1b-fb90-4cc0-91c6-9f5c20ebfa9b",
       "entityId": "merchant_23dbac1b-fb90-4cc0-91c6-9f5c20ebfa9b",
       "name": "THE STEAK LAB (848 YISHUN)",
@@ -476222,6 +476442,26 @@
       "lastResetDate": "2026-09-09"
     },
     {
+      "id": "merchant_fdc8f6ee-103f-42b2-b30d-5f1fd72bbf6c",
+      "entityId": "merchant_fdc8f6ee-103f-42b2-b30d-5f1fd72bbf6c",
+      "name": "WANDER WONDER OPTIQUE",
+      "address": "323 Tah Ching Road Hdb Public Shelters Singapore 610323, #01-56,  S610323;",
+      "postalCode": "610323",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.336818078528098,
+      "LON": 103.7239145625318,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
+    },
+    {
       "id": "merchant_e72a287c-e576-4dab-9333-cfda6d481a39",
       "entityId": "merchant_e72a287c-e576-4dab-9333-cfda6d481a39",
       "name": "WANFORD HARDWARE & TRADING DIY",
@@ -489920,6 +490160,26 @@
         }
       },
       "lastResetDate": "2024-02-19"
+    },
+    {
+      "id": "merchant_032254f2-46d6-47a8-8e85-e576f3f7b40f",
+      "entityId": "merchant_032254f2-46d6-47a8-8e85-e576f3f7b40f",
+      "name": "XIAO BU DIAN HOUSEHOLD",
+      "address": "160 Ang Mo Kio Avenue 4, #01-50,  S560160;",
+      "postalCode": "560160",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37452773784115,
+      "LON": 103.839176060905,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-07"
     },
     {
       "id": "merchant_87e42b5e-8167-46cf-8b08-034f3788a36f",

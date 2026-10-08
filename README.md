@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-08
+
+</summary>
+
+Total locations: 25,955 → 25,968
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FANG FISH SOUP . BAN MIAN(653A PUNGGOL DRIVE) | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | DELI.CASSE | 713A Ang Mo Kio Avenue 6, #01-06,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | ECONOMIC BEE HOON 888 | 888 Woodlands Drive 50,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | HABIBS EXPRESS - 325 CLEMENTI | 325 Clementi Avenue 5,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | HOUGANG SOON HENG BONELESS CHICKEN RICE | 1 Ang Mo Kio Street 65 Jtc Space @ Ang Mo Kio,  S569063; | <span title="1.38850804430263,103.847371291474">1.38851, 103.84737</span> |
+  | KOPI PAGI (704 AMK) | 704 Ang Mo Kio Avenue 8 Hdb-ang Mo Kio Singapore 560704, #01-2559,  S560704; | <span title="1.37040712097271,103.847230717119">1.37041, 103.84723</span> |
+  | NONYA KUEH KUEH | 478 Tampines St 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | OLD AIRPORT ROAD WANTON NOODLES - CLEMENTI | 450 Clementi Avenue 3,  S120450; | <span title="1.31353886128,103.765476305204">1.31354, 103.76548</span> |
+  | SHIFU HARU HARU RAMEN | 445 Tampines Street 42,  S520445; | <span title="1.35830242194338,103.950658405067">1.35830, 103.95066</span> |
+  | SIN MING RD HANDMADE NOODLE(218 SUMANG WALK) | 218 Sumang Walk,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+  | SJH DELIGHTS (218 SUMANG WALK) | 218 Sumang Walk,  S820218; | <span title="1.40322712524584,103.89538702242">1.40323, 103.89539</span> |
+  | WANDER WONDER OPTIQUE | 323 Tah Ching Road Hdb Public Shelters Singapore 610323, #01-56,  S610323; | <span title="1.336818078528098,103.7239145625318">1.33682, 103.72391</span> |
+  | XIAO BU DIAN HOUSEHOLD | 160 Ang Mo Kio Avenue 4, #01-50,  S560160; | <span title="1.37452773784115,103.839176060905">1.37453, 103.83918</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HONG KONG STREET RED GROUPER FISH | <del>494 Tampines Street 45, #01-06,  S523494;</del><br>259 Pasir Ris St 21, #02-30,  S510259; | <del title="1.36287260065239,103.955717524059">1.36287, 103.95572</del><br><span title="1.36645364037722,103.964598499523">1.36645, 103.96460</span> |
+  | <del>JADES CHICKEN</del><br>OMMA CHICKEN SOUP | 84 Punggol Way, #02-78,  S829911; | <span title="1.41455331350836,103.908235308668">1.41455, 103.90824</span> |
+  | <del>BOON CHIANG HAINANESE CHICKEN RICE (TPY 177)</del><br>THE STEAK LAB | <del>177 Toa Payoh Central,  S310177;</del><br>325 Clementi Avenue 5, #01-155,  S120325; | <del title="1.33390034057387,103.848854818382">1.33390, 103.84885</del><br><span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-07
 
 </summary>
