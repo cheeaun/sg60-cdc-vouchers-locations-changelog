@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-09
+
+</summary>
+
+Total locations: 25,968 → 25,973
+
+- <details><summary>Added (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | CHAO YUAN NOODLE (653A PUNGGOL DRIVE) | 653A Punggol Drive, 02,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | LELE HAINANESE CHICKEN RICE | 475 Choa Chu Kang Avenue 3,  S680475; | <span title="1.37805614752086,103.738931794069">1.37806, 103.73893</span> |
+  | MIN FANG JAPANESE & KOREAN CUISINE | 429 Jurong West Avenue 1,  S640429; | <span title="1.35192513082392,103.72449679521">1.35193, 103.72450</span> |
+  | TRUST MEDICAL CLINIC (CASSIA CRESCENT 32) | 32 Cassia Crescent Hdb-guillemard Singapore 390032, #01-62B,  S390032; | <span title="1.30941607107151,103.883900101162">1.30942, 103.88390</span> |
+  | YI PIN TANG MALA HOTPOT | 50 Nanyang Avenue,  S639798; | <span title="1.34421841586272,103.680152218583">1.34422, 103.68015</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>STARRY TRADITIONAL MASSAGE</del><br>BLOSSOM WELLNESS | 203 Hougang Street 21, #01-57A,  S530203; | <span title="1.35816293570102,103.884400266646">1.35816, 103.88440</span> |
+  | JI XIANG | <del>4 Woodlands Street 12, #01-69,  S738623;</del><br>4 Woodlands Street 12, #01-62,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | <del>SUNSHINE BEAUTY SPA</del><br>KANG MEI TCM BEAUTY SPA | 208 New Upper Changi Road, #01-673,  S460208; | <span title="1.32569973464369,103.931074627428">1.32570, 103.93107</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-08
 
 </summary>

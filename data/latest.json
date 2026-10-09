@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08 Oct 2026",
+  "lastUpdated": "09 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -73882,6 +73882,26 @@
       "lastResetDate": "2021-12-11"
     },
     {
+      "id": "merchant_7c43ee96-7f22-41eb-8a39-05ec1169f9b8",
+      "entityId": "merchant_7c43ee96-7f22-41eb-8a39-05ec1169f9b8",
+      "name": "BLOSSOM WELLNESS",
+      "address": "203 Hougang Street 21, #01-57A,  S530203;",
+      "postalCode": "530203",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35816293570102,
+      "LON": 103.884400266646,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
+    },
+    {
       "id": "merchant_efd4f52c-87de-4c74-b87b-67f1ceea4373",
       "entityId": "merchant_efd4f52c-87de-4c74-b87b-67f1ceea4373",
       "name": "BLUE COCO NASI LEMAK",
@@ -88400,6 +88420,26 @@
         }
       },
       "lastResetDate": "2024-07-10"
+    },
+    {
+      "id": "merchant_dff6fdf9-a4ce-44e8-8e7f-940e96bf659e",
+      "entityId": "merchant_dff6fdf9-a4ce-44e8-8e7f-940e96bf659e",
+      "name": "CHAO YUAN NOODLE (653A PUNGGOL DRIVE)",
+      "address": "653A Punggol Drive, 02,  S821653;",
+      "postalCode": "821653",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39791727536559,
+      "LON": 103.91930782216,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_8b402a4f-154e-4c48-94b9-d35b3a496a0e",
@@ -201919,7 +201959,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-12"
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_272a8065-31c3-445c-a1d3-4be79f8a9c83",
@@ -231785,7 +231825,7 @@
       "id": "merchant_62551b94-8c7a-4c87-809b-eb32aa62cd71",
       "entityId": "merchant_62551b94-8c7a-4c87-809b-eb32aa62cd71",
       "name": "JI XIANG",
-      "address": "4 Woodlands Street 12, #01-69,  S738623;",
+      "address": "4 Woodlands Street 12, #01-62,  S738623;",
       "postalCode": "738623",
       "type": "HAWKER_HEARTLAND_MERCHANT",
       "LAT": 1.43354318137534,
@@ -231799,7 +231839,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-12-03"
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_050f43a0-f578-47c2-89b8-d151ac873230",
@@ -249080,6 +249120,26 @@
         }
       },
       "lastResetDate": "2024-11-13"
+    },
+    {
+      "id": "merchant_d98474c5-dd2d-48d4-af2b-93a8c8a96f29",
+      "entityId": "merchant_d98474c5-dd2d-48d4-af2b-93a8c8a96f29",
+      "name": "KANG MEI TCM BEAUTY SPA",
+      "address": "208 New Upper Changi Road, #01-673,  S460208;",
+      "postalCode": "460208",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32569973464369,
+      "LON": 103.931074627428,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_b2ce4ee8-69c0-4d99-985b-e144e3c998f1",
@@ -277940,6 +278000,26 @@
         }
       },
       "lastResetDate": "2025-08-08"
+    },
+    {
+      "id": "merchant_a64ad0e8-6428-402e-8702-7f192ce3bf38",
+      "entityId": "merchant_a64ad0e8-6428-402e-8702-7f192ce3bf38",
+      "name": "LELE HAINANESE CHICKEN RICE",
+      "address": "475 Choa Chu Kang Avenue 3,  S680475;",
+      "postalCode": "680475",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37805614752086,
+      "LON": 103.738931794069,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_85c1e0d5-be44-4b7e-9295-638256236c4a",
@@ -308540,6 +308620,26 @@
         }
       },
       "lastResetDate": "2026-06-29"
+    },
+    {
+      "id": "merchant_b8b11188-7d2f-40b9-8971-3ec610792984",
+      "entityId": "merchant_b8b11188-7d2f-40b9-8971-3ec610792984",
+      "name": "MIN FANG JAPANESE & KOREAN CUISINE",
+      "address": "429 Jurong West Avenue 1,  S640429;",
+      "postalCode": "640429",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35192513082392,
+      "LON": 103.72449679521,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_233d32d9-c031-4d2a-883d-5418825c503b",
@@ -340759,7 +340859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-07"
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_ffd38d50-b5c4-45fb-baf8-f18ce1c5bc1e",
@@ -380579,7 +380679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-09-14"
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_0c65122a-d9e1-4ef0-b8b2-5d317b298133",
@@ -420462,26 +420562,6 @@
       "lastResetDate": "2025-01-31"
     },
     {
-      "id": "merchant_7c43ee96-7f22-41eb-8a39-05ec1169f9b8",
-      "entityId": "merchant_7c43ee96-7f22-41eb-8a39-05ec1169f9b8",
-      "name": "STARRY TRADITIONAL MASSAGE",
-      "address": "203 Hougang Street 21, #01-57A,  S530203;",
-      "postalCode": "530203",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.35816293570102,
-      "LON": 103.884400266646,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-07-03"
-    },
-    {
       "id": "merchant_d94e1e30-3fcd-4dcd-9e01-bffeedcac87a",
       "entityId": "merchant_d94e1e30-3fcd-4dcd-9e01-bffeedcac87a",
       "name": "STARS VETERINARY CLINIC @HG",
@@ -424760,26 +424840,6 @@
         }
       },
       "lastResetDate": "2022-07-09"
-    },
-    {
-      "id": "merchant_d98474c5-dd2d-48d4-af2b-93a8c8a96f29",
-      "entityId": "merchant_d98474c5-dd2d-48d4-af2b-93a8c8a96f29",
-      "name": "SUNSHINE BEAUTY SPA",
-      "address": "208 New Upper Changi Road, #01-673,  S460208;",
-      "postalCode": "460208",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.32569973464369,
-      "LON": 103.931074627428,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2022-03-30"
     },
     {
       "id": "merchant_d6b049e2-c86f-4b60-afe5-39159b6cd5e6",
@@ -461640,6 +461700,26 @@
         }
       },
       "lastResetDate": "2022-12-23"
+    },
+    {
+      "id": "merchant_8bd97048-6e6d-4269-a4c5-6e5bad8f1f15",
+      "entityId": "merchant_8bd97048-6e6d-4269-a4c5-6e5bad8f1f15",
+      "name": "TRUST MEDICAL CLINIC (CASSIA CRESCENT 32)",
+      "address": "32 Cassia Crescent Hdb-guillemard Singapore 390032, #01-62B,  S390032;",
+      "postalCode": "390032",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30941607107151,
+      "LON": 103.883900101162,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_f8d55850-1484-4932-a7cd-0d6e91a055a3",
@@ -502140,6 +502220,26 @@
         }
       },
       "lastResetDate": "2026-09-23"
+    },
+    {
+      "id": "merchant_40793fd8-dd80-4c3b-a956-b825aef9d238",
+      "entityId": "merchant_40793fd8-dd80-4c3b-a956-b825aef9d238",
+      "name": "YI PIN TANG MALA HOTPOT",
+      "address": "50 Nanyang Avenue,  S639798;",
+      "postalCode": "639798",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34421841586272,
+      "LON": 103.680152218583,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-08"
     },
     {
       "id": "merchant_79b10e06-99fa-4bcf-9942-fce1beb37ace",
