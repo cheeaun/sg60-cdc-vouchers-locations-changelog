@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-10
+
+</summary>
+
+Total locations: 25,973 → 25,984
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ART WERKS | 232 River Valley Road Singapore 238290, #01-00,  S238290; | <span title="1.294054510268198,103.8425117286121">1.29405, 103.84251</span> |
+  | HONG JI CLAYPOT HERBAL BKT | 21 Canberra Link, 28,  S756973; | <span title="1.44826336410158,103.82276363189">1.44826, 103.82276</span> |
+  | HONG TAI TCM BEDOK213 | 213 Bedok North Street 1 Bedok Town Centre Singapore 460213, #01-131,  S460213; | <span title="1.32635298072477,103.932637214105">1.32635, 103.93264</span> |
+  | JIN SHENG MIXED VEG RICE.PORRIDGE JW504 | 504 Jurong West Street 51,  S640504; | <span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | KAI XIAN CURRY RICE | 4 Woodlands Street 12, #01-069,  S738623; | <span title="1.43354318137534,103.77988189197">1.43354, 103.77988</span> |
+  | KIN JOE COFFEE | 23 Eng Kong Terrace Eng Kong Park Singapore 598995, #01-23,  S598995; | <span title="1.336180501467801,103.7681792284678">1.33618, 103.76818</span> |
+  | LADY BOSS MIX VEG RICE CL505 | 505 Canberra Link, ST1,  S750505; | <span title="1.45026201889682,103.822534715231">1.45026, 103.82253</span> |
+  | MADNESS FRIED CHICKEN & NASI LEMAK | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | SEN KEE CHARCOAL ROAST - 325 CLEMENTI | 325 Clementi Avenue 5,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | UNCLE LIM'S DINER | 227 River Valley Road,  S238285; | <span title="1.293739837869634,103.8422522502164">1.29374, 103.84225</span> |
+  | YANG MING FASHION CLOTHING (JW504) | 504 Jurong West Street 51 Hong Kah Point Singapore 640504, #01-217C,  S640504; | <span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ASIA GHANI JAMU SELERA CHICKEN RICE | <del>888 Woodlands Drive 50,  S730888;</del><br>888 Woodlands Drive 50, #01-733,  S730888; | <span title="1.43712301500434,103.795314383823">1.43712, 103.79531</span> |
+  | <del>SEE HAI SENG COMPANY</del><br>HAI SENG MINIMART | 504 West Coast Drive Singapore 120504, #01-228,  S120504; | <span title="1.31225340748607,103.759601815642">1.31225, 103.75960</span> |
+  | MUHD DIN FROZEN GOODS | <del>201C Tampines Street 21, #01-12A,  S523201;</del><br>201C Tampines Street 21, #01-07D,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | <del>TRADITIONAL HANDMADE MEE HOON KUEH</del><br>NO.1 BAN MEE & LEICHA | <del>201C Tampines Street 21,  S523201;</del><br>201C Tampines Street 21, #01-01,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | <del>PENANG ALLEY (BUANGKOK HAWKER)</del><br>PENANG ALLEY | <del>70 Compassvale Bow Sengkang Grand Mall Singapore 544692, #02-K11,  S544692;</del><br>Blk 3004 Ubi Avenue 3,  S408860; | <del title="1.38389417561466,103.892418758836">1.38389, 103.89242</del><br><span title="1.33135094259798,103.893607317425">1.33135, 103.89361</span> |
+  | PRIMA DELI (ELIAS) | <del>625 Elias Road, #01-326,  S510625;</del><br>625 Elias Road, #01-330,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | SHENG KEE BIG PRAWN NOODLE | <del>828 Tampines Street 81,  S520828;</del><br>85 Toa Payoh Lorong 4, #01-368,  S310085; | <del title="1.34893084103853,103.934588111014">1.34893, 103.93459</del><br><span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-09
 
 </summary>
