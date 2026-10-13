@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-13
+
+</summary>
+
+Total locations: 25,984 → 26,005
+
+- <details><summary>Added (21)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | (QUAN SHENG) JIN LIANG PRAWN NOODLES | 85 Redhill Lane, #01-80,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | 92 NASI LEMAK | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | BAK KUT TEH | 1 Ang Mo Kio Street 65 Jtc Space @ Ang Mo Kio, 32,  S569063; | <span title="1.38850804430263,103.847371291474">1.38851, 103.84737</span> |
+  | CSK HUB PTE LTD | 632 Bukit Batok Central Singapore 650632, #01-136,  S650632; | <span title="1.34929895794167,103.750830565891">1.34930, 103.75083</span> |
+  | DRINK STALL | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | EAT GOOD LAH | National Development Building, Annex B, Telok Ayer Street, #01-73,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | HEI KITCHEN | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | HIPPOPOTATO (407 NORTHSHORE) | 407 Northshore Drive Northshore Plaza I Singapore 820407, #02-41,  S820407; | <span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | ISTANBUL SEAFOOD | 476 Tampines Street 44,  S520476; | <span title="1.36092283930264,103.953359364582">1.36092, 103.95336</span> |
+  | LADIES CENTRE TAILORING & ALTERATIONS | 665 Buffalo Road, #02-13,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | LADY BOSS MIX VEG RICE 101YS | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | LADY BOSS MIX VEG RICE 231 | 231 Bain Street,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | LUCKY DUMPLING | 50A Marine Terrace, #01-0297,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | NASI LEMAK AYAM TALIWANG (ONE PUNGGOL ) | 1 Punggol Drive, #02-20,  S828629; | <span title="1.40874764582071,103.905169457582">1.40875, 103.90517</span> |
+  | OK SEAFOOD | 51 Yishun Avenue 11, #01-28,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | OLD AIRPORT RD HANDMADE PAU DIAN JW493 | 493 Jurong West Street 41,  S640493; | <span title="1.34896996021593,103.724938358616">1.34897, 103.72494</span> |
+  | RED DRAGON ROASTED MEAT (158AMK) | 158 Ang Mo Kio Avenue 4,  S560158; | <span title="1.3747805874721,103.838997571585">1.37478, 103.83900</span> |
+  | SAN HUP NASI LEMAK | 524 Hougang Avenue 6,  S530524; | <span title="1.3740756748707,103.890715774575">1.37408, 103.89072</span> |
+  | SU XIA MEI MALA XIANG GUO | 164 Bukit Merah Central,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | TASTY MIXED RICE | 477 Tampines Street 43,  S520477; | <span title="1.36092155092893,103.952892124796">1.36092, 103.95289</span> |
+  | VL CREATIONZ TAILORING PTE LTD@#02-14 | 665 Buffalo Road, #02-14,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>KOVAN PRATA EXPRESS</del><br>NEEB BANANA LEAF | <del>210 Hougang Street 21, #01-261,  S530210;</del><br>91 Jalan Satu, #01-01,  S390091; | <del title="1.35938669669059,103.88663487809">1.35939, 103.88663</del><br><span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | <del>WANG JIAO VEGETARIAN FOOD</del><br>RU YI MEE HOON KWAY | 14 Haig Road, #01-35,  S430014; | <span title="1.31542509324914,103.895479253328">1.31543, 103.89548</span> |
+  | <del>HAWKERMAN STREET KITCHEN</del><br>WARISAN API | <del>12 Haig View, Haig Road,  S430012;</del><br>12 Haig View, Haig Road, #01-323,  S430012; | <span title="1.31561468089698,103.896129520656">1.31561, 103.89613</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-10
 
 </summary>
