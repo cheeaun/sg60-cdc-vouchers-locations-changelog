@@ -13,6 +13,60 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-14
+
+</summary>
+
+Total locations: 26,005 → 26,032
+
+- <details><summary>Added (27)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 29 SEAFOOD | 91 Jalan Satu,  S390091; | <span title="1.30950886274717,103.888129352423">1.30951, 103.88813</span> |
+  | BEVERAGES STALL | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | BOON HENG ATAS ROASTED DELIGHTS (510443) | 443 Pasir Ris Drive 6, 010,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | CRESCENT MART | 226E Ang Mo Kio Avenue 1 Kebun Baru Mall Singapore 565226, #01-699,  S565226; | <span title="1.36649244691811,103.839794925007">1.36649, 103.83979</span> |
+  | CURRY PARADISE- BMC | 161 Bukit Merah Central,  S150161; | <span title="1.28391229397444,103.816006111441">1.28391, 103.81601</span> |
+  | FA STUDIO (AMK 339) | 339 Ang Mo Kio Avenue 1 Singapore 560339, #01-1599,  S560339; | <span title="1.36506492207366,103.849115819192">1.36506, 103.84912</span> |
+  | FADE AVENUE | 5 Upper Boon Keng Road Agape Little Uni (kallang) Pte. Ltd. Singapore 380005, #01-21,  S380005; | <span title="1.31264014497827,103.872491873561">1.31264, 103.87249</span> |
+  | FAMOUS HK STYLE ROASTED DELIGHT | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | FOLKS AND STORIES | 116 Jalan Bukit Merah Tiong Bahru Orchid Singapore 160116, #01-1635,  S160116; | <span title="1.2814103907615,103.826659816441">1.28141, 103.82666</span> |
+  | FOODCITY DRINK STALL (BEVERAGES) | 643 Senja Close,  S670643; | <span title="1.38790584193931,103.763017336135">1.38791, 103.76302</span> |
+  | FU CHENG MIXED VEGETABLE RICE -TPY 8 | 8 Lorong 7 Toa Payoh,  S310008; | <span title="1.3378805011388,103.856612802183">1.33788, 103.85661</span> |
+  | FUNTOAST (407 NORTHSHORE) | 407 Northshore Drive Northshore Plaza I Singapore 820407, #02-37,  S820407; | <span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | LADY BOSS MIX VEG RICE TP211 | 211 Lorong 8 Toa Payoh,  S310211; | <span title="1.34042178857688,103.853768900549">1.34042, 103.85377</span> |
+  | LAST BITE (T633) | Blk 633 Tampines North Drive 2,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | MR DOUGH BAKEHOUSE | 338 Ang Mo Kio Avenue 1 Singapore 560338, #01-1649,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+  | NEPTUNE @AMK 453 | 453 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560453, #01-1801,  S560453; | <span title="1.36858206013781,103.855983050439">1.36858, 103.85598</span> |
+  | QI JIA LOR MEE | 724 Ang Mo Kio Avenue 6, #01-33,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | QUAN KEE HANDMADE FISHBALL NOODLE (612 PUNGGOL) | 612 Punggol Drive,  S820612; | <span title="1.40461003085618,103.908665597491">1.40461, 103.90867</span> |
+  | QUEENS KOREAN KITCHEN | 85 Redhill Lane, #01-92,  S150085; | <span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | SENG KEE KOPI | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+  | SHIOK HOKKIEN MEE | 209 Hougang Street 21, #01-55,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | SU SHI PIAO XIANG VEGETARIAN (T633) | Blk 633 Tampines North Drive 2,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+  | THE STEAK HOUSE | 248 Simei Street 3,  S520248; | <span title="1.3435937626961,103.953541142825">1.34359, 103.95354</span> |
+  | TIONG BAHRU YONG TAO HU BT | 2A Jalan Seh Chuan, #01-078,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | VEGETARIAN | 422 Ang Mo Kio Avenue 3,  S560422; | <span title="1.36799988809778,103.851873942231">1.36800, 103.85187</span> |
+  | WEI JI MIXED RICE@78A | 78A Telok Blangah Street 32, St12,  S101078; | <span title="1.27338751489362,103.808980553946">1.27339, 103.80898</span> |
+  | ZI JIA YTF 147PP | 147 Potong Pasir Avenue 1,  S350147; | <span title="1.33189434532343,103.867853678364">1.33189, 103.86785</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANTHONY INDONESIA CUISINE | <del>209 Hougang Street 21, #01-55,  S530209;</del><br>209 Hougang Street 21, #01-60,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | <del>RASA BERJAYA</del><br>BEDOK LIVE FROG PORRIDGE | <del>510 Bedok North Street 3,  S460510;</del><br>510 Bedok North Street 3, #01-61,  S460510; | <span title="1.3324467322696,103.930476688129">1.33245, 103.93048</span> |
+  | <del>KOVAN POPIAH</del><br>FORTUNE POPIAH (KOVAN) | 209 Hougang Street 21, #01-52,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-13
 
 </summary>
