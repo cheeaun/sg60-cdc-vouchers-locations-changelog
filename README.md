@@ -13,6 +13,53 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-15
+
+</summary>
+
+Total locations: 26,032 → 26,050
+
+- <details><summary>Added (18)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 3BREW COFFEE | 164 Bukit Merah Central Hdb-bukit Merah Singapore 150164, #01-3629,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | AN HUA NANYANG | 169 Stirling Road Stirling View Singapore 140169, #01-1149,  S140169; | <span title="1.29043486528791,103.803105948762">1.29043, 103.80311</span> |
+  | ATCHAYA MINIMART (510442) | 442 Pasir Ris Drive 6 Dbs Pasir Ris East Branch Singapore 510442, #01-48E,  S510442; | <span title="1.36893288711175,103.957951722203">1.36893, 103.95795</span> |
+  | BOMBAY LAH! (HOLLAND) | 1 Lorong Mambong, #01-37,  S277700; | <span title="1.31107297402127,103.794876419662">1.31107, 103.79488</span> |
+  | CHWEE KUEH | 17 Upper Boon Keng Road, #01-57,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | DING FENG HANDMADE FISHBALL NOODLE | 159A Hougang Street 11,  S531159; | <span title="1.35189336565608,103.879444507283">1.35189, 103.87944</span> |
+  | HAIRTRENDZ STUDIO | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-29,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | JACK'S PLACE ANG MO KIO | 730 Ang Mo Kio Avenue 6 Singapore 560730, #01-4274,  S560730; | <span title="1.37343369272587,103.8457651581942">1.37343, 103.84577</span> |
+  | JIAK SONG MEE HOON KWAY (UPPER BOON KENG) | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | KENGAI COFFEE (519641) | 110 Pasir Ris Central, #02-15,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | NGOH HIONG PRAWN CRACKER | 717 Yishun Street 71,  S760717; | <span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+  | T-LUCK HOME ESSENTIALS (T601B) | 601B Tampines Avenue 9 Tampines Greenridges Singapore 522601, #01-09,  S522601; | <span title="1.3608827749542,103.937510784188">1.36088, 103.93751</span> |
+  | TASTE JOY WESTERN | 478 Tampines Street 44,  S520478; | <span title="1.3611863066398,103.953084873919">1.36119, 103.95308</span> |
+  | UNCLE ROCKY | 727 Ang Mo Kio Avenue 6,  S560727; | <span title="1.37299031596651,103.846012559319">1.37299, 103.84601</span> |
+  | WEI SEN FRUIT JUICE@TEKKA | 665 Buffalo Road, #01-309,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | YE LAI XIANG - 116 | 116 Bukit Merah View,  S151116; | <span title="1.28513427067055,103.821532226321">1.28513, 103.82153</span> |
+  | YUUC DIY CORNER | 31 Commonwealth Crescent, #01-02,  S149644; | <span title="1.30690013206335,103.800367271218">1.30690, 103.80037</span> |
+  | ZI JIA YONG TAU FOO (T610) | 610 Tampines North Drive 1,  S520610; | <span title="1.36463646143194,103.937173937407">1.36464, 103.93717</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL MADINA | <del>36 Chai Chee Avenue, #01-151,  S461036;</del><br>416 Pandan Gardens, #01-122,  S600416; | <del title="1.32534102499628,103.92543538387">1.32534, 103.92544</del><br><span title="1.3210261097978,103.748313133948">1.32103, 103.74831</span> |
+  | <del>DRINK STALL</del><br>GOOD DRINKS GOODDAY | <del>36 Chai Chee Avenue,  S461036;</del><br>267 Serangoon Avenue, #01-01,  S550267; | <del title="1.32534102499628,103.92543538387">1.32534, 103.92544</del><br><span title="1.35319405066769,103.870920824793">1.35319, 103.87092</span> |
+  | <del>YI CHEN  BEAUTY SALON</del><br>GRACE NAIL & LASH | Bukit Batok East Avenue 3, #01-265,  S650283; | <span title="1.34694365753899,103.757539380939">1.34694, 103.75754</span> |
+  | <del>HENG LEE</del><br>JIN HENG | 209 Hougang Street 21, #01-178,  S530209; | <span title="1.35908384091048,103.886055368064">1.35908, 103.88606</span> |
+  | <del>Q & M DENTAL SURGERY (OLD AIRPORT ROAD) PTE LTD</del><br>Q & M DENTAL SURGERY (OLD AIRPORT ROAD) | <del>39 Jalan Tiga, #01-03,  S390039;</del><br>41 Jalan Tiga, #01-06,  S390041; | <del title="1.30782060282339,103.885092299552">1.30782, 103.88509</del><br><span title="1.30782736808212,103.8847638456784">1.30783, 103.88476</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-14
 
 </summary>
