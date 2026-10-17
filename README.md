@@ -13,6 +13,54 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-17
+
+</summary>
+
+Total locations: 25,803 → 25,822
+
+- <details><summary>Added (19)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 178 FISH HEAD STEAMBOAT | 530 Ang Mo Kio Avenue 10,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | BEVERAGES STALL | 447A Jalan Kayu,  S791447; | <span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | BINGXUE TEA AND ICE CREAM | 118 Rivervale Drive Dbs Ntuc Rivervale Plaza Singapore 540118, #01-K21,  S540118; | <span title="1.38493202140034,103.901558018666">1.38493, 103.90156</span> |
+  | HONG LIM CURRY PUFF (GEYLANG BAHRU) | 69 Geylang Bahru, #01-37,  S330069; | <span title="1.32146311046779,103.870005014547">1.32146, 103.87001</span> |
+  | HU XU LAO @450 AMK | 450 Ang Mo Kio Avenue 10,  S560450; | <span title="1.36848406233048,103.855468149019">1.36848, 103.85547</span> |
+  | HUAT KEE PIG'S ORGAN SOUP | 21 Sengkang West Avenue,  S797650; | <span title="1.39172205939728,103.877039053461">1.39172, 103.87704</span> |
+  | JAPANESE CUISINE | 535 Clementi Road, Blk 51, Level 2,  S599489; | <span title="1.33378462302575,103.775294348014">1.33378, 103.77529</span> |
+  | KEDAI KAK NUR | 51 Yishun Avenue 11, #01-34,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | LADY BOSS MIX VEG RICE 447A | 447A Jalan Kayu,  S791447; | <span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | LUCKY DRAGON | 537 Bedok North Street 3 Hdb-bedok Singapore 460537, #01-529,  S460537; | <span title="1.33177300757048,103.924236461237">1.33177, 103.92424</span> |
+  | PHYSIOCLINIC | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #02-51,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | QI ER YI BAO FA | 721 Clementi West Street 2 Singapore 120721, #01-142,  S120721; | <span title="1.3024252487869,103.76435385686">1.30243, 103.76435</span> |
+  | RASA RASA DIM SUM | 348 Yishun Avenue 11,  S760348; | <span title="1.42662488391448,103.842930213866">1.42662, 103.84293</span> |
+  | RED LANTERN 365 SEMBAWANG | 365 Sembawang Crescent,  S750365; | <span title="1.44436832551494,103.816263881257">1.44437, 103.81626</span> |
+  | ROASTED LEGEND (FV 465) | 465 Fernvale Road,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | TAN XIANG CLEMENTI | 431 Clementi Avenue 3,  S120431; | <span title="1.31377438724798,103.762535189721">1.31377, 103.76254</span> |
+  | TAYS KITCHEN | 1 Jalan Kukoh, #01-04,  S161001; | <span title="1.2882310152805,103.839934168065">1.28823, 103.83993</span> |
+  | XIN WEI DK GOURMET (CHAICHEE36) | 36 Chai Chee Avenue,  S461036; | <span title="1.32534102499628,103.92543538387">1.32534, 103.92544</span> |
+  | ZAN MINIMART | 157 Mei Ling Street Meiling Heights Singapore 140157, #01-60,  S140157; | <span title="1.29311193242125,103.803730242156">1.29311, 103.80373</span> |
+
+  </details>
+
+- <details><summary>Changed (5)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 253 SATAY | <del>253 Choa Chu Kang Avenue 1,  S680253;</del><br>429 Jurong West Avenue 1, 01-322,  S640429; | <del title="1.37743962648904,103.744383226772">1.37744, 103.74438</del><br><span title="1.35192513082392,103.72449679521">1.35193, 103.72450</span> |
+  | CHENG GONG MIXED RICE STALL | <del>253 Choa Chu Kang Avenue 1, #01-17,  S680253;</del><br>429 Jurong West Avenue 1, #01-322,  S640429; | <del title="1.37743962648904,103.744383226772">1.37744, 103.74438</del><br><span title="1.35192513082392,103.72449679521">1.35193, 103.72450</span> |
+  | CHENG GONG ZHI CHAR SEAFOOD | <del>253 Choa Chu Kang Avenue 1, #01-17,  S680253;</del><br>429 Jurong West Avenue 1, #01-322,  S640429; | <del title="1.37743962648904,103.744383226772">1.37744, 103.74438</del><br><span title="1.35192513082392,103.72449679521">1.35193, 103.72450</span> |
+  | <del>YAN CI XIN VEGETARIAN</del><br>DAN-LIN VEGETARIAN FOOD | 51 Old Airport Road, #01-58,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | <del>TANG CHENG GOLDEN CUISINE</del><br>JIN TANG GOLDEN ISLE | 118 Aljunied Ave 2, #02-100, S5,  S380118; | <span title="1.32000040187831,103.887363064677">1.32000, 103.88736</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-16
 
 </summary>
