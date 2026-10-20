@@ -13,6 +13,57 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-20
+
+</summary>
+
+Total locations: 25,822 → 25,825
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL IBRAHIM | 727 Clementi West Street 2, ST 2,  S120727; | <span title="1.30462487668384,103.763817745572">1.30462, 103.76382</span> |
+  | AUNTIE SAY TRADITIONAL (HOME-MADE) PAU | 505 West Coast Drive,  S120505; | <span title="1.31228054125456,103.759981529056">1.31228, 103.75998</span> |
+  | CHARCOAL ROASTED DELIGHTS (TPY 94) | 94 Lorong 4 Toa Payoh,  S310094; | <span title="1.33889442783825,103.849538318068">1.33889, 103.84954</span> |
+  | CHINDAMANI 3 STAR | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | DONG JI KWAY CHAP (136) | 136 Marsiling Road,  S730136; | <span title="1.43832145748732,103.777752029807">1.43832, 103.77775</span> |
+  | FU CHAN BEVERAGES (653A PUNGGOL) | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | FU CHAN F&B DRINK STALL | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | GO2EAT | 205D Compassvale Lane,  S544205; | <span title="1.38587241536871,103.897555104974">1.38587, 103.89756</span> |
+  | LADY BOSS MIX VEG RICE (653A PUNGGOL) | 653A Punggol Drive,  S821653; | <span title="1.39791727536559,103.91930782216">1.39792, 103.91931</span> |
+  | LAO WANG CURRY CHICKEN BEE HOON NOODLE (MAXWELL) | 1 Kadayanallur Street, #01-28,  S069184; | <span title="1.28033142727315,103.844747227479">1.28033, 103.84475</span> |
+  | SAN HE TANG | 34 Whampoa West Bendemeer Ville Singapore 330034, #01-71A,  S330034; | <span title="1.32050169556608,103.863341271367">1.32050, 103.86334</span> |
+
+  </details>
+
+- <details><summary>Removed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | SAVH | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-ADC | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-BD | 47 Toa Payoh Rise, 47,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-DCC | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-DITD | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-FR | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-LVC | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+  | SAVH-MMT | 47 Toa Payoh Rise,  S298104; | <span title="1.33833832843255,103.839877083466">1.33834, 103.83988</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>UNCLE WONG WESTERN FOOD (519641)</del><br>WANG JI WESTERN FOOD | 110 Pasir Ris Central, #02-13,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-17
 
 </summary>

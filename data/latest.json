@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Oct 2026",
+  "lastUpdated": "20 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -40302,6 +40302,26 @@
       "lastResetDate": "2026-03-26"
     },
     {
+      "id": "merchant_2d3de0c9-bca6-48cb-bc86-b13b8055df02",
+      "entityId": "merchant_2d3de0c9-bca6-48cb-bc86-b13b8055df02",
+      "name": "AL IBRAHIM",
+      "address": "727 Clementi West Street 2, ST 2,  S120727;",
+      "postalCode": "120727",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30462487668384,
+      "LON": 103.763817745572,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
+    },
+    {
       "id": "merchant_a0dd18d2-b538-4c85-b814-64738abeb98c",
       "entityId": "merchant_a0dd18d2-b538-4c85-b814-64738abeb98c",
       "name": "AL IBRAHIM 727 CW",
@@ -54500,6 +54520,26 @@
         }
       },
       "lastResetDate": "2026-04-22"
+    },
+    {
+      "id": "merchant_6fcc46aa-45fa-4efb-8997-69e798de34e1",
+      "entityId": "merchant_6fcc46aa-45fa-4efb-8997-69e798de34e1",
+      "name": "AUNTIE SAY TRADITIONAL (HOME-MADE) PAU",
+      "address": "505 West Coast Drive,  S120505;",
+      "postalCode": "120505",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31228054125456,
+      "LON": 103.759981529056,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_8a9b2f88-0711-4d8c-b587-90378804500b",
@@ -73399,7 +73439,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-08"
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_efd4f52c-87de-4c74-b87b-67f1ceea4373",
@@ -88822,6 +88862,26 @@
       "lastResetDate": "2026-07-27"
     },
     {
+      "id": "merchant_3f697d0e-c1cb-4e67-b500-85d9ca0a64d6",
+      "entityId": "merchant_3f697d0e-c1cb-4e67-b500-85d9ca0a64d6",
+      "name": "CHARCOAL ROASTED DELIGHTS (TPY 94)",
+      "address": "94 Lorong 4 Toa Payoh,  S310094;",
+      "postalCode": "310094",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33889442783825,
+      "LON": 103.849538318068,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
+    },
+    {
       "id": "merchant_6a19edb3-1e23-46a1-a88c-ffb91a0e7046",
       "entityId": "merchant_6a19edb3-1e23-46a1-a88c-ffb91a0e7046",
       "name": "CHARGRILLED",
@@ -95360,6 +95420,26 @@
         }
       },
       "lastResetDate": "2025-07-08"
+    },
+    {
+      "id": "merchant_a0f1c901-bfbf-4671-87dc-9e5258ed68bc",
+      "entityId": "merchant_a0f1c901-bfbf-4671-87dc-9e5258ed68bc",
+      "name": "CHINDAMANI 3 STAR",
+      "address": "205D Compassvale Lane,  S544205;",
+      "postalCode": "544205",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38587241536871,
+      "LON": 103.897555104974,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_5c916961-5b80-4942-9e2b-bc71c121cd06",
@@ -123280,6 +123360,26 @@
         }
       },
       "lastResetDate": "2021-12-17"
+    },
+    {
+      "id": "merchant_55152029-f89e-4ce3-92d8-032e45325aeb",
+      "entityId": "merchant_55152029-f89e-4ce3-92d8-032e45325aeb",
+      "name": "DONG JI KWAY CHAP (136)",
+      "address": "136 Marsiling Road,  S730136;",
+      "postalCode": "730136",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43832145748732,
+      "LON": 103.777752029807,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_f9e39acb-6397-4ae2-a623-39f9ed62eb7d",
@@ -162522,6 +162622,26 @@
       "lastResetDate": "2026-02-06"
     },
     {
+      "id": "merchant_01e17643-5f05-4bc1-bfd1-961fb0e1aff5",
+      "entityId": "merchant_01e17643-5f05-4bc1-bfd1-961fb0e1aff5",
+      "name": "FU CHAN BEVERAGES (653A PUNGGOL)",
+      "address": "653A Punggol Drive,  S821653;",
+      "postalCode": "821653",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39791727536559,
+      "LON": 103.91930782216,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
+    },
+    {
       "id": "merchant_3b281c52-2c6f-49c0-b2d7-6132fa3627e4",
       "entityId": "merchant_3b281c52-2c6f-49c0-b2d7-6132fa3627e4",
       "name": "FU CHAN DRINK STALL",
@@ -162540,6 +162660,26 @@
         }
       },
       "lastResetDate": "2025-07-31"
+    },
+    {
+      "id": "merchant_cedc35b0-2b5e-4f12-8174-660fbc95ae85",
+      "entityId": "merchant_cedc35b0-2b5e-4f12-8174-660fbc95ae85",
+      "name": "FU CHAN F&B DRINK STALL",
+      "address": "529 Hougang Avenue 6,  S530529;",
+      "postalCode": "530529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37546896487502,
+      "LON": 103.890729546346,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_531bf089-4345-4e42-8ae7-7914e73095fd",
@@ -171020,6 +171160,26 @@
         }
       },
       "lastResetDate": "2026-07-02"
+    },
+    {
+      "id": "merchant_0e74ac19-43ea-4808-8cc7-498fb7d8859d",
+      "entityId": "merchant_0e74ac19-43ea-4808-8cc7-498fb7d8859d",
+      "name": "GO2EAT",
+      "address": "205D Compassvale Lane,  S544205;",
+      "postalCode": "544205",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38587241536871,
+      "LON": 103.897555104974,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_f93da4c5-e3d4-48f3-9f79-07929a3e8577",
@@ -189239,7 +189399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-29"
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_53a64c2d-0fdf-45e8-83cf-06055b0b55e7",
@@ -236699,7 +236859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-16"
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_72cab54f-4c75-4788-b32a-9b658c3e67e7",
@@ -268902,6 +269062,26 @@
       "lastResetDate": "2024-02-20"
     },
     {
+      "id": "merchant_be6e4121-be38-45d3-8f2b-f1c93b196714",
+      "entityId": "merchant_be6e4121-be38-45d3-8f2b-f1c93b196714",
+      "name": "LADY BOSS MIX VEG RICE (653A PUNGGOL)",
+      "address": "653A Punggol Drive,  S821653;",
+      "postalCode": "821653",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.39791727536559,
+      "LON": 103.91930782216,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
+    },
+    {
       "id": "merchant_d954fe07-7743-4d53-b5a1-fadf6209c5a0",
       "entityId": "merchant_d954fe07-7743-4d53-b5a1-fadf6209c5a0",
       "name": "LADY BOSS MIX VEG RICE 101YS",
@@ -271880,6 +272060,26 @@
         }
       },
       "lastResetDate": "2026-09-30"
+    },
+    {
+      "id": "merchant_e80c184e-a826-403f-ab75-314c8e5ef21d",
+      "entityId": "merchant_e80c184e-a826-403f-ab75-314c8e5ef21d",
+      "name": "LAO WANG CURRY CHICKEN BEE HOON NOODLE (MAXWELL)",
+      "address": "1 Kadayanallur Street, #01-28,  S069184;",
+      "postalCode": "069184",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.28033142727315,
+      "LON": 103.844747227479,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_4b1407a1-a820-4860-b417-1b2b6fee50bf",
@@ -382382,6 +382582,26 @@
       "lastResetDate": "2024-07-29"
     },
     {
+      "id": "merchant_a08b1d5d-7ec6-4804-9ae0-975f3f4c0abb",
+      "entityId": "merchant_a08b1d5d-7ec6-4804-9ae0-975f3f4c0abb",
+      "name": "SAN HE TANG",
+      "address": "34 Whampoa West Bendemeer Ville Singapore 330034, #01-71A,  S330034;",
+      "postalCode": "330034",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32050169556608,
+      "LON": 103.863341271367,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
+    },
+    {
       "id": "merchant_84e16d8a-52ce-4015-bce5-3b0198ba5e34",
       "entityId": "merchant_84e16d8a-52ce-4015-bce5-3b0198ba5e34",
       "name": "SAN HUP - BP",
@@ -384400,166 +384620,6 @@
         }
       },
       "lastResetDate": "2023-05-17"
-    },
-    {
-      "id": "merchant_d8737951-6a10-4dd6-9e63-23656996d477",
-      "entityId": "merchant_d8737951-6a10-4dd6-9e63-23656996d477",
-      "name": "SAVH",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_cebc9f37-d8eb-41a0-9c9a-f10274d36507",
-      "entityId": "merchant_cebc9f37-d8eb-41a0-9c9a-f10274d36507",
-      "name": "SAVH-ADC",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_c3771d17-b6b8-4d76-8b0f-63098332b40a",
-      "entityId": "merchant_c3771d17-b6b8-4d76-8b0f-63098332b40a",
-      "name": "SAVH-BD",
-      "address": "47 Toa Payoh Rise, 47,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_73cef2cb-ea04-4493-8f62-327c08595519",
-      "entityId": "merchant_73cef2cb-ea04-4493-8f62-327c08595519",
-      "name": "SAVH-DCC",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_2e7e4a76-38e8-44d2-bbc5-183b475e974e",
-      "entityId": "merchant_2e7e4a76-38e8-44d2-bbc5-183b475e974e",
-      "name": "SAVH-DITD",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_8e05a04d-e7f8-4073-b735-6dec21fe7ad1",
-      "entityId": "merchant_8e05a04d-e7f8-4073-b735-6dec21fe7ad1",
-      "name": "SAVH-FR",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_babf9b5f-f031-4e78-bef5-c71d0f4c79ff",
-      "entityId": "merchant_babf9b5f-f031-4e78-bef5-c71d0f4c79ff",
-      "name": "SAVH-LVC",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
-    },
-    {
-      "id": "merchant_929393a4-d7a4-4086-982f-fd7159fd1eb9",
-      "entityId": "merchant_929393a4-d7a4-4086-982f-fd7159fd1eb9",
-      "name": "SAVH-MMT",
-      "address": "47 Toa Payoh Rise,  S298104;",
-      "postalCode": "298104",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.33833832843255,
-      "LON": 103.839877083466,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-12-03"
     },
     {
       "id": "merchant_bba10076-dbaa-48e5-a541-096189e7a98d",
@@ -463322,26 +463382,6 @@
       "lastResetDate": "2025-08-21"
     },
     {
-      "id": "merchant_7ea9c124-d6ee-43a4-b3e5-616134c2260d",
-      "entityId": "merchant_7ea9c124-d6ee-43a4-b3e5-616134c2260d",
-      "name": "UNCLE WONG WESTERN FOOD (519641)",
-      "address": "110 Pasir Ris Central, #02-13,  S519641;",
-      "postalCode": "519641",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37347252064326,
-      "LON": 103.951571342467,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-06-03"
-    },
-    {
       "id": "merchant_7178670e-c1e5-40b3-bb00-95017013511c",
       "entityId": "merchant_7178670e-c1e5-40b3-bb00-95017013511c",
       "name": "UNCLE WONG WESTERN FOOD BEDOK136",
@@ -474240,6 +474280,26 @@
         }
       },
       "lastResetDate": "2026-04-28"
+    },
+    {
+      "id": "merchant_7ea9c124-d6ee-43a4-b3e5-616134c2260d",
+      "entityId": "merchant_7ea9c124-d6ee-43a4-b3e5-616134c2260d",
+      "name": "WANG JI WESTERN FOOD",
+      "address": "110 Pasir Ris Central, #02-13,  S519641;",
+      "postalCode": "519641",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37347252064326,
+      "LON": 103.951571342467,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-19"
     },
     {
       "id": "merchant_b1ccb357-ca85-4e1b-921b-8b6cc7bbc002",
