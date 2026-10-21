@@ -13,6 +13,46 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-21
+
+</summary>
+
+Total locations: 25,825 → 25,837
+
+- <details><summary>Added (12)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 85 DAWSON JAPANESE & KOREAN CUISINE | 85 Dawson Road,  S141085; | <span title="1.29531966312622,103.809758591447">1.29532, 103.80976</span> |
+  | CHAO YUAN NOODLE (678A CCK) | 678A Choa Chu Kang Crescent,  S681678; | <span title="1.40194926829714,103.744856521894">1.40195, 103.74486</span> |
+  | CITYLAND | 17 Upper Boon Keng Road, #01-86,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | DONG SHENG BAK CHOR MEE | 26 New Upper Changi Road,  S462026; | <span title="1.3233383625591,103.934207271148">1.32334, 103.93421</span> |
+  | EGGY RICE (T878C) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | FIRST BOWL BAN MIAN (AMK) | 215 Ang Mo Kio Avenue 1,  S560215; | <span title="1.36655830166122,103.841624082978">1.36656, 103.84162</span> |
+  | HU XU LAO | 210 Hougang Street 21, 5,  S530210; | <span title="1.35938669669059,103.88663487809">1.35939, 103.88663</span> |
+  | HUA KEE CANTONESE CHICKEN RICE (TPY 177) | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | LADY BOSS VEG RICE | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | LAO SAN PRAWN NOODLES | 212 Hougang Street 21,  S530212; | <span title="1.35952087347427,103.888340028762">1.35952, 103.88834</span> |
+  | MUTHU'S TRADERS PTE LTD (UPPER BOON KENG) | 11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-911,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | TIDBITS & DRINKS | 79 Redhill Lane, #01-01,  S150079; | <span title="1.2878470282227,103.818349792057">1.28785, 103.81835</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BC LOR MEE SINCE 1962 (AMK 628)</del><br>BC LOR MEE SINCE 1962 (AMK 453) | <del>628 Ang Mo Kio Avenue 4, #01-86,  S560628;</del><br>453A Ang Mo Kio Ave 10, #01-37,  S561453; | <del title="1.38098761665454,103.840628087484">1.38099, 103.84063</del><br><span title="1.3682477887765,103.856361649863">1.36825, 103.85636</span> |
+  | SEN KEE CHARCOAL ROAST - 325 CLEMENTI | <del>325 Clementi Avenue 5,  S120325;</del><br>325 Clementi Avenue 5, #01-155,  S120325; | <span title="1.315096685325,103.766817400667">1.31510, 103.76682</span> |
+  | <del>SHUN LI XIAO CHI (TPY 186)</del><br>SHUN LI XIAO CHI (AMK 232) | <del>186 Toa Payoh Central,  S310186;</del><br>232 Ang Mo Kio Ave 3, #01-1196,  S560232; | <del title="1.3326539531256,103.85021164455">1.33265, 103.85021</del><br><span title="1.36834606813391,103.837196046409">1.36835, 103.83720</span> |
+  | <del>CRYSTAL HAIR SALON</del><br>YOUNG STYLE SALON(417 YISHUN) | 417 Yishun Avenue 11, #01-339,  S760417; | <span title="1.42442095783169,103.846284488667">1.42442, 103.84628</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-20
 
 </summary>
