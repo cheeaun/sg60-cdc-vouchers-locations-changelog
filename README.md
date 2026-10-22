@@ -13,6 +13,39 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-22
+
+</summary>
+
+Total locations: 25,837 → 25,844
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GRILL LAH (WESTERN CUISINE) | 166 Jalan Besar, #01-32,  S208877; | <span title="1.30734410946371,103.856888783769">1.30734, 103.85689</span> |
+  | HIEN ALTERATIONS IRONING FASHION | 49 Sims Place, #01-82,  S380049; | <span title="1.31703502375324,103.879309854774">1.31704, 103.87931</span> |
+  | JACK'S PLACE BRAS BASAH COMPLEX | 231 Bain Street Bras Basah Complex Singapore 180231, #01-01,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | JING HOUSE YONG TAU FOO | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+  | KUEH HO JIAK (AMK) | 713A Ang Mo Kio Avenue 6, #01-01,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | LAO JOE FANG @435 HG | 435A Hougang Avenue 8, 01,  S531435; | <span title="1.3776871958077,103.893997600765">1.37769, 103.89400</span> |
+  | SPECTRA EYEWEAR (T633) | 633 Tampines North Drive 2 Tampines Greencourt Singapore 520633, #02-11,  S520633; | <span title="1.36551980812276,103.941330282181">1.36552, 103.94133</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MARKELLY ETERNELLE | <del>233 Ang Mo Kio Avenue 3 Kebun Baru Palm View Singapore 560233, #01-1184,  S560233;</del><br>416 Ang Mo Kio Ave 10, #01-985,  S560416; | <del title="1.36754924977907,103.836740628478">1.36755, 103.83674</del><br><span title="1.3645417089084,103.855103690549">1.36454, 103.85510</span> |
+  | <del>SALON ONE AMK 704</del><br>SALON ONE AMK 705 | <del>Ang Mo Kio Avenue 8, #01-2547,  S560704;</del><br>705 Ang Mo Kio Avenue 8, #01-2567,  S560705; | <del title="1.37040712097271,103.847230717119">1.37041, 103.84723</del><br><span title="1.37043722990379,103.847515505343">1.37044, 103.84752</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-21
 
 </summary>

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "21 Oct 2026",
+  "lastUpdated": "22 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -73459,7 +73459,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-19"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_efd4f52c-87de-4c74-b87b-67f1ceea4373",
@@ -177402,6 +177402,26 @@
       "lastResetDate": "2026-04-02"
     },
     {
+      "id": "merchant_894693f1-e7c7-4303-8b7e-10900b85538e",
+      "entityId": "merchant_894693f1-e7c7-4303-8b7e-10900b85538e",
+      "name": "GRILL LAH (WESTERN CUISINE)",
+      "address": "166 Jalan Besar, #01-32,  S208877;",
+      "postalCode": "208877",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30734410946371,
+      "LON": 103.856888783769,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
+    },
+    {
       "id": "merchant_f90c97ae-804a-4ed9-be16-8b19e4ab32a7",
       "entityId": "merchant_f90c97ae-804a-4ed9-be16-8b19e4ab32a7",
       "name": "GRILL LAH MODERN WESTERN GRILL",
@@ -200000,6 +200020,26 @@
         }
       },
       "lastResetDate": "2024-06-27"
+    },
+    {
+      "id": "merchant_08f6a60b-73e8-47e3-a6e8-08238aeb927e",
+      "entityId": "merchant_08f6a60b-73e8-47e3-a6e8-08238aeb927e",
+      "name": "HIEN ALTERATIONS IRONING FASHION",
+      "address": "49 Sims Place, #01-82,  S380049;",
+      "postalCode": "380049",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31703502375324,
+      "LON": 103.879309854774,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_0daaf887-d1f8-48eb-ba28-399b8a56fbf8",
@@ -226562,6 +226602,26 @@
       "lastResetDate": "2026-10-14"
     },
     {
+      "id": "merchant_3f2582c1-8846-4abb-9d88-1440673685c4",
+      "entityId": "merchant_3f2582c1-8846-4abb-9d88-1440673685c4",
+      "name": "JACK'S PLACE BRAS BASAH COMPLEX",
+      "address": "231 Bain Street Bras Basah Complex Singapore 180231, #01-01,  S180231;",
+      "postalCode": "180231",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29681525928856,
+      "LON": 103.853619482206,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
+    },
+    {
       "id": "merchant_fcc72756-690d-4cc8-bd03-d04a5b565fa1",
       "entityId": "merchant_fcc72756-690d-4cc8-bd03-d04a5b565fa1",
       "name": "JACKSON FRIED HOKKIEN MEE",
@@ -237620,6 +237680,26 @@
         }
       },
       "lastResetDate": "2025-06-24"
+    },
+    {
+      "id": "merchant_6f5cc2a2-8292-4107-9e94-0a1f12565d8e",
+      "entityId": "merchant_6f5cc2a2-8292-4107-9e94-0a1f12565d8e",
+      "name": "JING HOUSE YONG TAU FOO",
+      "address": "638A Jurong West Street 61,  S641638;",
+      "postalCode": "641638",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34195861016793,
+      "LON": 103.697593081001,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_cbdd216b-7396-46c1-a223-7d4e56b130ce",
@@ -260979,7 +261059,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-03-14"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_ba4fdde4-9916-4444-9761-90f31ada85c3",
@@ -266742,6 +266822,26 @@
       "lastResetDate": "2023-03-03"
     },
     {
+      "id": "merchant_612c76b5-29e2-407f-b0eb-d09f014b144d",
+      "entityId": "merchant_612c76b5-29e2-407f-b0eb-d09f014b144d",
+      "name": "KUEH HO JIAK (AMK)",
+      "address": "713A Ang Mo Kio Avenue 6, #01-01,  S561713;",
+      "postalCode": "561713",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37165321215295,
+      "LON": 103.846216180211,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
+    },
+    {
       "id": "merchant_0550c1d2-d32f-424d-a6a0-90edd904c743",
       "entityId": "merchant_0550c1d2-d32f-424d-a6a0-90edd904c743",
       "name": "KUEH PARTY ( PUNGGOL COAST )",
@@ -271880,6 +271980,26 @@
         }
       },
       "lastResetDate": "2025-11-07"
+    },
+    {
+      "id": "merchant_d67a9dcc-90ec-4e6c-829f-eaa2dac47c02",
+      "entityId": "merchant_d67a9dcc-90ec-4e6c-829f-eaa2dac47c02",
+      "name": "LAO JOE FANG @435 HG",
+      "address": "435A Hougang Avenue 8, 01,  S531435;",
+      "postalCode": "531435",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3776871958077,
+      "LON": 103.893997600765,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_d3499928-ebd8-4774-b0f8-26c6686c5cf8",
@@ -297785,11 +297905,11 @@
       "id": "merchant_066f5c8c-7215-4688-9734-7457fa9cfde1",
       "entityId": "merchant_066f5c8c-7215-4688-9734-7457fa9cfde1",
       "name": "MARKELLY ETERNELLE",
-      "address": "233 Ang Mo Kio Avenue 3 Kebun Baru Palm View Singapore 560233, #01-1184,  S560233;",
-      "postalCode": "560233",
+      "address": "416 Ang Mo Kio Ave 10, #01-985,  S560416;",
+      "postalCode": "560416",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.36754924977907,
-      "LON": 103.836740628478,
+      "LAT": 1.3645417089084,
+      "LON": 103.855103690549,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -297799,7 +297919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-11-08"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_5044545a-daf4-4f5f-9905-03198b10580c",
@@ -368819,7 +368939,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-08-14"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_1985f66f-84e2-445e-bc00-62a901242eac",
@@ -381784,12 +381904,12 @@
     {
       "id": "merchant_69441a92-49f7-43f1-90e1-8023394f7b54",
       "entityId": "merchant_69441a92-49f7-43f1-90e1-8023394f7b54",
-      "name": "SALON ONE AMK 704",
-      "address": "Ang Mo Kio Avenue 8, #01-2547,  S560704;",
-      "postalCode": "560704",
+      "name": "SALON ONE AMK 705",
+      "address": "705 Ang Mo Kio Avenue 8, #01-2567,  S560705;",
+      "postalCode": "560705",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.37040712097271,
-      "LON": 103.847230717119,
+      "LAT": 1.37043722990379,
+      "LON": 103.847515505343,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -381799,7 +381919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-09-29"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_ffdf7fd3-eeb2-47cc-8cd9-b128e2afa2fa",
@@ -388279,7 +388399,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-20"
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_073909b2-58d9-4308-bce9-067cde5eca74",
@@ -414660,6 +414780,26 @@
         }
       },
       "lastResetDate": "2022-12-08"
+    },
+    {
+      "id": "merchant_00bbbf3b-aeaf-45e7-9aff-96b4cfb924de",
+      "entityId": "merchant_00bbbf3b-aeaf-45e7-9aff-96b4cfb924de",
+      "name": "SPECTRA EYEWEAR (T633)",
+      "address": "633 Tampines North Drive 2 Tampines Greencourt Singapore 520633, #02-11,  S520633;",
+      "postalCode": "520633",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36551980812276,
+      "LON": 103.941330282181,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-21"
     },
     {
       "id": "merchant_a7d2a86a-8196-4b21-bcf6-e85a71966d16",
