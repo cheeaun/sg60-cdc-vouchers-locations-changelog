@@ -13,6 +13,41 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-23
+
+</summary>
+
+Total locations: 25,844 → 25,854
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA NOODLES | 261 Waterloo Street,  S180261; | <span title="1.29878752559509,103.851967011645">1.29879, 103.85197</span> |
+  | AL KADIR INDIAN FOOD JE104 | 104 Jurong East Street 13 Jurong East Ville Singapore 600104, #01-112A,  S600104; | <span title="1.33658465311802,103.737623303842">1.33658, 103.73762</span> |
+  | HOUSE OF ROASTED MEATS | 443 Ang Mo Kio Avenue 10,  S560443; | <span title="1.36604388871674,103.855368968681">1.36604, 103.85537</span> |
+  | HU XU LAO | 231 Bain Street,  S180231; | <span title="1.29681525928856,103.853619482206">1.29682, 103.85362</span> |
+  | KELLER HAIR LAB | 11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-913,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | LADY BOSS MVR 26A | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | LITTLE CEYLON | 159 Mei Chin Road, #01-18,  S140159; | <span title="1.29323624443735,103.802903871889">1.29324, 103.80290</span> |
+  | MARANATHA VETERINARY CLINIC@77 TLB | 77 Telok Blangah Drive Dbs Telok Blangah Drive Singapore 100077, #01-228,  S100077; | <span title="1.27395376732331,103.808817470502">1.27395, 103.80882</span> |
+  | MASLINA BEDOK218 | 218 Bedok North Street 1,  S460218; | <span title="1.32735657259634,103.933767796194">1.32736, 103.93377</span> |
+  | WARMHOUSE NASI LEMAK | 335 Smith Street, #02-223,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BIG PRAWN NOODLE</del><br>BIG PRAWN NOODLE AND RED GROUPER SOUP | 1220 East Coast Parkway, #01-021,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-22
 
 </summary>

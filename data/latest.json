@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "22 Oct 2026",
+  "lastUpdated": "23 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -34742,6 +34742,26 @@
       "lastResetDate": "2026-04-16"
     },
     {
+      "id": "merchant_20ed5925-5fd9-4133-bf7a-292b5f8df21d",
+      "entityId": "merchant_20ed5925-5fd9-4133-bf7a-292b5f8df21d",
+      "name": "AH MA NOODLES",
+      "address": "261 Waterloo Street,  S180261;",
+      "postalCode": "180261",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29878752559509,
+      "LON": 103.851967011645,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_3a8a2536-a1e4-4861-b54e-e58fe58c4109",
       "entityId": "merchant_3a8a2536-a1e4-4861-b54e-e58fe58c4109",
       "name": "AH MA ROJAK",
@@ -40520,6 +40540,26 @@
         }
       },
       "lastResetDate": "2023-12-26"
+    },
+    {
+      "id": "merchant_99259d75-358e-478c-bfa5-71384a987cfb",
+      "entityId": "merchant_99259d75-358e-478c-bfa5-71384a987cfb",
+      "name": "AL KADIR INDIAN FOOD JE104",
+      "address": "104 Jurong East Street 13 Jurong East Ville Singapore 600104, #01-112A,  S600104;",
+      "postalCode": "600104",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33658465311802,
+      "LON": 103.737623303842,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_6e23b394-9ada-4447-a730-9d24605fba0d",
@@ -66319,7 +66359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2022-01-27"
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_72174f63-9b3c-49b5-9b5e-87ab0dee17df",
@@ -70922,26 +70962,6 @@
       "lastResetDate": "2024-07-09"
     },
     {
-      "id": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
-      "entityId": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
-      "name": "BIG PRAWN NOODLE",
-      "address": "1220 East Coast Parkway, #01-021,  S468960;",
-      "postalCode": "468960",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.30690573552745,
-      "LON": 103.935137935777,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2026-07-27"
-    },
-    {
       "id": "merchant_e4a3b5d7-478b-4070-9e03-2ac1b75bf22b",
       "entityId": "merchant_e4a3b5d7-478b-4070-9e03-2ac1b75bf22b",
       "name": "BIG PRAWN NOODLE",
@@ -70980,6 +71000,26 @@
         }
       },
       "lastResetDate": "2025-11-06"
+    },
+    {
+      "id": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
+      "entityId": "merchant_140024b8-7afb-4958-894f-ab10078ab9ae",
+      "name": "BIG PRAWN NOODLE AND RED GROUPER SOUP",
+      "address": "1220 East Coast Parkway, #01-021,  S468960;",
+      "postalCode": "468960",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30690573552745,
+      "LON": 103.935137935777,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_42ec1298-b9f4-4ec3-93bd-7c05e8da2bb4",
@@ -211782,6 +211822,26 @@
       "lastResetDate": "2026-03-04"
     },
     {
+      "id": "merchant_954d2dfa-0d87-49b1-9418-ea2e1f99f4d3",
+      "entityId": "merchant_954d2dfa-0d87-49b1-9418-ea2e1f99f4d3",
+      "name": "HOUSE OF ROASTED MEATS",
+      "address": "443 Ang Mo Kio Avenue 10,  S560443;",
+      "postalCode": "560443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36604388871674,
+      "LON": 103.855368968681,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_c3687fb3-4bd2-4ef8-b8e7-973920c72808",
       "entityId": "merchant_c3687fb3-4bd2-4ef8-b8e7-973920c72808",
       "name": "HOUSE OF ROASTED MEATS - HG327",
@@ -212440,6 +212500,26 @@
         }
       },
       "lastResetDate": "2026-04-01"
+    },
+    {
+      "id": "merchant_04a2bf99-a1a2-4534-a356-59684d940351",
+      "entityId": "merchant_04a2bf99-a1a2-4534-a356-59684d940351",
+      "name": "HU XU LAO",
+      "address": "231 Bain Street,  S180231;",
+      "postalCode": "180231",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29681525928856,
+      "LON": 103.853619482206,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_75eda5f5-7df2-47f5-9e73-82df0d863973",
@@ -251022,6 +251102,26 @@
       "lastResetDate": "2022-04-26"
     },
     {
+      "id": "merchant_3ff225f1-d961-4b4d-903d-81eeee19ab09",
+      "entityId": "merchant_3ff225f1-d961-4b4d-903d-81eeee19ab09",
+      "name": "KELLER HAIR LAB",
+      "address": "11 Upper Boon Keng Road Boon Keng Ville Singapore 380011, #01-913,  S380011;",
+      "postalCode": "380011",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31423937033551,
+      "LON": 103.870914031459,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_e7b40aba-1acb-4dc6-a9ae-896cc0bd1c90",
       "entityId": "merchant_e7b40aba-1acb-4dc6-a9ae-896cc0bd1c90",
       "name": "KELLER HAIR STUDIO",
@@ -269422,6 +269522,26 @@
       "lastResetDate": "2026-10-13"
     },
     {
+      "id": "merchant_ddfa7196-f445-481e-9def-0ed8578a9432",
+      "entityId": "merchant_ddfa7196-f445-481e-9def-0ed8578a9432",
+      "name": "LADY BOSS MVR 26A",
+      "address": "26A Chai Chee Road,  S461026;",
+      "postalCode": "461026",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32370047880354,
+      "LON": 103.923497151617,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_64625a13-e401-432f-8883-4d9f759d3b96",
       "entityId": "merchant_64625a13-e401-432f-8883-4d9f759d3b96",
       "name": "LADY BOSS VEG RICE",
@@ -284962,6 +285082,26 @@
       "lastResetDate": "2022-05-31"
     },
     {
+      "id": "merchant_b2c740dd-0ed0-4b57-8a23-5da7d84e1755",
+      "entityId": "merchant_b2c740dd-0ed0-4b57-8a23-5da7d84e1755",
+      "name": "LITTLE CEYLON",
+      "address": "159 Mei Chin Road, #01-18,  S140159;",
+      "postalCode": "140159",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29323624443735,
+      "LON": 103.802903871889,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_5e105178-ecc8-4fc1-8221-54071d9158bf",
       "entityId": "merchant_5e105178-ecc8-4fc1-8221-54071d9158bf",
       "name": "LITTLE CROSS FAMILY CLINIC PTE LTD",
@@ -297402,6 +297542,26 @@
       "lastResetDate": "2025-07-23"
     },
     {
+      "id": "merchant_7d45d5a7-0569-45f7-93ba-901d2a9f6159",
+      "entityId": "merchant_7d45d5a7-0569-45f7-93ba-901d2a9f6159",
+      "name": "MARANATHA VETERINARY CLINIC@77 TLB",
+      "address": "77 Telok Blangah Drive Dbs Telok Blangah Drive Singapore 100077, #01-228,  S100077;",
+      "postalCode": "100077",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.27395376732331,
+      "LON": 103.808817470502,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
+    },
+    {
       "id": "merchant_55e4aa5e-fcb1-4263-86b5-6374545a893e",
       "entityId": "merchant_55e4aa5e-fcb1-4263-86b5-6374545a893e",
       "name": "MARCO CHEF WESTERN FOOD - BISHAN 533",
@@ -298820,6 +298980,26 @@
         }
       },
       "lastResetDate": "2022-07-04"
+    },
+    {
+      "id": "merchant_9a571504-e980-4104-9a1c-b264ea2acff6",
+      "entityId": "merchant_9a571504-e980-4104-9a1c-b264ea2acff6",
+      "name": "MASLINA BEDOK218",
+      "address": "218 Bedok North Street 1,  S460218;",
+      "postalCode": "460218",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32735657259634,
+      "LON": 103.933767796194,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_722a6728-1619-46d6-a60a-8042afad89a1",
@@ -476300,6 +476480,26 @@
         }
       },
       "lastResetDate": "2026-09-08"
+    },
+    {
+      "id": "merchant_542d83a0-9c47-447f-a92b-5b2d01e06998",
+      "entityId": "merchant_542d83a0-9c47-447f-a92b-5b2d01e06998",
+      "name": "WARMHOUSE NASI LEMAK",
+      "address": "335 Smith Street, #02-223,  S050335;",
+      "postalCode": "050335",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.2822749605271,
+      "LON": 103.843238518071,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-22"
     },
     {
       "id": "merchant_4d87cd08-c731-4572-a3fe-4e7dd4c49775",
