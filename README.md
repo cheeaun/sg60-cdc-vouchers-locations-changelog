@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-24
+
+</summary>
+
+Total locations: 25,854 → 25,868
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 284 KWAY CHAP | 284 Bishan Street 22,  S570284; | <span title="1.35886666462905,103.844150538229">1.35887, 103.84415</span> |
+  | AHMAH'S LEGACY CAFE | 22 Sin Ming Road Hdb-sin Ming Ind Est Singapore 570022, #01-252,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | BIG GROUPER FISH SOUP - 469 BUKIT BATOK | 469 Bukit Batok West Avenue 9, #01-13,  S650469; | <span title="1.35523395393666,103.741758756565">1.35523, 103.74176</span> |
+  | DELI DELIGHT | 253 Choa Chu Kang Avenue 1, ST 07,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | DURIAN PARADE | 827 Tampines Street 81 Dbs Tampines West Branch Singapore 520827, #01-132,  S520827; | <span title="1.34972149544046,103.933719246104">1.34972, 103.93372</span> |
+  | HAGGAI HAIR | 48 Tanglin Halt Road Singapore 142048, #01-347,  S142048; | <span title="1.30078900889495,103.797626150842">1.30079, 103.79763</span> |
+  | HAN TCM MEDICAL CLINIC (TPY 178) | 178 Toa Payoh Central Toa Payoh Central Singapore 310178, #01-212,  S310178; | <span title="1.33358025794591,103.84926452128">1.33358, 103.84926</span> |
+  | LIM NOODLE @19A DOVER | 19A Dover Crescent, ST6,  S131019; | <span title="1.30735380231593,103.78454843987">1.30735, 103.78455</span> |
+  | MAN YING FRESH CHICKEN | 409 Ang Mo Kio Avenue 10, #01-85,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | MAN YING HANDMADE YONG TAU FU | 409 Ang Mo Kio Avenue 10, #01-91,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | NAN CHENG (256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | PERPETUAL HAPPY HAIR SALON | 71 Kallang Bahru Singapore 330071, #01-531,  S330071; | <span title="1.3209929422065,103.870389998344">1.32099, 103.87039</span> |
+  | VALU$ TECK WHYE | 138 Teck Whye Lane Singapore 680138, #01-343A,  S680138; | <span title="1.38024085034488,103.752435768455">1.38024, 103.75244</span> |
+  | XIN YUE TCM THERAPY CLINIC | 7 Tanjong Pagar Plaza Hdb-central Area Singapore 081007, #02-110,  S081007; | <span title="1.27712012183459,103.843117743777">1.27712, 103.84312</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | LAWA BINTANG ( BLK 9008 TAMPINES ST 93) | <del>9008 Tampines Street 93, #01-09,  S528843;</del><br>9012 Tampines St 93, #01-157,  S528845; | <del title="1.34171015240353,103.942585643036">1.34171, 103.94259</del><br><span title="1.34087590102933,103.943710846592">1.34088, 103.94371</span> |
+  | <del>TOSEI (ABDUL MAJID)</del><br>M.H ABDUL MAJEED | 50A Marine Terrace, #01-313,  S441050; | <span title="1.30572973591916,103.915737035334">1.30573, 103.91574</span> |
+  | <del>FONG ACCESSORIES</del><br>PLATINUM MOBILE 8 | 201E Tampines Street 23 Edvance Learning Centre Singapore 527201, #01-106,  S527201; | <span title="1.35292162536007,103.953858335355">1.35292, 103.95386</span> |
+  | SADDAM BUTCHERY | <del>441 Pasir Ris Drive 6, #01-82,  S510441;</del><br>441 Pasir Ris Drive 6, #01-72,  S510441; | <span title="1.36922534298881,103.958173949924">1.36923, 103.95817</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-23
 
 </summary>
