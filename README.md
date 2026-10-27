@@ -13,6 +13,31 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-27
+
+</summary>
+
+Total locations: 25,868 → 25,876
+
+- <details><summary>Added (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 925 CHICKEN RICE @ JW 491 | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | AI MEE LEE TAILOR | 2 Seah Im Road Seah Im Food Centre Singapore 099114, #01-07,  S099114; | <span title="1.26656813225079,103.819248035765">1.26657, 103.81925</span> |
+  | BOWIE HAIR STUDIO | 664 Yishun Avenue 4 Hdb-yishun Singapore 760664, #01-275,  S760664; | <span title="1.42019986585643,103.841074643136">1.42020, 103.84107</span> |
+  | HE JIA MIXED VEGETABLE RICE (515) | 515A Woodlands Drive 14,  S731515; | <span title="1.43420564787063,103.790081342564">1.43421, 103.79008</span> |
+  | NAIL & LASH ARTISANS(NEW) | 505 Bishan Street 11 Singapore 570505, #01-442,  S570505; | <span title="1.34891429352184,103.848662286791">1.34891, 103.84866</span> |
+  | PORRIDGE RUYI | 156 Yishun Street 11,  S760156; | <span title="1.43188761932588,103.833567756794">1.43189, 103.83357</span> |
+  | SIN SOON HENG FRESH FRUIT (510443) | 443 Pasir Ris Drive 6 Singapore 510443, #01-04A,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | TAJ INDIAN FOOD (510446) | 446 Pasir Ris Drive 6,  S510446; | <span title="1.37030619298608,103.95772686444">1.37031, 103.95773</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-24
 
 </summary>

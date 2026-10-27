@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Oct 2026",
+  "lastUpdated": "27 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -23942,6 +23942,26 @@
       "lastResetDate": "2021-11-19"
     },
     {
+      "id": "merchant_fa3f0258-d31b-4f12-bdc7-f2ecf4241605",
+      "entityId": "merchant_fa3f0258-d31b-4f12-bdc7-f2ecf4241605",
+      "name": "925 CHICKEN RICE @ JW 491",
+      "address": "491 Jurong West Avenue 1,  S640491;",
+      "postalCode": "640491",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34958656573247,
+      "LON": 103.72631531647,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
+    },
+    {
       "id": "merchant_bfe07d5e-a64d-4a66-85aa-141a104e1117",
       "entityId": "merchant_bfe07d5e-a64d-4a66-85aa-141a104e1117",
       "name": "925 CHICKEN RICE SERANGOON",
@@ -37600,6 +37620,26 @@
         }
       },
       "lastResetDate": "2025-06-04"
+    },
+    {
+      "id": "merchant_8b680904-3177-4425-bab3-535e3161f27f",
+      "entityId": "merchant_8b680904-3177-4425-bab3-535e3161f27f",
+      "name": "AI MEE LEE TAILOR",
+      "address": "2 Seah Im Road Seah Im Food Centre Singapore 099114, #01-07,  S099114;",
+      "postalCode": "099114",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.26656813225079,
+      "LON": 103.819248035765,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
     },
     {
       "id": "merchant_e5735bbc-44d5-4daa-aaa6-4840bd8fed27",
@@ -76280,6 +76320,26 @@
         }
       },
       "lastResetDate": "2025-10-16"
+    },
+    {
+      "id": "merchant_414f4ef4-6583-4bf3-9dae-53901acc7407",
+      "entityId": "merchant_414f4ef4-6583-4bf3-9dae-53901acc7407",
+      "name": "BOWIE HAIR STUDIO",
+      "address": "664 Yishun Avenue 4 Hdb-yishun Singapore 760664, #01-275,  S760664;",
+      "postalCode": "760664",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42019986585643,
+      "LON": 103.841074643136,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
     },
     {
       "id": "merchant_0145e522-9e8d-4eef-a5c4-a44154ee9712",
@@ -192860,6 +192920,26 @@
         }
       },
       "lastResetDate": "2025-05-19"
+    },
+    {
+      "id": "merchant_000a7735-089c-4503-b37e-55bf5dd162ef",
+      "entityId": "merchant_000a7735-089c-4503-b37e-55bf5dd162ef",
+      "name": "HE JIA MIXED VEGETABLE RICE (515)",
+      "address": "515A Woodlands Drive 14,  S731515;",
+      "postalCode": "731515",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43420564787063,
+      "LON": 103.790081342564,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
     },
     {
       "id": "merchant_263f9bf7-f717-4dff-b81b-bab6805acc81",
@@ -323022,6 +323102,26 @@
       "lastResetDate": "2024-11-11"
     },
     {
+      "id": "merchant_c1730f35-dd62-42b2-862c-34fcf311e6c7",
+      "entityId": "merchant_c1730f35-dd62-42b2-862c-34fcf311e6c7",
+      "name": "NAIL & LASH ARTISANS(NEW)",
+      "address": "505 Bishan Street 11 Singapore 570505, #01-442,  S570505;",
+      "postalCode": "570505",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34891429352184,
+      "LON": 103.848662286791,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
+    },
+    {
       "id": "merchant_42fd2228-fd72-4b8b-a1f3-3b864bbb1667",
       "entityId": "merchant_42fd2228-fd72-4b8b-a1f3-3b864bbb1667",
       "name": "NAIL AND LASH",
@@ -357360,6 +357460,26 @@
         }
       },
       "lastResetDate": "2021-12-22"
+    },
+    {
+      "id": "merchant_7c708de9-fda7-4095-b7e9-5fce968cb80d",
+      "entityId": "merchant_7c708de9-fda7-4095-b7e9-5fce968cb80d",
+      "name": "PORRIDGE RUYI",
+      "address": "156 Yishun Street 11,  S760156;",
+      "postalCode": "760156",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43188761932588,
+      "LON": 103.833567756794,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
     },
     {
       "id": "merchant_4463a720-baad-49f2-9359-aa180452146b",
@@ -403202,6 +403322,26 @@
       "lastResetDate": "2021-10-29"
     },
     {
+      "id": "merchant_a41a13be-4ba7-4241-bb17-3ead0e5f7311",
+      "entityId": "merchant_a41a13be-4ba7-4241-bb17-3ead0e5f7311",
+      "name": "SIN SOON HENG FRESH FRUIT (510443)",
+      "address": "443 Pasir Ris Drive 6 Singapore 510443, #01-04A,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
+    },
+    {
       "id": "merchant_361b1812-f71d-47bb-9b1d-0471add91889",
       "entityId": "merchant_361b1812-f71d-47bb-9b1d-0471add91889",
       "name": "SIN SOON HENG FRESH FRUIT (510443)",
@@ -429762,6 +429902,26 @@
       "lastResetDate": "2022-09-01"
     },
     {
+      "id": "merchant_92523afc-34da-484e-b16e-87fcd6bfbdea",
+      "entityId": "merchant_92523afc-34da-484e-b16e-87fcd6bfbdea",
+      "name": "TAJ INDIAN FOOD (510446)",
+      "address": "446 Pasir Ris Drive 6,  S510446;",
+      "postalCode": "510446",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37030619298608,
+      "LON": 103.95772686444,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-26"
+    },
+    {
       "id": "merchant_10d6ff25-160b-46b6-984c-1a8083bd3b6d",
       "entityId": "merchant_10d6ff25-160b-46b6-984c-1a8083bd3b6d",
       "name": "TAJ INDIAN FOOD (510446)",
@@ -433839,7 +433999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-12"
+      "lastResetDate": "2026-10-26"
     },
     {
       "id": "merchant_ce50eb44-0e4e-4d1c-8013-872bf2b06a70",
