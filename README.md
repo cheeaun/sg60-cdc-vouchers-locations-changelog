@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-28
+
+</summary>
+
+Total locations: 25,876 → 25,886
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALMADINA BEST KARIPAP (YISHUN) | 293 Yishun Street 22 Hdb-yishun Singapore 760293, #01-251,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | GU XIANG KLANG BAK KUT TEH - BS 504 | 504 Bishan Street 11,  S570504; | <span title="1.34930004584838,103.848484732399">1.34930, 103.84848</span> |
+  | KEBAB ( FOODGLE SIT ) | 1 Punggol Coast Road,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | KELLER STUDIO | 139 Tampines Street 11 Animal Ark Tcm Singapore 521139, #01-28,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | NOODLY KOKA MEE | 25A Tampines Ave 1,  S529765; | <span title="1.34414512457045,103.933351066694">1.34415, 103.93335</span> |
+  | RONG FA SUNDRY GOODS STORE | 104 Yishun Ring Road, #01-03,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | SHAN FRESH FROZEN VEGETABLES STALL | 104 Yishun Ring Road, #01-106,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | TIAN TIAN COOKED FOOD (AM)(105 YISHUN) | 105 Yishun Ring Road, #01-1531,  S760105; | <span title="1.43171836662838,103.828114256975">1.43172, 103.82811</span> |
+  | WU JI SI CHAO (163 GANGSA) | 163A Gangsa Road,  S671163; | <span title="1.37693802145847,103.764352791521">1.37694, 103.76435</span> |
+  | ZHOU JIN XING ROASTED MEAT | 104 Yishun Ring Road, #01-55,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>HE JIAN BIAN FAN</del><br>HE JIA MIXED VEG | <del>401 Hougang Avenue 10,  S530401;</del><br>401 Hougang Avenue 10, #01-1158,  S530401; | <span title="1.37484339485806,103.896994161364">1.37484, 103.89699</span> |
+  | <del>HENG HENG FISHBALL MINCED MEAT NOODLE</del><br>REALLY GOOD | 89 Circuit Road, #01-117,  S370089; | <span title="1.32357971400582,103.885438842474">1.32358, 103.88544</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-27
 
 </summary>
