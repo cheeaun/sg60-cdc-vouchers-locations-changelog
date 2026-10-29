@@ -13,6 +13,40 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-29
+
+</summary>
+
+Total locations: 25,886 → 25,893
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 8819 PAPA WANT BEER | 90 Boon Lay Place,  S649884; | <span title="1.34771935245487,103.711912891764">1.34772, 103.71191</span> |
+  | BLOOMHEALTH PTE LTD | 465 North Bridge Road Singapore 191465, #01-5051,  S191465; | <span title="1.30522426727313,103.863097963132">1.30522, 103.86310</span> |
+  | DONG CHENG BBQ (256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | ESTEEM HAIRDRESSING | 103 Yishun Ring Road Singapore 760103, #01-101,  S760103; | <span title="1.43136934951878,103.828892847163">1.43137, 103.82889</span> |
+  | JIA JIA SPECIALLY MADE CHILLI NOODLE | 261 Serangoon Central Drive,  S550261; | <span title="1.35405255194874,103.872524450991">1.35405, 103.87252</span> |
+  | OHDANG. | 10 Marsiling Industrial Estate,  S739276; | <span title="1.44093570567451,103.781277249637">1.44094, 103.78128</span> |
+  | YIN SUN PAU DIAN & SNACKS | 511 Bedok North Street 3, #01-08,  S460511; | <span title="1.33321993297265,103.930581522776">1.33322, 103.93058</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>AHMAD SPRING</del><br>AHMAD SPRING SATAY & BBQ CHICKEN WINGS | 1220 East Coast Parkway, #01-58,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | THE ADDICTION BISTRO | <del>1018 Sembawang Road Singapore 758495, #01-1018,  S758495;</del><br>1 Clover Way, #01-1018,  S579077; | <del title="1.45333283349839,103.832368108178">1.45333, 103.83237</del><br><span title="1.350329763028601,103.8429726008658">1.35033, 103.84297</span> |
+  | <del>JIA CHENG NOODLE HOUSE 207</del><br>THE TASTE OF NOODLES | 207 Bukit Batok Street 21,  S650207; | <span title="1.34624866176031,103.749382188265">1.34625, 103.74938</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-28
 
 </summary>

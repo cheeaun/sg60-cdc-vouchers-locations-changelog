@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28 Oct 2026",
+  "lastUpdated": "29 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -23042,6 +23042,26 @@
       "lastResetDate": "2025-06-06"
     },
     {
+      "id": "merchant_f72328f0-9907-4889-8204-5a495eb5fa6b",
+      "entityId": "merchant_f72328f0-9907-4889-8204-5a495eb5fa6b",
+      "name": "8819 PAPA WANT BEER",
+      "address": "90 Boon Lay Place,  S649884;",
+      "postalCode": "649884",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34771935245487,
+      "LON": 103.711912891764,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
+    },
+    {
       "id": "merchant_93c5b4fd-38fe-404e-8797-0a11fcb399a7",
       "entityId": "merchant_93c5b4fd-38fe-404e-8797-0a11fcb399a7",
       "name": "883 (UNISEX) HAIR & BEAUTY SALOON",
@@ -37324,7 +37344,7 @@
     {
       "id": "merchant_496631aa-bfb2-400e-a1fa-719ee333a156",
       "entityId": "merchant_496631aa-bfb2-400e-a1fa-719ee333a156",
-      "name": "AHMAD SPRING",
+      "name": "AHMAD SPRING SATAY & BBQ CHICKEN WINGS",
       "address": "1220 East Coast Parkway, #01-58,  S468960;",
       "postalCode": "468960",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -37339,7 +37359,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2023-05-17"
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_481486f4-1d53-409d-a163-f74d9104b420",
@@ -73500,6 +73520,26 @@
         }
       },
       "lastResetDate": "2025-12-04"
+    },
+    {
+      "id": "merchant_7cd80670-9e66-45e4-9454-8a6b557c43df",
+      "entityId": "merchant_7cd80670-9e66-45e4-9454-8a6b557c43df",
+      "name": "BLOOMHEALTH PTE LTD",
+      "address": "465 North Bridge Road Singapore 191465, #01-5051,  S191465;",
+      "postalCode": "191465",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.30522426727313,
+      "LON": 103.863097963132,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_67574095-3f45-4d15-84e9-a11646c046a4",
@@ -123342,6 +123382,26 @@
       "lastResetDate": "2025-12-30"
     },
     {
+      "id": "merchant_14d2ada8-0736-42ff-9ba0-821ecd8de2fd",
+      "entityId": "merchant_14d2ada8-0736-42ff-9ba0-821ecd8de2fd",
+      "name": "DONG CHENG BBQ (256 YISHUN)",
+      "address": "256 Yishun Ring Road,  S760256;",
+      "postalCode": "760256",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43409342070863,
+      "LON": 103.839979155802,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
+    },
+    {
       "id": "merchant_90e8601f-6cd3-4b0f-ac6c-edf0cfd53cfe",
       "entityId": "merchant_90e8601f-6cd3-4b0f-ac6c-edf0cfd53cfe",
       "name": "DONG DONG FISH & SEAFOOD SOUP",
@@ -139260,6 +139320,26 @@
         }
       },
       "lastResetDate": "2023-11-06"
+    },
+    {
+      "id": "merchant_5f061c28-2d32-46e1-8ac5-d519d2da9908",
+      "entityId": "merchant_5f061c28-2d32-46e1-8ac5-d519d2da9908",
+      "name": "ESTEEM HAIRDRESSING",
+      "address": "103 Yishun Ring Road Singapore 760103, #01-101,  S760103;",
+      "postalCode": "760103",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43136934951878,
+      "LON": 103.828892847163,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_165935b7-f5d3-419b-bcaf-51f2dc269b25",
@@ -162979,7 +163059,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-19"
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_531bf089-4345-4e42-8ae7-7914e73095fd",
@@ -192919,7 +192999,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-27"
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_bf51c3eb-9f5c-4758-8f38-d5f988aa5fdd",
@@ -231562,26 +231642,6 @@
       "lastResetDate": "2025-07-21"
     },
     {
-      "id": "merchant_aa5ef643-db27-4fcd-80e1-ba1028e61c0b",
-      "entityId": "merchant_aa5ef643-db27-4fcd-80e1-ba1028e61c0b",
-      "name": "JIA CHENG NOODLE HOUSE 207",
-      "address": "207 Bukit Batok Street 21,  S650207;",
-      "postalCode": "650207",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34624866176031,
-      "LON": 103.749382188265,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2025-10-03"
-    },
-    {
       "id": "merchant_771625cd-3ee9-4f1b-a627-cf91222b7e18",
       "entityId": "merchant_771625cd-3ee9-4f1b-a627-cf91222b7e18",
       "name": "JIA CHENG NOODLE HOUSE 461",
@@ -232140,6 +232200,26 @@
         }
       },
       "lastResetDate": "2021-12-22"
+    },
+    {
+      "id": "merchant_0d3ad7a7-5ac0-4335-9e4f-b35307007959",
+      "entityId": "merchant_0d3ad7a7-5ac0-4335-9e4f-b35307007959",
+      "name": "JIA JIA SPECIALLY MADE CHILLI NOODLE",
+      "address": "261 Serangoon Central Drive,  S550261;",
+      "postalCode": "550261",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35405255194874,
+      "LON": 103.872524450991,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_bf7770be-430c-42e6-8d4d-f488d15bf18c",
@@ -269819,7 +269899,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-10-20"
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_57747beb-a4ef-438a-9b4b-e9a1fa63d146",
@@ -337980,6 +338060,26 @@
         }
       },
       "lastResetDate": "2025-04-04"
+    },
+    {
+      "id": "merchant_c2c22381-63b3-467c-a44b-8550f48df294",
+      "entityId": "merchant_c2c22381-63b3-467c-a44b-8550f48df294",
+      "name": "OHDANG.",
+      "address": "10 Marsiling Industrial Estate,  S739276;",
+      "postalCode": "739276",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44093570567451,
+      "LON": 103.781277249637,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_f78f6fb4-cac4-4634-a088-dfed214e7e85",
@@ -441105,11 +441205,11 @@
       "id": "merchant_5ed50529-b0bf-44d4-a6c6-98e6b47e4e25",
       "entityId": "merchant_5ed50529-b0bf-44d4-a6c6-98e6b47e4e25",
       "name": "THE ADDICTION BISTRO",
-      "address": "1018 Sembawang Road Singapore 758495, #01-1018,  S758495;",
-      "postalCode": "758495",
+      "address": "1 Clover Way, #01-1018,  S579077;",
+      "postalCode": "579077",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.45333283349839,
-      "LON": 103.832368108178,
+      "LAT": 1.350329763028601,
+      "LON": 103.8429726008658,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -441119,7 +441219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-12-26"
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_e9f409f1-49e6-49be-9a8a-2cf0ac075e77",
@@ -446960,6 +447060,26 @@
         }
       },
       "lastResetDate": "2023-06-12"
+    },
+    {
+      "id": "merchant_aa5ef643-db27-4fcd-80e1-ba1028e61c0b",
+      "entityId": "merchant_aa5ef643-db27-4fcd-80e1-ba1028e61c0b",
+      "name": "THE TASTE OF NOODLES",
+      "address": "207 Bukit Batok Street 21,  S650207;",
+      "postalCode": "650207",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34624866176031,
+      "LON": 103.749382188265,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_f130f7b1-657f-4343-abfc-5547f5e62621",
@@ -501800,6 +501920,26 @@
         }
       },
       "lastResetDate": "2021-12-08"
+    },
+    {
+      "id": "merchant_16c1459d-ed62-48a4-a1c8-c269d8327a31",
+      "entityId": "merchant_16c1459d-ed62-48a4-a1c8-c269d8327a31",
+      "name": "YIN SUN PAU DIAN & SNACKS",
+      "address": "511 Bedok North Street 3, #01-08,  S460511;",
+      "postalCode": "460511",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33321993297265,
+      "LON": 103.930581522776,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-28"
     },
     {
       "id": "merchant_466dd981-f692-48ce-a622-8dd47de2535e",
