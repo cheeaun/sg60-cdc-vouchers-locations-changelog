@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29 Oct 2026",
+  "lastUpdated": "30 Oct 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -22620,6 +22620,26 @@
         }
       },
       "lastResetDate": "2026-09-08"
+    },
+    {
+      "id": "merchant_216993f5-05f6-49a9-98c5-8345c1a1c82a",
+      "entityId": "merchant_216993f5-05f6-49a9-98c5-8345c1a1c82a",
+      "name": "851 JURONG (YP KWAY TEOW)",
+      "address": "851 Jurong West Street 81,  S640851;",
+      "postalCode": "640851",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3465916671122,
+      "LON": 103.692474184137,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_97fe2e73-fd96-4ce1-8115-ad0110fb6189",
@@ -76560,6 +76580,26 @@
         }
       },
       "lastResetDate": "2025-04-07"
+    },
+    {
+      "id": "merchant_2f1d75b1-e4ba-4183-a1a5-27a46aa8dba7",
+      "entityId": "merchant_2f1d75b1-e4ba-4183-a1a5-27a46aa8dba7",
+      "name": "BP 259 COFFEE PLACE",
+      "address": "259 Bukit Panjang Ring Road,  S671259;",
+      "postalCode": "671259",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37704293112476,
+      "LON": 103.773310086846,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_822a0074-e752-4f58-b860-d65928dcd378",
@@ -155142,6 +155182,26 @@
       "lastResetDate": "2021-12-30"
     },
     {
+      "id": "merchant_aa26ca55-065a-4550-9418-e41f94dc082c",
+      "entityId": "merchant_aa26ca55-065a-4550-9418-e41f94dc082c",
+      "name": "FOODCITY BEVERAGES STALL (139 TP)",
+      "address": "139 Tampines Street 11,  S521139;",
+      "postalCode": "521139",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34607675043696,
+      "LON": 103.944284625086,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
+    },
+    {
       "id": "merchant_57f4cad7-38ef-4cf4-819b-6299466e14c0",
       "entityId": "merchant_57f4cad7-38ef-4cf4-819b-6299466e14c0",
       "name": "FOODELICIA WESTERN CUISINE",
@@ -192862,6 +192922,26 @@
       "lastResetDate": "2024-01-17"
     },
     {
+      "id": "merchant_6c501ec7-8754-4f93-aa2f-9d8b345acea8",
+      "entityId": "merchant_6c501ec7-8754-4f93-aa2f-9d8b345acea8",
+      "name": "HE JIA FOOD MANAGEMENT (510443)",
+      "address": "443 Pasir Ris Drive 6, 13 A,  S510443;",
+      "postalCode": "510443",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36940860628198,
+      "LON": 103.957395750219,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
+    },
+    {
       "id": "merchant_d9c17a05-5b7f-4d47-9255-06835c4aebfd",
       "entityId": "merchant_d9c17a05-5b7f-4d47-9255-06835c4aebfd",
       "name": "HE JIA HUAN BAN MIAN",
@@ -215839,7 +215919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-01-15"
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_b25b8b20-b60f-4ee4-a7e6-14786bf4a633",
@@ -307102,6 +307182,26 @@
       "lastResetDate": "2024-05-02"
     },
     {
+      "id": "merchant_600c446f-8ce0-4257-9dad-5885f22ccb8d",
+      "entityId": "merchant_600c446f-8ce0-4257-9dad-5885f22ccb8d",
+      "name": "MIAN TIME",
+      "address": "529 Hougang Avenue 6,  S530529;",
+      "postalCode": "530529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37546896487502,
+      "LON": 103.890729546346,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
+    },
+    {
       "id": "merchant_80086407-2e92-4fd3-8d7d-2ae70999e44f",
       "entityId": "merchant_80086407-2e92-4fd3-8d7d-2ae70999e44f",
       "name": "MIAN WANG 1971",
@@ -313220,6 +313320,26 @@
         }
       },
       "lastResetDate": "2026-06-30"
+    },
+    {
+      "id": "merchant_3985f782-8aae-4cbb-9343-d709de730c16",
+      "entityId": "merchant_3985f782-8aae-4cbb-9343-d709de730c16",
+      "name": "MN KITCHEN",
+      "address": "529 Hougang Avenue 6,  S530529;",
+      "postalCode": "530529",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37546896487502,
+      "LON": 103.890729546346,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_02ec69c4-0b11-4351-8aa4-a105bc80f945",
@@ -497022,6 +497142,26 @@
       "lastResetDate": "2025-08-04"
     },
     {
+      "id": "merchant_19bbe7ab-18d4-42b3-96fb-2211e0591fb7",
+      "entityId": "merchant_19bbe7ab-18d4-42b3-96fb-2211e0591fb7",
+      "name": "YAP YUAN SUN TRADING",
+      "address": "104 Yishun Ring Road, #01-02,  S760104;",
+      "postalCode": "760104",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43144775158984,
+      "LON": 103.828537671885,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
+    },
+    {
       "id": "merchant_2375b3c5-dcc3-4df0-afbc-e1390008eca3",
       "entityId": "merchant_2375b3c5-dcc3-4df0-afbc-e1390008eca3",
       "name": "YAPPILY PETS LLP",
@@ -497680,6 +497820,26 @@
         }
       },
       "lastResetDate": "2026-04-17"
+    },
+    {
+      "id": "merchant_3539ea06-eeb5-4c0d-902e-fac68bc8bee3",
+      "entityId": "merchant_3539ea06-eeb5-4c0d-902e-fac68bc8bee3",
+      "name": "YEN (T) DENTAL SURGERY (510625)",
+      "address": "625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-320,  S510625;",
+      "postalCode": "510625",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37860717882538,
+      "LON": 103.941916363447,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_0494ddc8-6685-42ec-a83c-e775bfb83782",
@@ -509860,6 +510020,26 @@
         }
       },
       "lastResetDate": "2026-07-02"
+    },
+    {
+      "id": "merchant_b9fde558-02db-4351-9fa5-f7d1f6264c1f",
+      "entityId": "merchant_b9fde558-02db-4351-9fa5-f7d1f6264c1f",
+      "name": "YUEN KEE DUMPLING",
+      "address": "638A Jurong West Street 61,  S641638;",
+      "postalCode": "641638",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34195861016793,
+      "LON": 103.697593081001,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-10-29"
     },
     {
       "id": "merchant_16fb3af7-d1b8-4ca5-be03-b65ea4b6c60b",

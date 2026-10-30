@@ -13,6 +13,32 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-30
+
+</summary>
+
+Total locations: 25,893 → 25,902
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 851 JURONG (YP KWAY TEOW) | 851 Jurong West Street 81,  S640851; | <span title="1.3465916671122,103.692474184137">1.34659, 103.69247</span> |
+  | BP 259 COFFEE PLACE | 259 Bukit Panjang Ring Road,  S671259; | <span title="1.37704293112476,103.773310086846">1.37704, 103.77331</span> |
+  | FOODCITY BEVERAGES STALL (139 TP) | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | HE JIA FOOD MANAGEMENT (510443) | 443 Pasir Ris Drive 6, 13 A,  S510443; | <span title="1.36940860628198,103.957395750219">1.36941, 103.95740</span> |
+  | MIAN TIME | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | MN KITCHEN | 529 Hougang Avenue 6,  S530529; | <span title="1.37546896487502,103.890729546346">1.37547, 103.89073</span> |
+  | YAP YUAN SUN TRADING | 104 Yishun Ring Road, #01-02,  S760104; | <span title="1.43144775158984,103.828537671885">1.43145, 103.82854</span> |
+  | YEN (T) DENTAL SURGERY (510625) | 625 Elias Road Cherie Hearts Kidz Campus Pte. Ltd. Singapore 510625, #02-320,  S510625; | <span title="1.37860717882538,103.941916363447">1.37861, 103.94192</span> |
+  | YUEN KEE DUMPLING | 638A Jurong West Street 61,  S641638; | <span title="1.34195861016793,103.697593081001">1.34196, 103.69759</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-29
 
 </summary>
