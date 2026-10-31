@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-10-31
+
+</summary>
+
+Total locations: 25,902 → 25,919
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AL RSAK INDIAN & MUSLIM FOOD  (FV 465) | 465 Fernvale Road,  S790465; | <span title="1.39814678014706,103.876538391161">1.39815, 103.87654</span> |
+  | BBE 265 COFFEE PLACE | 265 Bukit Batok East Avenue 4,  S650265; | <span title="1.35000839590252,103.759862841397">1.35001, 103.75986</span> |
+  | CREAM COVE | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | DELI DELIGHTS HAINAN WESTERN (UBI301) | 301 Ubi Avenue 1,  S400301; | <span title="1.33068802490987,103.901953040703">1.33069, 103.90195</span> |
+  | FIVENINE WESTERN | 239 Boon Lay Drive,  S640239; | <span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | FUEGO MEXICANA (306) | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-01B,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | HAPPINESS SUNBO CHICKEN RICE (YPHC) | 51 Yishun Avenue 11, #01-07,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | HOYEAH NASI LEMAK (TPY 177) | 177 Toa Payoh Central,  S310177; | <span title="1.33390034057387,103.848854818382">1.33390, 103.84885</span> |
+  | HUNGRY BRUH (SIT FOODGLE) | 1 Punggol Coast Road, 9,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | KFC CHICKEN RICE (306) | 306A Woodlands Street 31 Active Learners Child Care Private Limited Singapore 731306, #01-05B,  S731306; | <span title="1.43011253092335,103.775081057714">1.43011, 103.77508</span> |
+  | QING GE GE 204 | 204 Serangoon Central,  S550204; | <span title="1.35243827036382,103.873298145856">1.35244, 103.87330</span> |
+  | SANCHON JAPANESE & KOREAN CUISINE | 548 Woodlands Drive 44, 3,  S730548; | <span title="1.43044361849124,103.793804884379">1.43044, 103.79380</span> |
+  | SEREMBAN KEE MEI SIEW POW PASTRIES | 163 Bukit Merah Central Singapore 150163, #03-3559,  S150163; | <span title="1.28370220959751,103.816949612508">1.28370, 103.81695</span> |
+  | TANDOOR & SATAY LAH! | 38A Margaret Drive, #02-26,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | TIONG BAHRU CONTEMPORARY | 30 Seng Poh Road, #01-92,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | YES AYAM CINCANG | 239 Boon Lay Drive,  S640239; | <span title="1.34152624240492,103.710957140208">1.34153, 103.71096</span> |
+  | YU JIAN CHICKEN RICE | 38 Lorong 11 Geylang Road,  S388730; | <span title="1.313691533684391,103.8769227112886">1.31369, 103.87692</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GHIM MOH TRADITIONAL HANDMADE FISHBALL | <del>20 Ghim Moh Road, #01-116,  S270020;</del><br>20 Ghim Moh Road, #01-165,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | <del>FISHIN' WITH YOU - 639 PUNGGOL DRIVE</del><br>RIVER VALLEY TEOCHEW KWAY CHAP - 639 PUNGGOL DRIVE | 639 Punggol Drive,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-30
 
 </summary>
