@@ -13,6 +13,47 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-03
+
+</summary>
+
+Total locations: 25,919 → 25,934
+
+- <details><summary>Added (15)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 51 FISH BALL BAK CHOR MEE | 51 Old Airport Road, #01-20,  S390051; | <span title="1.3082518471287,103.88580870609">1.30825, 103.88581</span> |
+  | 99 CONNECTION PTE. LTD. | Toa Payoh Central, #01-350,  S310183; | <span title="1.33335596212429,103.848865687447">1.33336, 103.84887</span> |
+  | AH FANG FISH SOUP BAN MIAN (AMK 181) | 181 Ang Mo Kio Avenue 5,  S560181; | <span title="1.37679309896347,103.837142240849">1.37679, 103.83714</span> |
+  | AMMA MASALA | 30 Seng Poh Road, #02-64,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | CHOPLAH ( FOODGLE SIT) | 1 Punggol Coast Road, 10,  S828608; | <span title="1.41333310429546,103.913035184508">1.41333, 103.91304</span> |
+  | DAILY VALUE MART(YISHUN) | 931 Yishun Central 1 Hdb-yishun Singapore 760931, #01-113,  S760931; | <span title="1.4266096333815,103.837336412761">1.42661, 103.83734</span> |
+  | DING XIANG DIM SUM | 170A Sengkang East Drive, 01-06,  S541170; | <span title="1.3864108050086,103.908822177398">1.38641, 103.90882</span> |
+  | IBEAUTY WELLNESS(YISHUN) | 761 Yishun Street 72 Hdb-yishun Singapore 760761, #01-360,  S760761; | <span title="1.42539842469037,103.833259035976">1.42540, 103.83326</span> |
+  | KOW LOON HONG KONG DIM SUM | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+  | LINDA PROFESSIONAL ALTERATION | 30 Seng Poh Road, #01-05,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | SALT BAKES - TPY | 21 Lorong 7 Toa Payoh Kim Keat Palm Singapore 310021, #01-292,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | SHUA FU SEAFOOD SOUP | 532 Ang Mo Kio Avenue 10,  S560532; | <span title="1.37381204877253,103.854590377124">1.37381, 103.85459</span> |
+  | SONGYANG PORK ORGAN SOUP (EL) | 8 Tampines Central 1,  S529543; | <span title="1.35435719591377,103.944305344915">1.35436, 103.94431</span> |
+  | WAN GUI DRINK STALL (AMK 340) | 340 Ang Mo Kio Avenue 1,  S560340; | <span title="1.36445049628782,103.849464020848">1.36445, 103.84946</span> |
+  | YONG SIANG CHICKEN RICE | 29 Bendemeer Road, #01-65,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GRACE VISION OPTICAL PTE LTD</del><br>GRACE VISION | <del>57A New Upper Changi Road, #01-1370A,  S462057;</del><br>59 New Upper Changi Road, #01-1256,  S461059; | <del title="1.32371678676907,103.94128871491">1.32372, 103.94129</del><br><span title="1.32405898618809,103.940695612461">1.32406, 103.94070</span> |
+  | <del>PONTIAN WANTON NOODLES (208B NEW UPPER CHANGI ROAD)</del><br>PONTIAN WANTON NOODLES | 208B New Upper Changi Road, #01-11,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-10-31
 
 </summary>
