@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-04
+
+</summary>
+
+Total locations: 25,934 → 25,947
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BREAD FRESH 449 | 449 Clementi Avenue 3 Dbs Clementi Central Branch Singapore 120449, #01-241,  S120449; | <span title="1.31361567894894,103.764809966953">1.31362, 103.76481</span> |
+  | HALMEA GUKBAB | 6 Jalan Bukit Merah, #01-134,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | HE JIA MVR 279 | 279 Bukit Batok East Avenue 3,  S650279; | <span title="1.3481605165343,103.757337287929">1.34816, 103.75734</span> |
+  | HENG LONG TEOCHEW PORRIDGE . RICE(AMK 226F) | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | HUA DEE HONG KONG STYLE ROASTED DELIGHT(AMK 226F) | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | LYE HUAT ICE KACHANG@79 | 79 Telok Blangah Drive, #01-16,  S100079; | <span title="1.27335597437747,103.807618048888">1.27336, 103.80762</span> |
+  | OLD STREET SCISSORS CUT CURRY RICE | 139 Tampines Street 11,  S521139; | <span title="1.34607675043696,103.944284625086">1.34608, 103.94428</span> |
+  | TEDDY THOTZ | 462 Crawford Lane Crawford Court Singapore 190462, #02-51,  S190462; | <span title="1.30458618029941,103.860840750826">1.30459, 103.86084</span> |
+  | VOLCANO CHICKEN (UBI350) | 350 Ubi Avenue 1,  S400350; | <span title="1.32580408523453,103.901292368319">1.32580, 103.90129</span> |
+  | WEN JI PIG ORGAN SOUP ( (TP824) | 824 Tampines Street 81,  S520824; | <span title="1.34903743516549,103.932714940894">1.34904, 103.93271</span> |
+  | Y5 FOOD GROCERY | 630 Bedok Reservoir Road, #01-42,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | YJX PTE LTD ( VALUE DOLLAR )@CAMBRIDGE | 41 Cambridge Road Hdb-kallang/whampoa Singapore 210041, #01-24,  S210041; | <span title="1.31543762081432,103.849817677057">1.31544, 103.84982</span> |
+  | ZHONG CI VEGETARIAN | 421 Ang Mo Kio Avenue 10,  S560421; | <span title="1.36538422642267,103.852966961527">1.36538, 103.85297</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FU XING HERBAL SOUP | <del>395A Bukit Batok West Avenue 5,  S651395;</del><br>936 East Coast Road,  S459129; | <del title="1.36448974299463,103.751987145985">1.36449, 103.75199</del><br><span title="1.3122852676271,103.925353651914">1.31229, 103.92535</span> |
+  | <del>FU YUAN VEGETARIAN FOOD (B58)</del><br>FU YUAN VEGETARIAN FOOD | <del>58 New Upper Changi Road, #01-179,  S461058;</del><br>58 New Upper Changi Road, #01-189,  S461058; | <span title="1.32420087334002,103.941125277547">1.32420, 103.94113</span> |
+  | <del>PRAWN NOODLE</del><br>MING JI PRAWN NOODLE | 151A Serangoon North Avenue 2, #01-81,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+  | <del>NASSER INTERNATIONAL</del><br>NURSIYAH | 630 Bedok Reservoir Road, #01-80,  S470630; | <span title="1.3328267867172,103.914307972878">1.33283, 103.91431</span> |
+  | <del>POH KEE CHICKEN RICE (395A)</del><br>POH KEE CHICKEN RICE | <del>395A Bukit Batok West Avenue 5,  S651395;</del><br>936 East Coast Road,  S459129; | <del title="1.36448974299463,103.751987145985">1.36449, 103.75199</del><br><span title="1.3122852676271,103.925353651914">1.31229, 103.92535</span> |
+  | <del>LIM'S DELIGHT (CONGEE)</del><br>TAN'S DELIGHT (CONGEE) | 151A Serangoon North Avenue 2, #01-81,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-03
 
 </summary>
