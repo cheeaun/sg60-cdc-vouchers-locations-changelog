@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-05
+
+</summary>
+
+Total locations: 25,947 → 25,956
+
+- <details><summary>Added (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ACC COLOUR CENTRE | 201C Tampines Street 21 Singapore 523201, #01-10,  S523201; | <span title="1.35282040093481,103.952976398016">1.35282, 103.95298</span> |
+  | ASOKE STUDIO | 515 Bedok North Avenue 2 Kaki Bukit Green Singapore 460515, #01-197,  S460515; | <span title="1.33186656511661,103.929960229584">1.33187, 103.92996</span> |
+  | AUNTIE JO'S DESSERT | 85 Bedok North Street 4, #01-41,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | BENTO FOOD HOUSE (308C PUNGGOL WALK) | 308C Punggol Walk,  S823308; | <span title="1.40800694944027,103.899074357998">1.40801, 103.89907</span> |
+  | DAPUR DAUN PISANG(639 PUNGGOL DRIVE) | 639 Punggol Drive,  S820639; | <span title="1.39946117845803,103.916054498662">1.39946, 103.91605</span> |
+  | HAI LI FANG SEAFOOD ZI CHAR (FV 437) | 437 Fernvale Road,  S790437; | <span title="1.39255040546533,103.876330394724">1.39255, 103.87633</span> |
+  | JU XIANG ZI CHAR | 116 Jalan Tenteram,  S320116; | <span title="1.32769993704525,103.861236369481">1.32770, 103.86124</span> |
+  | MASAKAN KAMPUNG | 120 Bukit Merah Lane 1, #01-66,  S150120; | <span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | NASI AYAM PISTOL | 503 West Coast Drive, #01-79,  S120503; | <span title="1.31180308926424,103.759751405542">1.31180, 103.75975</span> |
+
+  </details>
+
+- <details><summary>Changed (9)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ALLAUDDIN'S BRIYANI (3 CHANGI VILLAGE)</del><br>ALLAUDDIN'S BRIYANI | <del>3 Changi Village Road, #01-85,  S500003;</del><br>628 Ang Mo Kio Avenue 4, #01-64,  S560626; | <del title="1.38965834308064,103.988091826679">1.38966, 103.98809</del><br><span title="1.381099583266791,103.8399646245374">1.38110, 103.83996</span> |
+  | <del>75 AH BALLING PEANUT SOUP</del><br>DONG FENG PEANUT SOUP WITH TANG YUAN AH BALLING | 85 Bedok North Street 4, #01-25,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | <del>KEEPBEAUTY2025</del><br>JY HAIR & BEAUTY SALON | 769 Yishun Ave 3, #01-279,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | <del>KISTYLE HAIR STYLING SALON DE BEAUTE</del><br>KISTYLE SKIN ATELIER | Ang Mo Kio Avenue 4, #02-152,  S560107; | <span title="1.37138400081003,103.837381409794">1.37138, 103.83738</span> |
+  | <del>FISH SOUP</del><br>MUSHROOM MINCED MEAT NOODLE | 409 Ang Mo Kio Avenue 10, #01-15,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | PENANG MAN | <del>202C Woodleigh Link, #01-04,  S363202;</del><br>1 Kadayanallur Street, #01-16,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | RED DRAGON ROASTED MEAT (AMK) | <del>632 Ang Mo Kio Avenue 4,  S560632;</del><br>530 Ang Mo Kio #01-2379,  S560530; | <del title="1.37999943101882,103.841407224475">1.38000, 103.84141</del><br><span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | SINGAPORE SIANG YUEN TRADITIONAL CHARCOAL ROAST MEAT | <del>49 Sims Place, #01-34,  S380049;</del><br>129 Potong Pasir Ave 1, #01-806,  S350120; | <del title="1.31703502375324,103.879309854774">1.31704, 103.87931</del><br><span title="1.33545353246777,103.863387980398">1.33545, 103.86339</span> |
+  | TEA & TEA DRINKS | <del>109 Bukit Purmei Road Bukit Purmei Ville Singapore 090109, #01-143,  S090109;</del><br>24 Sin Ming Road, #01-49,  S570024; | <del title="1.27392939929265,103.825310761145">1.27393, 103.82531</del><br><span title="1.35518696986305,103.836337992513">1.35519, 103.83634</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-04
 
 </summary>
