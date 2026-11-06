@@ -13,6 +13,63 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-06
+
+</summary>
+
+Total locations: 25,956 → 25,972
+
+- <details><summary>Added (16)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | $6 WESTERN (AMK 226F) | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | CHIN LEONG CLINIC | 464B Clementi Avenue 1 Clementi Peaks Singapore 122464, #01-12,  S122464; | <span title="1.31013743458055,103.767972774309">1.31014, 103.76797</span> |
+  | COMMON GRILL JE221 | 221 Jurong East Street 21,  S600221; | <span title="1.34084174986254,103.736918269895">1.34084, 103.73692</span> |
+  | DRINK STALL JE221 | 221 Jurong East Street 21,  S600221; | <span title="1.34084174986254,103.736918269895">1.34084, 103.73692</span> |
+  | HABIB EXPRESS JW651 | 651 Jurong West Street 61,  S640651; | <span title="1.33711883394534,103.697156295377">1.33712, 103.69716</span> |
+  | HIGH KEE BBQ SEAFOOD | 1220 East Coast Parkway, #01-11,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | ITEA (302UBI) | 302 Ubi Avenue 1 Singapore 400302, #01-75,  S400302; | <span title="1.33002586987709,103.900995405582">1.33003, 103.90100</span> |
+  | JUNGYI KOREAN BBQ (UPPER THOMSON) | 265 Upper Thomson Road Soo Chow Garden Singapore 574392, #01-265,  S574392; | <span title="1.353627722517861,103.8333505414501">1.35363, 103.83335</span> |
+  | LIN AESTHETICS & BEAUTY SPA | 105 Canberra Street Eastbrook @ Canberra Singapore 750105, #02-03,  S750105; | <span title="1.44885564679911,103.832409172149">1.44886, 103.83241</span> |
+  | MAHA FRESH MART PTE LTD | 727 Clementi West Street 2 Singapore 120727, #01-266,  S120727; | <span title="1.30462487668384,103.763817745572">1.30462, 103.76382</span> |
+  | MUN KEE PIG ORGAN SOUP | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | NYO PASTA | 93 Toa Payoh Lorong 4, #01-54,  S310093; | <span title="1.33847469611073,103.849513448853">1.33847, 103.84951</span> |
+  | S HAIR & BEAUTY 26A | 26A Chai Chee Road Singapore 461026, #01-403,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | STEADY HAIR STUDIO | 452 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560452, #01-1795,  S560452; | <span title="1.36889751131378,103.856200835147">1.36890, 103.85620</span> |
+  | SUPER GEPUK (YI SHUN) | Kedai Kopi At 925 Yishun Central,  S760925; | <span title="1.42750549654333,103.837125284539">1.42751, 103.83713</span> |
+  | T3 HAIR SALON | 139 Tengah Garden Avenue, #01-06,  S690139; | <span title="1.353844854279874,103.7298516418516">1.35384, 103.72985</span> |
+
+  </details>
+
+- <details><summary>Changed (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AIXIN WANTON NOODLE | <del>335 Smith Street, #02-149,  S050335;</del><br>335 Smith Street, #02-40,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | DARSHINI'S BEAUTY & SPA | <del>710A Ang Mo Kio Ave 8, #01-2631,  S561710;</del><br>703 Ang Mo Kio Ave 8, #01-2535,  S560703; | <del title="1.37060312281517,103.847944273384">1.37060, 103.84794</del><br><span title="1.36977526980178,103.847321383156">1.36978, 103.84732</span> |
+  | FRESH TASTE FISH SOUP | <del>724 Ang Mo Kio Avenue 6, #01-34,  S560724;</del><br>724 Ang Mo Kio Avenue 6, #01-24,  S560724; | <span title="1.37217258545171,103.846510310202">1.37217, 103.84651</span> |
+  | GOODIES & CO | <del>122 Ang Mo Kio Ave 3, #01-1771,  S560122;</del><br>761 Yishun St 72, #01-338,  S760761; | <del title="1.37018860668947,103.843413231524">1.37019, 103.84341</del><br><span title="1.42539842469037,103.833259035976">1.42540, 103.83326</span> |
+  | HARU HARU RAMEN @505 AMK | <del>505 Ang Mo Kio Avenue 8,  S560505;</del><br>445 Tampines St 42 #01-14, #01-14,  S520445; | <del title="1.3748597302123,103.850224901404">1.37486, 103.85022</del><br><span title="1.35830242194338,103.950658405067">1.35830, 103.95066</span> |
+  | <del>AL MUBIN FOOD COURT (2JBM)</del><br>HYDEEN'S FOOD COURT (2JBM) | 2 Jalan Bukit Merah,  S150002; | <span title="1.2866292132996,103.80686187976">1.28663, 103.80686</span> |
+  | J SEAFOOD | <del>226D Ang Mo Kio Avenue 1, #01-19,  S564226;</del><br>226D Ang Mo Kio Avenue 1, #01-34,  S564226; | <span title="1.36680096218071,103.839152274224">1.36680, 103.83915</span> |
+  | <del>JI XING MARKET AMK 629</del><br>JI XING MARKET (JURONG 502) | <del>Ang Mo Kio Avenue 4, #01-1006A,  S560629;</del><br>Jurong West Ave 1, #01-831,  S640502; | <del title="1.38010465081465,103.840408680468">1.38010, 103.84041</del><br><span title="1.35043776611303,103.7181137591">1.35044, 103.71811</span> |
+  | <del>BISCUITS WORLD</del><br>JIA LE YONG TAU FOO | <del>127 Toa Payoh Lorong 1, #01-69,  S310127;</del><br>127 Toa Payoh Lorong 1, #01-88,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | <del>NOOR ANNISHA'S KITCHEN MALAY CUISINE</del><br>KITCHEN BRO MIX RICE & MALAY CUISINE | <del>505 Beach Road, #B1-11,  S199583;</del><br>861 North Bridge Road, #01-116,  S198783; | <del title="1.30314151533241,103.863877368653">1.30314, 103.86388</del><br><span title="1.30563433652207,103.863909336656">1.30563, 103.86391</span> |
+  | <del>26 JALAN MEMBINA BOON HENG ATAS HAINANESE CHICKEN RICE AND ROASTED DUCK</del><br>MASTER NAN HAINANESE CHICKEN RICE | <del>26 Jalan Membina,  S161026;</del><br>201 Kim Tian Road, #01-400,  S160201; | <del title="1.28263437649669,103.825595753657">1.28263, 103.82560</del><br><span title="1.2805659901889,103.827374794883">1.28057, 103.82737</span> |
+  | <del>DJ SATAY GRILL</del><br>MIMA KITCHEN (DJ) | Margaret Drive, #02-22,  S142038; | <span title="1.29742585102203,103.804710471304">1.29743, 103.80471</span> |
+  | MYCK-AMK 720 | <del>Ang Mo Kio Avenue 6, #01-4124,  S560720;</del><br>720 Ang Mo Kio Ave 6, #01-4126,  S560720; | <span title="1.37180102410534,103.84699031799">1.37180, 103.84699</span> |
+  | PETRONIZE PTE LTD | <del>Upper Boon Keng Road, #01-1135,  S380018;</del><br>16 Upper Boon Keng Road, #01-1085,  S380016; | <del title="1.31480351462869,103.872301458156">1.31480, 103.87230</del><br><span title="1.31543175817283,103.871651573593">1.31543, 103.87165</span> |
+  | PO'S MUAH CHEE | <del>335 Smith Street, #02-81,  S050335;</del><br>335 Smith Street, #02-53,  S050335; | <span title="1.2822749605271,103.843238518071">1.28227, 103.84324</span> |
+  | <del>RU YI XUAN WELLNESS</del><br>RU YI XUAN BEAUTYSS | 1 Jalan Bukit Merah Brickworks Estate Singapore 150001, #01-4512,  S150001; | <span title="1.28645354030174,103.808242400418">1.28645, 103.80824</span> |
+  | <del>J&K STALL @ ALKAFF CRESCENT</del><br>SINLAN BEEF NOODLES | 115C Alkaff Crescent,  S343115; | <span title="1.33722847497235,103.8728866340757">1.33723, 103.87289</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-05
 
 </summary>
