@@ -13,6 +13,73 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-07
+
+</summary>
+
+Total locations: 25,972 → 25,986
+
+- <details><summary>Added (14)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 1 HEALTH (BEDOK219) | 219 Bedok Central Central 24-hr Clinic (bedok) Singapore 460219, #01-132,  S460219; | <span title="1.32500585270826,103.93295435009">1.32501, 103.93295</span> |
+  | 35 ROJAK | 1220 East Coast Parkway, #01-35,  S468960; | <span title="1.30690573552745,103.935137935777">1.30691, 103.93514</span> |
+  | DROP BY CAFE | 7 Jalan Batu Di Tanjong Rhu Singapore 431007, #01-111B,  S431007; | <span title="1.30237002555566,103.88359641393">1.30237, 103.88360</span> |
+  | EACH A CUP @28 DOVER | 28 Dover Crescent Dbs Ntuc Dover Crescent Singapore 130028, #01-95,  S130028; | <span title="1.30446092675742,103.781779696748">1.30446, 103.78178</span> |
+  | HAPPY GO MART | 277 Tampines Street 22 Hdb-tampines Singapore 520277, #01-K1,  S520277; | <span title="1.34727819641373,103.951193517105">1.34728, 103.95119</span> |
+  | HTET MINI MART | 118 Commonwealth Crescent Hdb-queenstown Singapore 140118, #01-27,  S140118; | <span title="1.30675132855828,103.800693403924">1.30675, 103.80069</span> |
+  | KUNJAMENG MINIMART | 8 Empress Road Farrer Gardens Singapore 260008, #01-27B,  S260008; | <span title="1.31641190098174,103.805373811937">1.31641, 103.80537</span> |
+  | LAO GUANG CHEONG FUN & PORRIDGE; GUANGZHOU WHITE CUT CHICKEN | 137 Potong Pasir Avenue 3,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | LEGACY FOODIE | 156 Yishun Street 11,  S760156; | <span title="1.43188761932588,103.833567756794">1.43189, 103.83357</span> |
+  | MIDDLE AGE AND SENIOR CLOTHING | 32 New Market Road Dbs People's Park Complex Food Centre Singapore 050032, #03-1080,  S050032; | <span title="1.28485860802646,103.842578771054">1.28486, 103.84258</span> |
+  | PUNG PUNG KITCHEN | 144 Tampines Street 12,  S521144; | <span title="1.34841857750645,103.943725846535">1.34842, 103.94373</span> |
+  | SEABAY DELIGHTS (510735) | 735 Pasir Ris Street 72, 0003,  S510735; | <span title="1.37930651921164,103.93627211062">1.37931, 103.93627</span> |
+  | VEGETARIAN FOOD BEDOK208B | 208B New Upper Changi Road, #01-45,  S462208; | <span title="1.32481816551889,103.930544296289">1.32482, 103.93054</span> |
+  | WELL MART.1 PTE LTD@77 | 77 Telok Blangah Drive Dbs Telok Blangah Drive Singapore 100077, #01-234,  S100077; | <span title="1.27395376732331,103.808817470502">1.27395, 103.80882</span> |
+
+  </details>
+
+- <details><summary>Changed (29)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>#01-75 GROCERIES</del><br>#01-75 FRESH FRUITS | 409 Ang Mo Kio Avenue 10, #01-75,  S560409; | <span title="1.36272174657669,103.855350672118">1.36272, 103.85535</span> |
+  | 168 HOMEMADE WANTON NOODLE | <del>81 Whampoa Drive, #01-893,  S320081;</del><br>7 Ang Mo Kio St 66, Floravista, #01-02,  S567708; | <del title="1.32400427468755,103.85632640336">1.32400, 103.85633</del><br><span title="1.39127591953143,103.850468725185">1.39128, 103.85047</span> |
+  | <del>BEVERAGES STALL</del><br>21 TPY DRK STALL | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | 35 FRIED MEE HOON | <del>127 Toa Payoh Lorong 1, #01-35,  S310127;</del><br>127 Toa Payoh Lorong 1, #02-35,  S310127; | <span title="1.33804625287728,103.844733922883">1.33805, 103.84473</span> |
+  | <del>BEVERAGES STALL</del><br>447A FOODCITY DRINK STALL (BEVERAGES) | 447A Jalan Kayu,  S791447; | <span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | <del>SEAFOOD - 978 TPY NORTH</del><br>978 TPY NORTH | Toa Payoh North, #02-ST5,  S319001; | <span title="1.34313731285966,103.85139383899">1.34314, 103.85139</span> |
+  | ALADDIN INDIAN MUSLIM CUISINE | <del>212 Bidadari Park Drive,  S360212;</del><br>Blk 280 Bishan Street 24, #01-24,  S570280; | <del title="1.34279948643004,103.875178060687">1.34280, 103.87518</del><br><span title="1.35742119635953,103.844275790603">1.35742, 103.84428</span> |
+  | B & T BEAUTY | <del>403 Sin Ming Avenue Sin Ming Garden Singapore 570403, #01-307,  S570403;</del><br>403 Sin Ming Avenue, #01-307,  S570403; | <span title="1.3628703224303,103.833604034312">1.36287, 103.83360</span> |
+  | DAO XIANG HAINANESE CHICKEN RICE | <del>22 Sin Ming Road,  S570022;</del><br>150  Bishan Street 11, #01-139,  S570150; | <del title="1.3572844410824,103.839396679952">1.35728, 103.83940</del><br><span title="1.34452706951365,103.855213610381">1.34453, 103.85521</span> |
+  | DE SKIN AESTHETICS PTE LTD | <del>Ang Mo Kio Avenue 3, #01-1865,  S560128;</del><br>Ang Mo Kio Ave 4, #01-460,  S560163; | <del title="1.37083202800001,103.843546990613">1.37083, 103.84355</del><br><span title="1.37354853919927,103.838176471398">1.37355, 103.83818</span> |
+  | DING FENG HANDMADE FISHBALL NOODLE | <del>107 Ang Mo Kio Avenue 4,  S560107;</del><br>40 Margaret Drive, #01-05,  S140040; | <del title="1.37138400081003,103.837381409794">1.37138, 103.83738</del><br><span title="1.29645842578646,103.806207569922">1.29646, 103.80621</span> |
+  | <del>HANNAS WESTERN</del><br>HANNAS SEAFOOD | 121 Pasir Panjang Road, #01-18,  S118543; | <span title="1.27569879325348,103.791619964293">1.27570, 103.79162</span> |
+  | <del>PANCAKE KING AMK 630</del><br>JIA MEI ROJAK & YONG TAO FOO | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+  | <del>BANGKOK BITES</del><br>JUST MAKAN LAH | Strathmore Avenue, #01-01,  S143078; | <span title="1.29410699961945,103.809540875876">1.29411, 103.80954</span> |
+  | <del>MASTER CHIPPY 203 TPY</del><br>MASTER CHIPPY 206 TPY | 206 Toa Payoh North, #01-1205,  S310206; | <span title="1.34231481416805,103.84650890023">1.34231, 103.84651</span> |
+  | NAN 201 FRESH SEAFOOD | <del>628 Ang Mo Kio Avenue 4, #01-201,  S560628;</del><br>628 Ang Mo Kio Avenue 4, #01-170,  S560628; | <span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | NASI LEMAK AYAM TALIWANG (TPY 177) | <del>51 Lorong 6 Toa Payoh, #01-62,  S310051;</del><br>92 Toa Payoh Lorong 4, #01-264,  S310091; | <del title="1.33778337648439,103.852507455855">1.33778, 103.85251</del><br><span title="1.338226030741834,103.8485969166543">1.33823, 103.84860</span> |
+  | <del>XQZIT FASHION(JOO CHIAT)</del><br>PUTERA MENS & PRINCESS FASHION | 1 Joo Chiat Road, #02-1009,  S420001; | <span title="1.31587653400999,103.898378099316">1.31588, 103.89838</span> |
+  | RED DRAGON ROASTED MEAT (AMK) | <del>530 Ang Mo Kio #01-2379,  S560530;</del><br>530 Ang Mo Kio, #01-2379,  S560530; | <span title="1.37273243763236,103.85527326009">1.37273, 103.85527</span> |
+  | SHI SHEN TAI PAI TONG SEAFOOD | <del>437 Fernvale Road,  S790437;</del><br>447A Jalan Kayu, #01-01,  S791447; | <del title="1.39255040546533,103.876330394724">1.39255, 103.87633</del><br><span title="1.3921382852483,103.872490556246">1.39214, 103.87249</span> |
+  | SHUN FU YUAN VEGETARIAN | <del>320 Shunfu Road, #02-24,  S570320;</del><br>17 Upper Bong Keng Road, #01-30,  S380017; | <del title="1.35200745374218,103.837031862103">1.35201, 103.83703</del><br><span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | <del>AFIFA INDIAN MUSLIM FOOD</del><br>THE DOUGH CORNER | 29 Bendemeer Road, #01-38,  S330029; | <span title="1.31921667890113,103.863020922593">1.31922, 103.86302</span> |
+  | <del>THAI SISTER MINCED MEAT NOODLES</del><br>THE STEAK LAB - TPY 21 | 21 Lorong 7 Toa Payoh,  S310021; | <span title="1.33544818177957,103.857495922448">1.33545, 103.85750</span> |
+  | TOP HARVEST | <del>826 Tampines Street 81 After School Adventure Club (tampines) Singapore 520826, #01-96,  S520826;</del><br>823A Tampines Street 81, #01-S09/S10,  S521823; | <del title="1.34927794715578,103.933768905771">1.34928, 103.93377</del><br><span title="1.3489292582561,103.93349188136">1.34893, 103.93349</span> |
+  | UNCLE BAO CARROT CAKE | <del>6 Jalan Bukit Merah, #01-03,  S150006;</del><br>505 Jurong West Street 52, #01-181,  S640505; | <del title="1.28688297261475,103.808131274161">1.28688, 103.80813</del><br><span title="1.34965729130746,103.718443677825">1.34966, 103.71844</span> |
+  | VL CREATIONZ & TAILORING PTE. LTD. | <del>665 Buffalo Road, #02-49,  S210665;</del><br>665 Buffalo Road, #02-47,  S210665; | <span title="1.30617705352996,103.850611312978">1.30618, 103.85061</span> |
+  | <del>XIANG PORRIDGE</del><br>XIANG CONGEE | <del>1 Kadayanallur Street, #01-28,  S069184;</del><br>221B Boon Lay Place, #01-110,  S642221; | <del title="1.28033142727315,103.844747227479">1.28033, 103.84475</del><br><span title="1.34575695160082,103.713071862125">1.34576, 103.71307</span> |
+  | <del>XR WESTERN (AMK 226F)</del><br>XR WESTERN (CLEMENTI 713) | <del>226F Ang Mo Kio Avenue 1, ST05,  S566226;</del><br>713 Clementi West St 2, #01-115,  S120713; | <del title="1.36664703130241,103.839567160062">1.36665, 103.83957</del><br><span title="1.3041278418713,103.762206285308">1.30413, 103.76221</span> |
+  | <del>YONG CHENG XING PRAWN NOODLE</del><br>YONG SENG HENG PRAWN NOODLE | 51 Tampines Avenue 4, #01-43,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-06
 
 </summary>
