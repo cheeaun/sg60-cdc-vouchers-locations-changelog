@@ -13,6 +13,22 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-10
+
+</summary>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>WANG JIAO SEAFOOD RESTAURANT</del><br>WANG JIAO SEAFOOD RESTAURANT (293 YISHUN) | <del>239 Yishun Ring Road, #01-1150,  S760239;</del><br>293 Yishun Street 22, #01-261,  S760293; | <del title="1.43359453113734,103.839686662816">1.43359, 103.83969</del><br><span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-07
 
 </summary>

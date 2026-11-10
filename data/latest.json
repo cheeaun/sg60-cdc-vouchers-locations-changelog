@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "09 Nov 2026",
+  "lastUpdated": "10 Nov 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -477264,12 +477264,12 @@
     {
       "id": "merchant_61aab54b-d6e1-49cb-85c1-494242a9d3fa",
       "entityId": "merchant_61aab54b-d6e1-49cb-85c1-494242a9d3fa",
-      "name": "WANG JIAO SEAFOOD RESTAURANT",
-      "address": "239 Yishun Ring Road, #01-1150,  S760239;",
-      "postalCode": "760239",
+      "name": "WANG JIAO SEAFOOD RESTAURANT (293 YISHUN)",
+      "address": "293 Yishun Street 22, #01-261,  S760293;",
+      "postalCode": "760293",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.43359453113734,
-      "LON": 103.839686662816,
+      "LAT": 1.43611425409216,
+      "LON": 103.837605235958,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -477279,7 +477279,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2025-09-16"
+      "lastResetDate": "2026-11-09"
     },
     {
       "id": "merchant_022d5970-2335-4ef0-8670-0f9cba712f00",
