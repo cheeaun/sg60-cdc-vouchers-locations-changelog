@@ -13,6 +13,48 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-13
+
+</summary>
+
+Total locations: 25,656 → 25,666
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANDIN FROZEN FOOD | 531A Upper Cross Street, #01-23,  S051531; | <span title="1.28529907736773,103.845823802043">1.28530, 103.84582</span> |
+  | CHARCOAL MASTER JW651 | 651 Jurong West Street 61,  S640651; | <span title="1.33711883394534,103.697156295377">1.33712, 103.69716</span> |
+  | DING DING XIANG (MALA HOT POT)(256 YISHUN) | 256 Yishun Ring Road,  S760256; | <span title="1.43409342070863,103.839979155802">1.43409, 103.83998</span> |
+  | DURIAN SOLDIER | 11 Sin Ming Road Thomson V Two Singapore 575629, #01-23,  S575629; | <span title="1.353416609950579,103.8355471565233">1.35342, 103.83555</span> |
+  | GEPREK NEXT DOOR | 339 Anchorvale Road, #02-28,  S540339; | <span title="1.39679315311901,103.888437344772">1.39679, 103.88844</span> |
+  | JENG HAINANESE CHICKEN RICE | 539 Bedok North Street 3,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | JUZ BREAD | 638 Jurong West Street 61 Dbs Pioneer Mall Singapore 640638, #01-11,  S640638; | <span title="1.34167331883255,103.697244542805">1.34167, 103.69724</span> |
+  | MIDAS KITCHEN | 20 Ghim Moh Road, #01-41,  S270020; | <span title="1.31099663218896,103.78823030662">1.31100, 103.78823</span> |
+  | MY CAFE | 20 Kensington Park Road, #01-09,  S557269; | <span title="1.36423252476886,103.86652701738">1.36423, 103.86653</span> |
+  | PAW STATION | 71 Lorong 4 Toa Payoh Toa Payoh Vista Singapore 310071, #01-379,  S310071; | <span title="1.33417429846958,103.852204554719">1.33417, 103.85220</span> |
+
+  </details>
+
+- <details><summary>Changed (8)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>BT HO SWEE 1961 JE134</del><br>BT HO SWEE 1961 | <del>134 Jurong Gateway Road,  S600134;</del><br>226F Ang Mo Kio Avenue 1, #01-697,  S566226; | <del title="1.33399413849743,103.738819152518">1.33399, 103.73882</del><br><span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | CHUAN'S LADLE | <del>665 Buffalo Road, #01-317,  S210665;</del><br>Blk 202 Ang Mo Kio Ave 3, #01-1690,  S560202; | <del title="1.30617705352996,103.850611312978">1.30618, 103.85061</del><br><span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | EACH A CUP | <del>Jurong West Avenue 1, #01-831,  S640502;</del><br>Jurong West Avenue 1, #01-233,  S640504; | <del title="1.35043776611303,103.7181137591">1.35044, 103.71811</del><br><span title="1.34982761313556,103.718843750842">1.34983, 103.71884</span> |
+  | EVERLED (S) PTE LTD | <del>77 Indus Road Indus Garden Singapore 160077, #01-505,  S160077;</del><br>116 Jalan Bukit Merah, #01-1639A,  S160116; | <del title="1.29113483646901,103.826764453591">1.29113, 103.82676</del><br><span title="1.2814103907615,103.826659816441">1.28141, 103.82666</span> |
+  | <del>MING JI CANTONESE STYLE WANTON MEE</del><br>MING JI NOODLE HOUSE | <del>Blk 17 Upper Boon Keng Rd, #01-08,  S380017;</del><br>202C Woodleigh Village Hawker Centre, #01-04,  S363202; | <del title="1.31502841514731,103.87162041674">1.31503, 103.87162</del><br><span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | REDHILL DUCK RICE KWAY CHAP | <del>17 Upper Boon Keng Road, #01-21,  S380017;</del><br>120 Bukit Merah Lane 1, #01-16,  S150120; | <del title="1.31502841514731,103.87162041674">1.31503, 103.87162</del><br><span title="1.28630594274136,103.804492637648">1.28631, 103.80449</span> |
+  | <del>ES FRESH</del><br>SADDAM'S BUTCHERY | <del>294 Yishun Street 22, #01-335,  S760294;</del><br>294 Yishun Street 22, #01-311B,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+  | VEG STALL | <del>338 Ang Mo Kio Ave 1, #01-1613,  S560338;</del><br>338 Ang Mo Kio Ave 1, #01-1625,  S560338; | <span title="1.36382298132967,103.848919382825">1.36382, 103.84892</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-12
 
 </summary>
