@@ -13,6 +13,45 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-14
+
+</summary>
+
+Total locations: 25,666 → 25,688
+
+- <details><summary>Added (22)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH FU CAI FAN (AMK 260) | 260 Ang Mo Kio Street 21,  S560260; | <span title="1.36891617080101,103.834499516963">1.36892, 103.83450</span> |
+  | BLP HERITAGE | 50 Jurong West Street 61 Jurong West Hawker Centre Singapore 648202, #02-12,  S648202; | <span title="1.34126410393954,103.697241852189">1.34126, 103.69724</span> |
+  | CLAYPOT DELIGHTS | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | DAILY JOY DIM SUM | 137 Potong Pasir Avenue 3,  S350137; | <span title="1.33385759374197,103.865845367722">1.33386, 103.86585</span> |
+  | GA NGIN NOODLE (BLK.326) | 326 Woodlands Street 32,  S730326; | <span title="1.43042123905158,103.77958246528">1.43042, 103.77958</span> |
+  | HAI GE FISH SOUP BAN MIAN (TPY 480) | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | HAINANESE CHICKEN RICE | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | HJH MAHMUDA NASI PADANG | 505 Beach Road, #B1-11,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | HLAING MYANMAR FOOD | 883 Woodlands Street 82, 22,  S730883; | <span title="1.44283592110679,103.790770766025">1.44284, 103.79077</span> |
+  | HUP KEE OYSTER OMELETTE HOKKIEN MEE | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | JIA MEI BONELESS CHICKEN RICE | 17 Upper Boon Keng Road, #01-76,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | KANI & KANIS JE252 | 252 Jurong East Street 24 Dbs Jurong East Street 24 Singapore 600252, #01-111B,  S600252; | <span title="1.34302026715262,103.738115504821">1.34302, 103.73812</span> |
+  | KILLYNAILS STUDIO | 202 Ang Mo Kio Avenue 3 Ang Mo Kio View Singapore 560202, #01-1672,  S560202; | <span title="1.36844644010937,103.844516260527">1.36845, 103.84452</span> |
+  | KING OF PAOFUN (TPY 480) | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | LO CHAN KEE CANTONESE WANTON NOODLES BT | 2A Jalan Seh Chuan, #01-079,  S599213; | <span title="1.34099257381097,103.775013112947">1.34099, 103.77501</span> |
+  | MIXED VEGETABLE RICE | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | SILVER SMART LIFE CENTER (AMK 710A) | 710A Ang Mo Kio Avenue 8 Singapore 561710, #01-2625,  S561710; | <span title="1.37060312281517,103.847944273384">1.37060, 103.84794</span> |
+  | SILVER SMART LIFE CENTER (AMK 713A) | 713A Ang Mo Kio Avenue 6, #01-08,  S561713; | <span title="1.37165321215295,103.846216180211">1.37165, 103.84622</span> |
+  | SUBAIDA SHENTON WAY FOOD | 505 Beach Road, #B1-28,  S199583; | <span title="1.30314151533241,103.863877368653">1.30314, 103.86388</span> |
+  | SWEE HENG (SHB45) YEW TEE | 624 Choa Chu Kang Street 62 Ocbc Yew Tee Sqaure Singapore 680624, #01-22,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | TWIN'S NOODLES | 79 Circuit Road, #01-17,  S370079; | <span title="1.3265970672963,103.885052285736">1.32660, 103.88505</span> |
+  | YI SIN NOODLE HOUSE (301 PUNGGOL CENTRAL) | 301 Punggol Central,  S820301; | <span title="1.40371939757402,103.906138006707">1.40372, 103.90614</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-13
 
 </summary>
