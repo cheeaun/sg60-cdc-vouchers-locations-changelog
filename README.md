@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-17
+
+</summary>
+
+Total locations: 25,688 → 25,698
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 36 NOODLE HOUSE (257 BP) | 257 Bangkit Road,  S670257; | <span title="1.37850873559017,103.773212348159">1.37851, 103.77321</span> |
+  | ECONOMY BEE HOON/SCISSORCUT RICE | 624 Choa Chu Kang Street 62,  S680624; | <span title="1.3977814000738,103.74697404926">1.39778, 103.74697</span> |
+  | MANADRAIN PTE LTD (510477) | 477 Pasir Ris Drive 6 Hdb Public Shelters Singapore 510477, #B1-520,  S510477; | <span title="1.374475956034679,103.9584418238406">1.37448, 103.95844</span> |
+  | NEROPAR MUTTON SOUP | 117 Aljunied Avenue 2, #01-36,  S380117; | <span title="1.32064636781982,103.88702414">1.32065, 103.88702</span> |
+  | PAWS & THREADS PET CRAFT STUDIO | 5 Banda Street Singapore 050005, #02-74,  S050005; | <span title="1.28119737026913,103.843437320613">1.28120, 103.84344</span> |
+  | PEACE FAMILY CLINIC (WL832) | 832 Woodlands Street 83 Hdb-woodlands Singapore 730832, #01-71,  S730832; | <span title="1.43966937766405,103.790761499462">1.43967, 103.79076</span> |
+  | TASTE GOOD | 721 Ang Mo Kio Avenue 8,  S560721; | <span title="1.37234984781557,103.847899479721">1.37235, 103.84790</span> |
+  | TRIPLE SEVEN TRADITIONAL PRAWN NOODLES | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | YI FAN FRUITS | 408 Ang Mo Kio Avenue 10 Teck Ghee Square Singapore 560408, #01-803,  S560408; | <span title="1.36209053459188,103.854587757902">1.36209, 103.85459</span> |
+  | YU PAN KWAY TEOW SOUP & FISH SOUP | 19 Toh Yi Drive,  S590019; | <span title="1.33996269630769,103.77389767866">1.33996, 103.77390</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>XIN XIANG LIM</del><br>SING XIANG LIN MUSHROOM MINCED PORK NOODLE | <del>431 Yishun Avenue 1, #01-01,  S760431;</del><br>717 Yishun Street 71, #01-335,  S760717; | <del title="1.42026334174509,103.847589407494">1.42026, 103.84759</del><br><span title="1.42575233813242,103.828104354933">1.42575, 103.82810</span> |
+  | <del>ROASTER DELIGHT</del><br>YI MIAN QING XIN | <del>51 Yishun Avenue 11, #01-16,  S768867;</del><br>202C Woodleigh Link, #01-11,  S363202; | <del title="1.42498786287366,103.844747525064">1.42499, 103.84475</del><br><span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-14
 
 </summary>
