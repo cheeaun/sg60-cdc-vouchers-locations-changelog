@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-18
+
+</summary>
+
+Total locations: 25,698 → 25,708
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 181 HOUGANG FAMILY CLINIC | 181 Hougang Street 13 #01-01, #01-02,  S530181; | <span title="1.347374232773459,103.8872338363715">1.34737, 103.88723</span> |
+  | ANBU & SPICE (LENGKOK BAHRU) | 55 Lengkok Bahru,  S151055; | <span title="1.28744981772847,103.81344506122">1.28745, 103.81345</span> |
+  | FENG WEI FISH SOUP | 451 Bukit Batok West Avenue 6,  S650451; | <span title="1.35303717968525,103.743942567711">1.35304, 103.74394</span> |
+  | HAWKERTIME PTE LTD (519641) | 110 Pasir Ris Central, 01-12,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | HENG KEE 253 CHICKEN | 253 Choa Chu Kang Avenue 1, WM04,  S680253; | <span title="1.37743962648904,103.744383226772">1.37744, 103.74438</span> |
+  | JOHNSON DUCK- BMC | 164 Bukit Merah Central,  S150164; | <span title="1.28340675598635,103.816756914621">1.28341, 103.81676</span> |
+  | KIMS DENTAL CLINIC SERANGOON | 263 Serangoon Central Drive Hdb-serangoon Estate Singapore 550263, #01-53,  S550263; | <span title="1.35386322697735,103.871939623369">1.35386, 103.87194</span> |
+  | NAN MEN BAO ZI | 38 Margaret Drive Skyresidence @ Dawson Singapore 141038, #01-06,  S141038; | <span title="1.29773598434542,103.804319690649">1.29774, 103.80432</span> |
+  | SHUI SHENG MU SEAFOOD 463 | 463 Sembawang Drive,  S750463; | <span title="1.45555388401849,103.81464932384">1.45555, 103.81465</span> |
+  | STEAM FISH ( TP826) | 826 Tampines Street 81,  S520826; | <span title="1.34927794715578,103.933768905771">1.34928, 103.93377</span> |
+
+  </details>
+
+- <details><summary>Changed (3)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | WENJI NOODLE | <del>231 Sumang Walk Lane, 01-01,  S820231;</del><br>Blk 407 Northshore Drive, #01-08 to 18,  S820407; | <del title="1.40205998268188,103.892211658905">1.40206, 103.89221</del><br><span title="1.41676127156324,103.902074379502">1.41676, 103.90207</span> |
+  | <del>GIMME FACE 491 JW</del><br>XIN ZHI WEI 491 JW | 491 Jurong West Avenue 1,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+  | YUAN YUMMY | <del>151A Serangoon North Avenue 2,  S551151;</del><br>56 New Upper Changi Road, #01-1300,  S461056; | <del title="1.36953424620889,103.873492369263">1.36953, 103.87349</del><br><span title="1.32499379353322,103.941082588009">1.32499, 103.94108</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-17
 
 </summary>
