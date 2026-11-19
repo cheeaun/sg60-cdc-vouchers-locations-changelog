@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-19
+
+</summary>
+
+Total locations: 25,708 → 25,715
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BLESSED CARE MEDICAL CLINIC | 95 Lorong 4 Toa Payoh Dbs Trade_branch Singapore 310095, #01-62A,  S310095; | <span title="1.338974038346,103.849002148998">1.33897, 103.84900</span> |
+  | DA YAN FISHBALL NOODLES | 57 Dawson Road,  S142057; | <span title="1.29270252655148,103.810971835645">1.29270, 103.81097</span> |
+  | FIRE STONE KITCHEN | 22 Sin Ming Road,  S570022; | <span title="1.3572844410824,103.839396679952">1.35728, 103.83940</span> |
+  | HAO ZAI LAI BAN MIAN | 785E Woodlands Rise,  S735785; | <span title="1.44679888115266,103.805489772817">1.44680, 103.80549</span> |
+  | NO. 1 BAO (AMK 630) | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+  | SOON LEE WANTAN MEE (510446) | 446 Pasir Ris Drive 6, ST3,  S510446; | <span title="1.37030619298608,103.95772686444">1.37031, 103.95773</span> |
+  | THE BEEHOON BUFFS | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>GU XIANG CUN LA MIAN XIAO LONG BAO</del><br>CHUAN ZHI WEI (JW491) | Jurong West Ave 1, #01-173,  S640491; | <span title="1.34958656573247,103.72631531647">1.34959, 103.72632</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-18
 
 </summary>

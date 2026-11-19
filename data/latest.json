@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18 Nov 2026",
+  "lastUpdated": "19 Nov 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -72522,6 +72522,26 @@
       "lastResetDate": "2021-10-20"
     },
     {
+      "id": "merchant_8d9631b2-eb4f-40d7-bbe8-8785a65733f6",
+      "entityId": "merchant_8d9631b2-eb4f-40d7-bbe8-8785a65733f6",
+      "name": "BLESSED CARE MEDICAL CLINIC",
+      "address": "95 Lorong 4 Toa Payoh Dbs Trade_branch Singapore 310095, #01-62A,  S310095;",
+      "postalCode": "310095",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.338974038346,
+      "LON": 103.849002148998,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
+    },
+    {
       "id": "merchant_54044282-39c2-4cff-8351-1e4c55035bdb",
       "entityId": "merchant_54044282-39c2-4cff-8351-1e4c55035bdb",
       "name": "BLESSED HEALTH TCM CLINIC",
@@ -100042,6 +100062,26 @@
       "lastResetDate": "2024-01-17"
     },
     {
+      "id": "merchant_08fd28de-b95f-4287-a1be-0d72c39480d4",
+      "entityId": "merchant_08fd28de-b95f-4287-a1be-0d72c39480d4",
+      "name": "CHUAN ZHI WEI (JW491)",
+      "address": "Jurong West Ave 1, #01-173,  S640491;",
+      "postalCode": "640491",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34958656573247,
+      "LON": 103.72631531647,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
+    },
+    {
       "id": "merchant_d53f3485-bb55-4b3d-85a3-01eff076ae9b",
       "entityId": "merchant_d53f3485-bb55-4b3d-85a3-01eff076ae9b",
       "name": "CHUAN'S LADLE",
@@ -111240,6 +111280,26 @@
         }
       },
       "lastResetDate": "2022-01-27"
+    },
+    {
+      "id": "merchant_98a49e60-0e11-4eb2-a7de-9f7e5d4edfc5",
+      "entityId": "merchant_98a49e60-0e11-4eb2-a7de-9f7e5d4edfc5",
+      "name": "DA YAN FISHBALL NOODLES",
+      "address": "57 Dawson Road,  S142057;",
+      "postalCode": "142057",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.29270252655148,
+      "LON": 103.810971835645,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
     },
     {
       "id": "merchant_4edca313-84b5-4ee6-ab49-b5b90699459b",
@@ -148562,6 +148622,26 @@
       "lastResetDate": "2024-11-01"
     },
     {
+      "id": "merchant_e4bb24c7-6bd3-42d5-af1c-2fd59be05479",
+      "entityId": "merchant_e4bb24c7-6bd3-42d5-af1c-2fd59be05479",
+      "name": "FIRE STONE KITCHEN",
+      "address": "22 Sin Ming Road,  S570022;",
+      "postalCode": "570022",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3572844410824,
+      "LON": 103.839396679952,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
+    },
+    {
       "id": "merchant_361826b7-86ff-409c-afdc-d7b547eaf630",
       "entityId": "merchant_361826b7-86ff-409c-afdc-d7b547eaf630",
       "name": "FIRESTONE BAKERY",
@@ -176962,26 +177042,6 @@
       "lastResetDate": "2021-11-12"
     },
     {
-      "id": "merchant_08fd28de-b95f-4287-a1be-0d72c39480d4",
-      "entityId": "merchant_08fd28de-b95f-4287-a1be-0d72c39480d4",
-      "name": "GU XIANG CUN LA MIAN XIAO LONG BAO",
-      "address": "Jurong West Ave 1, #01-173,  S640491;",
-      "postalCode": "640491",
-      "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.34958656573247,
-      "LON": 103.72631531647,
-      "filters": {
-        "vouchers": {
-          "supermarket": false,
-          "hawker_heartland_merchant": true
-        },
-        "secondary": {
-          "budgetmeal": false
-        }
-      },
-      "lastResetDate": "2024-03-20"
-    },
-    {
       "id": "merchant_42187447-b1a6-475e-b560-0f2d4daa6e4a",
       "entityId": "merchant_42187447-b1a6-475e-b560-0f2d4daa6e4a",
       "name": "GU XIANG CUN MALA HOT POT",
@@ -188600,6 +188660,26 @@
         }
       },
       "lastResetDate": "2025-08-27"
+    },
+    {
+      "id": "merchant_dd5ac58c-3225-40f9-9322-fdb1fe0d0d9d",
+      "entityId": "merchant_dd5ac58c-3225-40f9-9322-fdb1fe0d0d9d",
+      "name": "HAO ZAI LAI BAN MIAN",
+      "address": "785E Woodlands Rise,  S735785;",
+      "postalCode": "735785",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.44679888115266,
+      "LON": 103.805489772817,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
     },
     {
       "id": "merchant_a9dc37bc-e993-49c6-9db7-0b0f5873f3c5",
@@ -331382,6 +331462,26 @@
       "lastResetDate": "2025-01-14"
     },
     {
+      "id": "merchant_556977af-53db-4aa4-aafe-27879ca9e6b5",
+      "entityId": "merchant_556977af-53db-4aa4-aafe-27879ca9e6b5",
+      "name": "NO. 1 BAO (AMK 630)",
+      "address": "630 Ang Mo Kio Avenue 4,  S560630;",
+      "postalCode": "560630",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38054138917049,
+      "LON": 103.841068277331,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
+    },
+    {
       "id": "merchant_bc0ed9e2-a18c-40f7-8da2-f198c5415d22",
       "entityId": "merchant_bc0ed9e2-a18c-40f7-8da2-f198c5415d22",
       "name": "NO. 1 COLOR CENTRE/MOBILE CONCEPTZ",
@@ -410762,6 +410862,26 @@
       "lastResetDate": "2021-10-29"
     },
     {
+      "id": "merchant_e21956eb-245d-4a38-9365-230ef0e83de3",
+      "entityId": "merchant_e21956eb-245d-4a38-9365-230ef0e83de3",
+      "name": "SOON LEE WANTAN MEE (510446)",
+      "address": "446 Pasir Ris Drive 6, ST3,  S510446;",
+      "postalCode": "510446",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37030619298608,
+      "LON": 103.95772686444,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
+    },
+    {
       "id": "merchant_1da95f74-ff84-4ba2-9304-606e568abe07",
       "entityId": "merchant_1da95f74-ff84-4ba2-9304-606e568abe07",
       "name": "SOON LEE WANTAN MEE (510446)",
@@ -438660,6 +438780,26 @@
         }
       },
       "lastResetDate": "2024-11-12"
+    },
+    {
+      "id": "merchant_35cb2a05-ab3e-451e-9e13-a26f40180c69",
+      "entityId": "merchant_35cb2a05-ab3e-451e-9e13-a26f40180c69",
+      "name": "THE BEEHOON BUFFS",
+      "address": "226F Ang Mo Kio Avenue 1,  S566226;",
+      "postalCode": "566226",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.36664703130241,
+      "LON": 103.839567160062,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-18"
     },
     {
       "id": "merchant_51304f10-66d0-4bf5-b264-e0f7924cd8b8",
