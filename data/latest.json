@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "19 Nov 2026",
+  "lastUpdated": "20 Nov 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -34442,6 +34442,26 @@
       "lastResetDate": "2023-05-18"
     },
     {
+      "id": "merchant_ce0295f0-1b55-4854-b523-c239143bd9e7",
+      "entityId": "merchant_ce0295f0-1b55-4854-b523-c239143bd9e7",
+      "name": "AH MA BAK KUT TEH",
+      "address": "101 Yishun Avenue 5,  S760101;",
+      "postalCode": "760101",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.4305357538408,
+      "LON": 103.827667722074,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_72e74e92-d19e-4496-a420-8c63c80ecf4a",
       "entityId": "merchant_72e74e92-d19e-4496-a420-8c63c80ecf4a",
       "name": "AH MA BIG PRAWN NOODLE",
@@ -67200,6 +67220,26 @@
         }
       },
       "lastResetDate": "2022-07-19"
+    },
+    {
+      "id": "merchant_9f805746-e67c-450a-9466-3e17a75d45d3",
+      "entityId": "merchant_9f805746-e67c-450a-9466-3e17a75d45d3",
+      "name": "BEN BAKER",
+      "address": "282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-103,  S570282;",
+      "postalCode": "570282",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35814432379457,
+      "LON": 103.844756001146,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_ae3e3b4f-af81-4680-9a09-e16b1988af80",
@@ -111202,6 +111242,26 @@
       "lastResetDate": "2021-11-10"
     },
     {
+      "id": "merchant_5c850c98-5468-4043-ae42-f7d18247d344",
+      "entityId": "merchant_5c850c98-5468-4043-ae42-f7d18247d344",
+      "name": "DA WEI HUANG",
+      "address": "246 Hougang Street 22,  S530246;",
+      "postalCode": "530246",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35876258437852,
+      "LON": 103.891460074318,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_1d5f1392-da01-45ad-8c05-313e7b9a782f",
       "entityId": "merchant_1d5f1392-da01-45ad-8c05-313e7b9a782f",
       "name": "DA WEI WANG FISHBALL NOODLE",
@@ -129019,7 +129079,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-06-19"
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_5f0b7abf-6868-4cea-8b9e-22655dc44a19",
@@ -195962,6 +196022,26 @@
       "lastResetDate": "2026-07-29"
     },
     {
+      "id": "merchant_2f4bf358-71fc-4425-ba20-d93adc373065",
+      "entityId": "merchant_2f4bf358-71fc-4425-ba20-d93adc373065",
+      "name": "HENG HENG NOODLE HOUSE@ 681",
+      "address": "681 Hougang Avenue 8,  S530681;",
+      "postalCode": "530681",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37297840284804,
+      "LON": 103.88567915953,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_fee5528a-3ee6-4120-995f-774ad302c7ab",
       "entityId": "merchant_fee5528a-3ee6-4120-995f-774ad302c7ab",
       "name": "HENG HENG NOODLE JE132",
@@ -206425,11 +206505,11 @@
       "id": "merchant_e94e3645-3c14-4edc-b5fd-1cc13556988c",
       "entityId": "merchant_e94e3645-3c14-4edc-b5fd-1cc13556988c",
       "name": "HONG KONG SOY SAUCE CHICKEN",
-      "address": "Blk 85 Redhill Lane, #01-12,  S270020;",
-      "postalCode": "270020",
+      "address": "Blk 85 Redhill Lane, #01-12,  S150085;",
+      "postalCode": "150085",
       "type": "HAWKER_HEARTLAND_MERCHANT",
-      "LAT": 1.31099663218896,
-      "LON": 103.78823030662,
+      "LAT": 1.28730751501552,
+      "LON": 103.818311195307,
       "filters": {
         "vouchers": {
           "supermarket": false,
@@ -206439,7 +206519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-14"
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_1253a9ab-8985-47ff-b6ac-c16f77fadc2d",
@@ -210840,6 +210920,26 @@
         }
       },
       "lastResetDate": "2025-03-06"
+    },
+    {
+      "id": "merchant_d8495cf9-cfe4-4c50-9814-f7ff561da432",
+      "entityId": "merchant_d8495cf9-cfe4-4c50-9814-f7ff561da432",
+      "name": "HOUSE OF NOODLES 29B",
+      "address": "29B Chai Chee Avenue,  S462029;",
+      "postalCode": "462029",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.3241399156082,
+      "LON": 103.923969688386,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_4f3c1bac-ff0d-4b6a-b58c-2d650f2ebb62",
@@ -258122,6 +258222,26 @@
       "lastResetDate": "2021-12-10"
     },
     {
+      "id": "merchant_1f4c2540-1b46-4f9d-9d61-ffe3d1c6dda0",
+      "entityId": "merchant_1f4c2540-1b46-4f9d-9d61-ffe3d1c6dda0",
+      "name": "KIN FISH",
+      "address": "681 Hougang Avenue 8,  S530681;",
+      "postalCode": "530681",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.37297840284804,
+      "LON": 103.88567915953,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_515b27bd-3aef-4e3e-8408-614ec290a2ce",
       "entityId": "merchant_515b27bd-3aef-4e3e-8408-614ec290a2ce",
       "name": "KIN FISH",
@@ -285160,6 +285280,26 @@
         }
       },
       "lastResetDate": "2021-12-09"
+    },
+    {
+      "id": "merchant_db60825f-bc9b-4f63-91b9-a1c16bab960b",
+      "entityId": "merchant_db60825f-bc9b-4f63-91b9-a1c16bab960b",
+      "name": "LOH FROZEN MEAT",
+      "address": "7 Empress Road, #01-24,  S260007;",
+      "postalCode": "260007",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.31624052960518,
+      "LON": 103.805636700397,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_d9878e29-a185-4718-abf7-b88b5201de6d",
@@ -320062,6 +320202,26 @@
       "lastResetDate": "2026-09-07"
     },
     {
+      "id": "merchant_0414b303-d409-4e41-a7a5-6032fa8732eb",
+      "entityId": "merchant_0414b303-d409-4e41-a7a5-6032fa8732eb",
+      "name": "MY SEAFOOD (AMK 630)",
+      "address": "630 Ang Mo Kio Avenue 4,  S560630;",
+      "postalCode": "560630",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.38054138917049,
+      "LON": 103.841068277331,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_d27c9062-7ae9-47b2-8b53-8ea77b3f33c5",
       "entityId": "merchant_d27c9062-7ae9-47b2-8b53-8ea77b3f33c5",
       "name": "MY SEAFOOD RESTAURANT(YISHUN)",
@@ -346359,7 +346519,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-01-06"
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_61497f59-93fc-4c11-b2f0-3bf0d4cddb9c",
@@ -375179,7 +375339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-11-12"
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_7883cbb3-1b31-40b9-bd28-40ac1dc2c33e",
@@ -378444,7 +378604,7 @@
     {
       "id": "merchant_b8a5b1fc-c5bf-4048-b7db-a18033502480",
       "entityId": "merchant_b8a5b1fc-c5bf-4048-b7db-a18033502480",
-      "name": "SADDAM'S BUTCHERY",
+      "name": "SADDAM'S BUTCHERY (294 YISHUN)",
       "address": "294 Yishun Street 22, #01-311B,  S760294;",
       "postalCode": "760294",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -378459,7 +378619,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-11-12"
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_7e347e0c-34a7-4c85-ba3f-7704cc10a1dd",
@@ -457922,6 +458082,26 @@
       "lastResetDate": "2022-05-04"
     },
     {
+      "id": "merchant_423a110c-e79c-45b2-99d3-2ab073166f53",
+      "entityId": "merchant_423a110c-e79c-45b2-99d3-2ab073166f53",
+      "name": "TUA TOKWAY PRAWN NOODLE (PUNGGOL 671)",
+      "address": "671 Edgefield Plains,  S820671;",
+      "postalCode": "820671",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.40566048045603,
+      "LON": 103.911991277154,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
+    },
+    {
       "id": "merchant_fc1a4d16-f971-47b6-a79b-465489a67fbb",
       "entityId": "merchant_fc1a4d16-f971-47b6-a79b-465489a67fbb",
       "name": "TUAN TUAN YUAN YUAN DESSERTS",
@@ -465340,6 +465520,26 @@
         }
       },
       "lastResetDate": "2022-01-26"
+    },
+    {
+      "id": "merchant_d9893253-0f90-4e74-8ca9-2cfba1f11849",
+      "entityId": "merchant_d9893253-0f90-4e74-8ca9-2cfba1f11849",
+      "name": "VANILLA BAKERY (UPPER THOMSON)",
+      "address": "244 Upper Thomson Road, 244F,  S574369;",
+      "postalCode": "574369",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.35342479028281,
+      "LON": 103.834669148013,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-19"
     },
     {
       "id": "merchant_96216b93-099b-4b6b-ac98-4db0a7073bc4",

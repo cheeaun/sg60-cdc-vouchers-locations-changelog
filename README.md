@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-20
+
+</summary>
+
+Total locations: 25,715 → 25,725
+
+- <details><summary>Added (10)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | AH MA BAK KUT TEH | 101 Yishun Avenue 5,  S760101; | <span title="1.4305357538408,103.827667722074">1.43054, 103.82767</span> |
+  | BEN BAKER | 282 Bishan Street 22 Bishan North Shopping Mall Singapore 570282, #01-103,  S570282; | <span title="1.35814432379457,103.844756001146">1.35814, 103.84476</span> |
+  | DA WEI HUANG | 246 Hougang Street 22,  S530246; | <span title="1.35876258437852,103.891460074318">1.35876, 103.89146</span> |
+  | HENG HENG NOODLE HOUSE@ 681 | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | HOUSE OF NOODLES 29B | 29B Chai Chee Avenue,  S462029; | <span title="1.3241399156082,103.923969688386">1.32414, 103.92397</span> |
+  | KIN FISH | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | LOH FROZEN MEAT | 7 Empress Road, #01-24,  S260007; | <span title="1.31624052960518,103.805636700397">1.31624, 103.80564</span> |
+  | MY SEAFOOD (AMK 630) | 630 Ang Mo Kio Avenue 4,  S560630; | <span title="1.38054138917049,103.841068277331">1.38054, 103.84107</span> |
+  | TUA TOKWAY PRAWN NOODLE (PUNGGOL 671) | 671 Edgefield Plains,  S820671; | <span title="1.40566048045603,103.911991277154">1.40566, 103.91199</span> |
+  | VANILLA BAKERY (UPPER THOMSON) | 244 Upper Thomson Road, 244F,  S574369; | <span title="1.35342479028281,103.834669148013">1.35342, 103.83467</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | HONG KONG SOY SAUCE CHICKEN | <del>Blk 85 Redhill Lane, #01-12,  S270020;</del><br>Blk 85 Redhill Lane, #01-12,  S150085; | <del title="1.31099663218896,103.78823030662">1.31100, 103.78823</del><br><span title="1.28730751501552,103.818311195307">1.28731, 103.81831</span> |
+  | <del>SADDAM'S BUTCHERY</del><br>SADDAM'S BUTCHERY (294 YISHUN) | 294 Yishun Street 22, #01-311B,  S760294; | <span title="1.43646141541631,103.837066339313">1.43646, 103.83707</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-19
 
 </summary>
