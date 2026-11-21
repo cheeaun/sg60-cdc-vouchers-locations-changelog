@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-21
+
+</summary>
+
+Total locations: 25,725 → 25,736
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BA WEI JI GONG BAO | 805 Hougang Central,  S530805; | <span title="1.37068333577328,103.894356609963">1.37068, 103.89436</span> |
+  | HONG LIM CURRY PUFF @ 16 BEDOK | 16 Bedok South Road, #01-40,  S460016; | <span title="1.32055221938711,103.935539171613">1.32055, 103.93554</span> |
+  | HONG LIM CURRY PUFF @ABC | 6 Jalan Bukit Merah, #01-136,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+  | LAI CAI KKM (WOODLANDS) | 515A Woodlands Drive 14,  S731515; | <span title="1.43420564787063,103.790081342564">1.43421, 103.79008</span> |
+  | LEE HAIR JE345 | 345 Jurong East Street 31 Dbs Ntuc Jurong East Street 31/345 Singapore 600345, #01-25A,  S600345; | <span title="1.34551210586752,103.73121914575">1.34551, 103.73122</span> |
+  | LOTUS MART | 332 Hougang Avenue 5 Hdb-hougang Singapore 530332, #01-K1,  S530332; | <span title="1.368405831943537,103.8978203838687">1.36841, 103.89782</span> |
+  | LX DURIAN PARADISE (846 YISHUN) | 846 Yishun Ring Road Khatib Central Singapore 760846, #01-3617X,  S760846; | <span title="1.41678634718118,103.834641579241">1.41679, 103.83464</span> |
+  | NAD EMPIRE @ 371 | 371A Woodlands Avenue 1,  S731371; | <span title="1.43259451232642,103.786649334789">1.43259, 103.78665</span> |
+  | SHRI SHANMUGA STORE | 122 Yishun Street 11 Chong Pang View Singapore 760122, #01-K1,  S760122; | <span title="1.434997589200561,103.8311247963778">1.43500, 103.83112</span> |
+  | SUN MART JW | 463 Jurong West Street 41 Hong Kah Ville Singapore 640463, #01-562,  S640463; | <span title="1.35057187534259,103.723239272388">1.35057, 103.72324</span> |
+  | TEOCHEW FISH SOUP (OTH) | 51 Tampines Avenue 4, #01-47,  S528523; | <span title="1.35291588606932,103.940197935055">1.35292, 103.94020</span> |
+
+  </details>
+
+- <details><summary>Changed (2)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>JOYFUL SEAFOOD (279 SENGKANG)</del><br>JOYFUL SEAFOOD (289 BUKIT BATOK) | <del>279 Sengkang East Avenue, #01-01,  S540279;</del><br>289H Bukit Batok Street 25, #01-01,  S657289; | <del title="1.38621835522425,103.89299549602">1.38622, 103.89300</del><br><span title="1.34448838213212,103.759942499377">1.34449, 103.75994</span> |
+  | TONG XIN YUAN | <del>85 Bedok North Street 4, #01-20,  S460085;</del><br>538 Bedok North Street 3, Fengshan Hawker Centre, #01-108,  S460538; | <del title="1.33200482399436,103.93876843919">1.33200, 103.93877</del><br><span title="1.3320672771228,103.924621314971">1.33207, 103.92462</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-20
 
 </summary>
