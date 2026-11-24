@@ -13,6 +13,49 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-24
+
+</summary>
+
+Total locations: 25,736 → 25,749
+
+- <details><summary>Added (13)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | GRILL & PASTAS (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | HONG KONG STYLE MINIWOK | 480 Lorong 6 Toa Payoh,  S310480; | <span title="1.33202548854255,103.848335264381">1.33203, 103.84834</span> |
+  | HONG LIM CURRY PUFF (AMOY STREET FOOD CENTRE) | National Development Building, Annex B, Telok Ayer Street, #01-51,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | J&T JUICE | 539 Bedok North Street 3 Dbs Bedok North Branch Singapore 460539, #01-627,  S460539; | <span title="1.33131386579703,103.925307290709">1.33131, 103.92531</span> |
+  | LAI KEE DIM SUM (293 YISHUN) | 293 Yishun Street 22,  S760293; | <span title="1.43611425409216,103.837605235958">1.43611, 103.83761</span> |
+  | MAMA MEAT SHOP | 504 Tampines Central 1, #01-328,  S520504; | <span title="1.35639771487849,103.945701729904">1.35640, 103.94570</span> |
+  | OXYCARE MEDICAL CLINIC (YISHUN) | 261 Yishun Street 22 Hdb-yishun Singapore 760261, #01-135,  S760261; | <span title="1.43530973604166,103.838606289364">1.43531, 103.83861</span> |
+  | QUAN SHENG MUSHROOM MINCED MEAT NOODLE | 84 Marine Parade Central, #01-32,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | RED APPLE VEGETARIAN (166) | 166 Woodlands Street 13,  S730166; | <span title="1.433317737659,103.77549155593">1.43332, 103.77549</span> |
+  | ROASTED DELIGHT | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | SAKURA CHICKEN RICE HOUSE | 632 Ang Mo Kio Avenue 4,  S560632; | <span title="1.37999943101882,103.841407224475">1.38000, 103.84141</span> |
+  | WANG LI XIANG ECONOMIC BEE HOON | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | XING LONG FISH SOUP | 107 Clementi Street 12,  S120107; | <span title="1.32225475067051,103.769960685492">1.32225, 103.76996</span> |
+
+  </details>
+
+- <details><summary>Changed (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | BAN MIAN. FISH SOUP | <del>73 Lorong 4 Toa Payoh, #01-585,  S310073;</del><br>260 Kim Keat Avenue, #01-02,  S310260; | <del title="1.33432001132262,103.851714329027">1.33432, 103.85171</del><br><span title="1.33211277447272,103.857378073376">1.33211, 103.85738</span> |
+  | <del>MR D WESTERN FOOD - UPPER BOON KENG</del><br>FISHBALL NOODLE | 11 Upper Boon Keng Road,  S380011; | <span title="1.31423937033551,103.870914031459">1.31424, 103.87091</span> |
+  | <del>FEI YUAN</del><br>LONG XING TIAN XIA | 84 Marine Parade Central, #01-31,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+  | <del>DENTICARE - TPG</del><br>ROYCE DENTAL CENTRE - TANJONG PAGAR | 1 Tanjong Pagar Plaza Dbs Ntuc Tanjong Pagar Singapore 082001, #01-55,  S082001; | <span title="1.2755961982077,103.842393171342">1.27560, 103.84239</span> |
+  | <del>SHUN FU YUAN VEGETARIAN</del><br>VEGETARIAN FOOD | 17 Upper Bong Keng Road, #01-30,  S380017; | <span title="1.31502841514731,103.87162041674">1.31503, 103.87162</span> |
+  | YE TRADITIONS | <del>713A Ang Mo Kio Avenue 6, #01-04,  S561713;</del><br>681 Hougang Avenue 8, #01-853,  S530681; | <del title="1.37165321215295,103.846216180211">1.37165, 103.84622</del><br><span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-21
 
 </summary>
