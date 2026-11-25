@@ -13,6 +13,51 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-25
+
+</summary>
+
+Total locations: 25,749 → 25,766
+
+- <details><summary>Added (17)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 280 SE XIANG WEI | 280 Tampines Street 22,  S520280; | <span title="1.34753519689194,103.951702776881">1.34754, 103.95170</span> |
+  | 728 MIXED VEG RICE | 728 Ang Mo Kio Avenue 6,  S560728; | <span title="1.37262841608628,103.845682928938">1.37263, 103.84568</span> |
+  | COFFEE KING (AMOY STREET) | National Development Building, Annex B, Telok Ayer Street, #01-55,  S069111; | <span title="1.2793398636571,103.846652482254">1.27934, 103.84665</span> |
+  | DING WANG MALA HOTPOT | 151A Serangoon North Avenue 2,  S551151; | <span title="1.36953424620889,103.873492369263">1.36953, 103.87349</span> |
+  | ELIVING HOME & OFFICE SOLUTIONS | 117 Bedok Reservoir Road Eunos Vista Singapore 470117, #01-52A,  S470117; | <span title="1.3314132488271,103.908688936549">1.33141, 103.90869</span> |
+  | HONG HU RAMEN (T878C) | 878C Tampines Avenue 8,  S523878; | <span title="1.35126411286423,103.929363834798">1.35126, 103.92936</span> |
+  | HONG LIM CURRY PUFF @ 85 BEDOK | 85 Bedok North Street 4, #01-46,  S460085; | <span title="1.33200482399436,103.93876843919">1.33200, 103.93877</span> |
+  | JUNYING | 30 Seng Poh Road, #01-20,  S168898; | <span title="1.28468599168094,103.832421566287">1.28469, 103.83242</span> |
+  | LAO SAN PRAWN NOODLES @HG 681 | 681 Hougang Avenue 8,  S530681; | <span title="1.37297840284804,103.88567915953">1.37298, 103.88568</span> |
+  | M.Y. SKIN & BEAUTY | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-300,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | MALA HOT POT 400007 | 7 Eunos Crescent,  S400007; | <span title="1.32065506002485,103.904395766852">1.32066, 103.90440</span> |
+  | ONE ORIENTAL TCM PAIN THERAPY CLINIC | 85 Lorong 4 Toa Payoh Hdb-toa Payoh Singapore 310085, #01-308,  S310085; | <span title="1.33628536216028,103.848428644103">1.33629, 103.84843</span> |
+  | ONLYMEE (519641) | 110 Pasir Ris Central, 01-19,  S519641; | <span title="1.37347252064326,103.951571342467">1.37347, 103.95157</span> |
+  | PRAWNS NOODLE | 270 Queen Street, #01-108,  S180270; | <span title="1.30110201573423,103.854115779087">1.30110, 103.85412</span> |
+  | SANTAPAN NADIRA | 676 Woodlands Drive 71, #02-37,  S730676; | <span title="1.43991699638813,103.800779709518">1.43992, 103.80078</span> |
+  | THE COFFEE ROOM CHAI CHEE 26A | 26A Chai Chee Road,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | YONG SHENG | 117 Pending Road,  S670117; | <span title="1.37730128071547,103.767979335905">1.37730, 103.76798</span> |
+
+  </details>
+
+- <details><summary>Changed (4)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | MAMA MEAT SHOP | <del>504 Tampines Central 1, #01-328,  S520504;</del><br>504 Tampines Central 1, #01-327A,  S520504; | <span title="1.35639771487849,103.945701729904">1.35640, 103.94570</span> |
+  | MOHAMED HANIFA | <del>503 West Coast Drive, #01-78,  S120503;</del><br>448 Clementi Avenue 3, #01-02,  S120448; | <del title="1.31180308926424,103.759751405542">1.31180, 103.75975</del><br><span title="1.31331969319644,103.764517192874">1.31332, 103.76452</span> |
+  | YE TRADITIONS | <del>681 Hougang Avenue 8, #01-853,  S530681;</del><br>333 Kreta Ayer Road, #01-31,  S080333; | <del title="1.37297840284804,103.88567915953">1.37298, 103.88568</del><br><span title="1.28074833681274,103.84246340102">1.28075, 103.84246</span> |
+  | YOUNG PASSION | <del>761 Yishun Street 72 Hdb-yishun Singapore 760761, #01-360,  S760761;</del><br>678A Woodlands Avenue 6 #03-13A, #01-360,  S731678; | <del title="1.42539842469037,103.833259035976">1.42540, 103.83326</del><br><span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-24
 
 </summary>
