@@ -13,6 +13,43 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-26
+
+</summary>
+
+Total locations: 25,766 → 25,772
+
+- <details><summary>Added (6)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ANBU & SPICE | 51 Lorong 6 Toa Payoh,  S310051; | <span title="1.33778337648439,103.852507455855">1.33778, 103.85251</span> |
+  | AR RAZZAQ (INDIAN MUSLIM FOOD)(630 YISHUN) | 630 Yishun Street 61,  S760630; | <span title="1.41801913333461,103.837784321062">1.41802, 103.83778</span> |
+  | HAIRISTRY SALON 446 | 446 Bukit Batok West Avenue 8 West Crest @ Bukit Batok Singapore 650446, #01-02,  S650446; | <span title="1.35017339059587,103.739086387813">1.35017, 103.73909</span> |
+  | LASTBITE WESTERN (YISHUN) | 51 Yishun Avenue 11, #01-30,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+  | SF BADMINTON SHOP | 406 Jurong West Street 42 Elias Kindergarten Singapore 640406, #01-597,  S640406; | <span title="1.35431435538399,103.722395940054">1.35431, 103.72240</span> |
+  | TABRAQ | 6 Jalan Bukit Merah, #01-13,  S150006; | <span title="1.28688297261475,103.808131274161">1.28688, 103.80813</span> |
+
+  </details>
+
+- <details><summary>Changed (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | ALLAUDDIN'S BRIYANI | <del>628 Ang Mo Kio Avenue 4, #01-64,  S560626;</del><br>628 Ang Mo Kio Avenue 4, #01-64,  S560628; | <del title="1.381099583266791,103.8399646245374">1.38110, 103.83996</del><br><span title="1.38098761665454,103.840628087484">1.38099, 103.84063</span> |
+  | C K 77 | <del>246 Hougang Street 22, 01-161,  S530246;</del><br>23 Kallang Avenue,  S339414; | <del title="1.35876258437852,103.891460074318">1.35876, 103.89146</del><br><span title="1.31149300151441,103.865970973896">1.31149, 103.86597</span> |
+  | FACE BAN MIAN (AMK 505) | <del>505 Ang Mo Kio Avenue 8, 01-2688,  S560631;</del><br>505 Ang Mo Kio Avenue 8, 01-2688,  S560505; | <del title="1.3795572819161,103.840735651035">1.37956, 103.84074</del><br><span title="1.3748597302123,103.850224901404">1.37486, 103.85022</span> |
+  | NASI LEMAK AYAM TALIWANG (TPY 177) | <del>92 Toa Payoh Lorong 4, #01-264,  S310091;</del><br>92 Toa Payoh Lorong 4, #01-264,  S310092; | <del title="1.338226030741834,103.8485969166543">1.33823, 103.84860</del><br><span title="1.33807081646129,103.849457178811">1.33807, 103.84946</span> |
+  | <del>THE COFFEE ROOM CHAI CHEE 26A</del><br>THE COFFEE ROOM | <del>26A Chai Chee Road,  S461026;</del><br>26A Chai Chee Road, #01-405,  S461026; | <span title="1.32370047880354,103.923497151617">1.32370, 103.92350</span> |
+  | YOUNG PASSION | <del>678A Woodlands Avenue 6 #03-13A, #01-360,  S731678;</del><br>678A Woodlands Avenue 6, #03-13A,  S731678; | <span title="1.44036367556377,103.801537354932">1.44036, 103.80154</span> |
+  | <del>PIN WEI ROASTED DELIGHTS</del><br>ZENG JI HAINANESE CHICKEN RICE | <del>19 Toh Yi Drive,  S590019;</del><br>Blk 190 Boon Lay Place, # 01-01,  S649884; | <del title="1.33996269630769,103.77389767866">1.33996, 103.77390</del><br><span title="1.34771935245487,103.711912891764">1.34772, 103.71191</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-25
 
 </summary>
