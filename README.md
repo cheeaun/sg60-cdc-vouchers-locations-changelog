@@ -13,6 +13,38 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-27
+
+</summary>
+
+Total locations: 25,772 → 25,779
+
+- <details><summary>Added (7)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | 732 CHONG PANG HUAT CHICKEN WING | 732 Yishun Avenue 5,  S760732; | <span title="1.42903445415475,103.830336353437">1.42903, 103.83034</span> |
+  | 769 CHONG PANG HUAT CHICKEN WING | 769 Yishun Avenue 3,  S760769; | <span title="1.42460205303196,103.833222391677">1.42460, 103.83322</span> |
+  | AL ANSAR | 343 Jurong East Street 31 Yuhua Place Singapore 600343, #01-53A,  S600343; | <span title="1.34588339112666,103.731083620161">1.34588, 103.73108</span> |
+  | CHONG PANG HUAT | 156 Yishun Street 11,  S760156; | <span title="1.43188761932588,103.833567756794">1.43189, 103.83357</span> |
+  | JIN HAI WEI GOLDEN FISH SOUP | 631 Bedok Reservoir Road,  S470631; | <span title="1.33295873271663,103.914941831215">1.33296, 103.91494</span> |
+  | MY BAN MIAN UBI350 | 350 Ubi Avenue 1,  S400350; | <span title="1.32580408523453,103.901292368319">1.32580, 103.90129</span> |
+  | SPORTSSHOP SG JE342 | 342 Jurong East Street 31 Yuhua Place Singapore 600342, #01-05B,  S600342; | <span title="1.34605164016617,103.731420015421">1.34605, 103.73142</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>LASTBITE WESTERN (YISHUN)</del><br>LASTBITE WESTERN (YPHC) | 51 Yishun Avenue 11, #01-30,  S768867; | <span title="1.42498786287366,103.844747525064">1.42499, 103.84475</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-26
 
 </summary>

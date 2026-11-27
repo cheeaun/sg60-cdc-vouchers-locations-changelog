@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "26 Nov 2026",
+  "lastUpdated": "27 Nov 2026",
   "locations": [
     {
       "id": "merchant_dc06fa4b-0839-445a-8725-8e4328e52407",
@@ -20702,6 +20702,26 @@
       "lastResetDate": "2025-05-14"
     },
     {
+      "id": "merchant_a1c127d2-1b60-4eb3-b065-14e8ffd38971",
+      "entityId": "merchant_a1c127d2-1b60-4eb3-b065-14e8ffd38971",
+      "name": "732 CHONG PANG HUAT CHICKEN WING",
+      "address": "732 Yishun Avenue 5,  S760732;",
+      "postalCode": "760732",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42903445415475,
+      "LON": 103.830336353437,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
+    },
+    {
       "id": "merchant_40c5ac06-4a4f-4667-8296-380ca4b77ccf",
       "entityId": "merchant_40c5ac06-4a4f-4667-8296-380ca4b77ccf",
       "name": "739 BEDOK BH ROASTED DELIGHT",
@@ -20900,6 +20920,26 @@
         }
       },
       "lastResetDate": "2025-05-28"
+    },
+    {
+      "id": "merchant_9b9746df-d343-46ec-a3c4-8ade20c671a3",
+      "entityId": "merchant_9b9746df-d343-46ec-a3c4-8ade20c671a3",
+      "name": "769 CHONG PANG HUAT CHICKEN WING",
+      "address": "769 Yishun Avenue 3,  S760769;",
+      "postalCode": "760769",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.42460205303196,
+      "LON": 103.833222391677,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_52869e08-0746-45a1-b200-6d7af376eb88",
@@ -39040,6 +39080,26 @@
         }
       },
       "lastResetDate": "2021-12-16"
+    },
+    {
+      "id": "merchant_65d07478-3053-4c6f-a438-2b6a6f2dc1ad",
+      "entityId": "merchant_65d07478-3053-4c6f-a438-2b6a6f2dc1ad",
+      "name": "AL ANSAR",
+      "address": "343 Jurong East Street 31 Yuhua Place Singapore 600343, #01-53A,  S600343;",
+      "postalCode": "600343",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34588339112666,
+      "LON": 103.731083620161,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_fae78b18-a089-4ab5-92cb-5000aef36a45",
@@ -96942,6 +97002,26 @@
       "lastResetDate": "2024-01-19"
     },
     {
+      "id": "merchant_a33b8d9b-b25a-4d55-957d-dddf89738e33",
+      "entityId": "merchant_a33b8d9b-b25a-4d55-957d-dddf89738e33",
+      "name": "CHONG PANG HUAT",
+      "address": "156 Yishun Street 11,  S760156;",
+      "postalCode": "760156",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.43188761932588,
+      "LON": 103.833567756794,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
+    },
+    {
       "id": "merchant_99885e80-837b-4ea0-b937-ad471ce0d23e",
       "entityId": "merchant_99885e80-837b-4ea0-b937-ad471ce0d23e",
       "name": "CHONG PANG HUAT @ LAU KA KOPITIAM",
@@ -140519,7 +140599,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2024-09-16"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_39fe15f5-562d-4a86-aaf4-30247df519ed",
@@ -155259,7 +155339,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-01-15"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_1caecd32-e8af-468a-9eaa-9a7d900fe6c1",
@@ -172499,7 +172579,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-04-20"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_4425a17c-68aa-4ce6-9e3b-8985a9ade24b",
@@ -235142,6 +235222,26 @@
       "lastResetDate": "2021-10-30"
     },
     {
+      "id": "merchant_17ed3045-2c01-4922-b4b7-db7257deb4f9",
+      "entityId": "merchant_17ed3045-2c01-4922-b4b7-db7257deb4f9",
+      "name": "JIN HAI WEI GOLDEN FISH SOUP",
+      "address": "631 Bedok Reservoir Road,  S470631;",
+      "postalCode": "470631",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.33295873271663,
+      "LON": 103.914941831215,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
+    },
+    {
       "id": "merchant_f239ed63-cc8e-4656-95e3-563444bd7f73",
       "entityId": "merchant_f239ed63-cc8e-4656-95e3-563444bd7f73",
       "name": "JIN HAIR N BEAUTY",
@@ -269819,7 +269919,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-27"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_2021385d-d1fb-44cf-802c-c4b3d6345d13",
@@ -272104,7 +272204,7 @@
     {
       "id": "merchant_d625ff45-281a-4018-b97f-2f48702fb7b2",
       "entityId": "merchant_d625ff45-281a-4018-b97f-2f48702fb7b2",
-      "name": "LASTBITE WESTERN (YISHUN)",
+      "name": "LASTBITE WESTERN (YPHC)",
       "address": "51 Yishun Avenue 11, #01-30,  S768867;",
       "postalCode": "768867",
       "type": "HAWKER_HEARTLAND_MERCHANT",
@@ -272119,7 +272219,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-11-25"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_ae0d2efc-d3b1-4834-b318-7971f4a496c6",
@@ -298779,7 +298879,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2021-10-28"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_8e6717a0-2cfb-4ce7-b8d0-d436de15e180",
@@ -319580,6 +319680,26 @@
         }
       },
       "lastResetDate": "2022-10-17"
+    },
+    {
+      "id": "merchant_057b405c-d927-4a32-a54a-de5c555d8ec0",
+      "entityId": "merchant_057b405c-d927-4a32-a54a-de5c555d8ec0",
+      "name": "MY BAN MIAN UBI350",
+      "address": "350 Ubi Avenue 1,  S400350;",
+      "postalCode": "400350",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.32580408523453,
+      "LON": 103.901292368319,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_52895a6c-c2b4-4215-a8ae-deb3a561c158",
@@ -370739,7 +370859,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-11-23"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_540505f6-92b9-4951-8f72-b6147766d50a",
@@ -414362,6 +414482,26 @@
       "lastResetDate": "2021-12-06"
     },
     {
+      "id": "merchant_cdd79715-842b-4a2d-a234-0d1314129705",
+      "entityId": "merchant_cdd79715-842b-4a2d-a234-0d1314129705",
+      "name": "SPORTSSHOP SG JE342",
+      "address": "342 Jurong East Street 31 Yuhua Place Singapore 600342, #01-05B,  S600342;",
+      "postalCode": "600342",
+      "type": "HAWKER_HEARTLAND_MERCHANT",
+      "LAT": 1.34605164016617,
+      "LON": 103.731420015421,
+      "filters": {
+        "vouchers": {
+          "supermarket": false,
+          "hawker_heartland_merchant": true
+        },
+        "secondary": {
+          "budgetmeal": false
+        }
+      },
+      "lastResetDate": "2026-11-26"
+    },
+    {
       "id": "merchant_70261c12-1afa-4635-83fe-636faaf25a87",
       "entityId": "merchant_70261c12-1afa-4635-83fe-636faaf25a87",
       "name": "SPRING  MEDICAL CLINIC ( OLD AIRPORT ROAD)",
@@ -440539,7 +440679,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-11-25"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_4e867152-2b24-41ed-9ff3-3a12514582e8",
@@ -466739,7 +466879,7 @@
           "budgetmeal": false
         }
       },
-      "lastResetDate": "2026-05-04"
+      "lastResetDate": "2026-11-26"
     },
     {
       "id": "merchant_332e4035-56fd-4b82-b138-73aa490b7b49",
