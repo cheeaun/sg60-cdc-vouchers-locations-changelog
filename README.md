@@ -13,6 +13,42 @@ The data is scraped daily at 8am SGT. Changes (additions, removals, and modifica
 
 <details open><summary>
 
+## 2026-11-28
+
+</summary>
+
+Total locations: 25,779 → 25,790
+
+- <details><summary>Added (11)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | FROSTED BY FANG | 4 Upper Aljunied Lane Joo Seng Green Singapore 360004, #01-02A,  S360004; | <span title="1.33354743210386,103.879065838406">1.33355, 103.87907</span> |
+  | JIN HO SPINACH SOUP (WLHC) | 202C Woodleigh Link, #01-27,  S363202; | <span title="1.33979101407355,103.872013773148">1.33979, 103.87201</span> |
+  | LAI! YI WAN MIAN | 226F Ang Mo Kio Avenue 1,  S566226; | <span title="1.36664703130241,103.839567160062">1.36665, 103.83957</span> |
+  | LIN JI YU TANG YU ZHOU | 221B Boon Lay Place, #01-129,  S642221; | <span title="1.34575695160082,103.713071862125">1.34576, 103.71307</span> |
+  | MIAN LAH | 107 Serangoon North Avenue 1,  S550107; | <span title="1.36990040378361,103.870224884545">1.36990, 103.87022</span> |
+  | SMOKE BELLY | 70 Zion Road, #01-28,  S247792; | <span title="1.29231113322494,103.830973312857">1.29231, 103.83097</span> |
+  | SRI MURUGAN@ AMK 447 | 447 Ang Mo Kio Avenue 10 Chong Boon Centre Singapore 560447, #01-1683,  S560447; | <span title="1.36750371103856,103.855897952833">1.36750, 103.85590</span> |
+  | TEMBUSU MEDICAL GROUP (BISHAN) PTE LTD | 150A Bishan Street 11 Hdb-bishan Singapore 571150, #01-173,  S571150; | <span title="1.34455983329518,103.855737419596">1.34456, 103.85574</span> |
+  | TEOCHEW DELIGHTS (BUANGKOK) | 991 Buangkok Link, ST01,  S530991; | <span title="1.38433426615655,103.881623070164">1.38433, 103.88162</span> |
+  | THAI MAMA'S KITCHEN (TPY 190) | 190 Lorong 6 Toa Payoh Care 24-hr Medical Centre Singapore 310190, #01-518,  S310190; | <span title="1.33297850244995,103.848832062985">1.33298, 103.84883</span> |
+  | XIN MEI CONGEE MP 84 | 84 Marine Parade Central, #01-012,  S440084; | <span title="1.30228520823379,103.906338595442">1.30229, 103.90634</span> |
+
+  </details>
+
+- <details><summary>Changed (1)</summary>
+
+  | Name | Address | Coordinates |
+  |---|---|---|
+  | <del>ROHANA INDIAN MUSLIM FOOD</del><br>AL SHUKR INDIAN MUSLIM FOODS | <del>805 Hougang Central, #01-116,  S530805;</del><br>327 Hougang Avenue 5, #01-156,  S530327; | <del title="1.37068333577328,103.894356609963">1.37068, 103.89436</del><br><span title="1.36830683201861,103.895987624672">1.36831, 103.89599</span> |
+
+  </details>
+
+</details>
+
+<details open><summary>
+
 ## 2026-11-27
 
 </summary>
